@@ -86,7 +86,7 @@ def import_monthly_summary(cur, df):
     print(f"   {len(rows)} meses importados. {skipped} ignorados.")
 def import_monthly_sales(cur, df):
     print("→ Importando vendas mensais...")
-    rows=[]; skipped=0
+    dedup={}; skipped=0
     for _,row in df.iterrows():
         asin=str(row.get("Código ASIN/ISBN") or row.get("ASIN","")).strip()
         if not asin or asin=="nan": skipped+=1; continue
@@ -94,8 +94,11 @@ def import_monthly_sales(cur, df):
         if not store_id: skipped+=1; continue
         periodo=parse_periodo_yyyymm(row.get("Data dos royalties"))
         if not periodo: skipped+=1; continue
-        rows.append((asin,store_id,periodo,
-            str(row.get("Tipo de transação","")).strip() or None,
+        tipo_transacao=str(row.get("Tipo de transação","")).strip() or None
+        moeda=str(row.get("Moeda","")).strip()
+        key=(asin,store_id,periodo,tipo_transacao,moeda)
+        dedup[key]=(asin,store_id,periodo,
+            tipo_transacao,
             str(row.get("Tipo de royalty","")).strip() or None,
             int(row.get("Unidades vendidas") or 0),
             int(row.get("Unidades reembolsadas") or 0),
@@ -104,7 +107,8 @@ def import_monthly_sales(cur, df):
             float(row.get("Preço de oferta médio sem impostos") or 0),
             float(row.get("Custo médio de entrega/fabricação") or 0),
             float(row.get("Royalties") or 0),
-            str(row.get("Moeda","")).strip()))
+            moeda)
+    rows=list(dedup.values())
     execute_values(cur,"""
         INSERT INTO monthly_sales (asin,store_id,periodo,tipo_transacao,tipo_royalty,
             unidades_vendidas,unidades_reembolso,unidades_liquidas,
@@ -115,7 +119,7 @@ def import_monthly_sales(cur, df):
     print(f"   {len(rows)} registros importados. {skipped} ignorados.")
 def import_daily_kenp(cur, df):
     print("→ Importando KENP diário...")
-    rows=[]; skipped=0
+    dedup={}; skipped=0
     for _,row in df.iterrows():
         asin=str(row.get("ASIN","")).strip()
         if not asin or asin=="nan": skipped+=1; continue
@@ -123,7 +127,8 @@ def import_daily_kenp(cur, df):
         if not store_id: skipped+=1; continue
         try: data=pd.to_datetime(row["Data"]).date()
         except: skipped+=1; continue
-        rows.append((asin,store_id,data,int(row.get("Kindle Edition Normalized Pages (KENP) lidas") or 0)))
+        dedup[(asin,store_id,data)]=(asin,store_id,data,int(row.get("Kindle Edition Normalized Pages (KENP) lidas") or 0))
+    rows=list(dedup.values())
     execute_values(cur,"""
         INSERT INTO daily_kenp (asin,store_id,data,kenp) VALUES %s
         ON CONFLICT (asin,store_id,data) DO UPDATE SET kenp=EXCLUDED.kenp
@@ -131,7 +136,7 @@ def import_daily_kenp(cur, df):
     print(f"   {len(rows)} registros importados. {skipped} ignorados.")
 def import_monthly_orders(cur, df):
     print("→ Importando pedidos mensais...")
-    rows=[]; skipped=0
+    dedup={}; skipped=0
     for _,row in df.iterrows():
         asin=str(row.get("ASIN","")).strip()
         if not asin or asin=="nan": skipped+=1; continue
@@ -139,9 +144,10 @@ def import_monthly_orders(cur, df):
         if not store_id: skipped+=1; continue
         periodo=parse_periodo_yyyymm(row.get("Data"))
         if not periodo: skipped+=1; continue
-        rows.append((asin,store_id,periodo,
+        dedup[(asin,store_id,periodo)]=(asin,store_id,periodo,
             int(row.get("Unidades pagas") or 0),
-            int(row.get("Unidades gratuitas") or 0)))
+            int(row.get("Unidades gratuitas") or 0))
+    rows=list(dedup.values())
     execute_values(cur,"""
         INSERT INTO monthly_orders (asin,store_id,periodo,unidades_pagas,unidades_gratuitas)
         VALUES %s ON CONFLICT (asin,store_id,periodo) DO UPDATE SET
@@ -150,7 +156,7 @@ def import_monthly_orders(cur, df):
     print(f"   {len(rows)} registros importados. {skipped} ignorados.")
 def import_daily_orders(cur, df):
     print("→ Importando pedidos diários...")
-    rows=[]; skipped=0
+    dedup={}; skipped=0
     for _,row in df.iterrows():
         asin=str(row.get("ASIN","")).strip()
         if not asin or asin=="nan": skipped+=1; continue
@@ -158,9 +164,10 @@ def import_daily_orders(cur, df):
         if not store_id: skipped+=1; continue
         try: data=pd.to_datetime(row["Data"]).date()
         except: skipped+=1; continue
-        rows.append((asin,store_id,data,
+        dedup[(asin,store_id,data)]=(asin,store_id,data,
             int(row.get("Unidades pagas") or 0),
-            int(row.get("Unidades gratuitas") or 0)))
+            int(row.get("Unidades gratuitas") or 0))
+    rows=list(dedup.values())
     execute_values(cur,"""
         INSERT INTO daily_orders (asin,store_id,data,unidades_pagas,unidades_gratuitas)
         VALUES %s ON CONFLICT (asin,store_id,data) DO UPDATE SET
