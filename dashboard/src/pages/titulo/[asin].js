@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import useSWR from 'swr'
@@ -12,6 +12,145 @@ import {
   Card, BSRBadge, Stat, Badge, MiniBar,
   Loading, PageError, Table, TOOLTIP_STYLE, bsrColor,
 } from '../../components/ui'
+
+// ── AI Card ───────────────────────────────────────────────────────────────────
+function AiCard({ asin }) {
+  const [analise, setAnalise]   = useState(null)
+  const [loading, setLoading]   = useState(false)
+  const [error, setError]       = useState(null)
+  const [geradoEm, setGeradoEm] = useState(null)
+
+  const analisar = useCallback(async () => {
+    setLoading(true)
+    setError(null)
+    try {
+      const res = await api.analisarTitulo(asin)
+      setAnalise(res)
+      setGeradoEm(res.gerado_em)
+    } catch (e) {
+      setError(e.message)
+    } finally {
+      setLoading(false)
+    }
+  }, [asin])
+
+  const confColor = { alta: 'var(--green)', media: 'var(--yellow)', baixa: 'var(--red)' }
+
+  return (
+    <Card style={{ marginBottom: '1.5rem', borderColor: analise ? 'var(--gold-dim)' : 'var(--border)' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: analise ? '1.25rem' : 0 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.625rem' }}>
+          <span style={{ fontSize: '0.95rem', fontWeight: 600 }}>Análise Claude AI</span>
+          {analise && (
+            <span style={{ fontSize: '0.7rem', color: confColor[analise.confianca] ?? 'var(--text-dim)' }}>
+              confiança {analise.confianca}
+            </span>
+          )}
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+          {geradoEm && (
+            <span style={{ fontSize: '0.68rem', color: 'var(--text-faint)' }}>
+              {new Date(geradoEm).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short' })}
+            </span>
+          )}
+          <button
+            onClick={analisar}
+            disabled={loading}
+            style={{
+              padding: '0.4rem 1rem',
+              borderRadius: 'var(--radius)',
+              border: '1px solid var(--gold-dim)',
+              background: loading ? 'transparent' : 'var(--gold-bg)',
+              color: loading ? 'var(--text-dim)' : 'var(--gold)',
+              cursor: loading ? 'default' : 'pointer',
+              fontSize: '0.8rem',
+              fontWeight: 600,
+              transition: 'all .15s',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.4rem',
+            }}
+          >
+            {loading && (
+              <svg width="14" height="14" viewBox="0 0 14 14" style={{ animation: 'spin 1s linear infinite' }}>
+                <circle cx="7" cy="7" r="5.5" fill="none" stroke="var(--gold)" strokeWidth="1.5" strokeDasharray="24 8" />
+              </svg>
+            )}
+            {loading ? 'Analisando…' : analise ? 'Reanalisar' : '✦ Analisar com IA'}
+          </button>
+        </div>
+      </div>
+
+      {error && (
+        <div style={{ color: 'var(--red)', fontSize: '0.8rem', marginTop: '0.75rem' }}>{error}</div>
+      )}
+
+      {analise && (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
+          {/* Diagnóstico */}
+          <div style={{
+            padding: '1rem',
+            background: 'var(--bg)',
+            borderRadius: 'var(--radius)',
+            borderLeft: '3px solid var(--gold)',
+            fontSize: '0.875rem',
+            lineHeight: 1.6,
+            color: 'var(--text)',
+          }}>
+            {analise.diagnostico}
+          </div>
+
+          {/* Alerta */}
+          {analise.alerta && (
+            <div style={{
+              padding: '0.75rem 1rem',
+              background: 'rgba(217,80,80,.08)',
+              borderRadius: 'var(--radius)',
+              borderLeft: '3px solid var(--red)',
+              color: 'var(--red)',
+              fontSize: '0.85rem',
+            }}>
+              ⚠ {analise.alerta}
+            </div>
+          )}
+
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.25rem' }}>
+            {/* Oportunidades */}
+            <div>
+              <div style={{ fontSize: '0.72rem', color: 'var(--text-dim)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.625rem' }}>
+                Oportunidades
+              </div>
+              <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                {analise.oportunidades.map((o, i) => (
+                  <li key={i} style={{ display: 'flex', gap: '0.5rem', fontSize: '0.85rem', lineHeight: 1.4 }}>
+                    <span style={{ color: 'var(--green)', flexShrink: 0, marginTop: '0.1em' }}>◆</span>
+                    {o}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Ações */}
+            <div>
+              <div style={{ fontSize: '0.72rem', color: 'var(--text-dim)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.625rem' }}>
+                Ações recomendadas
+              </div>
+              <ol style={{ paddingLeft: '1.1rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                {analise.acoes.map((a, i) => (
+                  <li key={i} style={{ fontSize: '0.85rem', lineHeight: 1.4, color: 'var(--text)' }}>{a}</li>
+                ))}
+              </ol>
+            </div>
+          </div>
+
+          <div style={{ fontSize: '0.68rem', color: 'var(--text-faint)', textAlign: 'right' }}>
+            {analise.modelo}
+          </div>
+        </div>
+      )}
+    </Card>
+  )
+}
 
 // ── Consts ────────────────────────────────────────────────────────────────────
 const PERIODOS = [
@@ -306,6 +445,9 @@ export default function TituloPerfil() {
           </Card>
         </div>
       )}
+
+      {/* IA */}
+      <AiCard asin={asin} />
 
       {/* Tabela 12 meses */}
       {vendasData.length > 0 && (
