@@ -1,0 +1,130 @@
+{
+  "name": "KindleRanker — Relatório Semanal",
+  "nodes": [
+    {
+      "id": "cron-segunda",
+      "name": "Toda segunda — 9h",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.1,
+      "position": [240, 340],
+      "parameters": {
+        "rule": {
+          "interval": [
+            { "field": "cronExpression", "expression": "0 9 * * 1" }
+          ]
+        }
+      }
+    },
+    {
+      "id": "buscar-titulos",
+      "name": "Buscar catálogo completo",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [460, 240],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $env.KINDLERANKER_API_URL }}/api/titles",
+        "options": { "timeout": 20000 }
+      }
+    },
+    {
+      "id": "buscar-calibracao",
+      "name": "Buscar calibração",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [460, 440],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $env.KINDLERANKER_API_URL }}/api/calibracao",
+        "options": { "timeout": 10000 }
+      }
+    },
+    {
+      "id": "montar-relatorio",
+      "name": "Compilar relatório",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [700, 340],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "// Coleta os dados de ambos os nós anteriores\nconst titulos = $('Buscar catálogo completo').all().map(i => i.json);\nconst calibracao = $('Buscar calibração').all().map(i => i.json);\n\n// Ordena por BSR\nconst ativos = titulos.filter(t => t.bsr_geral);\nativos.sort((a, b) => a.bsr_geral - b.bsr_geral);\n\nconst top5       = ativos.slice(0, 5);\nconst bottom5    = ativos.slice(-5).reverse();\nconst criticos   = ativos.filter(t => t.bsr_geral > 100_000);\nconst total      = titulos.length;\nconst semBsr     = titulos.filter(t => !t.bsr_geral).length;\n\n// Métricas financeiras agregadas\nconst totalVendas    = titulos.reduce((s, t) => s + (t.vendas_mes || 0), 0);\nconst totalKenp      = titulos.reduce((s, t) => s + (t.kenp_mes || 0), 0);\nconst totalRoyalties = titulos.reduce((s, t) => s + (t.royalties_mes || 0), 0);\n\n// Estimativa de vendas via calibração (soma para todos)\nfunction estimarVendas(bsr, cal) {\n  if (!bsr || !cal.length) return null;\n  const faixa = cal.find(f => f.bsr_min <= bsr && f.bsr_max >= bsr);\n  return faixa ? Math.round(faixa.vendas_diarias_media * 30) : null;\n}\n\n// BSR médio do portfólio\nconst bsrMedio = ativos.length\n  ? Math.round(ativos.reduce((s, t) => s + t.bsr_geral, 0) / ativos.length)\n  : null;\n\n// Tier distribution\nconst tiers = {\n  top:    ativos.filter(t => t.bsr_geral < 1_000).length,\n  otimo:  ativos.filter(t => t.bsr_geral >= 1_000  && t.bsr_geral < 5_000).length,\n  bom:    ativos.filter(t => t.bsr_geral >= 5_000  && t.bsr_geral < 20_000).length,\n  ok:     ativos.filter(t => t.bsr_geral >= 20_000 && t.bsr_geral < 100_000).length,\n  ruim:   ativos.filter(t => t.bsr_geral >= 100_000).length,\n};\n\nconst semana = (() => {\n  const d = new Date();\n  const inicio = new Date(d);\n  inicio.setDate(d.getDate() - 7);\n  return `${inicio.toLocaleDateString('pt-BR')} a ${d.toLocaleDateString('pt-BR')}`;\n})();\n\nreturn [{\n  json: {\n    semana,\n    total,\n    sem_bsr: semBsr,\n    total_vendas: totalVendas,\n    total_kenp: totalKenp,\n    total_royalties: totalRoyalties,\n    bsr_medio: bsrMedio,\n    tiers,\n    top5,\n    bottom5,\n    criticos: criticos.length,\n    titulos_ativos: ativos.length,\n  }\n}];"
+      }
+    },
+    {
+      "id": "html-relatorio",
+      "name": "Gerar HTML do relatório",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [940, 340],
+      "parameters": {
+        "jsCode": "const d = $input.first().json;\n\nfunction bsrColor(bsr) {\n  if (!bsr) return '#777';\n  if (bsr < 1000)   return '#4caf7d';\n  if (bsr < 5000)   return '#8ec94a';\n  if (bsr < 20000)  return '#d4a017';\n  if (bsr < 100000) return '#e07830';\n  return '#d95050';\n}\n\nconst topRows = d.top5.map(t =>\n  `<tr>\n    <td style=\"padding:6px 8px\">${t.titulo?.slice(0,45) ?? t.asin}…</td>\n    <td style=\"padding:6px 8px;color:${bsrColor(t.bsr_geral)};font-weight:700;text-align:right\">#${(t.bsr_geral||0).toLocaleString('pt-BR')}</td>\n    <td style=\"padding:6px 8px;text-align:right\">${(t.vendas_mes||0).toLocaleString('pt-BR')}</td>\n    <td style=\"padding:6px 8px;color:#4caf7d;text-align:right\">${t.royalties_mes ? 'R$ ' + t.royalties_mes.toLocaleString('pt-BR',{minimumFractionDigits:2}) : '—'}</td>\n  </tr>`\n).join('');\n\nconst bottomRows = d.bottom5.map(t =>\n  `<tr>\n    <td style=\"padding:6px 8px;color:#aaa\">${t.titulo?.slice(0,45) ?? t.asin}…</td>\n    <td style=\"padding:6px 8px;color:${bsrColor(t.bsr_geral)};font-weight:700;text-align:right\">#${(t.bsr_geral||0).toLocaleString('pt-BR')}</td>\n    <td style=\"padding:6px 8px;text-align:right\">${(t.vendas_mes||0).toLocaleString('pt-BR')}</td>\n    <td style=\"padding:6px 8px;text-align:right\">—</td>\n  </tr>`\n).join('');\n\nconst html = `<!DOCTYPE html>\n<html><head><meta charset=\"utf-8\"><title>Relatório KindleRanker</title></head>\n<body style=\"background:#0a0a0a;color:#e8e8e8;font-family:sans-serif;max-width:680px;margin:0 auto;padding:24px\">\n\n<div style=\"border-bottom:2px solid #c9a84c;padding-bottom:12px;margin-bottom:24px\">\n  <h1 style=\"color:#c9a84c;margin:0;font-size:20px\">📊 KindleRanker BR — Relatório Semanal</h1>\n  <p style=\"color:#777;margin:4px 0 0;font-size:13px\">${d.semana}</p>\n</div>\n\n<!-- KPIs -->\n<div style=\"display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:24px\">\n  <div style=\"background:#111;border:1px solid #222;border-radius:8px;padding:14px;text-align:center\">\n    <div style=\"color:#777;font-size:11px;text-transform:uppercase;letter-spacing:.06em\">Títulos ativos</div>\n    <div style=\"font-size:24px;font-weight:700;color:#e8e8e8\">${d.titulos_ativos}</div>\n  </div>\n  <div style=\"background:#111;border:1px solid #222;border-radius:8px;padding:14px;text-align:center\">\n    <div style=\"color:#777;font-size:11px;text-transform:uppercase;letter-spacing:.06em\">Vendas/mês</div>\n    <div style=\"font-size:24px;font-weight:700;color:#c9a84c\">${d.total_vendas.toLocaleString('pt-BR')}</div>\n  </div>\n  <div style=\"background:#111;border:1px solid #222;border-radius:8px;padding:14px;text-align:center\">\n    <div style=\"color:#777;font-size:11px;text-transform:uppercase;letter-spacing:.06em\">Royalties/mês</div>\n    <div style=\"font-size:24px;font-weight:700;color:#4caf7d\">R$ ${d.total_royalties.toLocaleString('pt-BR',{minimumFractionDigits:2})}</div>\n  </div>\n</div>\n\n<!-- Distribuição de tiers -->\n<div style=\"background:#111;border:1px solid #222;border-radius:8px;padding:16px;margin-bottom:24px\">\n  <h3 style=\"color:#c9a84c;margin:0 0 12px;font-size:13px;text-transform:uppercase;letter-spacing:.06em\">Distribuição de BSR</h3>\n  <div style=\"display:flex;gap:8px;flex-wrap:wrap\">\n    <span style=\"background:#4caf7d22;color:#4caf7d;border:1px solid #4caf7d33;padding:4px 10px;border-radius:999px;font-size:12px\">Top 1K: ${d.tiers.top}</span>\n    <span style=\"background:#8ec94a22;color:#8ec94a;border:1px solid #8ec94a33;padding:4px 10px;border-radius:999px;font-size:12px\">Ótimo: ${d.tiers.otimo}</span>\n    <span style=\"background:#d4a01722;color:#d4a017;border:1px solid #d4a01733;padding:4px 10px;border-radius:999px;font-size:12px\">Bom: ${d.tiers.bom}</span>\n    <span style=\"background:#e0783022;color:#e07830;border:1px solid #e0783033;padding:4px 10px;border-radius:999px;font-size:12px\">Ok: ${d.tiers.ok}</span>\n    <span style=\"background:#d9505022;color:#d95050;border:1px solid #d9505033;padding:4px 10px;border-radius:999px;font-size:12px\">Crítico: ${d.tiers.ruim}</span>\n  </div>\n  <p style=\"color:#777;font-size:12px;margin:10px 0 0\">BSR médio do portfólio: <strong style=\"color:#e8e8e8\">#${(d.bsr_medio||0).toLocaleString('pt-BR')}</strong> — KENP total: <strong style=\"color:#e8e8e8\">${d.total_kenp.toLocaleString('pt-BR')}</strong></p>\n</div>\n\n<!-- Top 5 -->\n<h3 style=\"color:#c9a84c;font-size:13px;text-transform:uppercase;letter-spacing:.06em\">🏆 Top 5 Performers</h3>\n<table style=\"width:100%;border-collapse:collapse;margin-bottom:24px;font-size:13px\">\n  <thead><tr style=\"border-bottom:1px solid #222\">\n    <th style=\"padding:6px 8px;text-align:left;color:#777;font-weight:500\">Título</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">BSR</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">Vendas</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">Royalties</th>\n  </tr></thead>\n  <tbody>${topRows}</tbody>\n</table>\n\n<!-- Bottom 5 -->\n${d.bottom5.length > 0 ? `<h3 style=\"color:#e07830;font-size:13px;text-transform:uppercase;letter-spacing:.06em\">⚠️ Precisam de atenção</h3>\n<table style=\"width:100%;border-collapse:collapse;margin-bottom:24px;font-size:13px\">\n  <thead><tr style=\"border-bottom:1px solid #222\">\n    <th style=\"padding:6px 8px;text-align:left;color:#777;font-weight:500\">Título</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">BSR</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">Vendas</th>\n    <th style=\"padding:6px 8px;text-align:right;color:#777;font-weight:500\">Royalties</th>\n  </tr></thead>\n  <tbody>${bottomRows}</tbody>\n</table>` : ''}\n\n<div style=\"text-align:center;padding-top:16px;border-top:1px solid #222\">\n  <a href=\"${process.env.DASHBOARD_URL || 'http://localhost:3000'}\" style=\"background:#c9a84c;color:#000;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:700;font-size:14px\">Abrir Dashboard →</a>\n</div>\n\n</body></html>`;\n\nconst telegramMsg = `📊 *KindleRanker — Relatório Semanal*\\n` +\n  `_${d.semana}_\\n\\n` +\n  `📚 Títulos ativos: *${d.titulos_ativos}*\\n` +\n  `💰 Royalties/mês: *R$ ${d.total_royalties.toLocaleString('pt-BR',{minimumFractionDigits:2})}*\\n` +\n  `📈 Vendas/mês: *${d.total_vendas.toLocaleString('pt-BR')}* un.\\n` +\n  `📖 KENP/mês: *${d.total_kenp.toLocaleString('pt-BR')}*\\n\\n` +\n  `🏆 Top BSR: #${((d.top5[0]||{}).bsr_geral||0).toLocaleString('pt-BR')}\\n` +\n  (d.criticos > 0 ? `⚠️ Críticos (BSR>100k): *${d.criticos}*\\n` : '') +\n  `\\n🔗 ${process.env.DASHBOARD_URL || 'http://localhost:3000'}`;\n\nreturn [{ json: { html, telegramMsg, ...d } }];"
+      }
+    },
+    {
+      "id": "telegram-relatorio",
+      "name": "Telegram — Resumo semanal",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [1180, 240],
+      "parameters": {
+        "chatId": "={{ $env.TELEGRAM_CHAT_ID }}",
+        "text": "={{ $json.telegramMsg }}",
+        "additionalFields": {
+          "parse_mode": "Markdown",
+          "disable_web_page_preview": true
+        }
+      },
+      "credentials": {
+        "telegramApi": { "id": "telegram-bot-cred", "name": "Telegram Bot KindleRanker" }
+      }
+    },
+    {
+      "id": "email-relatorio",
+      "name": "Email — Relatório HTML completo",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2.1,
+      "position": [1180, 440],
+      "parameters": {
+        "toEmail": "={{ $env.RELATORIO_EMAIL }}",
+        "subject": "=📊 KindleRanker — Semana {{ $json.semana }}  |  R$ {{ $json.total_royalties.toLocaleString('pt-BR',{minimumFractionDigits:2}) }}  |  {{ $json.total_vendas.toLocaleString('pt-BR') }} vendas",
+        "emailFormat": "html",
+        "html": "={{ $json.html }}"
+      },
+      "credentials": {
+        "smtp": { "id": "smtp-cred", "name": "SMTP KindleRanker" }
+      }
+    }
+  ],
+  "connections": {
+    "Toda segunda — 9h": {
+      "main": [[
+        { "node": "Buscar catálogo completo", "type": "main", "index": 0 },
+        { "node": "Buscar calibração",        "type": "main", "index": 0 }
+      ]]
+    },
+    "Buscar catálogo completo": {
+      "main": [[{ "node": "Compilar relatório", "type": "main", "index": 0 }]]
+    },
+    "Buscar calibração": {
+      "main": [[{ "node": "Compilar relatório", "type": "main", "index": 0 }]]
+    },
+    "Compilar relatório": {
+      "main": [[{ "node": "Gerar HTML do relatório", "type": "main", "index": 0 }]]
+    },
+    "Gerar HTML do relatório": {
+      "main": [[
+        { "node": "Telegram — Resumo semanal",       "type": "main", "index": 0 },
+        { "node": "Email — Relatório HTML completo", "type": "main", "index": 0 }
+      ]]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "tags": [{ "name": "kindleranker" }],
+  "_meta": {
+    "_comment": "CONFIGURAÇÃO: Em n8n → Credentials, crie 'Telegram Bot KindleRanker' e 'SMTP KindleRanker'. O nó 'Compilar relatório' usa $() para acessar saídas de múltiplos nós em paralelo."
+  }
+}
