@@ -1,0 +1,22 @@
+[Unit]
+Description=n8n
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+Environment=N8N_PORT=5678
+Environment=N8N_PROTOCOL=http
+Environment=WEBHOOK_URL=http://SEU_IP_AQUI:5678
+Environment=KINDLERANKER_API_URL=http://localhost:8000
+Environment=DASHBOARD_URL=https://app.kindleranker.com.br
+Environment=ALERTA_EMAIL=seu@email.com
+Environment=RELATORIO_EMAIL=seu@email.com
+Environment=TELEGRAM_CHAT_ID=seu_chat_id
+ExecStart=/usr/bin/n8n start
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
