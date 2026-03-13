@@ -22,6 +22,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from ai import router as ai_router
+from stripe_routes import router as stripe_router
 
 logging.basicConfig(
     level=logging.INFO,
@@ -82,7 +83,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(ai_router, prefix="/ai", tags=["IA"])
+app.include_router(ai_router,     prefix="/ai",     tags=["IA"])
+app.include_router(stripe_router, prefix="/stripe", tags=["Stripe"])
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 STORE_CODIGO = "Amazon.com.br"
