@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Fundo preto -->
+  <rect width="32" height="32" fill="#000000"/>
+  <!-- R branco -->
+  <text
+    x="1"
+    y="25"
+    font-family="'Poppins', 'Arial Black', sans-serif"
+    font-weight="900"
+    font-size="22"
+    fill="#FFFFFF"
+    letter-spacing="-1"
+  >R</text>
+  <!-- M vermelho -->
+  <text
+    x="15"
+    y="25"
+    font-family="'Poppins', 'Arial Black', sans-serif"
+    font-weight="900"
+    font-size="22"
+    fill="#F64B3D"
+    letter-spacing="-1"
+  >M</text>
+</svg>

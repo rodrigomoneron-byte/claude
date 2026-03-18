@@ -1,0 +1,691 @@
+/*
+Theme Name: Kadence Child — Rodrigo Moneron
+Theme URI: https://rodrigomoneron.blog
+Description: Tema filho do Kadence com identidade visual da marca Rodrigo Moneron. Dark mode absoluto, cinematográfico, tipografia editorial.
+Author: Rodrigo Moneron
+Author URI: https://rodrigomoneron.blog
+Template: kadence
+Version: 1.0.0
+Text Domain: kadence-child-rm
+*/
+
+/* ============================================================
+   VARIÁVEIS DE MARCA
+   ============================================================ */
+:root {
+  --rm-black:   #000000;
+  --rm-white:   #FFFFFF;
+  --rm-red:     #F64B3D;
+  --rm-purple:  #7B2FBE;
+  --rm-gray-1:  #0D0D0D;
+  --rm-gray-2:  #1A1A1A;
+  --rm-gray-3:  #2A2A2A;
+  --rm-gray-4:  #555555;
+  --rm-gray-5:  #888888;
+
+  --rm-font-title: 'Poppins', sans-serif;
+  --rm-font-body:  'Lora', serif;
+
+  --rm-line-h: 1.7;
+  --rm-max-w:  740px;
+}
+
+/* ============================================================
+   RESET GLOBAL — DARK MODE ABSOLUTO
+   ============================================================ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--rm-black);
+  color: var(--rm-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--rm-black) !important;
+  color: var(--rm-white) !important;
+  font-family: var(--rm-font-body);
+  font-size: 1.125rem;
+  line-height: var(--rm-line-h);
+}
+
+/* ============================================================
+   TIPOGRAFIA GLOBAL
+   ============================================================ */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--rm-font-title) !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  color: var(--rm-white) !important;
+  margin-bottom: 0.75em;
+}
+
+h1 { font-size: clamp(2.2rem, 5vw, 3.5rem); }
+h2 { font-size: clamp(1.7rem, 3.5vw, 2.5rem); }
+h3 { font-size: clamp(1.3rem, 2.5vw, 1.8rem); }
+h4 { font-size: 1.25rem; }
+
+p {
+  font-family: var(--rm-font-body);
+  font-size: 1.125rem;
+  line-height: var(--rm-line-h);
+  color: var(--rm-white);
+  margin-bottom: 1.25em;
+}
+
+p em,
+p i {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  color: var(--rm-gray-5);
+}
+
+strong, b {
+  font-weight: 700;
+  color: var(--rm-white);
+}
+
+a {
+  color: var(--rm-red);
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+blockquote {
+  border-left: 3px solid var(--rm-purple);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background: var(--rm-gray-2);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--rm-gray-5);
+}
+
+blockquote p {
+  color: var(--rm-gray-5);
+  margin-bottom: 0;
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.site-header,
+#masthead,
+.kadence-header,
+header.wp-block-template-part {
+  background-color: var(--rm-black) !important;
+  border-bottom: 1px solid var(--rm-gray-2) !important;
+}
+
+.site-header a,
+.site-header .header-navigation a {
+  color: var(--rm-white) !important;
+  font-family: var(--rm-font-title);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-header a:hover {
+  color: var(--rm-red) !important;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.site-footer,
+#colophon,
+footer.wp-block-template-part {
+  background-color: var(--rm-gray-1) !important;
+  border-top: 1px solid var(--rm-gray-2) !important;
+  color: var(--rm-gray-4) !important;
+}
+
+.site-footer a {
+  color: var(--rm-gray-5) !important;
+}
+
+.site-footer a:hover {
+  color: var(--rm-white) !important;
+}
+
+/* ============================================================
+   LAYOUT PRINCIPAL
+   ============================================================ */
+.wp-site-blocks,
+.site-content,
+#page,
+.content-area,
+main {
+  background-color: var(--rm-black) !important;
+}
+
+.entry-content,
+.wp-block-post-content {
+  max-width: var(--rm-max-w);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ============================================================
+   BOTÕES E CTAs
+   ============================================================ */
+.wp-block-button__link,
+.button,
+button,
+input[type="submit"] {
+  background-color: var(--rm-red) !important;
+  color: var(--rm-white) !important;
+  font-family: var(--rm-font-title) !important;
+  font-weight: 700 !important;
+  font-size: 0.9rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 1rem 2.5rem !important;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.wp-block-button__link:hover,
+.button:hover,
+button:hover,
+input[type="submit"]:hover {
+  background-color: #d93a2e !important;
+  transform: translateY(-1px);
+}
+
+/* Variante outline */
+.wp-block-button.is-style-outline .wp-block-button__link {
+  background-color: transparent !important;
+  border: 2px solid var(--rm-white) !important;
+  color: var(--rm-white) !important;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+  background-color: var(--rm-white) !important;
+  color: var(--rm-black) !important;
+}
+
+/* ============================================================
+   FORMULÁRIOS
+   ============================================================ */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+  background-color: var(--rm-gray-2) !important;
+  border: 1px solid var(--rm-gray-3) !important;
+  color: var(--rm-white) !important;
+  font-family: var(--rm-font-body) !important;
+  padding: 0.85rem 1rem !important;
+  border-radius: 0 !important;
+  width: 100%;
+  transition: border-color 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  border-color: var(--rm-purple) !important;
+  outline: none !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--rm-gray-4) !important;
+}
+
+/* ============================================================
+   SEPARADORES / DIVIDERS
+   ============================================================ */
+hr,
+.wp-block-separator {
+  border: none !important;
+  border-top: 1px solid var(--rm-gray-3) !important;
+  margin: 3rem 0 !important;
+}
+
+/* ============================================================
+   LOGO RM — TIPOGRÁFICO
+   ============================================================ */
+.site-logo,
+.custom-logo-link,
+.rm-logo {
+  font-family: var(--rm-font-title) !important;
+  font-weight: 700 !important;
+  font-size: 1.5rem !important;
+  color: var(--rm-white) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.rm-logo span.accent {
+  color: var(--rm-red);
+}
+
+/* ============================================================
+   SEÇÕES DA HOMEPAGE
+   ============================================================ */
+
+/* Hero */
+.rm-hero {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 6rem 1.5rem;
+  background-color: var(--rm-black);
+  position: relative;
+}
+
+.rm-hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--rm-gray-3), transparent);
+}
+
+.rm-hero__inner {
+  max-width: 860px;
+}
+
+.rm-hero__eyebrow {
+  display: inline-block;
+  font-family: var(--rm-font-title);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rm-red);
+  margin-bottom: 1.5rem;
+}
+
+.rm-hero__headline {
+  font-size: clamp(2.5rem, 6vw, 4.5rem) !important;
+  line-height: 1.05 !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.rm-hero__headline em {
+  font-style: italic;
+  color: var(--rm-purple);
+  font-family: 'Lora', serif !important;
+  text-transform: none;
+  font-size: 0.9em;
+}
+
+.rm-hero__subtitle {
+  font-size: 1.25rem;
+  color: var(--rm-gray-5);
+  max-width: 600px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+/* Método L.I.V.R.O */
+.rm-method {
+  padding: 6rem 1.5rem;
+  background-color: var(--rm-gray-1);
+}
+
+.rm-method__header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 4rem;
+}
+
+.rm-method__tag {
+  display: inline-block;
+  font-family: var(--rm-font-title);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--rm-purple);
+  margin-bottom: 1rem;
+}
+
+.rm-method__pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.rm-pillar {
+  background-color: var(--rm-gray-2);
+  padding: 2.5rem 2rem;
+  position: relative;
+  transition: background-color 0.2s ease;
+}
+
+.rm-pillar:hover {
+  background-color: var(--rm-gray-3);
+}
+
+.rm-pillar__letter {
+  font-family: var(--rm-font-title);
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--rm-red);
+  line-height: 1;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.rm-pillar__word {
+  font-family: var(--rm-font-title);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--rm-gray-5);
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.rm-pillar__desc {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--rm-gray-5);
+  margin-bottom: 0;
+}
+
+/* Prova Social */
+.rm-proof {
+  padding: 6rem 1.5rem;
+  background-color: var(--rm-black);
+}
+
+.rm-proof__inner {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.rm-proof__number {
+  font-family: var(--rm-font-title);
+  font-size: clamp(3rem, 8vw, 6rem);
+  font-weight: 700;
+  color: var(--rm-white);
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+
+.rm-proof__number span {
+  color: var(--rm-red);
+}
+
+.rm-proof__label {
+  font-family: var(--rm-font-title);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rm-gray-5);
+  margin-bottom: 3rem;
+}
+
+.rm-proof__quote {
+  font-size: 1.4rem;
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--rm-white);
+  margin-bottom: 1.5rem;
+  font-family: 'Lora', serif;
+}
+
+.rm-proof__author {
+  font-family: var(--rm-font-title);
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--rm-gray-5);
+}
+
+/* Captura Beehiiv */
+.rm-capture {
+  padding: 6rem 1.5rem;
+  background-color: var(--rm-gray-1);
+  text-align: center;
+}
+
+.rm-capture__inner {
+  max-width: 580px;
+  margin: 0 auto;
+}
+
+.rm-capture h2 {
+  margin-bottom: 0.75rem;
+}
+
+.rm-capture__sub {
+  color: var(--rm-gray-5);
+  margin-bottom: 2rem;
+}
+
+.rm-capture__form iframe,
+.rm-capture__form .beehiiv-embed {
+  width: 100%;
+  border: none;
+  background: transparent;
+}
+
+/* ============================================================
+   TEMPLATE DE POST — SINGLE
+   ============================================================ */
+.rm-post {
+  background-color: var(--rm-black);
+}
+
+.rm-post__header {
+  padding: 5rem 1.5rem 3rem;
+  max-width: var(--rm-max-w);
+  margin: 0 auto;
+}
+
+.rm-post__category {
+  display: inline-block;
+  font-family: var(--rm-font-title);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rm-red);
+  margin-bottom: 1rem;
+}
+
+.rm-post__title {
+  font-size: clamp(1.8rem, 4vw, 3rem) !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.rm-post__meta {
+  font-size: 0.8rem;
+  color: var(--rm-gray-5);
+  font-family: var(--rm-font-title);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.rm-post__body {
+  max-width: var(--rm-max-w);
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+}
+
+.rm-post__body p {
+  margin-bottom: 1.5em;
+}
+
+.rm-post__body h2 {
+  margin-top: 3rem;
+}
+
+.rm-post__body h3 {
+  margin-top: 2rem;
+}
+
+/* CTA do Post */
+.rm-post__cta {
+  background-color: var(--rm-gray-1);
+  border: 1px solid var(--rm-gray-3);
+  border-left: 4px solid var(--rm-purple);
+  padding: 2.5rem 2rem;
+  margin: 4rem auto;
+  max-width: var(--rm-max-w);
+  text-align: center;
+}
+
+.rm-post__cta-eyebrow {
+  display: block;
+  font-family: var(--rm-font-title);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rm-purple);
+  margin-bottom: 1rem;
+}
+
+.rm-post__cta h3 {
+  font-size: 1.4rem !important;
+  margin-bottom: 0.75rem !important;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.rm-post__cta p {
+  font-size: 1rem;
+  color: var(--rm-gray-5);
+  margin-bottom: 1.5rem;
+}
+
+.rm-post__cta-btn {
+  display: inline-block;
+  background-color: var(--rm-red);
+  color: var(--rm-white);
+  font-family: var(--rm-font-title);
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.9rem 2rem;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.rm-post__cta-btn:hover {
+  background-color: #d93a2e;
+  color: var(--rm-white);
+}
+
+/* ============================================================
+   LISTAGEM DE POSTS
+   ============================================================ */
+.rm-archive__item {
+  border-bottom: 1px solid var(--rm-gray-2);
+  padding: 2.5rem 0;
+}
+
+.rm-archive__item:last-child {
+  border-bottom: none;
+}
+
+.rm-archive__cat {
+  font-family: var(--rm-font-title);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rm-red);
+  margin-bottom: 0.5rem;
+}
+
+.rm-archive__title {
+  font-size: 1.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.rm-archive__title a {
+  color: var(--rm-white) !important;
+}
+
+.rm-archive__title a:hover {
+  color: var(--rm-red) !important;
+}
+
+.rm-archive__excerpt {
+  font-size: 1rem;
+  color: var(--rm-gray-5);
+  margin-bottom: 1rem;
+}
+
+/* ============================================================
+   UTILITIES
+   ============================================================ */
+.rm-section-tag {
+  display: inline-block;
+  font-family: var(--rm-font-title);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--rm-purple);
+  margin-bottom: 1rem;
+}
+
+.rm-red  { color: var(--rm-red) !important; }
+.rm-purple { color: var(--rm-purple) !important; }
+.rm-gray { color: var(--rm-gray-5) !important; }
+
+.rm-divider {
+  width: 40px;
+  height: 3px;
+  background-color: var(--rm-red);
+  margin: 1.5rem auto;
+}
+
+/* ============================================================
+   RESPONSIVO
+   ============================================================ */
+@media (max-width: 768px) {
+  .rm-method__pillars {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .rm-hero {
+    min-height: 75vh;
+    padding: 4rem 1rem;
+  }
+
+  .rm-method,
+  .rm-proof,
+  .rm-capture {
+    padding: 4rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .rm-method__pillars {
+    grid-template-columns: 1fr;
+  }
+}

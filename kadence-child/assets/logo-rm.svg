@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&amp;display=swap');
+      .rm-r { font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 52px; fill: #FFFFFF; }
+      .rm-m { font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 52px; fill: #F64B3D; }
+    </style>
+  </defs>
+  <text class="rm-r" x="4" y="50">R</text>
+  <text class="rm-m" x="62" y="50">M</text>
+</svg>
