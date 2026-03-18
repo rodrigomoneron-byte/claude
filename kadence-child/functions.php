@@ -11,23 +11,25 @@ if ( ! defined( 'ABSPATH' ) ) {
 /* ============================================================
    1. ENQUEUE: FONTES + ESTILOS
    ============================================================ */
-add_action( 'wp_enqueue_scripts', 'rm_child_enqueue_assets' );
+// Prioridade 20 garante carregamento após o Kadence e seu CSS inline do Customizer
+add_action( 'wp_enqueue_scripts', 'rm_child_enqueue_assets', 20 );
 
 function rm_child_enqueue_assets() {
-    // Estilo do tema pai (Kadence)
-    wp_enqueue_style(
-        'kadence-parent-style',
-        get_template_directory_uri() . '/style.css',
-        [],
-        wp_get_theme( 'kadence' )->get( 'Version' )
-    );
+    // NÃO re-enfileirar o pai — Kadence já registra e carrega o próprio CSS
+    // com o handle 'kadence-style'. Basta declarar essa dependência abaixo.
 
-    // Estilo do tema filho
+    // Estilo do tema filho (depende do handle real do Kadence)
     wp_enqueue_style(
         'kadence-child-style',
         get_stylesheet_uri(),
-        [ 'kadence-parent-style' ],
+        [ 'kadence-style' ],
         wp_get_theme()->get( 'Version' )
+    );
+
+    // Força dark mode mesmo contra variáveis CSS inline injetadas pelo Customizer
+    wp_add_inline_style(
+        'kadence-child-style',
+        'html,body{background-color:#000000!important;color:#ffffff!important;}'
     );
 
     // Google Fonts: Poppins + Lora
