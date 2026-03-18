@@ -265,3 +265,39 @@ function rm_og_meta_tags() {
         wp_reset_postdata();
     }
 }
+
+/* ============================================================
+   13. HANDLER: FORMULÁRIO DE CAPTURA DA HOMEPAGE
+   ============================================================ */
+add_action( 'admin_post_rm_captura_submit',        'rm_handle_captura' );
+add_action( 'admin_post_nopriv_rm_captura_submit', 'rm_handle_captura' );
+
+function rm_handle_captura() {
+    // Verifica nonce
+    if ( ! isset( $_POST['rm_captura_nonce_field'] )
+        || ! wp_verify_nonce( $_POST['rm_captura_nonce_field'], 'rm_captura_nonce' ) ) {
+        wp_die( 'Requisição inválida.', 'Erro', [ 'response' => 403 ] );
+    }
+
+    $nome  = sanitize_text_field( wp_unslash( $_POST['rm_nome']  ?? '' ) );
+    $email = sanitize_email( wp_unslash( $_POST['rm_email'] ?? '' ) );
+
+    if ( ! $nome || ! is_email( $email ) ) {
+        wp_safe_redirect( add_query_arg( 'captura', 'erro', wp_get_referer() ) );
+        exit;
+    }
+
+    // Salva como subscriber no WordPress (role: subscriber)
+    if ( ! email_exists( $email ) ) {
+        wp_insert_user( [
+            'user_login' => $email,
+            'user_email' => $email,
+            'first_name' => $nome,
+            'user_pass'  => wp_generate_password( 16 ),
+            'role'       => 'subscriber',
+        ] );
+    }
+
+    wp_safe_redirect( add_query_arg( 'captura', 'ok', wp_get_referer() ) );
+    exit;
+}
