@@ -1,11 +1,26 @@
 <?php
 /**
- * Template Name: Homepage RM
- * Hero, Metodo L.I.V.R.O, Prova Social Jussara Leal, Formulario de Captura
+ * front-page.php
+ * Carregado automaticamente pelo WordPress quando uma pagina estatica
+ * e definida como pagina inicial em Settings -> Reading.
+ * Nao requer selecao de template no admin.
  */
 
 get_header();
 ?>
+
+<style>
+/* Garante que as secoes da homepage quebrem os containers do Kadence */
+.kadence-inner-column-inner,
+.wp-block-group__inner-container,
+#primary,
+.content-area,
+.site-main {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+</style>
 
 <!-- ============================================================
      HERO
