@@ -180,6 +180,15 @@ Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
 sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
 não urgência — categoria "entrega".
 
+## Caps 55-56 — queda começando
+- Cap 55: mídia nacional pega o caso; 2 membros do conselho da Alvorada
+  renunciam; promotoria abre investigação formal; investidor
+  institucional revisa a parceria. Thorne sumiu de novo, mas agora com
+  mandado de investigação em nome real.
+- Cap 56 (HEAT 4/8-10 ajustado): noite pós-casamento, celebração plena,
+  "eu te amo" sem reserva dos dois lados. Madrugada: Daniel escrevendo
+  lista "coisas que aprendi este ano" — item 1: nunca decidir sozinho.
+
 ## Caps 51-54 — o casamento e a deserção pública
 - Cap 51: chegada ao Clube de Carvalho. Piano da Tessa (mudo há duas
   gerações, desde a morte da esposa do velho Sinclair) volta a soar.
