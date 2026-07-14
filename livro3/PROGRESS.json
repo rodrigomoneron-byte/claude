@@ -1,0 +1,45 @@
+{
+  "book": "A Rede — Livro 3",
+  "series": "A Mão na Alavanca",
+  "author": "R.B. Guidenelli",
+  "status": "Em andamento",
+  "decisoes_travadas": {
+    "casal_principal": "Daniel Reyes × Vivian Achebe-Costa (Recomendação A)",
+    "nome_consultora": "Vivian Achebe-Costa",
+    "nome_bairro": "Alto da Caixa d'Água",
+    "titulo": "A Rede",
+    "sloane_aparece_fisicamente_epilogo": false,
+    "sloane_nota": "Só voz/carta, como hoje.",
+    "eleanor_no_casamento": "só carta",
+    "linha_do_tempo": "Dentro do salto de 5 anos do epílogo do L2, ~1 ano após o casamento de Cassius e Wren. Ivete criança pequena; Nora e Cássio bebês/pequenos; casamento de Margaux & Tessa ainda não ocorreu (acontece no terço final do L3).",
+    "specs_herdadas_confirmadas": {
+      "capitulos": 67,
+      "pov": "Dual alternado — Daniel (ímpar) / Vivian (par)",
+      "tempo_verbal": "1ª pessoa do presente",
+      "heat": "80/20 explícito-elegante, 13-14 cenas nos 67 capítulos, sem fade to black",
+      "regua": "Só 'nós', nunca 'a gente' (narração e diálogo, sem exceção de personagem); device de autocorreção proibido",
+      "extensao_por_capitulo": "950-1100 palavras",
+      "pseudonimo": "R.B. Guidenelli"
+    },
+    "travado_em": "2026-07-14"
+  },
+  "target": 67,
+  "word_target": 67000,
+  "povs": ["Daniel", "Vivian"],
+  "next_chapter": 1,
+  "next_pov": "Daniel",
+  "pov_rule": "Daniel=ímpar, Vivian=par",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes": 0
+  },
+  "created": "2026-07-14T10:34:11",
+  "updated": "2026-07-14T00:00:00"
+}
