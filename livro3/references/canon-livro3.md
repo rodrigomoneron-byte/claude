@@ -180,6 +180,23 @@ Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
 sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
 não urgência — categoria "entrega".
 
+## Caps 51-54 — o casamento e a deserção pública
+- Cap 51: chegada ao Clube de Carvalho. Piano da Tessa (mudo há duas
+  gerações, desde a morte da esposa do velho Sinclair) volta a soar.
+  Zuleide se emociona pisando no salão pela 1ª vez.
+- Cap 52: cerimônia Margaux & Tessa. Brinde da Wren. Dona Ivete avisa
+  sobre homem de terno perguntando sobre "acesso alternativo" — 1º
+  sinal do último golpe do Thorne.
+- Cap 53: sabotagem descoberta — bloqueador de sinal colado no
+  amplificador, plantado para calar o anúncio. Advogado já registra
+  como prova de intimidação. Plano B: transmissão pelo celular do
+  Malik, sem depender do som do salão.
+- Cap 54 — A NOMEAÇÃO (clímax da série): Vivian sobe ao palco e nomeia
+  Marcus Thorne publicamente, com prova documental, fechando a pergunta
+  da Dona Ivete do L2 ("apareça e me diga na cara" — cap 66 L2). Cassius
+  anuncia processo formal das 4 redes + prova de sabotagem entregue à
+  polícia. Reconciliação física plena com Daniel.
+
 ## Caps 49-50 — véspera do casamento
 - Cap 49: Dalva vai dançar no casamento (primeira festa formal desde
   que o joelho parou). Vivian convida Daniel para ser seu par

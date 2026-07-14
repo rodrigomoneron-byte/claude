@@ -29,7 +29,7 @@
     "Daniel",
     "Vivian"
   ],
-  "next_chapter": 51,
+  "next_chapter": 55,
   "next_pov": "Daniel",
   "pov_rule": "Daniel=ímpar, Vivian=par",
   "chapters": [
@@ -382,17 +382,45 @@
       "words": 640,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 51,
+      "pov": "Daniel",
+      "words": 728,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 52,
+      "pov": "Vivian",
+      "words": 734,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 53,
+      "pov": "Daniel",
+      "words": 599,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 54,
+      "pov": "Vivian",
+      "words": 763,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "heat_log": [],
   "scoreboard": {
-    "chapters_done": 50,
-    "total_words": 39572,
-    "pages_kdp": 132,
+    "chapters_done": 54,
+    "total_words": 42396,
+    "pages_kdp": 141,
     "avg_score": 7.0,
-    "pct_to_target": 59
+    "pct_to_target": 63
   },
   "created": "2026-07-14T10:34:11",
-  "updated": "2026-07-14 17:50"
+  "updated": "2026-07-14 17:55"
 }
