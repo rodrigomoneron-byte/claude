@@ -25,21 +25,122 @@
   },
   "target": 67,
   "word_target": 67000,
-  "povs": ["Daniel", "Vivian"],
-  "next_chapter": 1,
+  "povs": [
+    "Daniel",
+    "Vivian"
+  ],
+  "next_chapter": 15,
   "next_pov": "Daniel",
   "pov_rule": "Daniel=ímpar, Vivian=par",
-  "chapters": [],
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Daniel",
+      "words": 955,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 2,
+      "pov": "Vivian",
+      "words": 998,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 3,
+      "pov": "Daniel",
+      "words": 945,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 4,
+      "pov": "Vivian",
+      "words": 886,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 5,
+      "pov": "Daniel",
+      "words": 887,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 6,
+      "pov": "Vivian",
+      "words": 896,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 7,
+      "pov": "Daniel",
+      "words": 909,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 8,
+      "pov": "Vivian",
+      "words": 890,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 9,
+      "pov": "Daniel",
+      "words": 857,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 10,
+      "pov": "Vivian",
+      "words": 891,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 11,
+      "pov": "Daniel",
+      "words": 874,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 12,
+      "pov": "Vivian",
+      "words": 818,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 13,
+      "pov": "Daniel",
+      "words": 829,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 14,
+      "pov": "Vivian",
+      "words": 874,
+      "score": 7.0,
+      "status": "aprovado"
+    }
+  ],
   "blocks": [],
   "heat_log": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
-    "heat_scenes": 0
+    "chapters_done": 14,
+    "total_words": 12509,
+    "pages_kdp": 42,
+    "avg_score": 7.0,
+    "pct_to_target": 19
   },
   "created": "2026-07-14T10:34:11",
-  "updated": "2026-07-14T00:00:00"
+  "updated": "2026-07-14 11:56"
 }
