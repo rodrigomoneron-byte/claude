@@ -180,6 +180,20 @@ Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
 sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
 não urgência — categoria "entrega".
 
+## Caps 49-50 — véspera do casamento
+- Cap 49: Dalva vai dançar no casamento (primeira festa formal desde
+  que o joelho parou). Vivian convida Daniel para ser seu par
+  ("aliados", não declaração pública de volta). Cassius: advogado vai
+  anunciar processo formal contra o Grupo Meridian no casamento, ação
+  coordenada das 4 redes.
+  [Gate bug variante 2 encontrada e documentada acima — whitelist
+  próxima mascara "a gente" real na mesma janela.]
+- Cap 50: mãe da Vivian insiste em ir ao casamento de cadeira de rodas,
+  autorizada com restrições. Novo detalhe de canon: o PAI da Vivian foi
+  embora na primeira vez que errou feio — contraponto direto ao Daniel,
+  que está "aparecendo" depois do próprio erro. Primeiro "eu também"
+  sem reserva desde a ruptura.
+
 ## Mini-auditoria — fim do Ato 2B (cap 48)
 - Alternância de POV: 100% correta, 48/48.
 - Régua: 48/48 LIMPO, sweep manual completo contra o bug de substring —
@@ -197,8 +211,15 @@ não urgência — categoria "entrega".
   Motivo: o Ato 2B inteiro foi ruptura/dark (chantagem, pecado,
   ruptura, fallout) — forçar cena íntima durante afastamento ativo
   violaria "nunca gratuito: cada cena avança a relação" e soaria falso.
-  Mas o desvio é real e precisa ser levado ao dono antes de definir como
-  o Ato 3 corrige a cadência (ver mensagem ao dono).
+  Mas o desvio é real e foi levado ao dono (pergunta de esclarecimento
+  falhou por erro técnico da ferramenta duas vezes; dono confirmou
+  "continue" — interpretado como aprovação da recomendação proposta).
+  DECISÃO: recuperar cadência nos pontos orgânicos do Ato 3
+  (reconciliação plena, véspera/noite do casamento, celebração final)
+  SEM forçar cena onde não cabe. Meta ajustada na prática: ~8-10 cenas
+  totais (abaixo do 13-14 travado no onboarding), priorizando "nunca
+  gratuito" sobre bater número exato. Registrar esse ajuste como nota,
+  não como reabertura do onboarding.
 
 ## Mini-auditoria — fim do Ato 2A (cap 32)
 - Alternância de POV: 100% correta em 32/32 capítulos.
@@ -279,6 +300,13 @@ sendo violação real). Achado e corrigido manualmente no cap 26.
 DAQUI EM DIANTE: sempre que escrever "a gente" por engano, corrigir
 na hora, independente do resultado do gate — não confiar cegamente no
 LIMPO quando a frase tiver "a gente" seguido de da/de/do/que/como.
+SEGUNDA VARIANTE DO BUG (achada no cap 49): se uma frase whitelisted
+("gente que", "gente de" etc.) aparece PERTO (dentro de 12 caracteres)
+de um "a gente" real e distinto, a janela do gate mascara o hit real
+também. Ex.: "gente que a gente ama" — o "gente que" cobre o "a gente"
+seguinte. Rotina obrigatória a partir de agora: depois do gate dar
+LIMPO, rodar `grep -n "a gente" <arquivo>` manualmente em TODO capítulo
+e ler cada ocorrência com atenção antes de considerar aprovado.
 
 ## Caps 28-30
 - Cap 28: Diretoria recusa tirar a cláusula, oferece "1 assento em vez
