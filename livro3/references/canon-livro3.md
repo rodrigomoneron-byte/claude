@@ -93,6 +93,34 @@ futuro).
   ("pergunte de novo quando tiver certeza de que quer saber"). Primeira
   fissura pública de Vivian contra a própria fundação.
 
+## Mini-auditoria — fim do Ato 2A (cap 32)
+- Alternância de POV: 100% correta em 32/32 capítulos.
+- Régua: 32/32 LIMPO. Sweep manual adicional por causa do bug do gate
+  (substring "gente de/da/do/que/como") em TODOS os capítulos — só 3
+  hits, todos legítimos (whitelist real). Nenhuma violação escondida.
+  Pelo menos 5 tentativas de escrever "a gente"/device foram pegas e
+  corrigidas durante a escrita neste ato (caps 15, 17, 22, 26, 27, 28,
+  29) — vigilância constante necessária, o erro é recorrente no
+  primeiro rascunho de cada capítulo.
+- Heat: 2 cenas (caps 20 e 27), dentro da janela e da cadência
+  planejada (nunca >5 caps sem oportunidade desde a 1ª cena). Próxima
+  cena prevista ~33-37.
+- Símbolos: escada×raiz, tailleur (ainda intacto), terra/ferrugem,
+  pão, + novo: a sombra da amoreira crescendo (marcador de tempo
+  passando), o parquinho sobre "o chão dos afogados" (herdado do L2,
+  reafirmado cap 24).
+- Aderência à bíblia: oferta-abraço entregue via cláusula de conselho
+  (recusada 2x), Cassius fareja e CONFIRMA a assinatura do Thorne
+  (cap 31, prova documental), subtrama do casamento M&T avançando
+  (data confirmada, cap 29). ANTECIPAÇÃO NOTADA: a descoberta "isca de
+  demolição", que a bíblia posiciona no Ato 2B, aconteceu no fim do
+  Ato 2A (cap 30) e já foi CONTADA a Daniel/Cassius (cap 32) — mais
+  rápido que o planejado, mas sem contradizer a bíblia. Ajustar o
+  Ato 2B: a ruptura agora vem da CHANTAGEM da origem da Vivian (ainda
+  não usada) e do "pecado" do Daniel decidindo sozinho — não mais da
+  descoberta do plano em si, que já é conhecida por todos os 3.
+- Nenhum desvio que exija correção antes de seguir para o Ato 2B.
+
 ## Mini-auditoria — fim do Ato 1 (cap 14)
 - Alternância de POV: 100% correta (ímpar Daniel / par Vivian, sem falha).
 - Régua: 14/14 capítulos LIMPO no gate mecânico (re-checado em lote).
@@ -133,8 +161,55 @@ cena real aqui com o número do capítulo assim que acontecer.
 Cenas registradas:
 1. Cap 20 (Vivian POV) — a trégua não planejada, na noite em que ela é
    suspensa da coordenação. Marca o início físico do relacionamento.
-   Próxima cena: vigiar para não passar de 5 caps sem oportunidade
-   (janela seguinte: até ~cap 25).
+
+## ATENÇÃO — bug conhecido do regua_gate.py
+O whitelist do gate faz match de SUBSTRING sem borda de palavra. Isso
+significa que "a gente" seguido de palavra começando com "de"/"da"/
+"do"/"que"/"como" pode ser mascarado por engano pelas entradas "gente
+de"/"gente da"/"gente do"/"gente que"/"gente como" (ex.: "a gente
+decide" contém "gente de" como substring e passa como LIMPO mesmo
+sendo violação real). Achado e corrigido manualmente no cap 26.
+DAQUI EM DIANTE: sempre que escrever "a gente" por engano, corrigir
+na hora, independente do resultado do gate — não confiar cegamente no
+LIMPO quando a frase tiver "a gente" seguido de da/de/do/que/como.
+
+## Caps 28-30
+- Cap 28: Diretoria recusa tirar a cláusula, oferece "1 assento em vez
+  de 2" como falsa concessão. Vivian e Daniel recusam de novo. Selma
+  ameaça veladamente: "existem outras formas de fechar esse acordo que
+  vão custar muito mais ao bairro do que qualquer cláusula."
+- Cap 29: retaliação disfarçada de burocracia — licença do 2º trecho do
+  corrimão cancelada; padaria da Dona Ivete fiscalizada pela 1ª vez em
+  22 anos. Cassius: "é aviso, não ataque de verdade". Casamento M&T
+  confirmado: Clube de Carvalho, daqui a 6 semanas (a partir do cap 29).
+- Cap 30 — REVELAÇÃO CENTRAL DO ATO 2B (antecipada): Vivian encontra no
+  pendrive um documento "Estudos de Viabilidade — Fase 2", datado de
+  ANTES da chegada dela ao morro: plano de "revitalização urbana
+  integrada" que usa o sucesso do modelo híbrido (corrimão) como prova
+  de conceito para desapropriação, reassentamento a 40 min de distância,
+  e valorização imobiliária de +600%. O próprio projeto que ela ajudou a
+  aprovar É a isca de demolição — espelho exato do que aconteceu com o
+  Daniel na campanha antiga. Ela NÃO conta a ele ainda (fecha o laptop
+  por instinto quando ele se aproxima) — 1º segredo dela desde a
+  promessa de nunca decidir sozinhos. Gancho direto para o "pecado"
+  espelhado do Ato 2B.
+
+## Caps 25-27
+- Cap 25: reunião nacional decide: recusar a cláusula do conselho,
+  negociar o resto; reforçar governança nas outras 3 redes atingidas
+  pelo mesmo método antes de expor o Thorne. Vivian propõe voltar como
+  infiltrada "leal" para vigiar por dentro — aprovado, com regra: reporta
+  cada passo ao grupo, ninguém decide/contata sozinho. Wren avisa Daniel
+  para não repetir o padrão de "proteger decidindo por ela".
+- Cap 26: Vivian negocia sem a cláusula na Alvorada; Selma aceita levar à
+  diretoria. Vivian ouve, por acaso, o setor de segurança institucional
+  planejando intimidar o Malik (carro parado em frente à casa dele).
+  Avisa Daniel a tempo — Malik se protege (troca de celular, vai para
+  casa da avó).
+  [NOTA: gate bug real encontrado e corrigido nesta cena — ver acima.]
+- Cap 27 (HEAT 2/13-14): cena íntima após o susto do Malik — mais
+  urgente/famintra que a 1ª, medo virando alívio. Os dois reafirmam a
+  promessa de nunca mais decidir sozinhos.
 
 ## Caps 23-24
 - Cap 23: Cassius revela que já viu o Thorne pessoalmente uma vez, antes

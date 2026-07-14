@@ -29,7 +29,7 @@
     "Daniel",
     "Vivian"
   ],
-  "next_chapter": 25,
+  "next_chapter": 33,
   "next_pov": "Daniel",
   "pov_rule": "Daniel=ímpar, Vivian=par",
   "chapters": [
@@ -200,17 +200,73 @@
       "words": 793,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 25,
+      "pov": "Daniel",
+      "words": 806,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 26,
+      "pov": "Vivian",
+      "words": 816,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 27,
+      "pov": "Daniel",
+      "words": 805,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 28,
+      "pov": "Vivian",
+      "words": 711,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 29,
+      "pov": "Daniel",
+      "words": 724,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 30,
+      "pov": "Vivian",
+      "words": 744,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 31,
+      "pov": "Daniel",
+      "words": 700,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 32,
+      "pov": "Vivian",
+      "words": 782,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "heat_log": [],
   "scoreboard": {
-    "chapters_done": 24,
-    "total_words": 20642,
-    "pages_kdp": 69,
+    "chapters_done": 32,
+    "total_words": 26730,
+    "pages_kdp": 89,
     "avg_score": 7.0,
-    "pct_to_target": 31
+    "pct_to_target": 40
   },
   "created": "2026-07-14T10:34:11",
-  "updated": "2026-07-14 12:10"
+  "updated": "2026-07-14 12:21"
 }
