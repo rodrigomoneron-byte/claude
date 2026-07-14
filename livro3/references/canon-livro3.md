@@ -111,5 +111,89 @@ futuro).
   travada no onboarding.
 - Nenhum desvio que exija correção antes de seguir para o Ato 2A.
 
-## Heat log
-Nenhuma cena ainda. Janela alvo: primeira cena ~cap 20-24.
+## Heat log — plano de cadência 80/20 (13-14 cenas em 67 caps)
+Meta: nenhuma cena antes do cap 20 (slow burn deliberado, sancionado
+pela bíblia). A PARTIR da 1ª cena, nunca deixar passar mais de 5
+capítulos sem oportunidade real virar cena (checar em TODO capítulo daqui
+em diante — não só nos atos).
+
+Calendário-alvo (ajustável ao que a cena pedir, mas usar como vigia):
+1. ~cap 20-24 — trégua não planejada (conforme bíblia)
+2. ~cap 27-29
+3. ~cap 33-35 (abertura do Ato 2B — antes do mergulho dark)
+4. ~cap 39-41
+5. ~cap 45-47 (antes/durante a ruptura — pode ser a cena que dói mais)
+6. ~cap 51-53 (reconciliação começando)
+7. ~cap 56-58
+8. ~cap 60-62
+9. ~cap 64-66 (entrega/celebração, pós-deserção)
+Total ajustado durante a escrita para fechar em 13-14; registrar cada
+cena real aqui com o número do capítulo assim que acontecer.
+
+Cenas registradas:
+1. Cap 20 (Vivian POV) — a trégua não planejada, na noite em que ela é
+   suspensa da coordenação. Marca o início físico do relacionamento.
+   Próxima cena: vigiar para não passar de 5 caps sem oportunidade
+   (janela seguinte: até ~cap 25).
+
+## Caps 23-24
+- Cap 23: Cassius revela que já viu o Thorne pessoalmente uma vez, antes
+  do L2 desabar ("fala baixo, nunca precisa levantar a voz, ameaça soa
+  como ajuda"). Wren quer ver os documentos antes de qualquer decisão.
+  Assessor da "Diretoria Estratégica" liga para o Daniel oferecendo
+  "alinhar expectativas" — ele adia a conversa, cumprindo a promessa
+  de não decidir sozinho.
+- Cap 24: Daniel e Vivian vão à Enseada entregar os documentos
+  pessoalmente à Wren. História do Thorne no L2 recontada (comprou casa
+  por casa, financiou despejos com dinheiro da prefeitura, sumiu quando
+  o cerco apertou). Wren: "da última vez ele tentou comprar terreno...
+  agora aprendeu que rede não tem dono, nem escritura — se conseguir
+  comprar isso, comprou algo sem fim." Wren convida Vivian a ficar a
+  noite para decidir com os organizadores da rede nacional no dia
+  seguinte — primeira vez que Vivian participa de decisão coletiva.
+
+## Caps 21-22 — o nome Thorne surge
+- Cap 21: manhã seguinte à cena 1. Selma liga avisando que a Diretoria
+  Estratégica vai chamar o Daniel diretamente, sem Vivian no meio.
+  Vivian pede a ele que prometa contar tudo antes de decidir sozinho —
+  gancho direto para o "pecado" do Ato 2B.
+- Cap 22: Vivian usa o acesso residual ao sistema da Alvorada para
+  rastrear a assinatura vazia até uma holding, **Grupo Meridian**,
+  historicamente ligada a **Thorne Capital** — endereço que já foi sede
+  da empresa do Thorne (vilão do L2). Descobre que o método (parceria
+  com cláusula de assentos permanentes) já foi aplicado a 3 outras redes
+  comunitárias em 3 estados — é um método replicado, não caso isolado.
+  Copia documentos para pendrive antes do acesso ser revogado. Leva
+  tudo para a sede para decidir COM o Daniel (não sozinha).
+
+## Caps 17-20
+- Cap 17: convite de casamento de Margaux & Tessa chega à sede (Clube de
+  Carvalho, data a confirmar) — subtrama B plantada. Vivian avisada da
+  promoção por telefone.
+- Cap 18: Vivian mostra a Cassius e Daniel a cláusula do contrato
+  (pág. 51 — 2 assentos permanentes com voto no conselho para a
+  Fundação). Assinatura do documento é de um nome vazio, "Presidência
+  do Conselho Consultivo", sem foto/bio pública (1º rastro concreto do
+  Filantropo). Cassius decide ler a cláusula na reunião mensal aberta.
+- Cap 19: reunião mensal vira leitura pública da cláusula. Votação
+  informal divide o bairro; Dalva marca a posição mais sábia ("decisão
+  boa é a que se pode desfazer"). Selma descobre que foi Vivian quem
+  levou o contrato — suspende ela da coordenação "pendente de
+  investigação". Vivian vai para a casa do Daniel à noite.
+- Cap 20 (HEAT 1/13-14): primeira cena íntima, na noite da suspensão.
+
+## Caps 15-16 — a oferta-abraço começa
+- Cap 15: matéria vazada anuncia "parceria estratégica de longo prazo"
+  da Alvorada com "redes comunitárias emergentes" usando foto roubada
+  do platô. Cassius visita o morro pessoalmente, avisa Daniel sobre
+  crescer rápido demais sem estrutura (assinatura dupla, reunião mensal
+  aberta — ainda faltam na rede). Malik rastreia o fotógrafo até uma
+  agência terceirizada que atende várias fundações, incluindo a
+  Alvorada — mais uma camada de gente sem rosto.
+- Cap 16: Vivian é promovida a "Coordenadora do Programa de Parcerias
+  Comunitárias", responsável por formalizar a parceria com a rede.
+  Carta cita "proximidade pessoal com a liderança local" como "ativo
+  estratégico". Ela aceita o cargo de olhos abertos, avisa o Cassius
+  na cara que vai jogar dos dois lados até merecer confiança — ele
+  aceita, mas avisa que vai vigiar. Vivian decide usar o cargo para
+  investigar por dentro, não para entregar a rede.
