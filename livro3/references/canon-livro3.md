@@ -109,6 +109,30 @@ futuro).
   hospitalar impagável recai sobre a mãe doente. Não é ameaça explícita,
   é "matemática impossível". Vivian ainda não contou ao Daniel.
 
+## Caps 40-42 — O PECADO e a RUPTURA
+- Cap 40: mãe da Vivian transferida com sucesso (segurança médica
+  resolvida ANTES da ruptura — detalhe importante: o convênio cortado
+  depois não afeta o tratamento dela). Selma convoca "reunião de
+  contenção" de emergência para o dia seguinte. Malik intercepta o
+  assunto do convite: "Reunião de Contenção — Caso Achebe-Costa/Reyes".
+- Cap 41 — O PECADO: na reunião de emergência (sala do vigésimo andar),
+  a Diretoria apresenta "cenários" (ameaças veladas). Vivian negocia
+  tempo com calma; Daniel, vendo-a jogar o jogo deles, entra em pânico
+  e não consegue mais distinguir estratégia de rendição. Não volta para
+  casa com ela — vai sozinho para a sede, liga para uma jornalista de
+  confiança da campanha antiga, e às 4h da manhã envia TODOS os
+  documentos (contrato, Meridian, plano de demolição) sem avisar
+  Cassius, Wren OU Vivian. Decide sozinho, exatamente o erro que jurou
+  não repetir.
+- Cap 42 — A RUPTURA: matéria publicada em 3 portais simultaneamente.
+  Convênio da mãe cancelado (mas tratamento já seguro, pós-transferência
+  — Daniel não colocou a vida dela em risco, só a relação e o plano
+  coletivo). Dano real: as OUTRAS 3 redes (incluindo a do Bento) foram
+  pegas de surpresa por fiscalização, sem tempo de se preparar —
+  confiança da rede nacional quebrada. Vivian confronta Daniel por
+  telefone, devastada — não pela mãe (já protegida), mas pela traição
+  da promessa e pelo estrago às outras redes.
+
 ## Caps 36-39 — a rachadura antes da ruptura
 - Cap 36: plano de transferir a mãe da Vivian para hospital público via
   médico de confiança da Wren (da crise do L2). Selma liga desconfiada
