@@ -233,6 +233,35 @@ não urgência — categoria "entrega".
   o Malik. [Corrigido: personagem "Cole" vazou do universo genérico da
   skill legada — removido, não existe em L3.]
 
+## Caps 60-63 — epílogo se formando
+- Cap 60: carta da Eleanor de Portugal chega; mensagem de voz da Sloane
+  (canal seguro, sem aparição física, conforme travado no onboarding).
+- Cap 61: rede cresce para 12 redes/7 estados usando o Painel Aberto;
+  convite do governo estadual recebido com cautela coletiva (decisão
+  adiada para reunião mensal, não aceita sozinha).
+- Cap 62 (HEAT 5): mãe da Vivian recebe alta definitiva, visita o Alto
+  da Caixa d'Água. Daniel pede pra Vivian morar com ele ("degrau antes
+  do degrau que vem depois", não pedido de casamento ainda).
+- Cap 63 — CENA GRANDE DA DONA IVETE (reservada pela bíblia): ela conta
+  a história da chave da família (miçangas + chave enferrujada, símbolo
+  herdado) e a entrega ao Daniel como bênção/herança simbólica — não é
+  perdão institucional, é reconhecimento pessoal de líder que erra em
+  público e continua aparecendo.
+
+## DESVIO REAL — EXTENSÃO TOTAL DO LIVRO
+Meta da bíblia: 67 caps, ~950-1100 palavras/cap, total ~63-70k palavras.
+Média real até o cap 63: ~764 palavras/cap (abaixo do piso de 950).
+Projeção de fechamento: ~51-53k palavras totais, abaixo da faixa
+travada no onboarding. Motivo: ritmo de produção priorizou fechar
+todos os beats obrigatórios da bíblia dentro de 67 capítulos com
+qualidade de prosa, em vez de inflar cada capítulo para bater número
+fixo (a própria skill de escrita herdada desaconselha "encher
+linguiça"). Ajuste nos capítulos finais (64-67): mirar 1100-1400
+palavras para reduzir parcialmente o déficit, mas o total provavelmente
+ainda fecha abaixo de 63k. Reportar ao dono na entrega final junto com
+o relatório da revisão global — decidir lá se algum capítulo específico
+merece expansão antes da formatação.
+
 ## Mini-auditoria — fim do Ato 2B (cap 48)
 - Alternância de POV: 100% correta, 48/48.
 - Régua: 48/48 LIMPO, sweep manual completo contra o bug de substring —
