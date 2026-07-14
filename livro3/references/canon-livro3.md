@@ -220,6 +220,19 @@ não urgência — categoria "entrega".
   que está "aparecendo" depois do próprio erro. Primeiro "eu também"
   sem reserva desde a ruptura.
 
+## Caps 58-59 — queda do Thorne + arco pessoal do Daniel
+- Cap 58: Thorne capturado em aeroporto com passaporte falso (vaidade
+  banal o entrega — mesmo alfaiate reconhecido). Selma manda mensagem
+  sem rancor; Vivian responde com gentileza. Celebração comunitária na
+  sede.
+- Cap 59: Cassius ensina formalmente os "dez degraus" (método herdado
+  do L2) para o Daniel: nomear o erro, nomear o dano específico,
+  perguntar o que a pessoa machucada precisa, repetir ação pequena por
+  dias, aceitar que confiança pode nunca voltar inteira. Daniel está no
+  degrau 6-7. Tarefa final: ensinar o método para outra pessoa — escolhe
+  o Malik. [Corrigido: personagem "Cole" vazou do universo genérico da
+  skill legada — removido, não existe em L3.]
+
 ## Mini-auditoria — fim do Ato 2B (cap 48)
 - Alternância de POV: 100% correta, 48/48.
 - Régua: 48/48 LIMPO, sweep manual completo contra o bug de substring —
