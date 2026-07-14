@@ -109,6 +109,29 @@ futuro).
   hospitalar impagável recai sobre a mãe doente. Não é ameaça explícita,
   é "matemática impossível". Vivian ainda não contou ao Daniel.
 
+## Caps 43-46 — fallout e rede rachada
+- Cap 43: Cassius, Malik e seu Osvaldo confrontam Daniel na sede — dano
+  real: 2 organizadores da rede do Bento saíram assustados; moradora
+  nova acusa Daniel de decidir por ela de novo (filha ia começar
+  tratamento financiado pela Alvorada).
+- Cap 44: 2ª matéria ataca a Vivian pessoalmente (narrativa de "mulher
+  confusa/seduzida", não menciona o plano de demolição). Selma não
+  precisou citar o nome dela — a imprensa preencheu sozinha. Dona Ivete
+  liga oferecendo apoio. Cassius sugere: desaparecer ou contar a própria
+  história com a própria voz.
+- Cap 45 — DINHEIRO DIVIDE A ENSEADA: Alvorada oferece acordo (retirada
+  de acusações + financiamento total) em troca de declaração pública
+  "as informações foram mal interpretadas". Reunião na Enseada racha ao
+  meio. Malik mostra dado histórico (redes que aceitaram esse tipo de
+  acordo perdem autonomia em <2 anos). Dona Ivete pede adiar a votação
+  para DEPOIS DO CASAMENTO (ainda 2 semanas à frente) — vínculo direto
+  com o clímax do Ato 3.
+- Cap 46: Vivian publica sua própria versão da história (nome completo,
+  foco no plano de demolição, não no relacionamento) em veículo
+  independente. Selma é demitida no mesmo dia ("parabéns, você
+  conseguiu o que queria"). Vivian não responde às mensagens do Daniel
+  ainda — mágoa aberta, não resolvida.
+
 ## Caps 40-42 — O PECADO e a RUPTURA
 - Cap 40: mãe da Vivian transferida com sucesso (segurança médica
   resolvida ANTES da ruptura — detalhe importante: o convênio cortado
@@ -156,6 +179,26 @@ futuro).
 Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
 sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
 não urgência — categoria "entrega".
+
+## Mini-auditoria — fim do Ato 2B (cap 48)
+- Alternância de POV: 100% correta, 48/48.
+- Régua: 48/48 LIMPO, sweep manual completo contra o bug de substring —
+  4 hits totais, todos legítimos.
+- Símbolos: escada×raiz, tailleur (Vivian NUNCA tirou em cena de
+  ruptura — reservado corretamente), terra/ferrugem, pão da Ivete
+  (cap 44), amoreira crescendo como marcador de tempo (caps 43, 47).
+- Aderência à bíblia: pecado do Daniel (cap 41), ruptura (cap 42), rede
+  rachada pelo dinheiro do Filantropo (cap 45) — todos os beats
+  obrigatórios do Ato 2B entregues. Votação sobre o acordo adiada para
+  DEPOIS do casamento (gancho direto pro Ato 3).
+- **DESVIO REAL — HEAT 80/20**: só 3 cenas em 48 capítulos (caps 20, 27,
+  35). Da cena 3 (cap 35) até o cap 48 são 13 capítulos sem cena —
+  estoura o limite de "nunca mais que 5" definido no project_dna.md.
+  Motivo: o Ato 2B inteiro foi ruptura/dark (chantagem, pecado,
+  ruptura, fallout) — forçar cena íntima durante afastamento ativo
+  violaria "nunca gratuito: cada cena avança a relação" e soaria falso.
+  Mas o desvio é real e precisa ser levado ao dono antes de definir como
+  o Ato 3 corrige a cadência (ver mensagem ao dono).
 
 ## Mini-auditoria — fim do Ato 2A (cap 32)
 - Alternância de POV: 100% correta em 32/32 capítulos.
