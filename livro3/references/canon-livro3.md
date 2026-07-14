@@ -373,9 +373,25 @@ Calendário-alvo (ajustável ao que a cena pedir, mas usar como vigia):
 Total ajustado durante a escrita para fechar em 13-14; registrar cada
 cena real aqui com o número do capítulo assim que acontecer.
 
-Cenas registradas:
-1. Cap 20 (Vivian POV) — a trégua não planejada, na noite em que ela é
-   suspensa da coordenação. Marca o início físico do relacionamento.
+Cenas registradas (10 total, atualizado após revisão pós-manuscrito):
+1. Cap 20 (Vivian) — trégua não planejada, noite da suspensão.
+2. Cap 27 (Daniel) — após susto de intimidação do Malik.
+3. Cap 35 (Daniel) — consolo após revelação da chantagem.
+4. Cap 39 (Daniel) — reconciliação na noite anterior ao pecado
+   (adicionada na revisão final — antes do rompimento, ainda legítima).
+5. Cap 56 (Vivian) — noite pós-casamento, celebração plena.
+6. Cap 58 (Vivian) — noite da captura do Thorne (adicionada).
+7. Cap 60 (Vivian) — noite das cartas de Eleanor/Sloane (adicionada).
+8. Cap 62 (Vivian) — decisão de morar juntos.
+9. Cap 63 (Daniel) — noite da bênção da Dona Ivete (adicionada).
+10. Cap 65 (Daniel) — noite da condenação do Thorne (adicionada).
+
+DESVIO FINAL: 10 cenas, abaixo da meta original de 13-14. Gap grande
+entre caps 39 e 56 (17 capítulos) é INTENCIONAL — cobre a ruptura ativa
+(Ato 2B: pecado, fallout, reconciliação cautelosa), onde inserir cena
+violaria "nunca gratuito: cada cena avança a relação". Decisão do dono
+(após consulta): adicionar cenas nos pontos que coubessem sem forçar,
+aceitando ficar abaixo de 13-14 em vez de violar a regra de organicidade.
 
 ## ATENÇÃO — bug conhecido do regua_gate.py
 O whitelist do gate faz match de SUBSTRING sem borda de palavra. Isso

@@ -17,6 +17,10 @@ Sentamos na cozinha, o prontuário da mãe dela espalhado na mesa ao lado de doi
 
 — Talvez seja isso que muda: não a ferramenta, mas para onde você aponta ela. — Seguro a mão dela por cima da mesa. — Você usou o mesmo talento hoje para proteger sua mãe, não para prender mais alguém debaixo de contrato. Isso já é diferente o suficiente para mim.
 
+Ela contorna a mesa devagar, senta no meu colo sem pedir licença, e o beijo que troca comigo carrega o mesmo alívio cansado da conversa inteira — não urgência, só gratidão silenciosa por ainda termos um ao outro depois de um dia que poderia ter desmoronado tudo. Levo ela até o quarto sem pressa, cada gesto mais lento do que o normal, como se os dois corpos soubessem, antes de qualquer palavra, que essa noite pede cuidado, não pressa. Fazemos amor devagar, testa contra testa boa parte do tempo, sussurrando promessas pequenas entre um movimento e outro — nada grandioso, só a certeza tranquila de dois corpos escolhendo, mais uma vez, confiar no que resta depois do medo passar.
+
+Depois, enroscados sob o lençol fino, ela adormece por um instante nos meus braços, tempo suficiente para eu decorar o peso exato dela contra o meu peito antes de qualquer outra coisa interromper essa paz.
+
 É quase meia-noite quando o celular vibra com uma mensagem de Malik que quebra a paz recém-costurada em pedaços.
 
 *Preciso falar com vocês agora. Descobri um e-mail interno da Alvorada — assunto: "monitoramento de risco — evento Sinclair/Delgado, data confirmada". Eles sabem do casamento. Não sei se sabem do plano de exposição, mas sabem que alguma coisa grande está sendo preparada lá.*

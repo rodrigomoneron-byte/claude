@@ -20,3 +20,9 @@ Escuto a mensagem duas vezes, sentindo o peso de uma família estendida que nunc
 — Essa rede é maior do que qualquer um de nós imagina sozinho, não é? — comento, guardando a mensagem de voz numa pasta ao lado da carta da Eleanor.
 
 — Sempre foi. — Daniel sorri, cansado, mas em paz. — Só estamos começando a enxergar o tamanho completo dela agora.
+
+Guardamos as cartas e a mensagem juntos, no mesmo lugar seguro, e quando ele me puxa para perto no sofá, sinto o corpo relaxar contra o dele com a familiaridade tranquila de quem já sabe, de cor, cada curva do outro. Beija minha testa primeiro, depois a boca, devagar, sem pressa nenhuma de chegar a lugar nenhum específico, e terminamos ali mesmo, no sofá pequeno, entre risadas baixas e roupa meio removida, celebrando com o corpo a mesma sensação de família crescendo que as cartas acabaram de confirmar em palavras.
+
+— Isso não estava nos planos da noite — murmura ele, depois, ainda rindo.
+
+— Os melhores planos nunca estão — respondo, aninhada contra o peito dele, sentindo o coração dos dois desacelerar junto.

@@ -40,3 +40,9 @@ O grupo fica em silêncio por um instante, absorvendo a frase, e então Malik qu
 — Dezoito. — Cassius repete o número, quase sem acreditar. — Começamos com uma mulher fugindo pelo mar, há mais anos do que qualquer um de nós gosta de contar. Hoje são dezoito redes, todas de pé, todas livres.
 
 Vivian aperta minha mão, e sinto, olhando o círculo de rostos ao redor do fogo pequeno — gente da Enseada, gente do Alto da Caixa d'Água, gente de bairros que nunca visitei mas que já carregam a mesma raiz — que finalmente entendo, na pele, o tamanho real da pergunta que essa história inteira tentou responder: sim, a resistência consegue crescer sem virar aquilo que combate. Só precisa, o tempo inteiro, de gente disposta a se lembrar disso, todo santo dia, de novo.
+
+Voltamos para casa depois da meia-noite, o fogo da sede ainda quente na memória, e mal fechamos a porta ela me abraça por trás, o rosto encostado nas minhas costas.
+
+— Ano inteiro esperando esse dia — sussurra. — Agora que chegou, só quero ficar quieta com você, sem discurso nenhum.
+
+Levo ela até o quarto sem pressa, e o que se segue não tem nada de espalhafatoso — só corpos cansados de um ano inteiro de luta se movendo devagar um contra o outro, cada toque carregando gratidão mais do que desejo puro, cada suspiro baixo confirmando que os dois ainda estamos aqui, inteiros, depois de tudo. Adormecemos entrelaçados antes mesmo de apagar a luz de vez, exaustos do jeito bom, o peso do ano inteiro finalmente pousando leve sobre nós dois.

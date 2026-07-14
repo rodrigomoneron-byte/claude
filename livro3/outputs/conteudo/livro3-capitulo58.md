@@ -28,3 +28,13 @@ Dona Ivete chega mais tarde, direto da Enseada, trazendo pão quente mesmo sem n
 — A senhora vai viver muito mais para ver o que ainda vem — diz Wren, apertando a mão dela de volta.
 
 Daniel segura minha mão no meio do salão, e sinto, olhando ao redor, uma sensação que não experimentava desde muito antes de conhecer qualquer um deles: a certeza tranquila de que, finalmente, estou exatamente onde deveria estar, cercada por gente que luta do jeito certo, mesmo quando o certo é mais lento e mais difícil do que qualquer atalho que a máquina já me ofereceu.
+
+Voltamos para casa tarde da noite, ainda leves da celebração, e mal fechamos a porta, ele me puxa pela cintura, rindo baixinho contra o meu pescoço.
+
+— Cinco anos de espera da Wren viraram uma noite inteira de festa. — Ele beija minha garganta, devagar. — Achei que merecíamos comemorar em particular também.
+
+Rio, deixando ele me guiar até o quarto, e o que se segue carrega toda a leveza da vitória do dia — risadas soltas entre um beijo e outro, mãos ligeiras demais para qualquer cuidado excessivo, o corpo inteiro celebrando o alívio de cinco anos de medo alheio finalmente aliviado. Fazemos amor rápido, feliz, barulhento o suficiente para os dois rirmos depois de nos lembrarmos que as paredes são finas, e quando terminamos, ficamos deitados rindo do próprio volume, exaustos e gloriosamente despreocupados pela primeira vez em muito tempo.
+
+— Isso também devia entrar para a história da rede — brinco, ainda ofegante.
+
+— Alguns capítulos ficam só entre nós — ele responde, sorrindo no escuro.
