@@ -109,6 +109,25 @@ futuro).
   hospitalar impagável recai sobre a mãe doente. Não é ameaça explícita,
   é "matemática impossível". Vivian ainda não contou ao Daniel.
 
+## Caps 36-39 — a rachadura antes da ruptura
+- Cap 36: plano de transferir a mãe da Vivian para hospital público via
+  médico de confiança da Wren (da crise do L2). Selma liga desconfiada
+  sobre pedido de "segunda opinião" — ameaça revisar o convênio mesmo
+  sem demissão. Vivian NÃO conta essa ligação ao Daniel (1º passo do
+  espelho do "pecado").
+- Cap 37: Daniel entra em pânico com o silêncio de 3h da Vivian (ela na
+  sede da Alvorada buscando prontuário). Cassius o aconselha a separar
+  medo de fato. Ela manda "Preciso de mais um dia. Confia em mim."
+- Cap 38: explicação legítima — ela só estava resolvendo burocracia do
+  prontuário. Reconciliação começando.
+- Cap 39: reconciliação completa em casa — MAS à meia-noite, Malik
+  descobre e-mail interno da Alvorada: "monitoramento de risco — evento
+  Sinclair/Delgado, data confirmada" — eles SABEM do casamento como
+  data-alvo. Cassius e Wren não atendem o telefone. Daniel sente o
+  mesmo impulso de "agir sozinho antes que seja tarde" que o levou a
+  expor o financiador na campanha antiga. Promete esperar até de manhã.
+  [Gate bug: "da gente" + "gente decide" pego e corrigido no cap 39.]
+
 ## Cap 35 (HEAT 3/13-14)
 Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
 sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
