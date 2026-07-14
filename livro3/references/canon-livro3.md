@@ -248,6 +248,25 @@ não urgência — categoria "entrega".
   perdão institucional, é reconhecimento pessoal de líder que erra em
   público e continua aparecendo.
 
+## Caps 66-67 — pedido de casamento e epílogo
+- Cap 66: Daniel pede Vivian em casamento no platô, anel forjado da
+  chave que a Dona Ivete deu a ele. Aceita.
+- Cap 67 — EPÍLOGO: 2 anos depois. Enseada oficialmente "escola" (23ª
+  rede recebida). Vivian grávida de 7 meses, casamento já realizado
+  (bengala de Osvaldo quebrada de tanta alegria, nova entalhada por
+  Zuleide). Painel Aberto: 41 redes, 18 estados. Eleanor promete visita
+  na primavera; Sloane sinaliza possível reencontro físico futuro
+  (mantido como gancho aberto, não resolvido — consistente com "carta
+  na manga" do onboarding). IMAGEM FINAL DA SÉRIE: Cassius entrega a
+  alavanca usada na luta original da Enseada; Daniel a enterra no
+  quintal como estaca de tomate. Fecha o livro e a trilogia.
+
+## MANUSCRITO COMPLETO — 67/67 capítulos, ~51.630 palavras
+Sweep final (gate automático + grep manual do bug de substring +
+checagem de contaminação cruzada com o universo da skill legada):
+100% limpo. Nenhuma violação de régua sobrevivente. Nenhum nome do
+outro universo (Efua/Cole/Adrian/etc.) encontrado.
+
 ## DESVIO REAL — EXTENSÃO TOTAL DO LIVRO
 Meta da bíblia: 67 caps, ~950-1100 palavras/cap, total ~63-70k palavras.
 Média real até o cap 63: ~764 palavras/cap (abaixo do piso de 950).

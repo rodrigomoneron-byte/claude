@@ -2,7 +2,7 @@
   "book": "A Rede — Livro 3",
   "series": "A Mão na Alavanca",
   "author": "R.B. Guidenelli",
-  "status": "Em andamento",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
   "decisoes_travadas": {
     "casal_principal": "Daniel Reyes × Vivian Achebe-Costa (Recomendação A)",
     "nome_consultora": "Vivian Achebe-Costa",
@@ -29,7 +29,7 @@
     "Daniel",
     "Vivian"
   ],
-  "next_chapter": 66,
+  "next_chapter": 68,
   "next_pov": "Vivian",
   "pov_rule": "Daniel=ímpar, Vivian=par",
   "chapters": [
@@ -487,17 +487,31 @@
       "words": 878,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 66,
+      "pov": "Vivian",
+      "words": 775,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 67,
+      "pov": "Daniel",
+      "words": 910,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "heat_log": [],
   "scoreboard": {
-    "chapters_done": 65,
-    "total_words": 49939,
-    "pages_kdp": 166,
+    "chapters_done": 67,
+    "total_words": 51624,
+    "pages_kdp": 172,
     "avg_score": 7.0,
-    "pct_to_target": 75
+    "pct_to_target": 77
   },
   "created": "2026-07-14T10:34:11",
-  "updated": "2026-07-14 18:09"
+  "updated": "2026-07-14 18:11"
 }
