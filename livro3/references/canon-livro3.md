@@ -93,6 +93,27 @@ futuro).
   ("pergunte de novo quando tiver certeza de que quer saber"). Primeira
   fissura pública de Vivian contra a própria fundação.
 
+## Caps 33-34 — Ato 2B começa
+- Cap 33: rede decide expor o Thorne no casamento M&T (prazo 2-3
+  semanas), Malik prepara transmissão simultânea/backup em nuvem.
+  Vivian pede tempo para "resolver uma coisa pessoal" sem contar o quê
+  — primeiro sinal do padrão indo na direção do "pecado espelhado".
+  Mãe do Daniel (viva, mora perto da irmã) tem uma frase-chave:
+  "às vezes nós confundimos susto com amor, e aí a dor vem do jeito
+  errado".
+- Cap 34 — A CHANTAGEM: mãe da Vivian internada há 3 meses; parte da
+  conta paga por convênio corporativo da Fundação Alvorada ("assistência
+  estendida a colaboradores de alto desempenho"), ativado há 2 anos sem
+  autorização dela. Selma confirma no almoço: benefício vinculado ao
+  vínculo empregatício — sair da fundação = perder o convênio = dívida
+  hospitalar impagável recai sobre a mãe doente. Não é ameaça explícita,
+  é "matemática impossível". Vivian ainda não contou ao Daniel.
+
+## Cap 35 (HEAT 3/13-14)
+Vivian conta tudo sobre a chantagem; Daniel escuta sem tentar consertar
+sozinho. Promete resolver JUNTOS. Cena lenta, de consolo/reconstrução,
+não urgência — categoria "entrega".
+
 ## Mini-auditoria — fim do Ato 2A (cap 32)
 - Alternância de POV: 100% correta em 32/32 capítulos.
 - Régua: 32/32 LIMPO. Sweep manual adicional por causa do bug do gate

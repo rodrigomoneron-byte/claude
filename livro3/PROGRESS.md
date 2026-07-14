@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 32 / 67
-- Próximo: Capítulo 33 (POV Daniel)
-- Última atualização: 2026-07-14 12:21
+- Capítulos concluídos: 35 / 67
+- Próximo: Capítulo 36 (POV Vivian)
+- Última atualização: 2026-07-14 12:27
 
 ## Placar
-- Palavras: 26730
-- Páginas KDP (~palavras/300): 89
+- Palavras: 28956
+- Páginas KDP (~palavras/300): 97
 - Score médio: 7.0
-- Meta de palavras: 67000 (40%)
+- Meta de palavras: 67000 (43%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
