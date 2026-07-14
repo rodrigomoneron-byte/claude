@@ -1,3 +1,27 @@
+## Revisão externa pós-entrega (relatório "Bia Ferreira" .docx)
+Dono trouxe um relatório de avaliação externo do livro pronto. Pontos
+checados contra o manuscrito real:
+- Nome do autor: desconsiderado a pedido do dono (já resolvido nos
+  L1/L2).
+- "Falta conexão clara Thorne × Fundação Alvorada": INVÁLIDO — já
+  resolvido nos caps 22-24 (Grupo Meridian → Thorne Capital), 54
+  (nomeação pública) e 58 (queda). O relatório parece ter sido gerado
+  sobre a premissa/resumo do livro, não sobre o manuscrito final de 67
+  capítulos.
+- "Conflito da Vivian resolvido rápido demais, só em pensamento":
+  também não bate com o texto (arco de 20 caps, 34-54, com custo real).
+  Ponto fino real por baixo do erro: a escolha dela é auto-motivada,
+  não forçada por ação direta do Daniel — leitura estilística válida,
+  não furo.
+- "Aprofundar conexão Enseada × Alto da Caixa d'Água": única sugestão
+  genuinamente acionável (já existe conexão via Cássio cap 10, ônibus
+  fretado no casamento, horta comunitária cap 64 — mas falta cena
+  dedicada de troca de experiência ANTES do casamento).
+
+DECISÃO DO DONO (2026-07-14): manter o manuscrito como está, sem
+alterações. Nenhuma das sugestões acima será implementada. Projeto
+permanece ENTREGUE — outputs/final/ é a versão final.
+
 # Canon Adicionado no L3 (rastreador de continuidade)
 Detalhes inventados durante a escrita que NÃO estavam na bíblia e que
 precisam ficar consistentes daqui para frente. Atualizar a cada capítulo
