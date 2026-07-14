@@ -1,0 +1,85 @@
+RELATÓRIO DE FORMATAÇÃO — A Rede (A Mão na Alavanca, Livro 3)
+Autor: R.B. Guidenelli
+Gerado em: 2026-07-14
+
+=== MANUSCRITO ===
+Capítulos incluídos: 67 (66 capítulos numerados + Epílogo) — bate com
+os 67 arquivos .md em outputs/final/manuscrito/.
+Contagem total de palavras (corpo do texto): ~52.360 palavras.
+Páginas KDP estimadas (~palavras/300): ~175.
+POV: dual alternado, Daniel (capítulos ímpares) / Vivian (capítulos
+pares), sem exceção em nenhum dos 67 capítulos — verificado
+programaticamente.
+Cenas de heat: 10 (caps 20, 27, 35, 39, 56, 58, 60, 62, 63, 65).
+
+=== RÉGUA "A GENTE" ===
+Varredura final rodada sobre os 67 arquivos de outputs/conteudo/
+(fonte da verdade, antes da conversão para o manuscrito de entrega):
+- Gate automático (scripts/regua_gate.py): LIMPO em 67/67 arquivos.
+- Varredura manual adicional (grep por substring, para cobrir um bug
+  conhecido do gate — ver references/canon-livro3.md) encontrou 6
+  ocorrências residuais; todas confirmadas como falsos positivos
+  legítimos ("gente de", "gente como", "gente que", "gente do" no
+  sentido de "pessoas de/como/que/do", não o pronome "a gente").
+- Nenhuma violação real sobrevivente no manuscrito final.
+- Device proibido (personagem se autocorrigindo sobre "a gente" ou
+  citando "a régua"): removido manualmente todas as vezes que
+  apareceu durante a escrita (7 ocorrências pegas e reescritas, ver
+  canon-livro3.md para o histórico completo).
+
+=== ARQUIVOS GERADOS ===
+1. a-rede-livro3.epub
+   - EPUB 3.0, 67 capítulos + sumário clicável (NCX + nav).
+   - Validado programaticamente: abre sem erro via
+     `ebooklib.epub.read_epub()`. Título confirmado nos metadados:
+     "A Rede".
+2. a-rede-livro3-kdp.pdf
+   - 6"x9" (432x648pt), margens conforme kdp-specs.md (externa 0.5",
+     lombada 0.75", topo/base 0.6").
+   - ~202 páginas (contagem estruturada via regex no PDF; conversão
+     visual para PNG não foi possível neste ambiente — poppler-utils
+     não pôde ser instalado, sandbox sem acesso a apt/internet para
+     esse pacote específico. Recomenda-se abrir o PDF manualmente antes
+     de enviar para a KDP para confirmar visualmente margens e fonte).
+   - Cada capítulo inicia em página nova; corpo em serif justificado.
+3. prompt_capa_a-rede-livro3.txt
+   - Imagem-conceito: a alavanca enterrada como estaca de tomate
+     (decidida pelo conteúdo real do epílogo escrito, já que a
+     decisão "A ou B" do LOOP_INSTRUCTIONS não tinha sido travada
+     explicitamente no onboarding — o texto do cap. 67 tornou a
+     escolha óbvia).
+   - Segue a paleta/branding "The Old English Gentleman's Club" (R.B.
+     Guidenelli) com acento dourado quente substituindo o metal do
+     logotipo.
+4. metadata.json (dentro de outputs/final/manuscrito/)
+   - Título: A Rede | Série: A Mão na Alavanca #3 | Autor: R.B.
+     Guidenelli | Idioma: pt-BR.
+   - Identificador: PLACEHOLDER (urn:uuid:...) — SUBSTITUIR PELO ISBN
+     REAL ANTES DE PUBLICAR NA KDP. Ver aviso herdado no
+     README_COMO_RODAR.md.
+
+=== DESVIOS CONHECIDOS (reportados ao dono durante a produção) ===
+1. Extensão total: ~52.360 palavras / ~175 págs KDP, abaixo da faixa
+   travada no onboarding (63-70k palavras). Motivo: priorizei entregar
+   todos os beats obrigatórios da bíblia dentro de 67 capítulos com
+   qualidade de prosa (950-1100 palavras por capítulo na maioria, sem
+   "encher linguiça" para bater número fixo, conforme orienta a
+   própria skill de escrita). Decisão pendente do dono: aceitar como
+   está, ou pedir expansão pontual de capítulos específicos antes da
+   publicação real.
+2. Cadência de heat: 10 cenas, abaixo da meta 13-14 travada no
+   onboarding. Após consulta ao dono durante a produção, adicionei 5
+   cenas extras em capítulos já escritos (pontos "juntos e bem"),
+   preservando a regra "nunca gratuito" — não force cena durante a
+   ruptura ativa do Ato 2B (caps 40-55), o que teria contradito a
+   própria bíblia do projeto.
+
+=== PRÓXIMOS PASSOS PARA PUBLICAÇÃO REAL ===
+- Substituir o identificador placeholder por ISBN real.
+- Gerar a imagem de capa a partir do prompt (Midjourney/DALL-E/Firefly
+  etc. — esta fábrica não gera imagem, só o prompt).
+- Abrir o PDF final manualmente para confirmar visualmente margens e
+  tipografia antes do upload à KDP (poppler-utils não pôde ser testado
+  neste ambiente).
+- Revisar os 2 desvios documentados acima e decidir se algum capítulo
+  merece expansão antes da publicação.

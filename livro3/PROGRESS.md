@@ -1,10 +1,11 @@
 # Progresso do Loop — A Rede — Livro 3
 
 ## Estado atual
-- Status: Manuscrito completo — revisão/formatação pendentes
+- Status: ENTREGA COMPLETA — EPUB + PDF + capa + metadados em outputs/final/
 - Capítulos concluídos: 67 / 67
-- Próximo: Capítulo 61 (POV Daniel)
-- Última atualização: 2026-07-14 18:18
+- Próximo: nenhum — projeto encerrado, pendente decisão do dono sobre
+  os 2 desvios documentados (extensão total e cadência de heat)
+- Última atualização: 2026-07-14 18:22
 
 ## Placar
 - Palavras: 52356

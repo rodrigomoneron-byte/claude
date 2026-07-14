@@ -1,0 +1,62 @@
+TÍTULO: A Mão na Alavanca — Livro 3: A Rede
+
+DESCRIÇÃO VISUAL:
+Composição vertical, ponto de vista baixo, olhando quase do nível do
+solo. No centro do quadro, uma alavanca de metal antigo e enferrujado
+está fincada na terra escura, como uma estaca — mas em vez de sustentar
+uma placa de despejo ou um mecanismo de máquina, ela sustenta o caule
+fino de uma muda de tomateiro, folhas verdes recém-abertas se
+enroscando devagar no metal. A luz é de fim de tarde, quente, dourada,
+baixa no horizonte, iluminando o metal enferrujado por trás — o
+contorno da alavanca quase brilha em contraluz, âmbar contra a sombra
+que já cai sobre a terra. Ao fundo, fora de foco, sugerido apenas em
+silhueta desfocada: um morro com casas empilhadas subindo em escada
+(o Alto da Caixa d'Água) de um lado, e a linha de uma orla com água
+parada refletindo o mesmo dourado do outro — os dois mundos da série
+(a Enseada e o novo bairro) unidos no mesmo horizonte, sem fronteira
+visível entre eles. Sem rostos, sem figuras humanas explícitas — talvez
+uma sombra alongada e desfocada de alguém ajoelhado ao pé da estaca,
+cortada pela margem inferior do quadro, mãos fora de foco tocando a
+terra. Paleta: verde floresta noturno e carvalho envelhecido dominando
+as sombras e o fundo desfocado (herança visual da marca R.B.
+Guidenelli), quebrados pelo dourado envelhecido da luz de fim de tarde
+batendo no metal e nas folhas verdes — o calor humano atravessando a
+frieza da máquina, mesmo que a máquina, aqui, já esteja domesticada,
+enterrada, servindo a outra coisa.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, rostos legíveis, corpo
+humano em primeiro plano, símbolos de partido, bandeiras, urna
+eleitoral, texto incorporado na imagem, fonte serifada dourada de
+romance histórico, fundo branco genérico, estética de caridade ou
+salvador, clip-art, iluminação fria/branca, mármore e vidro em
+destaque central (isso é capa de L1/L2, não de L3)
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance de
+elite com coração humano — chiaroscuro quente (velas/luz de fim de
+tarde, nunca luz branca), textura de couro/madeira/metal envelhecido
+sugerida nas sombras, consistente com o padrão de série "The Old
+English Gentleman's Club" (verde floresta noturno #1A2421, carvalho
+envelhecido #3D2B1F, ouro envelhecido #C5A059, vinho borgonha #4A0E2E
+como acento pontual, papel pergaminho #E5D3B3 para eventuais elementos
+de texto/citação) — mas com o dourado da luz natural substituindo o
+metal do logotipo como acento quente central desta capa específica.
+
+TIPOGRAFIA (referência, não faz parte do prompt de imagem):
+Título "A REDE" em serif display de alto contraste (Cinzel Decorative
+ou Playfair Display Black), ouro envelhecido #C5A059, centralizado no
+terço inferior do quadro. Nome do autor "R.B. GUIDENELLI" em serif
+clássica (EB Garamond ou Baskerville), menor, abaixo do título.
+Monograma R·B·G entrelaçado em ouro fino, discreto, no canto inferior.
+
+NOTA DE CONTINUIDADE DE SÉRIE:
+Livro 1 e 2 usaram o contraste máquina fria (mármore/vidro/navy) vs.
+calor humano (água, terra, miçangas). Livro 3 fecha a trilogia
+mostrando a máquina literalmente subjugada — a alavanca (ferramenta que
+antes tentou arrancar o bairro do mapa) agora serve de apoio para algo
+vivo crescer. Se o ilustrador quiser amarrar visualmente com as capas
+anteriores, pode incluir, bem discreta e desfocada no fundo, uma
+pulseira de miçangas coloridas pendurada num galho próximo — o mesmo
+símbolo herdado dos livros 1 e 2, ainda vivo aqui.
