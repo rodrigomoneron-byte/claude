@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 63 / 67
-- Próximo: Capítulo 64 (POV Vivian)
-- Última atualização: 2026-07-14 18:06
+- Capítulos concluídos: 65 / 67
+- Próximo: Capítulo 66 (POV Vivian)
+- Última atualização: 2026-07-14 18:09
 
 ## Placar
-- Palavras: 48126
-- Páginas KDP (~palavras/300): 160
+- Palavras: 49939
+- Páginas KDP (~palavras/300): 166
 - Score médio: 7.0
-- Meta de palavras: 67000 (72%)
+- Meta de palavras: 67000 (75%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
