@@ -50,7 +50,10 @@ deste nicho maratona no Kindle Unlimited (remuneração por página lida).
   hospitais, tatuagem da bússola quebrada. Não sabe quem é fora do hóquei.
 - **Isadora "Isa" Conti** (24→26): artista plástica, presa na gaiola dourada de
   Baz. Mãos manchadas de tinta, paleta que clareou sob o controle dele.
-  Arco: sombra → albergue/garçonete/murais → artista independente.
+  Arco: sombra → albergue/garçonete/murais → artista independente. Mãe era
+  costureira, morreu de câncer quando Isa tinha 19 anos (18 meses de
+  diagnóstico até o fim); deixou uma caixa de retalhos nunca aberta, guardada
+  na casa do pai — fato de canon estabelecido no cap. 5 do Livro 1.
 - **Sebastian "Baz" Vance** (26→28): capitão do Toronto Maple Leafs. Psicopatia
   funcional: controla para silenciar o "você não é suficiente". REGRA:
   compreendido, NUNCA redimido. Sem abraço final, sem perdão.
