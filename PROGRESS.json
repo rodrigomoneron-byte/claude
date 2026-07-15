@@ -1,8 +1,8 @@
 {
   "projeto": "Gelo e Sangue",
   "atualizado_em": "2026-07-15",
-  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-7 reescritos e aprovados (9/9 cada), renumerados de 11 para 10 capitulos totais (caps 7+8 originais fundidos; caps 9-11 originais viravam novos 8-10, com conteudo Baz-only cortado/adaptado). Capitulos 8-10 ainda faltam.",
-  "proxima_acao": "Escrever capitulo 8 (POV Isa, 1a pessoa) - escalada de tensao ate a materia estourar. Validar, corrigir, registrar, avancar para capitulo 9",
+  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-8 reescritos e aprovados (9/9 cada). Faltam caps 9 (materia estoura + confronto com envelope) e 10 (fecho: albergue, fim do livro).",
+  "proxima_acao": "Escrever capitulo 9 (POV Isa, 1a pessoa) - materia estoura (Isa descobre por noticia), Baz confronta com o envelope ja plantado no cap 8, Isa vai embora. Validar, corrigir, registrar, avancar para capitulo 10 (final)",
   "metas": {
     "palavras_por_capitulo": { "meta_min": 3000, "meta_max": 5000, "piso_absoluto": 2500 },
     "palavras_por_livro": { "meta_min": 70000, "meta_max": 90000, "piso_absoluto": 65000 },
@@ -23,7 +23,7 @@
         { "n": 5, "palavras": 2582, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-05.md" },
         { "n": 6, "palavras": 2464, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "tipo": "HOT", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-06.md" },
         { "n": 7, "palavras": 2401, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "nota": "Absorve o conteudo original dos caps 7 e 8 (viagem a Montreal + quase flagra) num so capitulo", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-07.md" },
-        { "n": 8, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 9 (Baz-only, planilha/investigador/jornalista - cortado por violar POV). Conteudo novo: escalada de tensao vista por Isa (mostra se aproxima, Baz cada vez mais 'paciente') ate a materia estourar." },
+        { "n": 8, "palavras": 2496, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa", "nota": "Substitui o antigo cap. 9 (Baz-only, cortado). Mostra individual de Isa + escalada de tensao + envelope misterioso no escritorio de Baz.", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-08.md" },
         { "n": 9, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 10. Materia estoura (Isa descobre por noticia/ligacao), Baz confronta com envelope de provas, Isa vai embora." },
         { "n": 10, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 11. So POV Isa: ela nao sabe em tempo real da cirurgia do Dante (fica mais forte assim). Albergue, primeira noite sozinha, talvez ve a coletiva do Baz na TV. Fecha o Livro 1." }
       ],
