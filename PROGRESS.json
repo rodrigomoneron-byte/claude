@@ -1,0 +1,42 @@
+{
+  "projeto": "Gelo e Sangue",
+  "atualizado_em": "2026-07-15",
+  "tarefa_atual": "REESCRITA_LIVRO_1: os capitulos 1-11 foram escritos SEM o kit (3a pessoa, POV alternado/misturado, 1000-1900 palavras). Nao e so expandir - precisam ser reescritos em 1a pessoa, Isa como voz primaria (regra L1/L3), aplicando as 9 marcas, ate 3000-5000 palavras cada.",
+  "proxima_acao": "Reescrever capitulo 1 do zero (POV Isa, 1a pessoa): validar com juju-voice-validator, corrigir, registrar aqui, so entao avancar para o capitulo 2",
+  "metas": {
+    "palavras_por_capitulo": { "meta_min": 3000, "meta_max": 5000, "piso_absoluto": 2500 },
+    "palavras_por_livro": { "meta_min": 70000, "meta_max": 90000, "piso_absoluto": 65000 },
+    "capitulos_por_livro": { "min": 22, "max": 28 },
+    "score_minimo_voice_validator": 8
+  },
+  "livros": {
+    "livro_1_gelo": {
+      "status": "em_expansao",
+      "palavras_atuais": 13550,
+      "capitulos_escritos": 11,
+      "capitulos_planejados": "22-28 (definir outline apos expansao)",
+      "capitulos": [
+        { "n": 1, "palavras": 1871, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 2, "palavras": 1578, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 3, "palavras": 1236, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 4, "palavras": 1091, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 5, "palavras": 1237, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 6, "palavras": 1161, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Baz+Dante+Isa misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 7, "palavras": 932, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 8, "palavras": 1119, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 9, "palavras": 978, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Baz, 3a pessoa", "pov_correto": "Isa, 1a pessoa (ou cortar/relatar indiretamente)" },
+        { "n": 10, "palavras": 1069, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa+Baz misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 11, "palavras": 1274, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa+Baz intercalado, 3a pessoa", "pov_correto": "Isa, 1a pessoa (ou cortar/relatar indiretamente)" }
+      ],
+      "nota": "Contagens reais medidas em 2026-07-15. Todos os 11 capitulos foram escritos antes da instalacao do kit: 3a pessoa, POV alternado/misturado (viola regra L1/L3 = Isa e a voz primaria), sem as 9 marcas aplicadas sistematicamente. Tratar como reescrita, nao expansao de texto existente."
+    },
+    "livro_2_sangue": { "status": "bloqueado_ate_livro_1", "palavras_atuais": 0, "capitulos_escritos": 0 },
+    "livro_3_raiz": { "status": "bloqueado_ate_livro_2", "palavras_atuais": 0, "capitulos_escritos": 0 }
+  },
+  "regras_de_estado": [
+    "Toda sessao comeca lendo este arquivo",
+    "Todo capitulo concluido atualiza: palavras, status (pronto), score_9marcas",
+    "Status validos: curto_expandir | em_revisao | pronto",
+    "Nenhum capitulo vira 'pronto' com palavras < 2500 ou score < 8"
+  ]
+}
