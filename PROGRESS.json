@@ -1,8 +1,8 @@
 {
   "projeto": "Gelo e Sangue",
   "atualizado_em": "2026-07-15",
-  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-6 reescritos e aprovados (9/9 cada). Capitulo 6 e o primeiro HOT (1 de 6 ate agora, dentro da meta usuario de 80/20). Capitulos 7-11 ainda pendentes de reescrita total.",
-  "proxima_acao": "Reescrever capitulo 7 do zero (POV Isa, 1a pessoa) - originalmente quase-flagra em hotel de Montreal (Dante POV). Adaptar: Isa viaja pra ver jogo fora, quase sao vistos por companheiro de time. Segundo capitulo HOT provavel aqui. Validar, corrigir, registrar, avancar para capitulo 8",
+  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-7 reescritos e aprovados (9/9 cada), renumerados de 11 para 10 capitulos totais (caps 7+8 originais fundidos; caps 9-11 originais viravam novos 8-10, com conteudo Baz-only cortado/adaptado). Capitulos 8-10 ainda faltam.",
+  "proxima_acao": "Escrever capitulo 8 (POV Isa, 1a pessoa) - escalada de tensao ate a materia estourar. Validar, corrigir, registrar, avancar para capitulo 9",
   "metas": {
     "palavras_por_capitulo": { "meta_min": 3000, "meta_max": 5000, "piso_absoluto": 2500 },
     "palavras_por_livro": { "meta_min": 70000, "meta_max": 90000, "piso_absoluto": 65000 },
@@ -22,11 +22,10 @@
         { "n": 4, "palavras": 2957, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-04.md" },
         { "n": 5, "palavras": 2582, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-05.md" },
         { "n": 6, "palavras": 2464, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "tipo": "HOT", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-06.md" },
-        { "n": 7, "palavras": 932, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
-        { "n": 8, "palavras": 1119, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
-        { "n": 9, "palavras": 978, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Baz, 3a pessoa", "pov_correto": "Isa, 1a pessoa (ou cortar/relatar indiretamente)" },
-        { "n": 10, "palavras": 1069, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa+Baz misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
-        { "n": 11, "palavras": 1274, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa+Baz intercalado, 3a pessoa", "pov_correto": "Isa, 1a pessoa (ou cortar/relatar indiretamente)" }
+        { "n": 7, "palavras": 2401, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "nota": "Absorve o conteudo original dos caps 7 e 8 (viagem a Montreal + quase flagra) num so capitulo", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-07.md" },
+        { "n": 8, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 9 (Baz-only, planilha/investigador/jornalista - cortado por violar POV). Conteudo novo: escalada de tensao vista por Isa (mostra se aproxima, Baz cada vez mais 'paciente') ate a materia estourar." },
+        { "n": 9, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 10. Materia estoura (Isa descobre por noticia/ligacao), Baz confronta com envelope de provas, Isa vai embora." },
+        { "n": 10, "palavras": 0, "status": "a_escrever", "score_9marcas": null, "nota": "Substitui o antigo cap. 11. So POV Isa: ela nao sabe em tempo real da cirurgia do Dante (fica mais forte assim). Albergue, primeira noite sozinha, talvez ve a coletiva do Baz na TV. Fecha o Livro 1." }
       ],
       "nota": "Contagens reais medidas em 2026-07-15. Todos os 11 capitulos foram escritos antes da instalacao do kit: 3a pessoa, POV alternado/misturado (viola regra L1/L3 = Isa e a voz primaria), sem as 9 marcas aplicadas sistematicamente. Tratar como reescrita, nao expansao de texto existente."
     },
