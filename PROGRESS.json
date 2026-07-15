@@ -1,8 +1,8 @@
 {
   "projeto": "Gelo e Sangue",
   "atualizado_em": "2026-07-15",
-  "tarefa_atual": "REESCRITA_LIVRO_1: capitulo 1 reescrito e aprovado (ver detalhe). Capitulos 2-11 ainda pendentes de reescrita total (3a pessoa, POV alternado/misturado, abaixo do piso de palavras).",
-  "proxima_acao": "Reescrever capitulo 2 do zero (POV Isa, 1a pessoa), validar com juju-voice-validator, corrigir, registrar aqui, so entao avancar para o capitulo 3",
+  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-2 reescritos e aprovados (9/9 cada). Capitulos 3-11 ainda pendentes de reescrita total.",
+  "proxima_acao": "Reescrever capitulo 3 do zero (POV Isa, 1a pessoa) - cortar cena da ligacao do Marco (Dante-only, viola POV), manter encontro na galeria contado por Isa. Validar, corrigir, registrar, avancar para capitulo 4",
   "metas": {
     "palavras_por_capitulo": { "meta_min": 3000, "meta_max": 5000, "piso_absoluto": 2500 },
     "palavras_por_livro": { "meta_min": 70000, "meta_max": 90000, "piso_absoluto": 65000 },
@@ -17,7 +17,7 @@
       "capitulos_planejados": "22-28 (definir outline apos expansao)",
       "capitulos": [
         { "n": 1, "palavras": 3046, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-01.md" },
-        { "n": 2, "palavras": 1578, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 2, "palavras": 3048, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-02.md" },
         { "n": 3, "palavras": 1236, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
         { "n": 4, "palavras": 1091, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante+Isa misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
         { "n": 5, "palavras": 1237, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
