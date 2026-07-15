@@ -1,8 +1,8 @@
 {
   "projeto": "Gelo e Sangue",
   "atualizado_em": "2026-07-15",
-  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-5 reescritos e aprovados (9/9 cada). Capitulos 6-11 ainda pendentes de reescrita total.",
-  "proxima_acao": "Reescrever capitulo 6 do zero (POV Isa, 1a pessoa) - originalmente Baz monta planilha de rastreamento (Baz-only, corta) + Dr. Halbrook alerta Dante (Dante-only, corta). Substituir por: escalada da tensao com Baz do ponto de vista da Isa, e Dante contando a ela sobre o alerta medico em dialogo. Validar, corrigir, registrar, avancar para capitulo 7",
+  "tarefa_atual": "REESCRITA_LIVRO_1: capitulos 1-6 reescritos e aprovados (9/9 cada). Capitulo 6 e o primeiro HOT (1 de 6 ate agora, dentro da meta usuario de 80/20). Capitulos 7-11 ainda pendentes de reescrita total.",
+  "proxima_acao": "Reescrever capitulo 7 do zero (POV Isa, 1a pessoa) - originalmente quase-flagra em hotel de Montreal (Dante POV). Adaptar: Isa viaja pra ver jogo fora, quase sao vistos por companheiro de time. Segundo capitulo HOT provavel aqui. Validar, corrigir, registrar, avancar para capitulo 8",
   "metas": {
     "palavras_por_capitulo": { "meta_min": 3000, "meta_max": 5000, "piso_absoluto": 2500 },
     "palavras_por_livro": { "meta_min": 70000, "meta_max": 90000, "piso_absoluto": 65000 },
@@ -21,7 +21,7 @@
         { "n": 3, "palavras": 3047, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-03.md" },
         { "n": 4, "palavras": 2957, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-04.md" },
         { "n": 5, "palavras": 2582, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-05.md" },
-        { "n": 6, "palavras": 1161, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Baz+Dante+Isa misturado, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
+        { "n": 6, "palavras": 2464, "status": "pronto", "score_9marcas": "9/9", "pov_atual": "Isa, 1a pessoa (corrigido)", "tipo": "HOT", "validacao": "livros/gelo-e-sangue/livro-1-gelo/validacoes/capitulo-06.md" },
         { "n": 7, "palavras": 932, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
         { "n": 8, "palavras": 1119, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Isa+Dante, 3a pessoa", "pov_correto": "Isa, 1a pessoa" },
         { "n": 9, "palavras": 978, "status": "reescrever_pov_errado", "score_9marcas": null, "pov_atual": "Baz, 3a pessoa", "pov_correto": "Isa, 1a pessoa (ou cortar/relatar indiretamente)" },
