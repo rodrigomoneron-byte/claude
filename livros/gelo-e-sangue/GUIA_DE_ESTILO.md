@@ -20,6 +20,10 @@ Título pertence à fábrica de livros **Riccardo Guidenelli**, mesmo selo de ou
 |---|---|---|---|
 | 1 — Gelo | 01 | NÃO-HOT | Dante em jogo contra Toronto; cotovelada de Baz; primeira aparição da lesão. |
 | 1 — Gelo | 02 | NÃO-HOT | POV Isa: a gaiola dourada com Baz; café com Dante; Baz rastreia a localização dela. |
+| 1 — Gelo | 03 | NÃO-HOT | Marco cobra Dante por telefone; encontro na porta da galeria; vínculo emocional cresce. |
+| 1 — Gelo | 04 | NÃO-HOT | Encontros secretos viram hábito; Isa quase se entrega ao dizer que "vai fazer besteira"; Baz calcula. |
+| 1 — Gelo | 05 | HOT | Primeira noite juntos, gatilhada pela frieza de Baz sobre o aniversário da mãe dela. |
+| 1 — Gelo | 06 | NÃO-HOT | Baz monta planilha de rastreamento e identifica o prédio de Dante; Dr. Halbrook alerta sobre a lesão. |
 
 ## Fatos fixos de continuidade
 
