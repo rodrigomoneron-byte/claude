@@ -3,14 +3,14 @@
 ## Estado atual
 - Status: ONBOARDING CONCLUÍDO — loop autorizado a partir do Capítulo 1
 - Capítulos concluídos: 40 / 60
-- Próximo: Capítulo 31 (POV Dante)
-- Última atualização: 2026-07-16 22:43
+- Próximo: Capítulo 33 (POV Dante)
+- Última atualização: 2026-07-16 22:44
 
 ## Placar
-- Palavras: 37097
-- Páginas KDP (~palavras/300): 124
+- Palavras: 37565
+- Páginas KDP (~palavras/300): 125
 - Score médio: 6.83
-- Meta de palavras: 60000 (62%)
+- Meta de palavras: 60000 (63%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

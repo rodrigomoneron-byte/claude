@@ -99,3 +99,35 @@ tentando decidir se finalmente permito que essa versão nova do meu
 pai — imperfeita, tardia, mas real — tenha espaço para existir ao
 lado de todos os anos de mágoa que ainda carrego sem saber bem como
 soltar.
+
+Josh aparece no fim da tarde, trazendo um sanduíche que sei que não
+vou conseguir comer por causa da anestesia ainda pesando no estômago,
+e senta na cadeira ao lado da cama sem precisar de convite.
+
+— Seu pai ligou pro clube perguntando como você estava — comenta,
+casual, testando o terreno. — Falaram que ele parecia genuinamente
+preocupado.
+
+— Ele ligou pra mim também. Falamos umas coisas que nunca tínhamos
+falado antes.
+
+— Boas coisas?
+
+— Difíceis. Mas boas, acho. — Encaro o teto, ainda processando. —
+Ele admitiu que também escondeu uma lesão, na época dele. Disse que
+tentou me poupar do mesmo erro gritando comigo a vida inteira. Só
+que isso me ensinou a esconder ainda melhor.
+
+Josh assobia baixo, impressionado.
+
+— Isso é mais autoconhecimento do que a maioria dos pais consegue ter
+numa vida inteira.
+
+— É. — Sorrio, cansado, mas real. — Não conserta os últimos vinte
+anos. Mas é um começo.
+
+Ficamos em silêncio um tempo, o quarto de hospital quieto exceto pelo
+bipe regular dos aparelhos monitorando meus sinais vitais, e há
+alguma coisa reconfortante nesse silêncio compartilhado, o tipo que
+só existe entre pessoas que já provaram, repetidas vezes, que não
+precisam preencher cada segundo com palavra nenhuma.

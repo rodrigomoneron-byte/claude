@@ -15,6 +15,14 @@ depois de cada troca de mensagem.
 Apaguei. Sempre apago. Mas a dúvida já se instalou, e dúvida, uma vez
 instalada, não sai fácil.
 
+Reviso o celular inteiro, aplicativo por aplicativo, procurando
+qualquer rastro que possa ter deixado por descuido — uma notificação
+não apagada, uma foto salva no lugar errado, um histórico de busca
+revelador. Não encontro nada. Ainda assim, o coração continua batendo
+acelerado, o corpo reagindo mais rápido do que a mente consegue
+racionalizar, como se já soubesse, antes de qualquer prova concreta,
+que o tempo de segurança relativa está acabando.
+
 Passo o resto da manhã repassando mentalmente cada precaução que tomo
 há meses — conversas apagadas, fotos guardadas numa pasta escondida no
 computador do estúdio, nunca no celular, encontros marcados sempre por
@@ -41,6 +49,14 @@ um pode nos fotografar sem aviso. Nossa privacidade importa.
 Não sei se acredito na explicação. A palavra "nossa" pesa de um jeito
 estranho, como se ele estivesse, sem dizer diretamente, expandindo o
 perímetro de vigilância para incluir mais do que câmeras externas.
+
+O consultor, descubro enquanto ele fala, mesmo trabalha para outros
+dois jogadores do time — nomes que reconheço vagamente de eventos
+anteriores — o que significa que essa não é uma decisão impulsiva,
+tomada num momento de paranoia isolada. É pesquisada, recomendada,
+provavelmente planejada há semanas, silenciosamente, enquanto eu
+continuava acreditando, ingênua, que qualquer suspeita dele ainda
+estava no estágio de dúvida vaga.
 
 — Quando esse consultor vem? — pergunto, tentando parecer apenas
 curiosa, calculando por dentro se preciso apagar rastros de qualquer
@@ -101,3 +117,19 @@ deitada no escuro, olhando as costas de Baz, sentindo pela primeira
 vez em meses que talvez não exista mais tempo suficiente para decidir
 as coisas devagar, do jeito cuidadoso que vinha tentando manter até
 aqui.
+
+Fico ali, no escuro, incapaz de dormir, repassando cada palavra da
+conversa no jantar. *Às vezes sinto que você esqueceu.* A frase gira
+na cabeça, ganhando peso a cada repetição, e tento imaginar o que ele
+quis dizer exatamente — esqueceu o quê? A gratidão que ele espera? A
+versão dela que ele construiu ao longo de seis anos? Ou algo mais
+específico, algo que ele já suspeita mas ainda não tem coragem, ou
+paciência calculada suficiente, para confrontar diretamente?
+
+Penso em todas as pequenas rachaduras que se acumularam nos últimos
+meses — o vestido verde, as perguntas sobre os domingos, o celular
+deslocado, agora esse comentário — e percebo que nenhuma delas,
+isolada, seria suficiente para condenar nada. Juntas, formam um
+padrão que um homem como Baz, treinado a vida inteira para reconhecer
+fraqueza e oportunidade, certamente já está catalogando com precisão
+cirúrgica, esperando o momento certo de agir.
