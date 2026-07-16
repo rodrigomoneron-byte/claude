@@ -62,8 +62,17 @@
   dos dois está caçando o outro).
 - Regra de gap máximo: nunca mais de 5-6 capítulos sem oportunidade real
   DEPOIS da primeira cena — mas nunca forçar cena que contradiga o beat
-  da trama. Nenhuma cena no Ato 3 (colapso/exposição) — não cabe
-  emocionalmente, mesma lição aprendida no L3 "A Rede".
+  da trama.
+- **REVISADO (pós-cap. 40, decisão explícita do dono):** a proibição
+  original de cena no Ato 3 foi REABERTA a pedido do dono, para permitir
+  bater a meta de ~12 cenas travada no onboarding. Cena(s) no Ato 3 são
+  permitidas SE emocionalmente justificadas pelo beat exato do capítulo
+  (ex.: última vez juntos antes da exposição, reencontro breve em meio
+  ao colapso) — continua valendo "nunca gratuito", só a proibição
+  categórica de local-no-ato foi removida. Evitar colocar cena no
+  capítulo do clímax da exposição em si nem nos capítulos finais de
+  queda pura (maca, fuga) — priorizar janelas de proximidade real ainda
+  plausíveis antes da ruptura consumada.
 - Nunca gratuito: cada cena avança a relação (identificação mútua,
   trégua, entrega) — nunca é sedução calculada de nenhum dos dois lados.
 

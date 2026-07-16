@@ -178,6 +178,15 @@ cumpridas, não só documentadas como desvio aceitável.
   ponto em aberto — decisão sobre permitir cena(s) no Ato 3 (revisão
   da bíblia) cabe ao dono, não ao modelo decidir sozinho.
 
+## Regra de heat no Ato 3 — REABERTA (decisão explícita do dono)
+
+O dono autorizou explicitamente reabrir a proibição de cena no Ato 3
+para permitir aproximar da meta de ~12 cenas. Plano: adicionar cenas
+emocionalmente justificadas em pontos específicos do Ato 3 (não no
+capítulo do clímax da exposição em si, não nos capítulos finais de
+queda pura — maca, fuga). Alvo: 4 cenas adicionais em caps 41-55,
+elevando o total de 6 para 10 cenas reais até o fim do livro.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)

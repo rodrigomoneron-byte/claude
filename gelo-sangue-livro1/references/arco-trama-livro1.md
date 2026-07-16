@@ -111,8 +111,12 @@ redescoberta de identidade, família disfuncional, o preço do sucesso.
    igual ao L3 "A Rede"), total estimado ~57-66k palavras.
 3. **Heat:** registro explícito-elegante, cadência 80/20 (~12 cenas em
    60 capítulos), primeira cena ~cap 24-28, nunca gratuita, nunca antes
-   da janela (slow burn deliberado), nunca durante o colapso final do
-   Ato 3 (não caberia emocionalmente — mesma lição aprendida no L3).
+   da janela (slow burn deliberado). **REVISADO pós-cap. 40:** a
+   proibição de cena no Ato 3 foi reaberta a pedido explícito do dono,
+   para permitir bater a meta de ~12 cenas — permitidas se
+   emocionalmente justificadas (ex.: última vez juntos antes da
+   exposição), evitando os capítulos de clímax da exposição em si e os
+   de queda pura no fechamento.
 4. **POV:** Dante ímpar / Isa par, 1ª pessoa presente. Baz nunca narra.
 5. **Escopo do Livro 1:** termina SEM resolução (fiel à sinopse
    fornecida) — não comprimir nem "consertar" o final para ficar mais

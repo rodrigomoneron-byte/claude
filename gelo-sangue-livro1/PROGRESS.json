@@ -6,7 +6,7 @@
   "decisoes_travadas": {
     "nomes_de_time": "Fictícios — Boston Griffins (Dante), Toronto Comets (Baz), Fort McMurray Oil Barons (redenção, L2/L3). Liga fictícia com acesso/rebaixamento entre 1ª e 2ª divisão, sem nome de marca própria. Nunca usar nomes reais de franquias da NHL da fonte original.",
     "extensao": "Seguir o padrão da casa — 60 capítulos, ~950-1100 palavras/cap, total ~57.000-66.000 palavras, sem epílogo neste volume (final proposital em aberto/dark).",
-    "heat": "Explícito-elegante, cadência 80/20 (~12 cenas em 60 caps), 1ª cena entre cap 24-28, gap máximo 5-6 caps depois da 1ª cena, nenhuma cena no Ato 3.",
+    "heat": "Explícito-elegante, cadência 80/20 (~12 cenas em 60 caps), 1a cena entre cap 24-28, gap máximo 5-6 caps depois da 1a cena. REVISADO pós-cap 40: proibição de cena no Ato 3 reaberta a pedido do dono para permitir bater a meta de ~12 — permitidas se emocionalmente justificadas, evitando os capítulos de clímax da exposição e de queda pura.",
     "inicio": "Sim, montar e começar — projeto montado, onboarding rápido concluído, loop autorizado a iniciar imediatamente no Capítulo 1 sem checkpoint humano adicional."
   },
   "target": 60,
