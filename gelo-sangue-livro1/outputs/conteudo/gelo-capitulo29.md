@@ -116,3 +116,30 @@ primeira vez em anos que talvez não precise enfrentar essa parte
 sozinho — nem o pai que só vai cobrar recuperação rápida, nem o clube
 que só vai calcular prejuízo financeiro, mas alguém que finalmente
 escolhe aparecer só porque se importa de verdade.
+
+A assessora de imprensa entra no vestiário médico minutos depois,
+celular já na mão, esboçando a nota oficial que vai sair antes da
+meia-noite. Pergunta detalhes que preciso repetir mais uma vez —
+quando a dor começou, se avisei alguém antes, se existe histórico
+familiar — e respondo cada pergunta com a voz mais neutra que consigo
+reunir, sabendo que cada palavra vai virar parágrafo editado para
+soar profissional, controlado, nada como a bagunça real que essa
+noite representa.
+
+O técnico aparece por último, o rosto carregando uma mistura de
+preocupação genuína e cálculo estratégico que reconheço bem — quantos
+jogos sem mim, quem assume minha posição, como isso afeta a
+classificação. Não julgo. É o trabalho dele pensar assim. Só sinto,
+mais uma vez, o peso de ser, ao mesmo tempo, pessoa e ativo, sofrimento
+real e linha de planilha.
+
+Quando finalmente saio do centro de treinamento, tarde da noite, o
+estacionamento quase vazio, encontro Josh esperando encostado no
+próprio carro, guardando a mesma paciência silenciosa que sempre
+guardou por mim.
+
+— Vim te levar pra casa — diz, simples, sem perguntar se eu queria
+carona. — Você não devia dirigir hoje.
+
+Entro no carro sem discutir, grato demais para insistir em
+independência que não tenho energia para fingir.

@@ -98,3 +98,39 @@ tremendo de adrenalina, o coração ainda dividido entre dois lugares
 diferentes, mas nenhuma parte de mim se arrependendo da escolha que
 acabei de fazer, mesmo sabendo o preço que ela pode custar se algum
 dia vier à tona por completo.
+
+Chego em casa antes de Baz, tempo suficiente para trocar de roupa,
+lavar o rosto, praticar a versão editada da tarde que vou contar
+quando ele perguntar como foi a "reunião". Sento na cozinha, esperando,
+o coração ainda não completamente calmo, revisando mentalmente cada
+detalhe da mentira que preciso sustentar — horário, local, quem
+estava presente, o que discutimos.
+
+Quando ele chega, beija minha testa distraído, pergunta se a reunião
+rendeu, e eu respondo com detalhes inventados que soam convincentes
+demais para o próprio conforto, um talento que não sabia que possuía
+até precisar usá-lo repetidamente nos últimos meses.
+
+— Você parece cansada — comenta, servindo água para os dois.
+
+— Foi um dia longo.
+
+Não é mentira, essa parte. Foi, de fato, um dia longo — só não pelos
+motivos que ele imagina. Janto em silêncio quase completo, respondendo
+com monossílabos às perguntas sobre o próprio dia dele, a mente ainda
+presa naquele quarto de hospital branco demais, no jeito como Dante
+segurou minha mão como quem segura a última coisa sólida num mundo
+que virou líquido embaixo dos pés.
+
+Deito cedo, fingindo cansaço genuíno o suficiente para evitar mais
+conversa, e no escuro, antes de dormir, penso em quantas mentiras
+ainda vou precisar contar antes que essa história, de um jeito ou de
+outro, finalmente encontre seu próprio fim.
+
+Baz adormece rápido, a respiração regular preenchendo o quarto, e eu
+fico ali, olhando o teto, o celular escondido debaixo do travesseiro
+vibrando uma última vez antes que eu consiga finalmente dormir: uma
+mensagem de Dante, curta, apenas três palavras — *Obrigado por hoje.*
+Leio até decorar, guardo o celular de volta no esconderijo, e adormeço
+sentindo, apesar de todo o medo, uma certeza teimosa de que valeu a
+pena cada risco daquele dia inteiro.
