@@ -48,6 +48,23 @@ projeto.
   expansão width, corrigindo assunto por assunto, atingiu 900+ na
   maioria). Ritmo aceitável para a meta total de 57-66k.
 
+## Ato 2 — progresso
+
+- **Cap. 21:** primeiro toque real (mão no rosto) debaixo de uma
+  árvore no parque. Ainda não é beijo — trégua consciente, os dois
+  nomeiam o risco em voz alta.
+- **Cap. 23-24:** primeira cena de heat, dentro da janela travada
+  (24-28) — trégua não planejada no apartamento antigo de Isa
+  (segredo que nem Baz conhece: ela ainda paga o aluguel escondido).
+  Registro explícito-elegante, sem vulgaridade/termo clínico, avança a
+  identificação mútua (ombro de Dante, cicatriz de Isa), não é sedução
+  calculada. Duas ocorrências do impulso "a gente" pegas em rascunho
+  (uma em diálogo do Dante, uma em narração da Isa) — reescritas antes
+  do registro. Total de impulsos pegos até aqui: 4 (caps 19, 20, 24×2).
+  Continua reforçando: vigilância constante é necessária em TODO
+  capítulo, sem exceção, mesmo depois de dezenas de capítulos limpos
+  seguidos.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
