@@ -109,6 +109,49 @@ projeto.
   por um humano (ou pelo próprio processo de revisão) ANTES do registro
   — grep automatizado sozinho não pega esse tipo de falha estrutural.
 
+## Auditoria de fim de Ato 2 (cap. 40)
+
+- **POV:** alternância estrita mantida em todos os 40 capítulos, sem
+  exceção. Baz sem POV em nenhum capítulo (confirmado via grep).
+- **Nomes de time:** nenhuma menção a nomes reais da NHL em todo o
+  livro até aqui.
+- **Isolamento de universo:** grep negativo confirma nenhum vazamento
+  de nomes de "A Rede" (os 3 "hits" de Cole/Daniel são falsos positivos
+  de substring — "coletiva"/"médico", não os personagens).
+- **Extensão:** 40 capítulos, 32.720 palavras (~818 palavras/cap em
+  média) — abaixo da faixa-alvo 950-1100/cap. Para bater os
+  57.000-66.000 palavras totais em 60 capítulos, os 20 capítulos
+  restantes do Ato 3 precisam ficar mais perto de 1200-1450
+  palavras/cap em média, OU aceitar um total final mais próximo de
+  50-55k (desvio documentado, mesmo padrão do L3 "A Rede").
+  Recomendação: aumentar a densidade das cenas do Ato 3 (mais alto
+  risco emocional = naturalmente mais texto por capítulo) em vez de
+  forçar padding.
+- **HEAT — DESVIO DE ESCOPO A REPORTAR AO DONO:** meta travada no
+  onboarding era ~12 cenas em 60 capítulos (80/20), todas
+  necessariamente dentro do Ato 2 (única janela permitida — Ato 1 não
+  tem cena, Ato 3 é proibido por design). Só 2 cenas reais aconteceram
+  (cap. 24 e cap. 37), ambas emocionalmente justificadas (trégua não
+  planejada; reconexão de medo após ameaça de Baz), mas o Ato 2
+  terminou sem mais oportunidades organicamente abertas pela trama —
+  entre as duas cenas, o enredo priorizou a cirurgia/recuperação do
+  Dante (incompatível fisicamente com cena por várias semanas) e a
+  escalada de vigilância de Baz (incompatível emocionalmente — medo
+  crescente, não intimidade). Resultado: ~2/12 cenas atingidas, um
+  desvio grande da meta 80/20 original. Isso replica exatamente o
+  padrão do L3 "A Rede", onde a meta de heat também não bateu por
+  razões estruturais e o dono decidiu manter o desvio em vez de forçar
+  cena gratuita. Sem instrução em contrário, sigo o mesmo padrão aqui:
+  não forçar cena que contradiga o beat da trama do Ato 3 (que é
+  puramente colapso — nenhuma cena cabe ali por design, confirmado no
+  onboarding), aceitar o total final abaixo da meta original, e
+  documentar como desvio consciente, não erro.
+- **Bugs de régua pegos nesta leva (documentados em detalhe acima):**
+  cap. 33 (device + "pra gente" dupla ocorrência) e cap. 39 (quebra de
+  quarta parede completa, "recomeço a cena") — os dois casos mais
+  graves do livro até agora. Ambos pegos por leitura manual completa
+  antes do registro, não só grep automatizado.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
