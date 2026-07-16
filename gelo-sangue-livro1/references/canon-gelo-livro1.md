@@ -197,6 +197,14 @@ elevando o total de 6 para 10 cenas reais até o fim do livro.
   reconciliação pai-filho com presença física — checar SEMPRE contra
   a bíblia antes de escrever qualquer cena nova envolvendo Marco.
 
+- **Cap. 57:** rascunho inicial nomeou o treinador ocasional da cena
+  "Marco Renard" — colisão dupla com nomes já travados: "Marco" é o
+  primeiro nome do pai do Dante (Marco Marchetti), e "Renard" é o
+  sobrenome do Treinador Beau Renard, reservado para aparecer só a
+  partir do Livro 2 (Fort McMurray). Pego antes do registro, renomeado
+  para "Gil Novak" — nome sem colisão com nenhum personagem da bíblia
+  ou do universo da casa.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
