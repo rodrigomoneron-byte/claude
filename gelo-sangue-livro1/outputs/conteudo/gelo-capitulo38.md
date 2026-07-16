@@ -96,3 +96,40 @@ Baz sem questionar nada. Alguma coisa em mim já cruzou uma linha que
 não tem volta, e hoje, sentada no chão frio do estúdio, decido que
 prefiro enfrentar o que vier do que voltar a viver do jeito que vivia
 antes.
+
+*Preciso te ver. Baz saiu pra jantar com investidores, só volta
+tarde*, mando, ainda tremendo, e ele responde sem hesitar: *Vem.*
+
+---
+
+Chego ao apartamento dele meia hora depois, e assim que a porta fecha
+atrás de mim, desabo — não em lágrimas, mas num tremor profundo que
+só agora, segura, tenho espaço para sentir por completo. Ele me
+envolve nos braços, sem perguntar nada, só segurando firme enquanto o
+susto acumulado da tarde inteira finalmente encontra saída.
+
+— Ele quase pegou o celular — murmuro contra o peito dele. — Se eu
+tivesse hesitado um segundo a mais...
+
+— Mas não hesitou. Você foi rápida, foi inteligente. — Ele beija o
+topo da minha cabeça, a voz firme, ancorando. — Está aqui, está a
+salvo.
+
+Aos poucos, o tremor cede, e o que fica é só a necessidade física de
+estar perto, de confirmar com o corpo inteiro que ainda existimos,
+ainda estamos aqui, apesar de tudo que quase desmoronou essa tarde.
+Ele me beija devagar, sem pressa nenhuma, e eu me permito, finalmente,
+esquecer por um instante inteiro o medo que carreguei o dia todo,
+substituindo-o por algo mais simples e mais urgente: a certeza do
+corpo dele contra o meu, real, presente, inegável.
+
+Depois, deitados em silêncio, minha cabeça no peito dele, digo,
+baixinho:
+
+— Não sei quanto tempo mais consigo fazer isso sem quebrar de vez.
+
+— Eu sei. — Ele aperta meu ombro, gentil. — Também não sei.
+
+Ficamos ali, sem resposta pronta para o problema maior, só presentes
+um para o outro, roubando mais algumas horas antes que o mundo real,
+inevitavelmente, exija de volta o que emprestou.
