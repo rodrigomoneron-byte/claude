@@ -1,16 +1,19 @@
-# Progresso do Loop — Gelo (Gelo e Sangue, Livro 1)
+# Progresso do Loop — Gelo — Livro 1
 
-## Estado Atual
+## Estado atual
 - Status: ONBOARDING CONCLUÍDO — loop autorizado a partir do Capítulo 1
-- Capítulos: 0/60 | Palavras: 0 | Heat: 0/~12
-- Próximo: Capítulo 1 — POV Dante
+- Capítulos concluídos: 5 / 60
+- Próximo: Capítulo 6 (POV Isa)
+- Última atualização: 2026-07-16 18:03
 
-## Última Iteração
-- (nenhuma — projeto recém-montado)
+## Placar
+- Palavras: 4986
+- Páginas KDP (~palavras/300): 17
+- Score médio: 6.4
+- Meta de palavras: 60000 (8%)
 
-## Próxima Iteração Deve
-1. Escrever Capítulo 1 (POV Dante, ímpar), ~950-1100 palavras
-2. Validar régua (regua_gate.py + grep manual "a gente")
-3. Validar marcas (bia-ferreira-voice-validator, 7 marcas do project_dna.md deste projeto)
-4. Registrar via scripts/loop_state.py record
-5. Seguir para o Capítulo 2 (POV Isa) sem parar
+## Capítulos com ressalva (refinar no final)
+- Nenhum.
+
+## Bloqueios
+- Nenhum.

@@ -11,20 +11,59 @@
   },
   "target": 60,
   "word_target": 60000,
-  "povs": ["Dante", "Isa"],
-  "next_chapter": 1,
-  "next_pov": "Dante",
+  "povs": [
+    "Dante",
+    "Isa"
+  ],
+  "next_chapter": 6,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
-  "chapters": [],
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Dante",
+      "words": 1113,
+      "score": 6.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 2,
+      "pov": "Isa",
+      "words": 979,
+      "score": 6.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 3,
+      "pov": "Dante",
+      "words": 965,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 4,
+      "pov": "Isa",
+      "words": 959,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 5,
+      "pov": "Dante",
+      "words": 970,
+      "score": 6.0,
+      "status": "aprovado"
+    }
+  ],
   "blocks": [],
   "heat_log": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
-    "heat_scenes": 0
+    "chapters_done": 5,
+    "total_words": 4986,
+    "pages_kdp": 17,
+    "avg_score": 6.4,
+    "pct_to_target": 8
   },
-  "created": "2026-07-16"
+  "created": "2026-07-16",
+  "updated": "2026-07-16 18:03"
 }
