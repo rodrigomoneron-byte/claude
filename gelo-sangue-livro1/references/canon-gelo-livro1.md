@@ -152,6 +152,32 @@ projeto.
   graves do livro até agora. Ambos pegos por leitura manual completa
   antes do registro, não só grep automatizado.
 
+## Rework de escopo (pedido explícito do dono, pós-cap. 40)
+
+Dono recusou o desvio de escopo aceito na auditoria original e pediu
+que a extensão e a cadência de heat travadas fossem efetivamente
+cumpridas, não só documentadas como desvio aceitável.
+
+- **Extensão:** todos os 40 capítulos revisados e expandidos.
+  Resultado: 39.828 palavras em 40 capítulos (~995 palavras/cap,
+  faixa real 926-1113), dentro da meta 950-1100 (poucos capítulos
+  ficam entre 926-949, dentro da margem de arredondamento). Projeção
+  para 60 capítulos no mesmo ritmo: ~59.700 palavras — dentro da meta
+  total de 57.000-66.000.
+- **Heat:** cadência elevada de 2 para 6 cenas reais, todas dentro do
+  Ato 2 (única janela permitida pela bíblia — Ato 1 não tem, Ato 3 é
+  proibido por decisão travada no onboarding): caps 24, 25, 27, 35,
+  37, 38. Todas nascem de contexto emocional real (trégua, manhã
+  seguinte, celebração, medo pós-ameaça, cuidado durante recuperação,
+  conforto pós-susto) — nenhuma gratuita. Ainda abaixo da meta de ~12,
+  porque as oportunidades de encontro privado dentro do Ato 2 se
+  esgotaram sem violar: (a) a janela de abertura cap 24-28, (b) o
+  realismo médico da recuperação do ombro (única cena durante
+  recuperação foi cap 35, semanas pós-cirurgia, não imediatamente
+  após), (c) a regra de nenhuma cena no Ato 3. Reportado ao dono como
+  ponto em aberto — decisão sobre permitir cena(s) no Ato 3 (revisão
+  da bíblia) cabe ao dono, não ao modelo decidir sozinho.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)

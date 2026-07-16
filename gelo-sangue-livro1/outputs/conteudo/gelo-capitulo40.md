@@ -18,7 +18,11 @@ incidente novo. Talvez ele tenha desistido de investigar.
 lago. — Ou talvez ele só esteja sendo mais paciente do que imaginamos.
 
 Não respondo, porque a possibilidade pesa mais do que qualquer
-otimismo que eu tentava construir.
+otimismo que eu tentava construir. Semanas de calmaria conseguiram,
+sem que eu percebesse direito, baixar minha guarda mais do que
+deveria — e é só agora, ouvindo Dante verbalizar a dúvida que eu
+mesma vinha evitando, que sinto o quanto essa falsa sensação de
+segurança poderia custar caro.
 
 Caminhamos em silêncio por um trecho, só o som das folhas secas
 estalando sob os pés, e observo Dante de perfil, o jeito como o sol
@@ -85,3 +89,30 @@ essa é só mais uma peça no jogo mais longo que ele sempre soube jogar
 melhor do que qualquer um. Só sei que o inverno que pressenti meses
 atrás, olhando aquela primeira foto vazada, acabou de anunciar,
 oficialmente, que chegou.
+
+— Vou tomar banho — consigo dizer, a voz mais controlada do que
+qualquer coisa que sinto por dentro, e subo as escadas devagar,
+sentindo o olhar dele nas costas o tempo todo, como se ele já
+soubesse exatamente o efeito que a frase teve e estivesse, com
+paciência cirúrgica, esperando para ver quanto tempo eu levo para
+quebrar.
+
+No banheiro, com a água quente correndo, encosto a testa na parede
+fria dos azulejos e permito, finalmente, que o medo aflore por
+completo — não em lágrimas, ainda não, mas num tremor que percorre o
+corpo inteiro, o tipo de tremor que só existe quando a ameaça deixa de
+ser hipotética e vira, de repente, cronometrada.
+
+Um investigador particular significa fotos, gravações, provas
+concretas reunidas com paciência profissional — muito além do que
+qualquer câmera de paparazzi amadora já conseguiu capturar. Significa
+que a ilusão de controle que Dante e eu vínhamos cultivando, semana
+após semana, talvez já não exista mais, mesmo que nenhum de nós dois
+tenha percebido exatamente quando ela deixou de existir.
+
+Saio do banho, vejo o próprio celular vibrando na pia — mensagem de
+Dante perguntando como estava o resto do domingo — e por um instante
+inteiro não sei como respondo, como resumo em poucas palavras o
+tamanho exato do que acabou de mudar. No fim, escrevo só: *Precisamos
+conversar. Sério dessa vez.* E aperto enviar, sentindo o peso de cada
+palavra ecoar mais alto do que qualquer coisa que já mandei antes.

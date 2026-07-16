@@ -7,7 +7,9 @@ pega.
 
 A pergunta me pega desprevenido, porque nunca considerei essa opção a
 sério — sempre pensei em esconder, nunca em revelar por escolha
-própria.
+própria. Há uma diferença enorme entre as duas estratégias, e só agora,
+ouvindo ela verbalizar em voz alta, percebo o quanto vivi esses meses
+inteiros presumindo que esconder era a única opção sensata.
 
 Ela ainda carrega marcas visíveis do susto do estúdio — os olhos
 levemente inchados, o jeito como as mãos não param quietas no colo — e
@@ -86,3 +88,45 @@ Ela sorri, cansada, mas real, e por um momento o peso da conversa
 inteira alivia um pouco, o suficiente para os dois respirarem fundo
 antes de enfrentar mais um dia de precaução, mais um dia de segredo
 carregado com cuidado redobrado.
+
+— Se um dia eu decidir sair — ela continua, depois de um silêncio
+longo —, para onde eu iria? Não tenho plano nenhum. Nunca precisei
+ter, porque nunca me permiti pensar nisso a sério.
+
+— Priya ofereceu a casa dela, não foi?
+
+— Ofereceu. Mas isso é só o primeiro passo, não o plano inteiro. — Ela
+suspira, olhando para as próprias mãos. — Seis anos da minha vida
+estão amarrados à vida dele — o estúdio que ele paga, os contatos que
+vieram através dele, até parte da minha carreira. Sair significa
+recomeçar praticamente do zero.
+
+— Você já recomeçou uma vez, sozinha, quando escondeu o aluguel do
+apartamento antigo. Pode recomeçar de novo.
+
+— Isso é diferente. Isso é sair de vez.
+
+— Eu sei. — Aperto sua mão. — Só quero que saiba que, quando esse dia
+chegar, não vai estar sozinha enfrentando isso.
+
+Ela me olha, séria, avaliando o peso real da promessa.
+
+— Você diz isso agora. Não sabe o que vai sobrar de você depois que
+tudo isso explodir — carreira, imagem, contrato. Talvez não tenha
+nada pra oferecer.
+
+— Então vamos descobrir juntos o que sobra. — Encaro ela, sério. —
+Prefiro descobrir isso com você do que voltar pra vida que eu tinha
+antes de te conhecer, com tudo intacto e nada que realmente importe.
+
+Ela não responde com palavras. Só aperta minha mão mais forte, os
+olhos brilhando de um jeito que carrega, ao mesmo tempo, medo e uma
+esperança teimosa que nenhum dos dois tem coragem de nomear em voz
+alta ainda.
+
+Ficamos ali mais um tempo, o apartamento silencioso ao redor, cada um
+processando à própria maneira o peso do que acabou de ser dito. Não
+resolvemos nada de concreto essa noite — nem o quando, nem o como, nem
+o que vem depois — mas alguma coisa mudou mesmo assim, um primeiro
+esboço de futuro desenhado em voz alta, frágil, incompleto, mas real
+o suficiente para carregar conosco pelos próximos dias difíceis.
