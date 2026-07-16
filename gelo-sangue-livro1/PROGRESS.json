@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 49,
-  "next_pov": "Dante",
+  "next_chapter": 50,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -354,6 +354,13 @@
       "words": 869,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 49,
+      "pov": "Dante",
+      "words": 804,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -389,15 +396,19 @@
     {
       "n": 45,
       "desc": "8a cena — reconexão urgente após o pai de Baz insinuar suspeita"
+    },
+    {
+      "n": 49,
+      "desc": "9a cena — Isa decide sair, planejamento vira esperança"
     }
   ],
   "scoreboard": {
-    "chapters_done": 48,
-    "total_words": 47070,
-    "pages_kdp": 157,
+    "chapters_done": 49,
+    "total_words": 47874,
+    "pages_kdp": 160,
     "avg_score": 6.9,
-    "pct_to_target": 78
+    "pct_to_target": 80
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 23:32"
+  "updated": "2026-07-16 23:34"
 }
