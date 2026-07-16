@@ -70,6 +70,21 @@ sobre o que ele espera receber, e é essa diferença, mais do que
 qualquer outra coisa, que transforma a noite em algo que carrego
 comigo muito depois de terminar.
 
+Ele sussurra meu nome contra minha pele em algum momento, baixo,
+quase reverente, e o som disso — meu próprio nome, dito assim, sem
+nenhuma agenda por trás — desmancha alguma coisa em mim que eu nem
+sabia que ainda estava presa. Seguro o rosto dele entre as mãos,
+puxando-o para mais perto, precisando sentir cada segundo inteiro,
+sem pressa de chegar a lugar nenhum além de onde já estamos.
+
+O calor entre nós cresce devagar, depois rápido, os dois se
+encontrando num ritmo que nenhum dos dois precisou ensinar ao outro —
+como se o corpo já soubesse, de alguma forma antiga, exatamente o que
+o outro corpo precisava, mesmo sem instrução, mesmo sem mapa. Quando
+finalmente chegamos juntos ao mesmo lugar, sinto lágrimas quentes nos
+cantos dos olhos, não de tristeza, mas do alívio brutal de ser,
+finalmente, inteiramente vista.
+
 ---
 
 Depois, deitados no escuro, a respiração ainda irregular, ele traça
@@ -101,3 +116,10 @@ que não lembra ter sentido em anos. Lá fora, a cidade continua o
 barulho de sempre, indiferente ao que acabou de mudar dentro desse
 apartamento pequeno — e por essa noite, só por essa noite, deixo que
 seja suficiente não pensar em mais nada além disso.
+
+Viro de lado, encaixando o corpo contra o dele, sentindo o calor da
+pele, o ritmo lento da respiração que sobe e desce contra minhas
+costas, e fecho os olhos permitindo, pela primeira vez em muito tempo,
+que o sono chegue sem nenhuma lista mental de precauções a revisar
+antes. Amanhã existe a manhã, o disfarce, o caminho de volta para a
+vida que ainda preciso viver em segredo. Hoje, só existe isso.

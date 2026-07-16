@@ -109,3 +109,24 @@ para reagir a qualquer coisa que não seja disco e gelo. E penso que
 talvez esse seja exatamente o problema: passei a vida inteira treinando
 o corpo para não sentir, e hoje, debaixo de uma árvore qualquer, ele
 lembrou como.
+
+Sento no sofá, ainda sem tirar o casaco, e fico repassando a manhã
+inteira — a mãe costureira dela, o pai pedreiro, a bolsa de estudos
+que a fez sentir fraude entre gente rica. Percebo, com um aperto no
+peito, o quanto nossas histórias se parecem apesar de tão diferentes
+na superfície: os dois aprendemos cedo demais que pertencer a um lugar
+exige performar uma versão editada de nós mesmos, e os dois só agora,
+depois de anos, começamos a testar o que acontece quando a máscara
+finge menos.
+
+Ligo a chaleira, faço um chá que não bebo até esfriar, só para ter as
+mãos ocupadas enquanto o resto de mim ainda processa. Penso em ligar
+para meu pai, contar alguma versão editada do dia, mas desisto — essa
+descoberta específica ainda é minha demais para dividir, mesmo com
+alguém que está, aos poucos, aprendendo a merecer minha confiança de
+novo.
+
+Vou dormir cedo, exausto de um jeito bom, incomum, e a última coisa
+que penso antes de apagar é no peso exato da mão dela contra meu
+rosto — leve, decidida, capaz de desarmar, num segundo, uma vida
+inteira de disciplina construída para nunca deixar nada transparecer.

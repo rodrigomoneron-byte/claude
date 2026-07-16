@@ -20,9 +20,24 @@ deveriam complicar esse sorriso.
 
 Ficamos ali, deitados, sem pressa de sair da cama, conversando sobre
 nada — o formato estranho da mancha no teto, o barulho de um vizinho
-que já deve estar acordado fazendo café — até que o celular dela
-vibra na mesa de cabeceira, e os dois sabemos, sem precisar dizer, que
-o mundo real acabou de bater à porta.
+que já deve estar acordado fazendo café.
+
+Ela se aproxima devagar, sem pressa nenhuma, o corpo ainda quente de
+sono contra o meu, e o que começa como um abraço preguiçoso vira,
+aos poucos, outra coisa — mais lento do que a noite anterior, mais
+silencioso, sem a urgência de antes, só dois corpos reaprendendo, à
+luz cinzenta da manhã, o que já tinham descoberto no escuro. Não é
+igual. É melhor, de um jeito diferente — mais claro, mais real,
+nenhuma sombra para esconder nenhuma expressão no rosto dela enquanto
+me olha.
+
+Depois, deitados de novo, a respiração ainda se acalmando, ela traça
+padrões sem sentido no meu peito, e por um instante inteiro nenhum dos
+dois precisa dizer nada — o silêncio, dessa vez, carregando só
+gratidão, não medo.
+
+É só então que o celular dela vibra na mesa de cabeceira, e os dois
+sabemos, sem precisar dizer, que o mundo real acabou de bater à porta.
 
 — Posso te perguntar uma coisa? — ela diz, virando de lado, cabeça
 apoiada na mão, olhando para mim com uma curiosidade genuína que não
@@ -101,3 +116,27 @@ jogar por medo. Compro nada. Só fico ali, entre prateleiras de
 equipamento que um dia vou precisar aposentar, tentando imaginar quem
 serei quando esse dia finalmente chegar — e, pela primeira vez, a
 imagem que me vem à cabeça não é vazia. Tem um rosto nela.
+
+Um vendedor pergunta se posso ajudar com alguma coisa, reconhecendo
+meu rosto das transmissões, e murmuro alguma desculpa qualquer antes
+de sair, sentindo o peso estranho de ser, ao mesmo tempo, alguém
+reconhecível o suficiente para ser parado numa loja e alguém que
+ninguém, além de duas ou três pessoas no mundo inteiro, realmente
+conhece por dentro.
+
+Chego em casa e ligo para meu pai, sem planejar, só porque a manhã
+inteira deixou alguma coisa aberta dentro de mim que não sabia como
+fechar sozinho.
+
+— Tudo bem com você? — ele pergunta, surpreso com a ligação sem
+motivo aparente.
+
+— Tudo bem. Só queria ouvir sua voz.
+
+Ficamos conversando por alguns minutos sobre nada de especial — o
+tempo, a loja, o próximo jogo — e é só depois de desligar que percebo
+o quanto essa ligação, tão simples, tão comum, seria impensável há
+poucos meses. Alguma coisa mudou em mim nos últimos tempos, devagar,
+sem alarde, e hoje, pela primeira vez, consigo nomear parte dela:
+aprendi, com uma mulher que mal conheço há meio ano, que existe outro
+jeito de amar além do que fui ensinado a esperar a vida inteira.

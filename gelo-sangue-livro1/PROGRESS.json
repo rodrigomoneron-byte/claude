@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 21,
-  "next_pov": "Dante",
+  "next_chapter": 26,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -162,35 +162,35 @@
     {
       "n": 21,
       "pov": "Dante",
-      "words": 833,
+      "words": 1026,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 22,
       "pov": "Isa",
-      "words": 766,
+      "words": 995,
       "score": 6.0,
       "status": "aprovado"
     },
     {
       "n": 23,
       "pov": "Dante",
-      "words": 821,
+      "words": 989,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 24,
       "pov": "Isa",
-      "words": 776,
+      "words": 988,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 25,
       "pov": "Dante",
-      "words": 736,
+      "words": 1042,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -309,15 +309,19 @@
     {
       "n": 37,
       "desc": "2a cena — reconexão de medo/urgência após ameaça velada de Baz na mostra"
+    },
+    {
+      "n": 25,
+      "desc": "3a cena — manhã seguinte, mais lenta e clara à luz do dia"
     }
   ],
   "scoreboard": {
     "chapters_done": 40,
-    "total_words": 34781,
-    "pages_kdp": 116,
+    "total_words": 35889,
+    "pages_kdp": 120,
     "avg_score": 6.8,
-    "pct_to_target": 58
+    "pct_to_target": 60
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 22:37"
+  "updated": "2026-07-16 22:40"
 }

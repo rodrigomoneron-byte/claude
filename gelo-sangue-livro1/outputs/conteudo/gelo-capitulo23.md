@@ -112,3 +112,22 @@ minha boca, um sorriso que carrega ao mesmo tempo alívio e medo.
 — Isso muda tudo — diz, baixinho.
 
 — Já tinha mudado. Isso só admite.
+
+Ela ri, baixinho, a testa encostada na minha, e por um momento os
+dois ficamos ali, respirando o mesmo ar, sem pressa de decidir o
+próximo passo. Lá fora, o som distante do trânsito de sábado à noite
+segue normal, indiferente, como se o mundo inteiro não tivesse acabado
+de virar do avesso dentro daquele apartamento pequeno.
+
+— Tenho medo do que vem depois — admite, olhando para mim com uma
+honestidade que corta mais fundo do que qualquer beijo. — Não desse
+momento. Do resto.
+
+— Eu também. — Seguro o rosto dela nas duas mãos, sério. — Mas prefiro
+ter medo ao seu lado do que seguir sem medo nenhum longe de você.
+
+Ela sorri, os olhos brilhando de um jeito que não vi antes, nem na
+galeria, nem em nenhuma das corridas de domingo, e puxa minha mão,
+guiando os dois para dentro do quarto, sem mais palavras necessárias
+entre nós — só o peso silencioso de uma decisão que os dois já
+tínhamos tomado há semanas, sem nunca dizer em voz alta.

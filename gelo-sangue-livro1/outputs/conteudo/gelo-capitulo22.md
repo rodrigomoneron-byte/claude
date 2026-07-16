@@ -94,3 +94,25 @@ mais do que qualquer declaração que Dante ou eu já fizemos em voz
 alta. Deixo fechado. Alguns segredos, aprendi cedo demais na vida,
 duram mais quando ninguém, nem a própria dona deles, insiste em
 olhá-los de frente com frequência demais.
+
+No quarto, deito ao lado de Baz sem acordá-lo, e fico olhando o teto
+no escuro, repassando a manhã inteira mais uma vez — cada palavra,
+cada silêncio, cada segundo em que o mundo pareceu se resumir a uma
+árvore qualquer e uma decisão que nenhum de nós dois planejou tomar.
+Penso em quantas vezes, nos últimos seis anos, decidi alguma coisa
+importante sem primeiro calcular o efeito dela sobre Baz. A resposta
+honesta é quase nenhuma. Hoje foi a primeira em muito tempo.
+
+Lembro de uma frase que minha mãe dizia, quando eu era pequena,
+sempre que eu hesitava diante de alguma escolha difícil: *o medo é só
+informação, filha, não é ordem.* Passei anos tratando meu próprio medo
+como ordem, obedecendo cegamente cada sinal de alarme sem examinar se
+o alarme fazia sentido. Hoje, pela primeira vez, examinei — e decidi,
+mesmo com o coração acelerado, que o medo de perder Baz pesava menos
+do que o medo de nunca mais sentir o que senti debaixo daquela árvore.
+
+Não sei se essa lógica vai se sustentar amanhã, ou na semana que vem,
+ou no dia em que tudo finalmente vier à tona. Mas essa noite, deitada
+no escuro ao lado de um homem que já não reconheço como o centro da
+minha vida, sinto uma paz estranha, quase ilícita, de ter escolhido
+alguma coisa só porque queria, sem pedir permissão a mais ninguém.
