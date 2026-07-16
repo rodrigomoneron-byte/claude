@@ -16,6 +16,14 @@ Sinto o sangue gelar, pensando em quantas vezes usei o wifi de casa
 para mandar mensagem para Dante antes de aprender a desligar os dados
 móveis primeiro.
 
+O consultor continua explicando, satisfeito com a própria tecnologia,
+sem perceber que cada palavra dele funciona, para mim, como uma
+sentença sendo lida em câmera lenta. Fala sobre criptografia, sobre
+backups automáticos, sobre a possibilidade de restaurar mensagens
+apagadas de até seis meses atrás em certas circunstâncias — e é nesse
+ponto específico que preciso me segurar para não deixar o rosto
+entregar o pânico que sinto por dentro.
+
 Tento lembrar, calculando datas na cabeça enquanto finjo interesse na
 explicação técnica, exatamente quando comecei a usar sempre os dados
 móveis em vez do wifi de casa. Foi cedo, tenho quase certeza — um
@@ -99,3 +107,22 @@ ao mundo inteiro — e por baixo do medo constante que carrego desde a
 instalação das câmeras, sinto também algo teimoso e obstinado, uma
 recusa silenciosa de deixar que o medo decida sozinho o que ainda
 resta do meu próprio futuro.
+
+Sento no banquinho perto da tela, o celular novo ainda quente na mão
+de tanto digitar, e penso em quantas camadas de proteção já
+construímos ao redor dessa história — número separado, esconderijo
+neutro, dados móveis, apagamento religioso de qualquer rastro. Cada
+camada nova me lembra de um trabalho de espionagem qualquer, não de
+um relacionamento que, em qualquer outro contexto, seria só isso: duas
+pessoas se escolhendo. A injustiça específica disso, de precisar
+tratar afeto como contrabando, ainda me pega desprevenida algumas
+noites, mesmo depois de meses vivendo dentro dela.
+
+Penso em ligar para Priya, contar sobre as câmeras, sobre o
+sistema de rastreamento, mas decido não fazer isso hoje — ela já
+carrega peso suficiente sabendo o essencial, e não quero transformá-la
+em confidente de cada detalhe técnico da minha paranoia crescente.
+Guardo isso comigo, mais um segredo dentro do segredo maior, e
+prometo a mim mesma que, assim que a mostra passar, vou finalmente
+sentar com Dante para decidir, de vez, o que fazer com o tempo que
+ainda nos resta antes que tudo isso, inevitavelmente, venha à tona.

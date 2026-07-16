@@ -30,6 +30,17 @@ profissional, e não só do acaso.
 — Nunca. Isso sozinho já me diz que ele está mais preocupado do que
 deixa transparecer.
 
+— E se ele já suspeitar de mim especificamente? — pergunto, precisando
+entender o tamanho real do risco. — Não de alguém genérico. De mim.
+
+— Não sei. — Ela esfrega o rosto, cansada. — Ele nunca mencionou seu
+nome de um jeito que parecesse mais do que rivalidade esportiva. Mas
+ele também nunca foi de revelar as cartas antes da hora certa.
+
+— Isso não me deixa mais tranquilo.
+
+— A mim também não.
+
 ---
 
 — Compro um celular novo — sugiro, pensando alto. — Só nosso, sem
@@ -89,6 +100,14 @@ apesar de tudo, vale a pena continuar lutando por esse tempo roubado
 que os dois decidimos, cada vez com mais convicção, que merece ser
 protegido a qualquer custo.
 
+— Alguma vez você pensa em desistir? — pergunto, baixinho, precisando
+ouvir a resposta mesmo temendo o que ela possa ser.
+
+— Todos os dias. — Ela olha para mim, séria. — E todos os dias decido
+de novo que não quero. Isso conta como resposta?
+
+— Conta como a melhor resposta que eu podia pedir.
+
 Antes de ela ir embora, ainda escondida atrás do boné e dos óculos
 escuros, combinamos os detalhes finais: comprar o celular numa loja
 qualquer, pagando em dinheiro, sem vínculo com nenhum dos dois nomes;
@@ -98,3 +117,20 @@ outro com frequência suspeita. Parece dramático, ela repete na porta,
 antes de sair. Concordo. Mas seguro sua mão um segundo a mais antes de
 deixá-la ir, sentindo que dramático, nesse momento específico da
 nossa história, é só o preço justo por algo que vale a pena proteger.
+
+Ela beija minha bochecha na despedida, cuidadosa com o ombro, e sai
+pela porta lateral do prédio, a mesma que combinamos usar sempre que
+possível, longe das câmeras de segurança da entrada principal. Fico na
+janela, olhando ela desaparecer na esquina, boné baixo, passos rápidos
+mas não apressados demais para não chamar atenção — uma versão
+treinada de discrição que nenhuma das duas vidas que ela leva deveria
+exigir dela, mas que aprendeu a dominar de qualquer forma.
+
+Sozinho de novo, fico sentado no sofá, o braço latejando de leve pelo
+esforço do dia, repassando mentalmente cada detalhe do plano que
+acabamos de traçar. Celular novo, esconderijo neutro, comunicação
+mínima por qualquer canal rastreável. Há algo profundamente triste
+nisso — a necessidade de tratar um relacionamento real como uma
+operação clandestina, cada gesto de carinho pesado contra o risco de
+ser descoberto — e ainda assim, mesmo com todo esse peso, não
+encontro em mim nenhuma vontade real de recuar.
