@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 35,
-  "next_pov": "Dante",
+  "next_chapter": 36,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -260,7 +260,7 @@
     {
       "n": 35,
       "pov": "Dante",
-      "words": 668,
+      "words": 974,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -317,15 +317,19 @@
     {
       "n": 27,
       "desc": "4a cena — noite improvisada depois que Josh descobre o segredo"
+    },
+    {
+      "n": 35,
+      "desc": "5a cena — reconexão cuidadosa durante a recuperação do ombro"
     }
   ],
   "scoreboard": {
     "chapters_done": 40,
-    "total_words": 38085,
-    "pages_kdp": 127,
+    "total_words": 38391,
+    "pages_kdp": 128,
     "avg_score": 6.85,
-    "pct_to_target": 63
+    "pct_to_target": 64
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 22:46"
+  "updated": "2026-07-16 22:47"
 }

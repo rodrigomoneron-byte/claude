@@ -15,7 +15,15 @@ qualquer de outubro cinzento.
 
 — Estou aprendendo a odiar menos o processo.
 
-— Progresso.
+— Progresso. — Ele para no semáforo, olha de relance para mim. — Você
+sabe que pode falar comigo sobre qualquer coisa, né? Não só sobre o
+ombro.
+
+Considero a oferta por um segundo, tentado a finalmente contar tudo,
+mas o semáforo abre antes que eu decida, e o momento passa como tantos
+outros já passaram nas últimas semanas — quase, mas ainda não.
+
+— Progresso — repito, só para preencher o silêncio.
 
 Rio, o primeiro riso fácil em semanas, e olho pela janela a cidade
 passando devagar, pensando que talvez essa pausa forçada, por mais
@@ -93,4 +101,36 @@ guardasse provisão para os dias difíceis que ambos sentimos se
 aproximando. Ela retribui com a mesma intensidade, e por um instante
 inteiro, esquecemos câmeras, consultores e prazos, existindo só ali,
 inteiros, um no outro.
+
+O beijo não fica só beijo. Ela puxa minha camisa devagar, cuidadosa
+com o lado machucado, e eu a deixo guiar — nas últimas semanas,
+aprendemos juntos um jeito novo de nos tocarmos, mais lento, mais
+atento aos limites reais do meu corpo, e há algo nesse cuidado
+compartilhado que aprofunda tudo, em vez de diminuir.
+
+— Posso? — pergunta, baixinho, a mão parada sobre o ombro imobilizado
+parcialmente pela tipoia leve que ainda uso em casa.
+
+— Pode. Só devagar.
+
+Ela sorri contra minha boca, e o resto acontece exatamente assim —
+devagar, deliberado, cada movimento calculado para não forçar o que
+ainda está sarando, e ainda assim inteiro, presente, nada diminuído
+pela cautela. Há uma ternura específica nisso que a pressa da primeira
+vez não teve espaço para conter — o jeito como ela evita o ombro
+machucado sem nunca me fazer sentir frágil, o jeito como aprendemos,
+juntos, a linguagem nova de um corpo em recuperação.
+
+Depois, deitados devagar, o cuidado ainda presente até na forma como
+nos acomodamos, ela beija meu ombro bom, leve.
+
+— Obrigada por confiar em mim com isso também.
+
+— Sempre vou confiar. — Seguro a mão dela contra meu peito. — Você é
+a única pessoa que trata minha fraqueza como parte de mim, não como
+defeito a esconder.
+
+Ela não responde com palavras. Só fica ali, aninhada contra mim,
+os dois roubando mais alguns minutos antes que o mundo real, com toda
+sua vigilância e seus prazos, bata à porta de novo.
 
