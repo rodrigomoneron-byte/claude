@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 45,
-  "next_pov": "Dante",
+  "next_chapter": 46,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -326,6 +326,13 @@
       "words": 950,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 45,
+      "pov": "Dante",
+      "words": 858,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -357,15 +364,19 @@
     {
       "n": 41,
       "desc": "7a cena — medo compartilhado logo após saber do investigador (Ato 3, regra reaberta)"
+    },
+    {
+      "n": 45,
+      "desc": "8a cena — reconexão urgente após o pai de Baz insinuar suspeita"
     }
   ],
   "scoreboard": {
-    "chapters_done": 44,
-    "total_words": 43547,
-    "pages_kdp": 145,
+    "chapters_done": 45,
+    "total_words": 44405,
+    "pages_kdp": 148,
     "avg_score": 6.89,
-    "pct_to_target": 73
+    "pct_to_target": 74
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 23:26"
+  "updated": "2026-07-16 23:28"
 }
