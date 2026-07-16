@@ -1,0 +1,30 @@
+{
+  "book": "Gelo — Livro 1",
+  "series": "Gelo e Sangue",
+  "author": "R.B. Guidenelli",
+  "status": "ONBOARDING CONCLUÍDO — loop autorizado a partir do Capítulo 1",
+  "decisoes_travadas": {
+    "nomes_de_time": "Fictícios — Boston Griffins (Dante), Toronto Comets (Baz), Fort McMurray Oil Barons (redenção, L2/L3). Liga fictícia com acesso/rebaixamento entre 1ª e 2ª divisão, sem nome de marca própria. Nunca usar nomes reais de franquias da NHL da fonte original.",
+    "extensao": "Seguir o padrão da casa — 60 capítulos, ~950-1100 palavras/cap, total ~57.000-66.000 palavras, sem epílogo neste volume (final proposital em aberto/dark).",
+    "heat": "Explícito-elegante, cadência 80/20 (~12 cenas em 60 caps), 1ª cena entre cap 24-28, gap máximo 5-6 caps depois da 1ª cena, nenhuma cena no Ato 3.",
+    "inicio": "Sim, montar e começar — projeto montado, onboarding rápido concluído, loop autorizado a iniciar imediatamente no Capítulo 1 sem checkpoint humano adicional."
+  },
+  "target": 60,
+  "word_target": 60000,
+  "povs": ["Dante", "Isa"],
+  "next_chapter": 1,
+  "next_pov": "Dante",
+  "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes": 0
+  },
+  "created": "2026-07-16"
+}
