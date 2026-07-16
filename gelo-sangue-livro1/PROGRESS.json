@@ -15,7 +15,7 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 23,
+  "next_chapter": 25,
   "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
@@ -172,17 +172,36 @@
       "words": 766,
       "score": 6.0,
       "status": "aprovado"
+    },
+    {
+      "n": 23,
+      "pov": "Dante",
+      "words": 821,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 24,
+      "pov": "Isa",
+      "words": 776,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
-  "heat_log": [],
+  "heat_log": [
+    {
+      "n": 24,
+      "desc": "1a cena intima — trégua não planejada, apartamento antigo de Isa"
+    }
+  ],
   "scoreboard": {
-    "chapters_done": 22,
-    "total_words": 19792,
-    "pages_kdp": 66,
-    "avg_score": 6.68,
-    "pct_to_target": 33
+    "chapters_done": 24,
+    "total_words": 21389,
+    "pages_kdp": 71,
+    "avg_score": 6.71,
+    "pct_to_target": 36
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 18:28"
+  "updated": "2026-07-16 18:30"
 }
