@@ -76,6 +76,22 @@ projeto.
   elenco/aparição física contra a bíblia antes de escrever cena nova
   com personagem secundário, não só nomes/símbolos.
 
+- **Cap. 33:** ALERTA — rascunho inicial continha uma violação grave e
+  dupla da régua: (1) diálogo da Isa com "a gente" ("Odeio que a gente
+  precise disso") SEGUIDO de (2) um parágrafo de narração comentando
+  explicitamente que o erro não foi corrigido em voz alta e mencionando
+  "a régua da narrativa" — ou seja, o device proibido na sua forma mais
+  grave (quebra de quarta parede citando a régua diretamente), escrito
+  por mim, o modelo, aparentemente por automatismo ao pensar sobre o
+  processo de revisão enquanto escrevia. Também havia "pra gente" numa
+  fala do Dante (variante equivalente a "a gente"). Todos os 3 hits
+  pegos por grep manual ANTES do registro, capítulo reescrito removendo
+  o parágrafo inteiro do device e trocando as duas falas por "nós"/
+  "nosso". Reforça com mais força ainda a lição já documentada: o
+  impulso de escrever o device pode aparecer de formas sutis e travestidas
+  de "nota de processo", não só como fala de personagem — vigilância
+  tem que cobrir a narração inteira, não só diálogo.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
