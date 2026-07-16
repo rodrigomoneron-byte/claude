@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 50,
-  "next_pov": "Isa",
+  "next_chapter": 51,
+  "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -361,6 +361,13 @@
       "words": 804,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 50,
+      "pov": "Isa",
+      "words": 840,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -403,12 +410,12 @@
     }
   ],
   "scoreboard": {
-    "chapters_done": 49,
-    "total_words": 47874,
-    "pages_kdp": 160,
+    "chapters_done": 50,
+    "total_words": 48714,
+    "pages_kdp": 162,
     "avg_score": 6.9,
-    "pct_to_target": 80
+    "pct_to_target": 81
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 23:34"
+  "updated": "2026-07-16 23:35"
 }
