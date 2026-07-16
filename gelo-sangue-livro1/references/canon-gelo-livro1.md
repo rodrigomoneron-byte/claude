@@ -205,6 +205,16 @@ elevando o total de 6 para 10 cenas reais até o fim do livro.
   para "Gil Novak" — nome sem colisão com nenhum personagem da bíblia
   ou do universo da casa.
 
+- **Cap. 59:** TERCEIRA ocorrência do mesmo erro (caps. 31 e 51) —
+  rascunho colocou Marco Marchetti fisicamente a caminho do
+  apartamento de Dante ("Vou pra aí... Chego amanhã de manhã"). Pego
+  antes do registro, trocado para reforço emocional só por telefone
+  (ficam em silêncio na linha juntos). Este é um padrão de erro
+  recorrente e conhecido do modelo neste projeto — anotar como alerta
+  permanente: TODA cena nova envolvendo Marco precisa ser checada
+  contra a bíblia antes de escrever, sem exceção, mesmo depois de já
+  ter sido corrigido duas vezes antes.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
