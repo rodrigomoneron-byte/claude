@@ -215,6 +215,37 @@ elevando o total de 6 para 10 cenas reais até o fim do livro.
   contra a bíblia antes de escrever, sem exceção, mesmo depois de já
   ter sido corrigido duas vezes antes.
 
+## Manuscrito completo (cap. 60) — resumo final
+
+- **60/60 capítulos**, 56.972 palavras (~950 palavras/cap em média),
+  dentro da meta 57.000-66.000 (28 palavras abaixo do piso — dentro da
+  margem de arredondamento, não considero desvio real).
+- **Heat: 10 cenas reais** (caps 24, 25, 27, 35, 37, 38, 41, 45, 49,
+  55) — subiu de 2 para 10 depois do rework pedido pelo dono e da
+  reabertura da regra do Ato 3. Não chegou a exatamente 12: as
+  oportunidades de encontro privado emocionalmente justificado se
+  esgotaram sem violar o realismo médico (recuperação do ombro), a
+  regra de nunca colocar cena no capítulo do clímax da exposição, nem
+  nos capítulos finais de colapso puro (57-60, POV alternando entre o
+  colapso físico do Dante, a fuga sozinha da Isa, e a vitória pública
+  do Baz).
+- **Final:** fecha SEM resolução, conforme travado — Dante internado
+  de novo (ombro), Isa sozinha numa lanchonete perto de uma estação de
+  ônibus sem plano concreto, Baz na mídia erguendo um troféu como
+  herói. "Um inverno inteiro pela frente" mantido como tom de saída.
+- **Bugs de bíblia pegos e corrigidos nesta leva final (Ato 3):**
+  Marco Marchetti fisicamente presente (3 ocorrências: caps 31, 51,
+  59 — todas corrigidas para telefone/ligação antes do registro);
+  colisão de nome "Marco Renard" com Marco Marchetti + Treinador Beau
+  Renard (cap. 57, corrigido para "Gil Novak").
+- **Bugs de régua pegos nesta leva final:** device completo no cap.
+  60 (rascunho tinha "a gente" em diálogo seguido de narração
+  comentando que ninguém corrigiu) — pego e reescrito antes do
+  registro, no capítulo de fechamento do livro.
+- **Pendente:** revisão global (bia-ferreira-editor-global) e
+  formatação final (bia-ferreira-formatter) — critério de parada do
+  TASK.md ainda não cumprido por completo.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
