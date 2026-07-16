@@ -65,6 +65,17 @@ projeto.
   capítulo, sem exceção, mesmo depois de dezenas de capítulos limpos
   seguidos.
 
+- **Cap. 31:** primeiro rascunho colocou Marco Marchetti fisicamente
+  presente no quarto do hospital após a cirurgia — contradiz a decisão
+  travada em `arco-trama-livro1.md` ("aparece por telefone/lembrança
+  neste livro, não fisicamente... reservar presença física real para
+  o Livro 2"). Pego ANTES do registro, capítulo reescrito inteiro
+  trocando a cena para uma ligação telefônica, preservando a confissão
+  emocional (Marco também escondeu lesão própria, reconhece dureza
+  excessiva) sem violar a bíblia. Lição: sempre reconferir decisões de
+  elenco/aparição física contra a bíblia antes de escrever cena nova
+  com personagem secundário, não só nomes/símbolos.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
