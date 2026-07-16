@@ -1,0 +1,25 @@
+{
+  "book": "[TÍTULO DO LIVRO] — Livro [N]",
+  "series": "[TÍTULO DA SÉRIE]",
+  "author": "R.B. Guidenelli",
+  "status": "AGUARDANDO ONBOARDING — decisões a travar (ver arco-trama-livroN.md)",
+  "decisoes_travadas": null,
+  "target": 0,
+  "word_target": 0,
+  "povs": ["NOME_POV_A", "NOME_POV_B"],
+  "next_chapter": 1,
+  "next_pov": "NOME_POV_A",
+  "pov_rule": "NOME_POV_A=ímpar, NOME_POV_B=par (confirmar no onboarding)",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes": 0
+  },
+  "created": "REPLACE-WITH-DATE"
+}
