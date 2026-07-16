@@ -96,3 +96,32 @@ chegue: *Vamos ter mais cuidado. Mas não vamos parar.* Leio a frase
 duas vezes, sentindo o mesmo misto de medo e alívio de sempre, e
 guardo o celular no fundo da bolsa antes de sair porta afora, o
 coração ainda batendo rápido demais para um café da manhã comum.
+
+No caminho para o estúdio, passo pelo mesmo trajeto de sempre — a
+padaria da esquina, o parquinho vazio essa hora do dia, a loja de
+tintas onde compro material há anos — mas hoje presto atenção em cada
+detalhe de um jeito que não fazia há tempos, como se o mundo comum,
+de repente, merecesse ser realmente visto, não só atravessado no
+piloto automático que uso para o resto da vida.
+
+No estúdio, sento em frente à tela grande, pincel na mão, mas não
+consigo trabalhar direito. A conversa com Baz ainda ecoa — *nunca
+gostou de frio* — uma frase pequena que carrega, escondido dentro
+dela, um arquivo inteiro de observações que ele deve estar acumulando
+há semanas, catalogando cada contradição entre a mulher que conhece
+há seis anos e a mulher que aos poucos, sem querer esconder tão bem
+quanto deveria, está deixando aparecer.
+
+Ligo para Priya, precisando ouvir uma voz que não carregue cálculo
+nenhum.
+
+— Ele está desconfiando — digo, assim que ela atende. — Não sei se é
+paranoia minha ou se é real.
+
+— Talvez os dois — ela responde, séria. — Talvez seja hora de decidir
+o que você quer fazer antes que ele decida por você.
+
+A frase pesa o resto do dia inteiro, ecoando enquanto tento, sem
+muito sucesso, voltar ao trabalho — porque ela tem razão, e eu sei
+disso, mesmo sem coragem ainda de admitir em voz alta o que "decidir"
+realmente significaria.

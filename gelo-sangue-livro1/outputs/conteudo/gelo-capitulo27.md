@@ -103,3 +103,39 @@ de alívio e cautela que reconheço bem: *Quanto mais gente sabe, mais
 chance de alguém deixar escapar sem querer.* Ela tem razão, claro. Mas
 guardo comigo, sem dizer em voz alta, o alívio egoísta de não estar
 mais sozinho segurando o peso inteiro disso.
+
+*Baz foi jogar pôquer com uns patrocinadores. Só volta tarde*, ela
+manda, uma hora depois, e a mensagem carrega uma pergunta implícita
+que os dois já aprendemos a decifrar sem precisar soletrar.
+
+*Posso aparecer?*
+
+*Pode.*
+
+---
+
+Ela chega ao meu apartamento pouco depois das oito, ainda vestindo a
+roupa do estúdio, tinta seca numa mancha pequena perto do pulso, e
+antes mesmo de fechar a porta atrás dela já estamos um nos braços do
+outro, o dia inteiro de tensão acumulada — Josh, Baz, o medo constante
+— dissolvendo devagar em alguma coisa mais simples: só dois corpos
+que se escolhem, sem precisar de motivo maior do que isso.
+
+Não conversamos muito antes. Não precisamos. O corpo dela já sabe o
+caminho até o meu quarto, e eu já aprendi o ritmo dela o suficiente
+para seguir sem hesitar — cada carícia menos uma pergunta agora, mais
+uma certeza, o tipo de intimidade que só cresce com repetição, com
+tempo, com a confiança acumulada de semanas inteiras se revelando aos
+poucos um para o outro.
+
+Depois, deitados em silêncio, ela apoia a cabeça no meu peito, a mão
+desenhando círculos preguiçosos na minha pele.
+
+— Isso ainda parece impossível às vezes — murmura. — Ter isso. Ter
+você.
+
+— Não é impossível. Só é raro.
+
+Ela sorri contra minha pele, e ficamos ali, roubando mais uma hora de
+um tempo que os dois sabemos, sem precisar dizer, que está cada vez
+mais escasso.

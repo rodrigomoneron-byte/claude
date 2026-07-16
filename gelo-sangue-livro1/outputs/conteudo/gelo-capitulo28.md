@@ -108,3 +108,29 @@ Quanto mais gente de verdade sabendo, menos sozinhos ficamos nisso.*
 Sorrio, sozinha na rua, sentindo pela primeira vez em muito tempo que
 talvez esse segredo, apesar de todo o peso, não precise ser carregado
 inteiramente às escuras.
+
+Passo pela galeria a caminho de casa, olho a vitrine escura já sem os
+cartazes do evento passado, e penso em quantas versões de mim
+diferentes já cruzaram essa calçada nos últimos meses — a que escondia
+tudo, a que começou a se permitir pequenas rebeldias, a que hoje
+acabou de contar a verdade inteira, pela primeira vez, para alguém que
+não precisava saber, mas que escolheu ficar sabendo mesmo assim.
+
+Em casa, antes de Baz voltar, sento em frente à tela grande no
+estúdio e fico olhando as três linhas vermelhas por um longo tempo,
+pincel na mão, sem pintar nada de novo. Não é hora ainda de adicionar
+mais uma linha. É hora só de olhar, de reconhecer o quanto já mudou
+desde a primeira, solitária, pintada sem saber por quê.
+
+Penso em como seria contar a história inteira para minha mãe também,
+um dia — não hoje, talvez nem esse ano, mas algum dia — e sinto um
+misto de esperança e terror ao imaginar a reação dela. Minha mãe
+sempre gostou de Baz, do jeito educado, da segurança financeira que
+ele representava para uma filha que cresceu vendo os pais contarem
+moedas no fim do mês. Explicar que segurança e liberdade nem sempre
+andam juntas vai exigir palavras que ainda não sei bem como encontrar.
+
+Por enquanto, guardo o segredo entre as poucas pessoas que já sabem —
+Priya, Josh, Dante, e eu mesma — e permito-me, só por hoje, sentir o
+alívio de não estar mais completamente sozinha carregando o peso
+inteiro dessa verdade.

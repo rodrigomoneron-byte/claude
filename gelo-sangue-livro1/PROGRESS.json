@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 26,
-  "next_pov": "Isa",
+  "next_chapter": 29,
+  "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -197,21 +197,21 @@
     {
       "n": 26,
       "pov": "Isa",
-      "words": 741,
-      "score": 6.0,
+      "words": 972,
+      "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 27,
       "pov": "Dante",
-      "words": 732,
+      "words": 966,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 28,
       "pov": "Isa",
-      "words": 740,
+      "words": 991,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -313,15 +313,19 @@
     {
       "n": 25,
       "desc": "3a cena — manhã seguinte, mais lenta e clara à luz do dia"
+    },
+    {
+      "n": 27,
+      "desc": "4a cena — noite improvisada depois que Josh descobre o segredo"
     }
   ],
   "scoreboard": {
     "chapters_done": 40,
-    "total_words": 35889,
-    "pages_kdp": 120,
-    "avg_score": 6.8,
-    "pct_to_target": 60
+    "total_words": 36605,
+    "pages_kdp": 122,
+    "avg_score": 6.83,
+    "pct_to_target": 61
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 22:40"
+  "updated": "2026-07-16 22:42"
 }
