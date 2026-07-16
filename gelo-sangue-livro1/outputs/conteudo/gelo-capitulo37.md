@@ -11,7 +11,8 @@ sobre "motivo específico pra aparecer onde não devia". Não foi
 casual, Dante. Não podia ser casual.
 
 Puxo ela para dentro, fecho a porta, seguro o rosto dela nas duas
-mãos.
+mãos, sentindo o próprio coração acelerar com o susto refletido no
+rosto dela.
 
 — Respira. Conta tudo devagar.
 
@@ -71,6 +72,20 @@ toque carregando mais urgência do que da primeira vez, mais medo
 misturado ao desejo, mais certeza de que o tempo que os dois têm
 talvez seja mais curto do que qualquer um admite.
 
+Ela se agarra a mim como quem se agarra à última coisa sólida num
+mundo que ameaça desmoronar, e eu a seguro com a mesma urgência,
+esquecendo por completo o cuidado extra que normalmente reservo ao
+ombro — a dor, quando chega, mal registra, ofuscada por algo maior,
+mais primitivo, a necessidade de sentir, pele contra pele, que essa
+coisa entre nós ainda é real, ainda existe, apesar de todas as forças
+tentando esmagá-la antes mesmo de florescer por completo.
+
+Não há palavras suficientes para esse tipo de medo, então deixamos os
+corpos falarem no lugar delas — cada beijo uma pergunta que não
+precisa de resposta verbal, cada toque uma confirmação de que, apesar
+de Vance, apesar das câmeras, apesar do relógio correndo mais rápido a
+cada dia, ainda escolhemos, ativamente, estar exatamente aqui.
+
 Depois, deitados no escuro, a respiração ainda irregular, ela traça
 padrões sem sentido no meu peito, em silêncio.
 
@@ -99,3 +114,17 @@ mesmo medo eu já vivi sozinho — o ombro escondido, os apagões, o
 prazo médico — e como, mesmo depois de tudo isso, nenhum medo pesou
 tanto quanto esse: o medo de perder algo que só recentemente aprendi
 que era possível ter.
+
+Levanto devagar, sem acordá-la, e vou até a janela, olhando a cidade
+lá fora, as luzes distantes ainda acesas apesar da hora. Penso no
+comentário de Vance, tentando decifrar exatamente quanto ele sabe ou
+suspeita, e chego à mesma conclusão de sempre: não há como saber com
+certeza, só esperar, vigiar, e torcer para que o tempo que ainda
+resta seja suficiente para decidir, com clareza, o que fazer antes
+que a decisão seja tomada por nós.
+
+Volto para a cama, encaixo o corpo contra o dela outra vez, e fecho
+os olhos, deixando o cansaço finalmente vencer a vigília mental. Amanhã
+existe amanhã — hoje, essa noite, essa mulher dormindo tranquila ao
+meu lado depois de tanto medo, é tudo que preciso para acreditar que
+vale a pena continuar lutando.

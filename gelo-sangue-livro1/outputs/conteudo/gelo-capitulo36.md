@@ -21,6 +21,21 @@ o gelo rachado ao meio, quase partido em dois, com um único ponto de
 cor viva no centro exato da fratura. Nunca mostrei essa última peça
 para ninguém antes de pendurar na parede hoje à noite. Nem para Dante.
 
+A galeria inteira, iluminada com luz branca fria escolhida a dedo pela
+curadora, transforma cada peça numa espécie de altar pequeno,
+espaçado o suficiente da vizinha para que ninguém apresse a leitura.
+Ando pelo próprio espaço como visitante, não como autora, tentando ver
+com os olhos de um estranho o que seis meses de vida secreta produziram
+sem que eu tivesse plena consciência disso enquanto pintava.
+
+Um fotógrafo da galeria me pede para posar ao lado da primeira tela, a
+mais antiga, e sorrio para a câmera pensando em como aquele rinque
+vazio nasceu de uma noite qualquer, sozinha, sem saber ainda que
+estava pintando o início de tudo que viria depois — o café derramado,
+a cotovelada, o banco perto do lago, cada capítulo secreto da minha
+própria vida embutido em camadas de tinta que ninguém além de mim
+sabe decifrar por completo.
+
 ---
 
 A curadora me apresenta a críticos, colecionadores, outros artistas —
@@ -62,7 +77,9 @@ deveriam.
 
 O coração para. Encaro ele, tentando ler além das palavras, tentando
 decidir se é suspeita real ou só o tipo de comentário genérico que ele
-sempre faz sobre rivais.
+sempre faz sobre rivais, o tipo de provocação vazia que ele costuma
+usar contra qualquer adversário de Dante em quadra, sem significado
+maior por trás.
 
 — Não sei do que você está falando.
 
@@ -88,3 +105,14 @@ de mim que existe fora da sombra de qualquer homem. Só quando Priya se
 afasta, absorvida por outra conversa, permito que o comentário de Baz
 volte a pesar, lembrando que cada conquista, hoje em diante, vai
 precisar ser vivida com um olho sempre voltado para trás.
+
+No fim da noite, depois que a maioria dos convidados já se despediu,
+fico sozinha por um instante em frente à última tela, a do gelo
+rachado, sentindo o peso de tudo que ela representa. Baz aparece atrás
+de mim, silencioso, e por um segundo assustador acho que ele vai
+perguntar diretamente sobre o significado da fratura — mas ele só
+comenta, com aquele tom neutro que aprendi a temer, que a mostra "foi
+um sucesso maior do que ele esperava", e me guia para fora, mão na
+altura das minhas costas, o gesto de sempre, o mesmo de sempre, e
+ainda assim, hoje, carregando um peso diferente que nenhum dos dois
+nomeia em voz alta.
