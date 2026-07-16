@@ -107,3 +107,37 @@ as mãos entrelaçadas, não para ele. — Só não hoje.
 — Não precisa ter pressa — responde, e há algo no tom dele, calmo,
 sem cobrança nenhuma, que me faz acreditar, pela primeira vez em
 muito tempo, que talvez ele realmente signifique isso.
+
+Ficamos ali mais um tempo, o lago quieto, os patos deslizando devagar
+pela superfície como se nada no mundo tivesse peso nenhum, e eu tento
+guardar cada detalhe desse momento — a textura da mão dele contra a
+minha, o cheiro de grama molhada do início de manhã, o jeito como o
+sol bate na água e faz tudo parecer, por um instante, mais simples do
+que realmente é.
+
+— Posso te perguntar uma coisa? — digo, finalmente, quebrando o
+silêncio.
+
+— Pode.
+
+— Por que Providence? Por que você nunca voltou lá, mesmo sendo de
+onde você é?
+
+Ele fica quieto por um momento, escolhendo as palavras.
+
+— Porque cada rua daquela cidade lembra o antes. Antes do meu pai
+gritar aquilo. Antes de eu aprender que amor tinha preço. Fugir de lá
+foi a única forma que encontrei de fugir da versão de mim que nasceu
+naquele inverno.
+
+— Faz sentido.
+
+— Faz. — Ele aperta minha mão de novo, o gesto virando quase um
+hábito já, mesmo sendo só o segundo dia que nos tocamos assim. —
+Nunca contei isso a ninguém tão claramente. Nem ao Josh.
+
+Sinto o peso da confissão duplicado, sabendo que carrego agora não só
+o segredo do ombro, mas o mapa inteiro de como ele chegou a ser quem
+é — e há algo aterrorizante e ao mesmo tempo profundamente íntimo
+nisso, o tipo de responsabilidade que não pedi, mas que, de algum
+jeito, decidi aceitar carregar de qualquer forma.

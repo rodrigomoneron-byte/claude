@@ -115,3 +115,32 @@ até que ela finalmente diz boa noite baixinho, quase um sussurro, e eu
 fico com o celular na mão bem depois da ligação cair, sentindo o peso
 inteiro de uma frase que acabei de dizer e não sei se tinha o direito
 de dizer ainda.
+
+Deito na cama sem conseguir dormir, repassando cada palavra do
+comentário de Vance, tentando decifrar o que havia por trás do
+sorriso dele — blefe puro, ou o início de alguma coisa mais concreta.
+Conheço o suficiente do jogo dele em quadra para saber que nunca
+provoca à toa; cada frase é calculada para produzir uma reação
+específica, e a minha, hoje, foi exatamente a que ele queria.
+
+Ligo para Josh às onze da noite, quebrando a regra não escrita de
+nunca ligar tarde demais, só para ouvir uma voz que não carrega
+segredo nenhum entre nós dois.
+
+— Vance sabe de alguma coisa — digo, sem preâmbulo, assim que ele
+atende.
+
+— Sabe, ou está blefando pra ver sua reação?
+
+— Não sei distinguir mais.
+
+— Bem-vindo ao clube dos que nunca sabem distinguir com esse cara. —
+Josh suspira, do outro lado da linha. — Só tenta não jogar mal por
+causa disso. Se ele perceber que te desestabilizou, vai usar isso de
+novo, e de novo, até você quebrar de verdade.
+
+O conselho pesa mais do que qualquer coisa que já ouvi de um técnico,
+e desligo o telefone prometendo a mim mesmo que da próxima vez, se
+houver próxima vez, não vou deixar o rosto entregar nada — nem
+provocação, nem medo, nem a verdade que carrego escondida atrás de
+cada jogada.

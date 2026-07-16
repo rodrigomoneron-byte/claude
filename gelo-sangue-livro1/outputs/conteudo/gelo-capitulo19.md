@@ -108,3 +108,28 @@ na hora. A resposta chega de madrugada, quando já estou quase dormindo
 de vez: *Eu também não.* Leio a frase três vezes antes de guardar o
 celular, e adormeço com ela ainda na cabeça, mais forte do que
 qualquer medo do que aquela câmera pode ter capturado.
+
+De manhã, antes mesmo do café, checo cada site esportivo que consigo
+lembrar, procurando qualquer sinal de que as fotos vazaram durante a
+noite. Nada. Nenhuma manchete nova, nenhum boato circulando nos fóruns
+de torcida, nenhuma notificação de imprensa pedindo comentário oficial
+do clube. O alívio dura só até eu lembrar que fotos como essas raramente
+aparecem no dia seguinte — costumam ficar guardadas, negociadas em
+silêncio, vendidas para quem pagar mais, ou usadas como munição em
+algum momento estratégico que ninguém consegue prever.
+
+Ligo para Josh antes do treino, contando o que aconteceu no parque
+sem entrar em detalhes que ele já não soubesse.
+
+— Você precisa ter um plano — ele diz, sério, sem o tom de brincadeira
+que costuma usar. — Não pra hoje. Pro dia que essas fotos, se
+existirem, decidirem aparecer.
+
+— Que tipo de plano?
+
+— Não sei ainda. Mas "esperar e ver" não é plano nenhum, Dante. É só
+adiar o pânico pra depois.
+
+Guardo o conselho, sabendo que ele tem razão, mas sem conseguir, ainda,
+imaginar um plano que dê conta de todas as formas possíveis dessa
+história explodir.

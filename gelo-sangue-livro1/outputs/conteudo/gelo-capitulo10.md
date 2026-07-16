@@ -104,3 +104,21 @@ o sono de quem está sempre certo. Fico acordada mais uma hora,
 recontando cada segundo da noite na galeria, guardando o vermelho da
 linha na tela e o peso do olhar de Dante como quem guarda, pela
 primeira vez em anos, alguma coisa que pertence só a mim.
+
+Pego o celular, protegendo a luz da tela com a mão para não acordá-lo,
+e releio a legenda da foto mais uma vez, como se examinar palavras tão
+neutras pudesse revelar algum segredo escondido nelas. Não revela
+nada. É só uma legenda de evento cultural qualquer, escrita por
+alguém que nunca vai saber o peso real que carrega para mim. Apago o
+histórico do navegador antes de guardar o celular de volta na mesinha,
+um gesto pequeno de cautela que nem sei ainda, essa primeira noite,
+que vai virar hábito diário nos meses seguintes.
+
+Penso em quantas versões de mim já existiram dentro desse quarto —
+a namorada grata dos primeiros anos, a artista que desistiu de
+insistir, a mulher que aprendeu a calcular cada palavra antes de
+soltar — e me pergunto, olhando o teto no escuro, qual dessas versões
+verdadeiramente sou, ou se todas elas são só camadas empilhadas
+esperando que alguma coisa, um dia, as obrigue a se revelar de vez.
+Hoje, pela primeira vez, sinto que talvez essa obrigação já tenha
+começado, silenciosa, num café derramado numa manhã qualquer.

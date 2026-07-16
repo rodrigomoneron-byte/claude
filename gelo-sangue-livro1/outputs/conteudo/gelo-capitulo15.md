@@ -105,3 +105,21 @@ penso que
 talvez essa seja a primeira vez, desde os doze anos, que espero o
 próximo dia chegar não por medo do que ele vai exigir de mim, mas por
 alguma curiosidade quieta sobre o que ele pode trazer.
+
+Pego o celular de novo, releio a conversa inteira desde o início —
+semanas de mensagens curtas, cautelosas, cada uma escolhida a dedo
+para nunca comprometer nada além do necessário — e percebo, com um
+misto de espanto e ternura, o quanto já construímos sem nunca ter
+dito em voz alta o que estamos construindo. Não existe declaração
+formal entre nós. Existe um padrão, silencioso e consistente, de dois
+corpos escolhendo aparecer um para o outro sempre que possível, e
+talvez isso já baste como definição, mesmo sem nome oficial.
+
+Fecho os olhos de novo, tentando voltar a dormir, mas a mente insiste
+em revisitar a foto da tela nova — as duas linhas vermelhas cruzando o
+gelo cinzento — e me pergunto que forma aquela pintura vai ter até o
+fim, quantas linhas mais vão ser necessárias antes que ela sinta que
+disse tudo que precisa dizer. Adormeço de novo pensando nisso, no jeito
+como arte e verdade parecem, para ela, andar sempre de mãos dadas,
+mesmo quando a verdade ainda não tem coragem de sair da tela para o
+mundo real.

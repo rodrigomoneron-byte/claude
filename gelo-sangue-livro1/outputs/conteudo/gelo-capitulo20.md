@@ -104,3 +104,25 @@ Guardo os pincéis. Apago a luz. E, olhando pela janela do estúdio para
 a cidade escura lá fora, sinto pela primeira vez, com clareza total,
 que o inverno que ainda temos pela frente vai cobrar cada segundo
 roubado que já vivemos até aqui.
+
+Antes de sair, ligo mais uma vez a luz e fico parada em frente à tela,
+examinando as três linhas vermelhas de perto, tentando decidir se
+ainda cabe alguma coisa nova ali ou se a composição já disse tudo que
+precisava dizer. Decido que não sei ainda — que talvez só o tempo,
+não a vontade consciente, seja capaz de responder essa pergunta.
+
+No caminho para casa, passo pela mesma cafeteria onde tudo começou,
+fechada àquela hora da noite, luzes apagadas, cadeiras empilhadas
+sobre as mesas. Paro por um instante em frente à vitrine escura,
+tentando lembrar exatamente como era a versão de mim que entrou ali
+naquela manhã sem saber que a vida inteira estava prestes a virar. Não
+consigo mais acessar aquela versão com clareza — ela parece distante
+demais, como uma fotografia desbotada de alguém que só coincidentemente
+usa o meu rosto.
+
+Chego em casa, Baz já dormindo, a luz do quarto apagada, e fico
+parada na sala por um momento, sozinha, ouvindo o silêncio da casa
+inteira ao redor. Penso em quantos segredos essa casa já guardou entre
+suas paredes — os meus, os dele, os de nós dois separados um do outro
+mesmo dividindo o mesmo teto — e me pergunto se algum dia essas
+paredes vão finalmente ceder sob o peso de tudo que escondem.

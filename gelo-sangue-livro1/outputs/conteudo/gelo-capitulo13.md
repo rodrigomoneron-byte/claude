@@ -113,3 +113,20 @@ Deito na cama, celular ainda na mão, e por um instante deixo o ombro
 doer sem tentar controlar a expressão do próprio rosto, sem ninguém
 por perto para ver — só para sentir, sozinho no escuro, o que é não
 precisar disfarçar nada por alguns minutos antes de dormir.
+
+Fico pensando em Josh, na preocupação silenciosa dele no vestiário, e
+sinto uma pontada de culpa por não ter dito a verdade quando ele
+perguntou direto. Não é falta de confiança — é o hábito antigo demais
+de guardar, sempre guardar, até que guardar vire a única língua que
+sei falar sobre mim mesmo. Prometo a mim mesmo, ali, deitado no
+escuro, que um dia vou contar a ele também, quando finalmente
+encontrar as palavras certas para dizer sem que soe como pedido de
+pena.
+
+O celular vibra mais uma vez antes que eu adormeça — nenhuma mensagem
+nova, só um lembrete automático da consulta de fisioterapia marcada
+para semana que vem, uma das poucas coisas que ainda consigo manter em
+segredo do time por enquanto. Olho o lembrete, penso no domingo que
+ainda separa hoje da conversa que finalmente vou ter com ela, e sinto,
+pela primeira vez em muito tempo, que o peso todo que carrego sozinho
+talvez tenha, finalmente, um lugar seguro para pousar.

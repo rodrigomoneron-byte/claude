@@ -104,3 +104,25 @@ Baz volta para casa em algumas horas, direto do aeroporto, ainda
 vestindo a adrenalina da derrota como quem veste um casaco pesado
 demais para o clima, e alguma coisa em mim já aprendeu, sem precisar
 de aviso nenhum, exatamente quais provas nunca podem ficar visíveis.
+
+Quando ele chega, carrega a mala para o quarto sem dizer quase nada,
+o rosto fechado, o silêncio denso demais para qualquer pergunta
+casual. Sirvo chá para os dois, mais por hábito do que por vontade
+real de cuidar, e sento perto dele no sofá enquanto assiste replay do
+próprio erro no segundo período, repetindo a jogada três, quatro
+vezes, como se repetição pudesse reescrever o resultado.
+
+— Ele jogou bem — comenta, finalmente, a voz baixa, sem o desdém de
+sempre. — Não vou fingir o contrário.
+
+Concordo com um murmúrio qualquer, o coração acelerando por um motivo
+que ele nunca vai imaginar, e por baixo da concordância neutra sinto
+um orgulho pequeno e proibido que preciso engolir inteiro antes que
+qualquer traço dele escape para o rosto.
+
+Mais tarde, já na cama, penso em quantos domingos como esse ainda
+teremos pela frente — o parque, o café acertado sem perguntar, as
+mensagens depois do apito final — e sinto, pela primeira vez desde que
+tudo começou, uma vontade quase física de que o tempo desacelere,
+mesmo sabendo que nenhum relógio, por mais que eu implore, vai
+conceder esse favor.

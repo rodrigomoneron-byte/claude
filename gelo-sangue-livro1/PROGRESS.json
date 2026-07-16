@@ -15,7 +15,7 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 41,
+  "next_chapter": 21,
   "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
@@ -85,77 +85,77 @@
     {
       "n": 10,
       "pov": "Isa",
-      "words": 883,
+      "words": 1063,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 11,
       "pov": "Dante",
-      "words": 925,
+      "words": 1073,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 12,
       "pov": "Isa",
-      "words": 880,
+      "words": 1066,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 13,
       "pov": "Dante",
-      "words": 851,
+      "words": 1014,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 14,
       "pov": "Isa",
-      "words": 861,
+      "words": 1097,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 15,
       "pov": "Dante",
-      "words": 867,
-      "score": 6.0,
+      "words": 1046,
+      "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 16,
       "pov": "Isa",
-      "words": 840,
+      "words": 1001,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 17,
       "pov": "Dante",
-      "words": 831,
-      "score": 6.0,
+      "words": 1046,
+      "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 18,
       "pov": "Isa",
-      "words": 813,
+      "words": 1012,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 19,
       "pov": "Dante",
-      "words": 848,
+      "words": 1027,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 20,
       "pov": "Isa",
-      "words": 818,
+      "words": 1033,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -313,11 +313,11 @@
   ],
   "scoreboard": {
     "chapters_done": 40,
-    "total_words": 32720,
-    "pages_kdp": 109,
-    "avg_score": 6.75,
-    "pct_to_target": 55
+    "total_words": 34781,
+    "pages_kdp": 116,
+    "avg_score": 6.8,
+    "pct_to_target": 58
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 18:56"
+  "updated": "2026-07-16 22:37"
 }

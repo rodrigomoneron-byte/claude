@@ -121,3 +121,19 @@ atrás, um cotovelo mudou o rumo de um jogo inteiro, e penso que talvez
 seja assim que tudo começa a mudar de verdade — não num gesto grande,
 declarado, mas numa sequência pequena de coincidências que nenhum dos
 dois admite ter escolhido.
+
+Entro no apartamento, ainda suado, e fico parado no meio da sala por
+um instante, sem ligar rádio nenhum, sem checar celular, só sentindo o
+corpo inteiro processar a manhã — o ritmo compartilhado, o café
+acertado sem perguntar, a promessa frágil de "mesmo horário" que os
+dois fizeram sem admitir o peso real dela. Penso em ligar para Josh,
+contar alguma coisa, qualquer coisa, só para ter com quem dividir o
+que sinto. Não ligo. Ainda não tenho palavras prontas para explicar
+isso a ninguém, nem a mim mesmo.
+
+Tomo banho devagar, deixando a água quente aliviar o cansaço muscular
+que a corrida deixou, e é só debaixo do chuveiro, sozinho, sem
+ninguém observando, que permito ao próprio rosto abrir num sorriso que
+não ensaiei para câmera nenhuma — o primeiro sorriso involuntário em
+semanas, nascido de nada além da lembrança simples de um rosto
+concentrado correndo ao meu lado.

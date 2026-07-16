@@ -104,3 +104,20 @@ que agora não é vergonha o que sinto ao escondê-lo. É instinto de
 sobrevivência, o tipo que aprendi a reconhecer cedo demais na vida,
 protegendo a única coisa que ainda não decidi partilhar com ninguém
 além de mim mesma.
+
+Passo pela vitrine de uma loja de material de arte, paro sem planejar,
+e fico olhando os tubos de tinta expostos, cada cor gritando um nome
+diferente — vermelho cádmio, laranja queimado, azul cobalto — e por
+um instante penso em entrar, comprar tudo que sempre quis comprar para
+mim mesma sem pedir permissão a ninguém. Não entro. Ainda não. Mas
+guardo o impulso, como guardo tudo ultimamente, para um dia em que
+finalmente tenha coragem de agir sem calcular primeiro o custo.
+
+Chego em casa antes de Baz, aproveito o silêncio para tomar um banho
+demorado, e enquanto a água quente escorre pelas costas, penso em
+quantas versões pequenas de rebeldia já acumulei nos últimos meses —
+o vestido verde, o batom escondido, as corridas de domingo, a tela
+que cresce em segredo no estúdio. Nenhuma delas, sozinha, parece
+suficiente para mudar alguma coisa grande. Juntas, começo a suspeitar,
+formam o esboço de uma mulher completamente diferente da que Baz acha
+que conhece.

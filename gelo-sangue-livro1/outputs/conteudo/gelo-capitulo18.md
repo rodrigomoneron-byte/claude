@@ -116,3 +116,25 @@ ele responder de novo, e adormeço pensando não em Baz, não na
 estratégia dele, mas na palavra "individual" — meu nome sozinho numa
 fachada, pela primeira vez em anos, sem precisar dividir crédito com
 ninguém que decidiu antes de mim o que eu merecia mostrar ao mundo.
+
+De madrugada, acordo com o celular vibrando de novo, mais uma
+mensagem de Dante: *Quero saber de tudo, cada detalhe, mesmo o que a
+imprensa nunca vai publicar.* Sorrio no escuro, sozinha, sentindo o
+peso estranho de comemorar a conquista mais importante da minha
+carreira sabendo que a inauguração vai ser pública demais para
+qualquer aproximação segura entre nós dois — e ainda assim, mesmo com
+todo o risco, uma parte teimosa de mim já torce para que ele encontre
+um jeito de aparecer, nem que seja de longe.
+
+Penso em como vou organizar as próximas semanas — quais peças
+selecionar, como equilibrar as mais antigas, seguras, com as mais
+recentes, as que carregam verdade demais para qualquer olho treinado
+não perceber. A pintura mais nova, a com as duas linhas vermelhas,
+ainda não sei se tenho coragem de expor. Ela diz demais. Talvez até
+para mim mesma.
+
+Fico ali, no escuro, o celular ainda brilhando fraco na mesinha,
+sentindo pela primeira vez em muito tempo que o medo e a esperança
+podem, de fato, ocupar o mesmo espaço dentro de mim sem que um
+precise vencer o outro — os dois convivendo, desconfortáveis, mas
+reais, enquanto espero o sono finalmente chegar.
