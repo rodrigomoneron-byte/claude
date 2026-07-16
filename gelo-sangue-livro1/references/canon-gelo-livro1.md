@@ -92,6 +92,23 @@ projeto.
   de "nota de processo", não só como fala de personagem — vigilância
   tem que cobrir a narração inteira, não só diálogo.
 
+- **Cap. 39:** ALERTA MAIS GRAVE ATÉ AGORA — rascunho inicial abriu com
+  "a gente" na fala da Isa, seguido de um parágrafo de narração dizendo
+  explicitamente "não corrijo em voz alta o pequeno deslize" (o device
+  descrito quase literalmente pelas próprias instruções do projeto) E
+  então uma quebra de quarta parede completa: "Espera. Isso não está
+  certo. Recomeço a cena." — o modelo comentando o próprio processo de
+  escrita dentro do texto do capítulo. Pego por leitura manual antes do
+  registro (não só grep — o "recomeço a cena" não seria pego por um
+  grep de "a gente" sozinho). Removido o trecho inteiro, capítulo
+  reescrito limpo desde a primeira linha. LIÇÃO REFORÇADA COM MÁXIMA
+  PRIORIDADE: o impulso do device pode se manifestar como uma tentativa
+  de "corrigir a si mesmo em tempo real" dentro do rascunho — isso é
+  ainda mais perigoso que o "a gente" sozinho, porque quebra ficção por
+  completo. Todo capítulo precisa ser lido inteiro, do início ao fim,
+  por um humano (ou pelo próprio processo de revisão) ANTES do registro
+  — grep automatizado sozinho não pega esse tipo de falha estrutural.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
