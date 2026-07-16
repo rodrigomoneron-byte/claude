@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 55,
-  "next_pov": "Dante",
+  "next_chapter": 56,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -396,6 +396,13 @@
       "words": 798,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 55,
+      "pov": "Dante",
+      "words": 785,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -435,15 +442,19 @@
     {
       "n": 49,
       "desc": "9a cena — Isa decide sair, planejamento vira esperança"
+    },
+    {
+      "n": 55,
+      "desc": "10a cena — celebração/alívio depois que Isa consegue sair de casa"
     }
   ],
   "scoreboard": {
-    "chapters_done": 54,
-    "total_words": 51958,
-    "pages_kdp": 173,
+    "chapters_done": 55,
+    "total_words": 52743,
+    "pages_kdp": 176,
     "avg_score": 6.91,
-    "pct_to_target": 87
+    "pct_to_target": 88
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 23:41"
+  "updated": "2026-07-16 23:42"
 }
