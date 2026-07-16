@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 41,
-  "next_pov": "Dante",
+  "next_chapter": 42,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -298,6 +298,13 @@
       "words": 935,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 41,
+      "pov": "Dante",
+      "words": 947,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -325,15 +332,19 @@
     {
       "n": 38,
       "desc": "6a cena — conforto depois do quase-flagra do celular"
+    },
+    {
+      "n": 41,
+      "desc": "7a cena — medo compartilhado logo após saber do investigador (Ato 3, regra reaberta)"
     }
   ],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 39828,
-    "pages_kdp": 133,
+    "chapters_done": 41,
+    "total_words": 40775,
+    "pages_kdp": 136,
     "avg_score": 6.88,
-    "pct_to_target": 66
+    "pct_to_target": 68
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 22:51"
+  "updated": "2026-07-16 23:22"
 }
