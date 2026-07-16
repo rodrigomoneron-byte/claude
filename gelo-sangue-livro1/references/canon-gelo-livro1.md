@@ -187,6 +187,16 @@ capítulo do clímax da exposição em si, não nos capítulos finais de
 queda pura — maca, fuga). Alvo: 4 cenas adicionais em caps 41-55,
 elevando o total de 6 para 10 cenas reais até o fim do livro.
 
+- **Cap. 51:** SEGUNDA ocorrência do mesmo erro do cap. 31 — rascunho
+  inicial colocou Marco Marchetti fisicamente presente no apartamento
+  de Dante ("Meu pai chega duas horas depois, mala pequena na mão").
+  Pego ANTES do registro, reescrito para manter só ligação telefônica,
+  com o pai adiando a visita física para "assim que puder" (mantém a
+  reserva da presença física real para o Livro 2, per bíblia). Lição
+  reforçada: o modelo tem tendência recorrente a "resolver" a
+  reconciliação pai-filho com presença física — checar SEMPRE contra
+  a bíblia antes de escrever qualquer cena nova envolvendo Marco.
+
 ## Isolamento de universo
 Confirmado por grep negativo: nenhum nome do universo de "A Rede"
 (Cole, Sloane, Auden, Thorne, Daniel, Vivian, Adrian, Eleanor, Efua)
