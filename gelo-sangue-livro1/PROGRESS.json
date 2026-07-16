@@ -15,8 +15,8 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 37,
-  "next_pov": "Dante",
+  "next_chapter": 38,
+  "next_pov": "Isa",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
     {
@@ -270,6 +270,13 @@
       "words": 685,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 37,
+      "pov": "Dante",
+      "words": 673,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -277,15 +284,19 @@
     {
       "n": 24,
       "desc": "1a cena intima — trégua não planejada, apartamento antigo de Isa"
+    },
+    {
+      "n": 37,
+      "desc": "2a cena — reconexão de medo/urgência após ameaça velada de Baz na mostra"
     }
   ],
   "scoreboard": {
-    "chapters_done": 36,
-    "total_words": 30097,
-    "pages_kdp": 100,
-    "avg_score": 6.75,
-    "pct_to_target": 50
+    "chapters_done": 37,
+    "total_words": 30770,
+    "pages_kdp": 103,
+    "avg_score": 6.76,
+    "pct_to_target": 51
   },
   "created": "2026-07-16",
-  "updated": "2026-07-16 18:50"
+  "updated": "2026-07-16 18:51"
 }
