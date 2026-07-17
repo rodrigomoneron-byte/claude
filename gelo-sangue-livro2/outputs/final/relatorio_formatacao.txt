@@ -1,0 +1,91 @@
+RELATÓRIO DE FORMATAÇÃO — Sangue (Gelo e Sangue, Livro 2)
+Autor: R.B. Guidenelli
+Data: 2026-07-17
+
+0. REFORÇO DE MANUSCRITO (pré-formatação)
+   A primeira entrega do manuscrito ficou abaixo das metas travadas na
+   bíblia (43.621 palavras vs. meta de 57.000-66.000; 6 cenas de heat
+   vs. meta de ~12). O dono do projeto rejeitou explicitamente essa
+   entrega e exigiu que ambos os pontos fossem cobertos por completo.
+   Resposta: adicionadas 6 novas cenas de heat (caps. 26, 31, 48, 52,
+   57, 59 — total 12, cadência 80/20 mantida, gap máximo 6 capítulos,
+   nenhuma no capítulo do clímax) e expansão individual dos 60
+   capítulos (faixa final: 872-1171 palavras/capítulo). Cada edição
+   revalidada com regua_gate.py + varredura manual + regex de texto
+   normalizado antes de prosseguir. Continuidade cruzada revisada e
+   corrigida onde necessário (ver PROGRESS.md para detalhes).
+
+1. CAPÍTULOS INCLUÍDOS
+   60 / 60 capítulos, sem falhas de contagem (confirmado pela saída do
+   build_epub.py e build_pdf.py — ambos listaram Capítulo 1 a 60 sem
+   pulos nem duplicatas).
+   POV: Dante (ímpar) / Isa (par), alternância 30/30 confirmada por
+   varredura automática, Baz sem capítulo de POV próprio — regra
+   estrutural preservada.
+   Linha de POV convertida em subtítulo discreto ("*POV: Nome*") sob o
+   título de cada capítulo, conforme references/project_dna.md
+   (seção 4): nenhuma marcação crua "### POV:" chega ao leitor final.
+
+2. CONTAGEM DE PALAVRAS
+   Manuscrito completo: 57.267 palavras (~191 páginas KDP em 6"x9").
+   Dentro da faixa travada no onboarding (57.000-66.000) — meta
+   atingida, sem desvio pendente.
+
+3. CADÊNCIA DE HEAT
+   12 cenas (caps. 23, 26, 28, 31, 34, 39, 45, 48, 52, 53, 57, 59) —
+   meta de ~12 batida. Primeira cena no cap. 23, dentro da janela
+   travada (21-26). Gap máximo entre cenas: 6 capítulos (caps. 39→45).
+   Nenhuma cena no capítulo do clímax do jogo de acesso (cap. 55).
+   Registro explícito-elegante mantido em todas as cenas.
+
+4. RASTREAMENTO DE SÍMBOLOS
+   Bússola quebrada: 8 aparições. Cachecol/vermelho: 6 aparições.
+   Cartas: 29 aparições, culminando na carta nunca enviada lida no
+   cap. 60. Palavra-tema "sangue" (família/vínculo, não decoração)
+   plantada no cap. 7 e paga no cap. 33 e no cap. 60 (contraste
+   Grant Vance vs. Marco Marchetti).
+
+5. PDF (KDP paperback 6"x9")
+   Arquivo: sangue_livro2_kdp.pdf (446 KB)
+   240 páginas totais, dimensão de página confirmada via leitura de
+   mediabox: 432 x 648 pt = 6" x 9" exato.
+   Verificação visual (render das páginas 1 e 2 em PNG): página de
+   título centralizada (título + autor + série); primeira página de
+   capítulo com título "Capítulo 1", subtítulo de POV em itálico,
+   corpo justificado com recuo de primeira linha, numeração de página
+   "1" no rodapé — layout confere com references/kdp-specs.md.
+
+6. EPUB (3.0)
+   Arquivo: sangue_livro2.epub (190 KB)
+   Validado com `ebooklib.epub.read_epub()` — abriu sem erro.
+   Metadados confirmados: título "Sangue", autor "R.B. Guidenelli",
+   idioma "pt-BR". 61 documentos internos (60 capítulos + página de
+   navegação/sumário).
+
+7. RÉGUA "A GENTE"
+   Varredura mecânica (regua_gate.py) sobre os 60 arquivos organizados
+   em outputs/final/manuscrito/: RESULTADO = LIMPO em todos.
+   Varredura manual complementar com regex de texto normalizado: 4
+   ocorrências, todas falsos positivos legítimos dentro da whitelist
+   ("gente como Tyler", "Muita gente" x2, "tanta gente"). Nenhum
+   device de correção/quarta parede encontrado. Régua 100% limpa.
+
+8. ARQUIVOS ENTREGUES (outputs/final/)
+   - sangue_livro2.epub
+   - sangue_livro2_kdp.pdf
+   - prompt_capa_sangue_livro2.txt
+   - metadados_sangue_livro2.json
+   - relatorio_formatacao.txt
+   - manuscrito/ (60 .md organizados + metadata.json fonte)
+
+9. PENDÊNCIA PARA PUBLICAÇÃO REAL
+   O identificador em metadata.json é um placeholder gerado
+   automaticamente (urn:uuid:8f2c1e3a-9d4b-4a7e-b6f1-2c5d8a91e3b7).
+   Deve ser substituído pelo ISBN real (ou ASIN gerado pela KDP) antes
+   da publicação definitiva.
+   A capa em si não foi gerada por esta skill — apenas o prompt
+   (prompt_capa_sangue_livro2.txt), a ser colado num gerador de imagem
+   à escolha do autor.
+
+STATUS: FORMATAÇÃO CONCLUÍDA — pronto para geração de capa externa e
+upload no KDP (após substituição do identificador placeholder).
