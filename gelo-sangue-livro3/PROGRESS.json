@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 16,
-  "next_pov": "Isa",
-  "updated": "2026-07-17 22:01",
+  "next_chapter": 19,
+  "next_pov": "Dante",
+  "updated": "2026-07-17 22:04",
   "chapters": [
     {
       "n": 1,
@@ -115,15 +115,36 @@
       "words": 881,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 16,
+      "pov": "Isa",
+      "words": 943,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 17,
+      "pov": "Dante",
+      "words": 871,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 18,
+      "pov": "Isa",
+      "words": 958,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 15,
-    "total_words": 14480,
-    "pages_kdp": 48,
+    "chapters_done": 18,
+    "total_words": 17252,
+    "pages_kdp": 58,
     "avg_score": 7.0,
-    "pct_to_target": 25
+    "pct_to_target": 30
   },
   "heat_log": [
     {
@@ -137,6 +158,10 @@
     {
       "n": 12,
       "desc": "3a cena — vespera do depoimento da testemunha, esquecimento temporario no sofa"
+    },
+    {
+      "n": 16,
+      "desc": "4a cena — noite depois da conversa com Priya, gratidao pela rede de apoio"
     }
   ],
   "decisoes_travadas": {
