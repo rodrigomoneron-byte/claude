@@ -1,0 +1,64 @@
+RELATÓRIO DE FORMATAÇÃO — Gelo (Gelo e Sangue, Livro 1)
+Autor: R.B. Guidenelli
+Data: 2026-07-17
+
+1. CAPÍTULOS INCLUÍDOS
+   60 / 60 capítulos, sem falhas de contagem (confirmado pela saída do
+   build_epub.py e build_pdf.py — ambos listaram Capítulo 1 a 60 sem
+   pulos nem duplicatas).
+   POV: Dante (ímpar) / Isa (par), alternância mantida, Baz sem
+   capítulo de POV próprio — regra estrutural preservada.
+   Linha de POV convertida em subtítulo discreto ("*POV: Nome*") sob o
+   título de cada capítulo, conforme references/project_dna.md
+   (seção 4): nenhuma marcação crua "### POV:" chega ao leitor final.
+
+2. CONTAGEM DE PALAVRAS
+   Manuscrito completo: 56.972 palavras (~190 páginas KDP em 6"x9").
+   Dentro da faixa travada no onboarding (~57.000-66.000), na borda
+   inferior — desvio documentado, não bloqueante (decisão editorial
+   registrada em PROGRESS.json, não erro de formatação).
+
+3. PDF (KDP paperback 6"x9")
+   Arquivo: gelo_livro1_kdp.pdf (420 KB)
+   225 páginas totais, dimensão de página confirmada via leitura de
+   mediabox: 432 x 648 pt = 6" x 9" exato.
+   Verificação visual (render das páginas 1 e 2 em PNG): página de
+   título centralizada (título + autor + série); primeira página de
+   capítulo com título "Capítulo 1", subtítulo de POV em itálico,
+   corpo justificado com recuo de primeira linha, numeração de página
+   "1" no rodapé — layout confere com references/kdp-specs.md.
+
+4. EPUB (3.0)
+   Arquivo: gelo_livro1.epub (188 KB)
+   Validado com `ebooklib.epub.read_epub()` — abriu sem erro.
+   Metadados confirmados: título "Gelo", autor "R.B. Guidenelli",
+   idioma "pt-BR". 61 documentos internos (60 capítulos + página de
+   navegação/sumário).
+
+5. RÉGUA "A GENTE"
+   Varredura mecânica (regua_gate.py) sobre os 60 arquivos organizados
+   em outputs/final/manuscrito/: RESULTADO = LIMPO em todos.
+   Varredura manual complementar (`grep -n "a gente"`): 1 ocorrência,
+   falso positivo legítimo ("Muita gente apareceu", cap. 44) — dentro
+   da whitelist do projeto. Nenhum device de correção/quarta parede
+   encontrado. Régua 100% limpa.
+
+6. ARQUIVOS ENTREGUES (outputs/final/)
+   - gelo_livro1.epub
+   - gelo_livro1_kdp.pdf
+   - prompt_capa_gelo_livro1.txt
+   - metadados_gelo_livro1.json
+   - relatorio_formatacao.txt
+   - manuscrito/ (60 .md organizados + metadata.json fonte)
+
+7. PENDÊNCIA PARA PUBLICAÇÃO REAL
+   O identificador em metadata.json é um placeholder gerado
+   automaticamente (urn:uuid:1b4ec770-7c6f-4572-9fa1-8987423b4ae4).
+   Deve ser substituído pelo ISBN real (ou ASIN gerado pela KDP) antes
+   da publicação definitiva.
+   A capa em si não foi gerada por esta skill — apenas o prompt
+   (prompt_capa_gelo_livro1.txt), a ser colado num gerador de imagem
+   à escolha do autor.
+
+STATUS: FORMATAÇÃO CONCLUÍDA — pronto para geração de capa externa e
+upload no KDP (após substituição do identificador placeholder).

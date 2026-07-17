@@ -1,0 +1,46 @@
+TÍTULO: Gelo e Sangue — Livro 1: Gelo
+
+DESCRIÇÃO VISUAL:
+Vista frontal e baixa de um rinque de hóquei vazio, gelo rachado em
+primeiro plano ocupando quase todo o quadro — as rachaduras formam uma
+rede fina que se espalha a partir de um ponto de impacto fora de
+quadro, como se algo tivesse acabado de se romper sob a superfície.
+Iluminação fria e alta, tipo refletores de arena apagados pela metade,
+tons de azul-aço e branco-gelo dominando quase toda a composição —
+inversão deliberada da luz quente de vela/latão do branding padrão da
+casa, porque o conceito deste livro específico é o frio, não o
+carvalho. Num único ponto do quadro — no gelo rachado mesmo, meio
+enterrado ou preso entre duas placas de gelo — um pequeno detalhe em
+acento quente pontual: uma bússola de bolso quebrada, o vidro
+estilhaçado, ponteiro torto, com um fiapo de luz dourada (Ouro
+Envelhecido #C5A059) refletindo nela como se fosse a única fonte de
+calor em quadro. Nas bordas do gelo, sombras profundas em Verde
+Floresta Noturno (#1A2421), e um leve gradiente de Vinho Borgonha
+(#4A0E2E) muito discreto no horizonte, quase imperceptível, sugerindo
+sangue sem mostrar. Arquibancadas vazias e desfocadas ao fundo, fora de
+foco, sem nenhuma figura humana, sem casal, sem pose romântica, sem
+rosto explícito. Sensação geral: beleza fria, algo precioso e quebrado
+largado sobre gelo rachado, tensão contida entre o frio dominante e o
+único ponto de calor que resiste.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em quadro,
+jogadores de hóquei visíveis, luz quente de velas/lareira dominando a
+cena, textura de couro ou madeira em primeiro plano, fonte serifada
+dourada de romance histórico, símbolos de marca/liga esportiva real,
+logos de equipes reais da NHL, fundo branco genérico, estética de
+cartaz esportivo, texto incorporado na imagem
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, dark romance contemporâneo, minimalista,
+cor fria dominante (azul-aço/branco-gelo) com acento quente pontual em
+ouro envelhecido, atmosfera de arena vazia ao amanhecer, alta definição
+
+ELEMENTO DE MARCA (logotipo/assinatura, aplicar discreto no rodapé ou
+lombada, não na cena principal):
+Monograma R·B·G entrelaçado em ouro fino (#C5A059), estilo lacre de
+cera, junto ao nome do autor em serif display de alto contraste
+(Cinzel Decorative ou Playfair Display Black) — mantém a identidade
+visual da casa mesmo com a paleta desta capa invertendo o padrão
+quente do clube de carvalho para o frio do rinque.
