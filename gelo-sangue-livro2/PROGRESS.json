@@ -1,0 +1,37 @@
+{
+  "book": "Sangue — Livro 2",
+  "series": "Gelo e Sangue",
+  "author": "R.B. Guidenelli",
+  "status": "Onboarding concluído — pronto para iniciar Capítulo 1",
+  "decisoes_travadas": {
+    "nomes_de_time": "Fictícios — Boston Griffins (Dante), Toronto Comets (Baz), Fort McMurray Oil Barons (redenção, protagonista esportivo deste livro). Liga fictícia com acesso/rebaixamento entre 1ª e 2ª divisão, sem nome de marca própria. Nunca usar nomes reais de franquias da NHL.",
+    "extensao": "Mesmo modelo do L1 — 60 capítulos, ~950-1100 palavras/cap, total ~57.000-66.000 palavras, sem epílogo neste volume (reservado para o Livro 3).",
+    "heat": "Explícito-elegante, cadência 80/20 (~12 cenas em 60 caps), primeira cena = reencontro físico de Dante e Isa em Fort McMurray, estimada caps 21-26 (não é slow burn do zero — janela mais cedo que no L1). Ato 1 sem cena por desenho (separação real). Gap máximo 5-6 caps depois da primeira cena. Cena(s) no Ato 3 permitidas se emocionalmente justificadas, evitando o capítulo do jogo de acesso em si.",
+    "abertura_temporal": "Salto de ~2 meses após o final do L1 — não é continuação imediata.",
+    "reencontro_fisico": "PROPOSTO NESTA SESSÃO (não confirmado item a item pelo dono): separados fisicamente todo o Ato 1 (cartas indiretas via Priya/Josh), reencontro físico abre o Ato 2 (~cap 21-22).",
+    "papel_de_baz": "PROPOSTO NESTA SESSÃO: ameaça de fundo/mídia, sem interferência direta até um sinal indireto de Grant Vance (pai dele) no Ato 3. Baz não viaja a Fort McMurray neste livro.",
+    "tom_de_fechamento": "PROPOSTO NESTA SESSÃO: agridoce — ganho pessoal real entre Dante e Isa, mas ameaça nova (Grant Vance) e resultado do jogo de acesso em aberto para o L3.",
+    "inicio": "Sim, montar e começar — scaffold montado, onboarding parcial concluído (extensão/heat/abertura temporal confirmados pelo dono; reencontro/Baz/fechamento propostos como default). Loop autorizado a iniciar no Capítulo 1, sinalizando ao dono se a escrita pedir ajuste nas 3 decisões propostas."
+  },
+  "target": 60,
+  "word_target": 60000,
+  "povs": [
+    "Dante",
+    "Isa"
+  ],
+  "next_chapter": 1,
+  "next_pov": "Dante",
+  "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0
+  },
+  "created": "2026-07-17",
+  "updated": "2026-07-17"
+}
