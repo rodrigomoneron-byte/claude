@@ -107,3 +107,25 @@
   no estacionamento do ginásio depois da vitória, sem confirmar
   ninguém visível — gancho plantado pra escalada de Grant/Baz nos
   capítulos seguintes (não resolvido ainda).
+- Cap. 20: Grant Vance hospitalizado (emergência cardíaca) — planta o
+  infarto fatal previsto pro Ato 3. Sessão do julgamento adiada 6
+  semanas.
+- Cap. 24: Baz oferece acordo (retirada do processo por silêncio
+  permanente) — Isa recusa formalmente.
+- Cap. 25: carta ameaçadora anônima entregue a Marco na oficina
+  ("Doença não apaga dívida") — Denise reporta como violação indireta,
+  extensão emergencial da ordem de restrição concedida no cap. 26,
+  agora nomeando Marco explicitamente.
+- Cap. 27: entrevista coletiva do time — jornalista pergunta
+  diretamente sobre Grant/processo, Dante recusa comentar. Beau
+  negocia redução de exposição midiática do time junto à liga.
+- Cap. 28: Grant Vance PRESO — violação direta e grave da ordem de
+  restrição, abordando funcionário da escola de uma criança (filha de
+  funcionário de Marco) pra obter informação sobre o paradeiro de
+  Dante/Isa. Detido, audiência de fiança marcada pra "amanhã"
+  (a partir do cap. 28). Isa presta depoimento formal na delegacia.
+- Cap. 28: Marco chama Dante e Isa de "vocês dois" e escapole a
+  palavra "marido" referindo-se a Dante — deslize não corrigido,
+  carinhoso, tratado como piada suave entre os três. Plantado como
+  fio leve pra "compromisso mais sério" do Ato 3 (não é noivado
+  formal ainda, só sinalização emocional).
