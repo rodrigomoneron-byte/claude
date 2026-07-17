@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 11,
+  "next_chapter": 15,
   "next_pov": "Dante",
-  "updated": "2026-07-17 20:22",
+  "updated": "2026-07-17 21:59",
   "chapters": [
     {
       "n": 1,
@@ -80,15 +80,43 @@
       "words": 945,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 11,
+      "pov": "Dante",
+      "words": 1006,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 12,
+      "pov": "Isa",
+      "words": 933,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 13,
+      "pov": "Dante",
+      "words": 968,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 14,
+      "pov": "Isa",
+      "words": 964,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 10,
-    "total_words": 9728,
-    "pages_kdp": 32,
+    "chapters_done": 14,
+    "total_words": 13599,
+    "pages_kdp": 45,
     "avg_score": 7.0,
-    "pct_to_target": 17
+    "pct_to_target": 23
   },
   "heat_log": [
     {
@@ -98,6 +126,10 @@
     {
       "n": 8,
       "desc": "2a cena — noite antes do treino final, gratidao pela familia reconstruida"
+    },
+    {
+      "n": 12,
+      "desc": "3a cena — vespera do depoimento da testemunha, esquecimento temporario no sofa"
     }
   ],
   "decisoes_travadas": {
