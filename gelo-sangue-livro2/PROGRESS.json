@@ -2,7 +2,7 @@
   "book": "Sangue — Livro 2",
   "series": "Gelo e Sangue",
   "author": "R.B. Guidenelli",
-  "status": "Onboarding concluído — pronto para iniciar Capítulo 1",
+  "status": "Ato 2 completo (caps 21-40) — seguindo para o Ato 3",
   "decisoes_travadas": {
     "nomes_de_time": "Fictícios — Boston Griffins (Dante), Toronto Comets (Baz), Fort McMurray Oil Barons (redenção, protagonista esportivo deste livro). Liga fictícia com acesso/rebaixamento entre 1ª e 2ª divisão, sem nome de marca própria. Nunca usar nomes reais de franquias da NHL.",
     "extensao": "Mesmo modelo do L1 — 60 capítulos, ~950-1100 palavras/cap, total ~57.000-66.000 palavras, sem epílogo neste volume (reservado para o Livro 3).",
@@ -19,19 +19,317 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 1,
+  "next_chapter": 41,
   "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
-  "chapters": [],
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Dante",
+      "words": 963,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 2,
+      "pov": "Isa",
+      "words": 1011,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 3,
+      "pov": "Dante",
+      "words": 898,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 4,
+      "pov": "Isa",
+      "words": 804,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 5,
+      "pov": "Dante",
+      "words": 937,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 6,
+      "pov": "Isa",
+      "words": 842,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 7,
+      "pov": "Dante",
+      "words": 934,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 8,
+      "pov": "Isa",
+      "words": 813,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 9,
+      "pov": "Dante",
+      "words": 855,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 10,
+      "pov": "Isa",
+      "words": 755,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 11,
+      "pov": "Dante",
+      "words": 907,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 12,
+      "pov": "Isa",
+      "words": 793,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 13,
+      "pov": "Dante",
+      "words": 823,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 14,
+      "pov": "Isa",
+      "words": 744,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 15,
+      "pov": "Dante",
+      "words": 729,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 16,
+      "pov": "Isa",
+      "words": 778,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 17,
+      "pov": "Dante",
+      "words": 801,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 18,
+      "pov": "Isa",
+      "words": 739,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 19,
+      "pov": "Dante",
+      "words": 726,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 20,
+      "pov": "Isa",
+      "words": 682,
+      "score": 6.5,
+      "status": "aprovado"
+    },
+    {
+      "n": 21,
+      "pov": "Dante",
+      "words": 827,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 22,
+      "pov": "Isa",
+      "words": 686,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 23,
+      "pov": "Dante",
+      "words": 784,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 24,
+      "pov": "Isa",
+      "words": 674,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 25,
+      "pov": "Dante",
+      "words": 705,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 26,
+      "pov": "Isa",
+      "words": 688,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 27,
+      "pov": "Dante",
+      "words": 641,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 28,
+      "pov": "Isa",
+      "words": 695,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 29,
+      "pov": "Dante",
+      "words": 673,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 30,
+      "pov": "Isa",
+      "words": 691,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 31,
+      "pov": "Dante",
+      "words": 594,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 32,
+      "pov": "Isa",
+      "words": 709,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 33,
+      "pov": "Dante",
+      "words": 671,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 34,
+      "pov": "Isa",
+      "words": 638,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 35,
+      "pov": "Dante",
+      "words": 671,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 36,
+      "pov": "Isa",
+      "words": 645,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 37,
+      "pov": "Dante",
+      "words": 654,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 38,
+      "pov": "Isa",
+      "words": 633,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 39,
+      "pov": "Dante",
+      "words": 666,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 40,
+      "pov": "Isa",
+      "words": 681,
+      "score": 7.0,
+      "status": "aprovado"
+    }
+  ],
   "blocks": [],
-  "heat_log": [],
+  "heat_log": [
+    {
+      "n": 23,
+      "desc": "1a cena — reencontro físico, trégua depois do medo, sem segredo pela primeira vez"
+    },
+    {
+      "n": 28,
+      "desc": "2a cena — primeira noite no quarto próprio, ritmo mais lento, confiança em construção"
+    },
+    {
+      "n": 34,
+      "desc": "3a cena — celebração depois da terceira vitória seguida dos Oil Barons"
+    },
+    {
+      "n": 39,
+      "desc": "4a cena — véspera do jogo decisivo, cuidado mútuo antes da pressão"
+    }
+  ],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0
+    "chapters_done": 40,
+    "total_words": 30160,
+    "pages_kdp": 101,
+    "avg_score": 6.75,
+    "pct_to_target": 50
   },
   "created": "2026-07-17",
-  "updated": "2026-07-17"
+  "updated": "2026-07-17 04:09"
 }

@@ -1,26 +1,19 @@
 # Progresso do Loop — Sangue — Livro 2
 
 ## Estado atual
-- Status: Onboarding concluído — pronto para iniciar Capítulo 1
-- Capítulos concluídos: 0 / 60
-- Próximo: Capítulo 1 (POV Dante)
-- Última atualização: 2026-07-17
+- Status: Ato 2 completo (caps 21-40) — mini-auditoria feita, seguindo para o Ato 3
+- Capítulos concluídos: 40 / 60
+- Próximo: Capítulo 41 (POV Dante) — abertura do Ato 3
+- Última atualização: 2026-07-17 04:15
 
 ## Placar
-- Palavras: 0
-- Páginas KDP (~palavras/300): 0
-- Score médio: —
-- Meta de palavras: 60000 (0%)
+- Palavras: 30160
+- Páginas KDP (~palavras/300): 101
+- Score médio: 6.75
+- Meta de palavras: 60000 (50%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
 
 ## Bloqueios
 - Nenhum.
-
-## Pendências de onboarding
-- 3 decisões da bíblia (timing do reencontro Isa/Dante, papel de Baz no
-  L2, tom exato do resultado do jogo de acesso) foram propostas como
-  default coerente com a linha do tempo da trilogia, não confirmadas
-  item a item numa rodada de perguntas separada. Ver
-  references/arco-trama-livro2.md, seção "PENDÊNCIA PARA O DONO".
