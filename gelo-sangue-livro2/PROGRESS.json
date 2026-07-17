@@ -2,7 +2,7 @@
   "book": "Sangue — Livro 2",
   "series": "Gelo e Sangue",
   "author": "R.B. Guidenelli",
-  "status": "Ato 2 completo (caps 21-40) — seguindo para o Ato 3",
+  "status": "Manuscrito completo (60/60) — desvios de meta documentados, aguardando decisão do dono antes da revisão global",
   "decisoes_travadas": {
     "nomes_de_time": "Fictícios — Boston Griffins (Dante), Toronto Comets (Baz), Fort McMurray Oil Barons (redenção, protagonista esportivo deste livro). Liga fictícia com acesso/rebaixamento entre 1ª e 2ª divisão, sem nome de marca própria. Nunca usar nomes reais de franquias da NHL.",
     "extensao": "Mesmo modelo do L1 — 60 capítulos, ~950-1100 palavras/cap, total ~57.000-66.000 palavras, sem epílogo neste volume (reservado para o Livro 3).",
@@ -19,7 +19,7 @@
     "Dante",
     "Isa"
   ],
-  "next_chapter": 41,
+  "next_chapter": 61,
   "next_pov": "Dante",
   "pov_rule": "Dante=ímpar, Isa=par (Baz nunca tem POV próprio)",
   "chapters": [
@@ -302,6 +302,146 @@
       "words": 681,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 41,
+      "pov": "Dante",
+      "words": 635,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 42,
+      "pov": "Isa",
+      "words": 662,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 43,
+      "pov": "Dante",
+      "words": 696,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 44,
+      "pov": "Isa",
+      "words": 709,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 45,
+      "pov": "Dante",
+      "words": 594,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 46,
+      "pov": "Isa",
+      "words": 635,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 47,
+      "pov": "Dante",
+      "words": 715,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 48,
+      "pov": "Isa",
+      "words": 619,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 49,
+      "pov": "Dante",
+      "words": 661,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 50,
+      "pov": "Isa",
+      "words": 598,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 51,
+      "pov": "Dante",
+      "words": 671,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 52,
+      "pov": "Isa",
+      "words": 643,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 53,
+      "pov": "Dante",
+      "words": 618,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 54,
+      "pov": "Isa",
+      "words": 642,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 55,
+      "pov": "Dante",
+      "words": 739,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 56,
+      "pov": "Isa",
+      "words": 589,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 57,
+      "pov": "Dante",
+      "words": 659,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 58,
+      "pov": "Isa",
+      "words": 679,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 59,
+      "pov": "Dante",
+      "words": 656,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 60,
+      "pov": "Isa",
+      "words": 781,
+      "score": 7.5,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -321,15 +461,23 @@
     {
       "n": 39,
       "desc": "4a cena — véspera do jogo decisivo, cuidado mútuo antes da pressão"
+    },
+    {
+      "n": 45,
+      "desc": "5a cena — véspera da entrevista, ternura antes da exposição pública"
+    },
+    {
+      "n": 53,
+      "desc": "6a cena — véspera do jogo de acesso decisivo, gratidão mútua antes da pressão final"
     }
   ],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 30160,
-    "pages_kdp": 101,
-    "avg_score": 6.75,
-    "pct_to_target": 50
+    "chapters_done": 60,
+    "total_words": 43361,
+    "pages_kdp": 145,
+    "avg_score": 6.84,
+    "pct_to_target": 72
   },
   "created": "2026-07-17",
-  "updated": "2026-07-17 04:09"
+  "updated": "2026-07-17 04:31"
 }
