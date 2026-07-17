@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 30,
-  "next_pov": "Isa",
-  "updated": "2026-07-17 22:22",
+  "next_chapter": 31,
+  "next_pov": "Dante",
+  "updated": "2026-07-17 22:24",
   "chapters": [
     {
       "n": 1,
@@ -213,15 +213,22 @@
       "words": 933,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 30,
+      "pov": "Isa",
+      "words": 920,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 29,
-    "total_words": 27233,
-    "pages_kdp": 91,
+    "chapters_done": 30,
+    "total_words": 28153,
+    "pages_kdp": 94,
     "avg_score": 7.0,
-    "pct_to_target": 47
+    "pct_to_target": 49
   },
   "heat_log": [
     {
@@ -243,6 +250,10 @@
     {
       "n": 23,
       "desc": "5a cena — reencontro apos viagem, tres vitorias seguidas na primeira divisao"
+    },
+    {
+      "n": 30,
+      "desc": "6a cena — praticando confiar na calmaria depois da prisao de Grant"
     }
   ],
   "decisoes_travadas": {
