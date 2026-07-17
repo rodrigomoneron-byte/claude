@@ -1,0 +1,35 @@
+{
+  "book": "Raiz",
+  "target": 60,
+  "word_target": 58000,
+  "povs": [
+    "Dante",
+    "Isa"
+  ],
+  "status": "Em andamento",
+  "next_chapter": 1,
+  "next_pov": "Dante",
+  "updated": "2026-07-17 20:08",
+  "chapters": [],
+  "blocks": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0
+  },
+  "heat_log": [],
+  "decisoes_travadas": {
+    "titulo": "Raiz",
+    "subtitulo": "O Peso da Herança",
+    "extensao_capitulo": "950-1100 palavras (TRAVADO)",
+    "extensao_total": "58000-67000 palavras + epilogo 1200-1500 (TRAVADO)",
+    "heat_cadencia": "80/20 (~12 cenas), gap max 5-6 caps (TRAVADO)",
+    "resultado_final_acesso": "Oil Barons vencem, sobem pra 1a divisao (PROPOSTO NESTA SESSAO)",
+    "morte_grant_vance": "infarto ligado ao proprio estresse, Ato 3, fora de cena ou breve/contida (PROPOSTO NESTA SESSAO)",
+    "queda_baz": "colapso da propria imagem publica no julgamento, nao violencia do enredo, sem redencao limpa (PROPOSTO NESTA SESSAO)",
+    "simbolo_novo": "muda de arvore plantada cedo, madura no epilogo (TRAVADO)",
+    "gravidez_isa": "revelada so no epilogo (TRAVADO)"
+  }
+}
