@@ -86,4 +86,24 @@
   deve ser monitorada capítulo a capítulo, não deixada "para depois".
 
 ## Log de decisões de escrita (preencher durante a produção)
-(Nenhuma entrada ainda — projeto em fase de onboarding/scaffold.)
+- **Linha do tempo da semana dupla (caps 1-10)**: cap. 1 = quarta-feira
+  (véspera da audiência); cap. 2 = mesma quarta à noite; cap. 3 =
+  quinta-feira (primeira sessão do julgamento em Toronto, ida e volta
+  no mesmo dia); caps. 4-6 = sexta-feira (dia seguinte ao julgamento,
+  cobrindo manhã/tarde de Dante e Isa); cap. 7 = sexta-feira à noite
+  (treino intensificado — CUIDADO: o arquivo tem uma linha de abertura
+  que descreve como "treino de sexta-feira", ajustado nesta sessão
+  depois de um erro de continuidade onde constava "quarta-feira",
+  o que contradizia o cap. 3 já ter sido quinta); cap. 8 = sexta-feira
+  à noite (jantar de família, véspera da final); cap. 9 = sexta-feira
+  à noite, mais tarde (última noite antes do jogo); cap. 10 = sábado
+  (final de acesso, vitória, Oil Barons sobem pra primeira divisão).
+  A segunda sessão do julgamento (testemunha) está marcada para "quinta
+  que vem" a partir do cap. 5 — ainda não aconteceu depois do cap. 10.
+- Final de acesso: Oil Barons venceram os Saskatoon Ice Wolves por 2 a
+  1 no cap. 10 — nome do adversário confirmado como usado no fechamento
+  do L2 (cap. 60). Subida pra primeira divisão confirmada.
+- Cap. 10 termina com Isa sentindo um arrepio/sensação de ser observada
+  no estacionamento do ginásio depois da vitória, sem confirmar
+  ninguém visível — gancho plantado pra escalada de Grant/Baz nos
+  capítulos seguintes (não resolvido ainda).

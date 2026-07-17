@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 8,
-  "next_pov": "Isa",
-  "updated": "2026-07-17 20:17",
+  "next_chapter": 11,
+  "next_pov": "Dante",
+  "updated": "2026-07-17 20:22",
   "chapters": [
     {
       "n": 1,
@@ -59,20 +59,45 @@
       "words": 953,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 8,
+      "pov": "Isa",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 9,
+      "pov": "Dante",
+      "words": 939,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 10,
+      "pov": "Isa",
+      "words": 945,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 7,
-    "total_words": 6926,
-    "pages_kdp": 23,
+    "chapters_done": 10,
+    "total_words": 9728,
+    "pages_kdp": 32,
     "avg_score": 7.0,
-    "pct_to_target": 12
+    "pct_to_target": 17
   },
   "heat_log": [
     {
       "n": 4,
       "desc": "1a cena — consolo depois do primeiro dia de julgamento em Toronto"
+    },
+    {
+      "n": 8,
+      "desc": "2a cena — noite antes do treino final, gratidao pela familia reconstruida"
     }
   ],
   "decisoes_travadas": {

@@ -1,7 +1,7 @@
 # Raiz — Capítulo 7
 ### POV: Dante
 
-O treino de quarta-feira intensifica sem aviso, Beau cortando qualquer
+O treino de sexta-feira intensifica sem aviso, Beau cortando qualquer
 exercício leve pra focar direto em jogadas de pressão alta, o tipo de
 trabalho físico que deixa o vestiário inteiro respirando pesado antes
 mesmo do meio-dia.

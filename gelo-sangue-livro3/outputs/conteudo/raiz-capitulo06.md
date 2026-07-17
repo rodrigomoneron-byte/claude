@@ -1,7 +1,7 @@
 # Raiz — Capítulo 6
 ### POV: Isa
 
-A cafeteria enche de um jeito incomum pra uma terça-feira, o burburinho
+A cafeteria enche de um jeito incomum pra um dia comum de semana, o burburinho
 sobre a final de sábado já circulando pela cidade inteira com o tipo de
 entusiasmo que só comunidade pequena consegue produzir.
 
