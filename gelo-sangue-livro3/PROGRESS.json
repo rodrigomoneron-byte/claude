@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 23,
+  "next_chapter": 25,
   "next_pov": "Dante",
-  "updated": "2026-07-17 22:14",
+  "updated": "2026-07-17 22:16",
   "chapters": [
     {
       "n": 1,
@@ -164,15 +164,29 @@
       "words": 849,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 23,
+      "pov": "Dante",
+      "words": 915,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 24,
+      "pov": "Isa",
+      "words": 914,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 22,
-    "total_words": 20950,
-    "pages_kdp": 70,
+    "chapters_done": 24,
+    "total_words": 22779,
+    "pages_kdp": 76,
     "avg_score": 7.0,
-    "pct_to_target": 36
+    "pct_to_target": 39
   },
   "heat_log": [
     {
@@ -190,6 +204,10 @@
     {
       "n": 16,
       "desc": "4a cena — noite depois da conversa com Priya, gratidao pela rede de apoio"
+    },
+    {
+      "n": 23,
+      "desc": "5a cena — reencontro apos viagem, tres vitorias seguidas na primeira divisao"
     }
   ],
   "decisoes_travadas": {
