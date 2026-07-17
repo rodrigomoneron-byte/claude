@@ -7,19 +7,74 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 1,
-  "next_pov": "Dante",
-  "updated": "2026-07-17 20:08",
-  "chapters": [],
+  "next_chapter": 8,
+  "next_pov": "Isa",
+  "updated": "2026-07-17 20:17",
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Dante",
+      "words": 1172,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 2,
+      "pov": "Isa",
+      "words": 1027,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 3,
+      "pov": "Dante",
+      "words": 1017,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 4,
+      "pov": "Isa",
+      "words": 915,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 5,
+      "pov": "Dante",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 6,
+      "pov": "Isa",
+      "words": 924,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 7,
+      "pov": "Dante",
+      "words": 953,
+      "score": 7.0,
+      "status": "aprovado"
+    }
+  ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0
+    "chapters_done": 7,
+    "total_words": 6926,
+    "pages_kdp": 23,
+    "avg_score": 7.0,
+    "pct_to_target": 12
   },
-  "heat_log": [],
+  "heat_log": [
+    {
+      "n": 4,
+      "desc": "1a cena — consolo depois do primeiro dia de julgamento em Toronto"
+    }
+  ],
   "decisoes_travadas": {
     "titulo": "Raiz",
     "subtitulo": "O Peso da Herança",
