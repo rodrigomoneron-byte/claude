@@ -127,3 +127,20 @@ Só sei que, pela primeira vez em sessenta dias, mandei alguma coisa de
 mim mesma para fora dessa cidade sem nome que escolhi — e agora resta
 só esperar, com o coração batendo forte demais para uma esquina tão
 silenciosa quanto essa.
+
+Volto devagar pra pensão, o frio da noite finalmente alcançando os
+ossos, e paro mais uma vez diante da vitrine escura de uma loja de
+roupas fechada havia horas, olhando o próprio reflexo tremido no
+vidro — o casaco emprestado, o rosto mais magro do que era há dois
+meses, os olhos carregando um cansaço que nenhuma maquiagem cara
+jamais soube disfarçar tão bem quanto a distância consegue. Não
+reconheço completamente essa mulher no reflexo. Mas, pela primeira
+vez, também não sinto vontade de fugir dela.
+
+Frieda deixou a luz da cozinha acesa quando chego, um prato coberto
+esperando na mesa mesmo sem eu ter pedido nada. Como sozinha, em
+silêncio, pensando em quantos quilômetros separam essa mesa pequena
+e gentil da mesa de jantar formal que um dia chamei de lar — e em
+como, apesar de tudo que perdi pra chegar até aqui, essa mesa
+específica parece, de um jeito estranho, mais verdadeira que
+qualquer coisa que já tive antes.

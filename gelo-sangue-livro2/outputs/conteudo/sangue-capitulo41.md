@@ -99,3 +99,56 @@ já é parte dessa família também, sabia. Há tempos.
 A afirmação simples carrega um peso enorme, e vejo os olhos de Isa
 brilharem de lágrima contida, o tipo de emoção que só vem de sentir,
 pela primeira vez em muito tempo, pertencimento genuíno e incondicional.
+
+Passamos o resto da manhã organizando o pouco que sabemos — a
+descrição física de Grant, o horário aproximado do avistamento, o
+fato de que ele não se aproximou diretamente, só observou de longe.
+Meu pai anota tudo num caderno, insistindo em documentar cada
+detalhe "pra quando precisarmos apresentar isso formalmente pra
+alguém".
+
+— Você parece ter feito isso antes — comento, observando a
+organização metódica dele.
+
+— Aprendi rápido, nos últimos meses, que problema documentado é
+problema mais fácil de resolver do que problema só sentido no medo. —
+Ele fecha o caderno, guardando com cuidado. — Vocês dois vão precisar
+dessa clareza toda, daqui pra frente.
+
+Isa concorda, silenciosa, e sinto, mais uma vez, o peso bom e
+estranho de ter construído, sem perceber completamente, uma família
+inteira disposta a enfrentar batalha nenhuma sozinha.
+
+Mais tarde, sozinho com Isa no quarto, encontro ela sentada na cama,
+a pasta de cartas antigas aberta no colo, relendo palavras escritas
+meses atrás por ela mesma numa versão diferente, mais frágil, da
+própria vida.
+
+— O que está fazendo?
+
+— Tentando lembrar de onde vim. — Ela ergue os olhos, um sorriso
+triste. — Às vezes, quando o medo fica grande demais, esqueço o tanto
+que já sobrevivi antes disso.
+
+Sento ao lado dela, pegando uma das cartas antigas, a letra tremida
+demais, urgente demais.
+
+— Você era corajosa até nessa versão assustada.
+
+— Não sentia corajosa. Só sentia desesperada o suficiente pra não
+parar.
+
+— Talvez seja a mesma coisa, vista de ângulo diferente.
+
+Ela encosta a cabeça no meu ombro, guardando a pasta de volta na
+gaveta.
+
+— Grant Vance não vai me transformar de volta naquela mulher
+assustada. Recuso deixar isso acontecer.
+
+— Não vai. Nós dois não vamos deixar.
+
+Ela aperta minha mão, a determinação retornando aos poucos ao próprio
+rosto, e ficamos ali sentados juntos, o peso da ameaça nova
+compartilhado entre nós dois, mais leve por não precisar ser
+carregado sozinho.

@@ -114,3 +114,49 @@ penso em quanto caminho os dois percorreram desde aquela primeira
 carta sem assinatura — de medo puro e escondido até essa coragem
 pública e compartilhada, construída, tijolo por tijolo, junto com
 todos que decidiram caminhar ao lado dos dois nessa jornada inteira.
+
+Mais tarde, já no quarto, ela pega o celular de novo, relendo os
+comentários da matéria pela vigésima vez, e observo o rosto dela
+alternar entre orgulho e cansaço a cada rolagem da tela.
+
+— Você devia parar de ler isso hoje.
+
+— Eu sei. — Ela não larga o celular mesmo assim. — É só que, depois
+de anos calada, sinto quase compulsão em ver cada palavra que as
+pessoas escrevem agora, como se precisasse confirmar, repetidamente,
+que a verdade realmente pegou.
+
+— A verdade pegou. Independente de quantas vezes você confirme isso
+hoje à noite.
+
+Ela sorri, finalmente guardando o celular na mesa de cabeceira, e se
+vira pra mim, os olhos ainda cansados mas mais leves do que estavam
+horas atrás.
+
+— Obrigada por não me deixar sozinha lendo isso.
+
+— Nunca vou deixar.
+
+Apago a luz, puxando ela pra mais perto, e ficamos ali no escuro,
+o silêncio confortável preenchido só pela respiração calma dos dois,
+o peso do dia inteiro finalmente se dissolvendo em descanso merecido.
+
+— Dante?
+
+— Hm?
+
+— Obrigada por ficar comigo hoje. Por tudo, na verdade. Desde o
+primeiro dia.
+
+— Não precisa agradecer isso. Nunca vou precisar de agradecimento pra
+ficar do seu lado.
+
+Ela fica em silêncio por um momento, a respiração já ficando mais
+lenta, mais próxima do sono.
+
+— Mesmo assim, obrigada.
+
+Beijo o topo da cabeça dela, sentindo o próprio corpo relaxar aos
+poucos, e adormecemos juntos pouco depois, o peso do dia mais
+complicado e mais libertador dos últimos meses finalmente cedendo
+espaço pro descanso simples que os dois merecem.

@@ -97,3 +97,48 @@ o próprio corpo relaxar, cedendo ao cansaço acumulado do dia inteiro,
 levando comigo, pro sono, a esperança teimosa de que o post de Baz
 seja só isso mesmo — palavra vazia, construída pra parecer nobre,
 sem intenção real nenhuma por trás dela.
+
+Acordo no meio da madrugada, o coração disparado por um pesadelo que
+não consigo lembrar por completo, só fragmentos — um corredor
+escuro, uma porta trancada, a sensação física exata de mão apertando
+meu pulso com força de mais. Dante acorda junto, alarmado, e demora
+um segundo pra entender que não há perigo real ali, só eco antigo
+tentando se impor sobre o presente.
+
+— Está tudo bem — ele murmura, puxando eu pra perto. — Você está
+aqui. Está segura.
+
+— Eu sei. O corpo às vezes demora mais que a cabeça pra acreditar
+nisso.
+
+— Então eu fico aqui até o corpo acreditar também.
+
+Fico enrolada nos braços dele o resto da madrugada, o pesadelo aos
+poucos perdendo força, substituído pelo calor real e presente da
+respiração dele contra minha nuca, até finalmente conseguir
+adormecer de novo, dessa vez sem sonho nenhum me perseguindo.
+
+Pela manhã, conto pra Marco sobre o post de Baz, mostrando a foto no
+celular enquanto ele prepara café na cozinha apertada.
+
+— Isso me preocupa — ele admite, lendo a legenda com atenção séria. —
+Homens como ele raramente "viram a página" de verdade. Só mudam a
+forma de continuar segurando o controle.
+
+— É exatamente o que penso também.
+
+— Vou ligar pro Denise hoje, perguntar se existe algum jeito de
+monitorar movimento dele com mais formalidade. — Ele serve café pra
+mim, o gesto automático e cuidadoso. — Não vamos esperar passivamente
+pra descobrir o que "virar a página" significa na prática.
+
+— Obrigada, Marco. Por levar isso a sério.
+
+— Sempre vou levar a sério qualquer coisa que ameace essa família. —
+Ele sorri, cansado mas firme. — Inclusive você, principalmente você,
+depois de tudo que já provou merecer proteção de verdade.
+
+Bebo o café devagar, sentindo o calor se espalhar pelas mãos frias, e
+penso que talvez essa seja exatamente a diferença entre a família que
+nasci e a família que escolhi construir aqui — proteção oferecida
+sem condição, sem custo escondido, sem letra miúda nenhuma.

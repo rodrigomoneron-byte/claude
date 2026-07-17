@@ -106,3 +106,42 @@ felicidade e deixei aparecer.
 Puxo ela pra perto, beijando a testa dela no meio da calçada gelada,
 sentindo o peso pequeno e enorme desse progresso silencioso — a prova
 concreta de que a reconstrução, devagar, está funcionando de verdade.
+
+— Quer comemorar? — pergunto, ainda sorrindo.
+
+— Comemorar o quê exatamente? Um sorriso involuntário?
+
+— Comemorar cada progresso pequeno. Especialmente esses. — Aperto a
+mão dela. — São os que mais importam, no fim.
+
+Ela ri de novo, concordando, e os dois seguimos caminhando devagar
+pela neve fresca, sem pressa de chegar a lugar nenhum específico,
+só aproveitando o simples prazer de caminhar juntos numa tarde
+comum, sem medo governando o próprio ritmo dos passos.
+
+Passamos pela vitrine de uma sorveteria fechada pro inverno, o letreiro
+desligado, e Isa para de repente, olhando pro próprio reflexo na
+vidraça escura.
+
+— Sabe o que é engraçado? — ela comenta, ainda encarando o próprio
+reflexo. — Passei anos aprendendo a controlar exatamente como eu
+apareceria em qualquer superfície refletora. Espelho, vidraça, câmera.
+Sempre calculando o ângulo certo.
+
+— E agora?
+
+— Agora nem reparei que estava me olhando até esse segundo. — Ela
+sorri pro próprio reflexo, um sorriso solto, sem plateia. — Acho que
+isso é o tipo de coisa que só percebo depois de já ter acontecido.
+
+— É um bom sinal, sabia? Parar de calcular sem perceber que parou.
+
+— É, sim. — Ela se afasta da vitrine, voltando a caminhar ao meu lado.
+— Obrigada por notar coisas assim comigo. Às vezes preciso que alguém
+de fora aponte o progresso, porque de dentro fica difícil enxergar.
+
+— Sempre vou apontar. Cada progresso pequeno que eu conseguir ver.
+
+Ela aperta minha mão, e continuamos caminhando juntos pela rua gelada,
+o entardecer pintando a neve de um tom rosado suave, os dois em
+silêncio confortável até chegarmos de volta ao apartamento.

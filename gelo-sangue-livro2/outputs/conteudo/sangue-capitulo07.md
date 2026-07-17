@@ -105,6 +105,13 @@ finalmente tenha espaço real pra começar a fechar — devagar, sem
 pressa, do jeito que qualquer coisa que vale a pena de verdade
 costuma cicatrizar.
 
+Fico pensando em quantos anos passei imaginando esse tipo de
+conversa, ensaiando discursos inteiros de raiva acumulada que nunca
+cheguei a dizer em voz alta, e como nenhum deles se parece nem de
+longe com o silêncio simples e pesado que estamos compartilhando
+agora, sentados lado a lado, sem plateia, sem contrato, só dois
+homens tentando descobrir o que ainda resta pra construir entre eles.
+
 — Vou vender a loja — ele diz, de repente, olhando pro horizonte cinza
 onde o sol ainda não decidiu nascer. — Já devia ter feito isso há
 anos. Só não conseguia admitir que segurar aquele lugar era mais sobre

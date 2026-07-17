@@ -114,3 +114,48 @@ consegue capturar completamente.
 Observo ele sair pela porta, o casaco do time já vestido, e fico ali,
 parada na cozinha pequena ao lado de Marco, sentindo o peso enorme e
 bom do dia que está prestes a começar de verdade.
+
+— Vamos nos arrumar também — Marco sugere, lavando as próprias
+xícaras. — Quero chegar cedo, garantir bom lugar antes que o ginásio
+lote de vez.
+
+Enquanto ele termina de se aprontar, aproveito o momento sozinha pra
+escrever um bilhete rápido, guardando no bolso pra entregar a Dante
+antes do jogo começar — um gesto pequeno, quase supersticioso, mas
+que sinto necessário mesmo assim, uma forma física de levar minha
+torcida junto com ele até o próprio gelo.
+
+Saímos juntos pouco depois, o frio da manhã cortante mas suportável,
+os dois caminhando em silêncio confortável na direção do rinque,
+cada passo carregando o peso misto de expectativa e esperança que só
+um dia como esse consegue produzir.
+
+No caminho, Marco quebra o silêncio, a voz mais leve de repente.
+
+— Sabe o que eu mais admiro em você, Isa?
+
+— O quê?
+
+— Você chegou aqui sem nada, literalmente nada além de uma mochila e
+coragem emprestada, e construiu vida inteira do zero. Emprego, quarto
+próprio, relação de confiança comigo, apesar de todo o histórico
+estranho entre nós dois. — Ele sorri, olhando pra frente. — Isso não é
+pequeno.
+
+— Tive ajuda o caminho inteiro. Frieda, Noor, Diane, Priya, seu filho,
+até você mesmo, de um jeito que eu nunca esperei.
+
+— Aceitar ajuda também é força, sabia? Muita gente teimosa demais
+prefere afundar sozinha a admitir que precisa de mão estendida.
+
+— Aprendi isso do jeito difícil.
+
+— A maioria das lições boas vem assim mesmo. — Ele aperta meu ombro de
+leve. — Estou orgulhoso de fazer parte dessa jornada sua, mesmo que só
+como coadjuvante tardio.
+
+— Você não é coadjuvante, Marco. É família.
+
+Ele sorri, os olhos brilhando de emoção contida, e continuamos
+caminhando juntos, o ginásio já visível ao longe, o burburinho da
+torcida chegando cedo ecoando fraco pela rua gelada.

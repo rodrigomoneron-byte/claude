@@ -113,3 +113,48 @@ ele crescer no escuro sem controle nenhum.
 — Aprendi com o melhor exemplo possível. — Sorrio, encostando a
 cabeça no ombro dele. — Você nunca parou de lutar pelo próprio valor,
 mesmo quando tudo parecia perdido. Só estou seguindo o exemplo.
+
+Ele beija o topo da minha cabeça, e ficamos ali um tempo, em silêncio,
+o caderno novo guardado com cuidado na mesma prateleira onde guardo
+a pasta de cartas — dois objetos pequenos e diferentes, um símbolo de
+medo documentado, outro de amor sobrevivido, ambos igualmente
+necessários pra construir a vida que ainda estamos aprendendo a
+proteger juntos.
+
+— Vou marcar reunião com Denise pessoalmente, semana que vem —
+comento, quebrando o silêncio. — Prefiro colocar rosto na pessoa que
+está lutando ao meu lado.
+
+— Boa ideia. Quer que eu vá junto?
+
+— Quero, sim. Já cansei de fazer essas coisas sozinha.
+
+Ele aperta minha mão, confirmando sem palavra a mais, e apago a luz
+do quarto pouco depois, sentindo, apesar do peso real da ameaça
+ainda pairando, uma sensação nova e bem-vinda de controle sobre o
+próprio destino.
+
+No escuro, ainda desperta, penso em quantas versões de mim mesma já
+existiram ao longo dessa jornada inteira — a esposa que aprendeu a
+ficar pequena, a fugitiva sem plano, a garçonete escolhendo vermelho
+por desafio, e agora essa versão nova, catalogando prova e reunião com
+advogada como quem constrói escudo próprio, tijolo por tijolo.
+
+— Ainda acordada? — Dante murmura, a voz sonolenta.
+
+— Só pensando em quantas mulheres diferentes eu já precisei ser pra
+chegar até aqui.
+
+— E qual dessas você prefere ser, se pudesse escolher só uma?
+
+— Essa. — Encosto mais perto dele no escuro. — A que finalmente
+aprendeu que documentar medo não é fraqueza, é estratégia.
+
+— Gosto muito dessa versão.
+
+— Eu também estou aprendendo a gostar dela.
+
+Ele beija minha testa, já quase dormindo de novo, e fico ali mais um
+tempo, acordada, sentindo o peso do dia se assentar devagar, grata
+por, pela primeira vez em muito tempo, enfrentar o medo com plano
+concreto em vez de só instinto puro de sobrevivência.

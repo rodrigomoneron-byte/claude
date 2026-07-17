@@ -112,3 +112,65 @@ lugar.
 Desligo, o coração ainda acelerado, mas sentindo, apesar de tudo, uma
 determinação renovada substituindo aos poucos o medo puro que senti
 inicialmente diante daquele terno escuro e daquele sorriso calculado.
+
+Marie insiste em fechar a cafeteria mais cedo, alegando problema
+qualquer no gerador, e sei, sem ela precisar admitir em voz alta, que
+o motivo real é só me dar espaço pra recompor antes de precisar
+enfrentar mais um cliente qualquer.
+
+— Obrigada — falo, enquanto ela vira a placa da porta pra "fechado".
+
+— Não precisa agradecer. — Ela me abraça, breve mas sincero. — Vai
+pra casa. Descansa. Amanhã nós resolvemos o resto.
+
+Caminho de volta pro apartamento sozinha, o cartão de visita de
+Grant ainda no bolso do avental, cada passo carregando o peso
+estranho de vitória pequena e ameaça grande coexistindo dentro do
+mesmo evento — enfrentei ele de frente, sim, mas o preço dessa
+coragem ainda está por vir, incerto, pairando sobre os próximos dias
+como nuvem que se recusa a passar.
+
+Encontro Dante já esperando na porta do prédio, o rosto tenso de
+preocupação, tendo corrido do treino assim que recebeu minha
+mensagem.
+
+— Você está bem?
+
+— Estou. Assustada, mas bem. — Deixo ele me puxar pra um abraço
+apertado, sentindo o próprio corpo finalmente relaxar contra o dele.
+— Ele veio até a cafeteria, Dante. Sentou na minha frente, sorrindo,
+como se estivesse fazendo um favor.
+
+— Eu devia ter ido junto com você hoje.
+
+— Não. — Encaro ele direto. — Precisava enfrentar isso sozinha, pelo
+menos essa primeira vez. Precisava provar pra mim mesma que
+consigo.
+
+Ele processa a afirmação com respeito silencioso, sem discordar, só
+apertando o abraço mais forte, e subimos juntos as escadas, o peso
+do dia inteiro finalmente começando a ceder espaço pra algum tipo de
+descanso possível.
+
+No apartamento, Marco já está esperando, tendo recebido a mesma
+notícia por Dante no caminho, o rosto carregando a mesma mistura de
+raiva contida e preocupação genuína.
+
+— Você está bem? — ele pergunta, assim que entro.
+
+— Estou. Cansada, mas bem.
+
+— Aquele homem tem coragem de aparecer no seu trabalho, pessoalmente.
+— Marco balança a cabeça, incrédulo. — Vou ligar pro meu advogado de
+novo amanhã cedo. Isso não pode continuar impune.
+
+— Obrigada, Marco.
+
+— Não precisa agradecer. — Ele me serve um copo de água, o gesto
+automático e cuidadoso. — Precisa só descansar. Amanhã nós encaramos
+o próximo passo juntos, com cabeça mais fresca.
+
+Sento à mesa da cozinha, bebendo a água devagar, sentindo o corpo
+inteiro relaxar aos poucos na presença protetora dos dois, grata,
+mais uma vez, por não precisar mais enfrentar sozinha nenhuma versão
+do medo que Grant Vance carrega consigo.

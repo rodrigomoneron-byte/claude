@@ -82,6 +82,23 @@ A simplicidade da frase dela me atinge com mais força do que qualquer
 discurso longo conseguiria. Termino a ligação prometendo pensar,
 sabendo, no fundo, que já decidi antes mesmo de desligar.
 
+Fico sentada na cama por um bom tempo depois, o celular pré-pago
+ainda quente na mão, repassando mentalmente cada obstáculo que já
+usei como desculpa nas últimas semanas — dinheiro insuficiente, medo
+de aparecer sem aviso, incerteza sobre o que restou entre Dante e eu
+depois de tanto tempo separados. Nenhum obstáculo, percebo agora, é
+grande o suficiente pra justificar mais uma semana de espera.
+
+Vou até Noor no dia seguinte, contando a decisão antes mesmo de ter
+certeza absoluta de conseguir cumprir ela.
+
+— Vou pra Fort McMurray. Em breve.
+
+— Já estava esperando você dizer isso — Noor responde, sorrindo. —
+Vou sentir sua falta por aqui.
+
+— Vou sentir a sua também.
+
 ---
 
 Naquela noite, faço as malas — a mesma mochila pequena de sempre, agora
@@ -93,6 +110,15 @@ Deixo um bilhete curto pra Noor, agradecendo, sem detalhes desnecessários,
 e saio de madrugada rumo à rodoviária, o ônibus pra Fort McMurray saindo
 às cinco da manhã, o último horário disponível antes que a coragem
 tivesse chance de esfriar de novo.
+
+O quarto pequeno acima da lavanderia fica pra trás, vazio, o barulho
+constante das máquinas que aprendi a usar como ninar involuntário
+continuando sem mim, sem que ninguém mais precise notar minha
+ausência específica naquele prédio comum. É estranho deixar um lugar
+sem despedida cerimoniosa nenhuma, sem festa, sem lágrima alheia —
+só o silêncio funcional de quem aprendeu, nos últimos meses, que
+partidas nem sempre precisam de anúncio grande pra valerem alguma
+coisa real.
 
 Sentada no banco duro da rodoviária, esperando o embarque, sinto o
 peso de cada quilômetro que ainda falta e, ao mesmo tempo, a leveza

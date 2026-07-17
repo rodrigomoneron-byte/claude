@@ -96,3 +96,36 @@ comemorando como se fosse campeonato mundial — fico no meu lugar até
 as arquibancadas esvaziarem quase por completo, o coração ainda
 acelerado, sabendo que amanhã, ou depois de amanhã, finalmente vou
 precisar decidir se atravesso a rua de verdade.
+
+Volto pra pensão a pé, o frio cortando através do casaco fino demais
+pro inverno canadense, e passo pela recepção onde a dona, uma mulher
+de poucas palavras chamada Sra. Okonkwo, levanta os olhos do próprio
+tricô só o suficiente pra confirmar que sou eu antes de voltar à
+própria tarefa.
+
+— Boa noite — falo, subindo a escada estreita rumo ao quarto.
+
+— Boa noite. — Ela hesita, antes de acrescentar, sem erguer os olhos
+de novo: — Café da manhã sai às sete. Não é grande coisa, mas
+esquenta.
+
+O gesto pequeno de gentileza me pega de surpresa, um lembrete de que,
+mesmo numa cidade construída em torno de indústria dura e inverno
+implacável, ainda existe espaço pra bondade discreta entre
+estranhos.
+
+No quarto, sentada na cama estreita, escrevo no caderninho que virou
+diário improvisado nas últimas semanas, tentando organizar o próprio
+turbilhão de sentimentos depois de finalmente ver Dante de novo, mesmo
+que só de longe.
+
+*Ele está bem. Melhor que bem. Parece ter encontrado alguma coisa
+aqui que nunca teve em nenhum lugar antes — incluindo comigo,
+provavelmente. Isso devia doer mais do que dói. Em vez disso, sinto
+só uma vontade enorme de fazer parte dessa vida nova dele, não de
+competir com ela.*
+
+Fecho o caderno, apagando a luz do abajur pequeno, e adormeço pensando
+no ombro relaxado dele, na risada solta que ouvi de longe, guardando
+cada detalhe como prova de que a espera, por mais dura que tenha sido,
+talvez esteja finalmente perto do fim.

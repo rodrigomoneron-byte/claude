@@ -29,6 +29,26 @@ específica, tão merecida depois de tanto tempo de espera incerta.
 
 ---
 
+No caminho de volta, paro na oficina do meu pai, encontrando ele
+fechando o próprio expediente, as mãos ainda sujas de graxa de algum
+equipamento consertado.
+
+— Pronto pro grande dia? — ele pergunta, limpando as mãos num pano.
+
+— Acho que sim. Tão pronto quanto alguém consegue estar.
+
+— Isso já é bastante. — Ele sorri, guardando as ferramentas com
+cuidado. — Vou estar na arquibancada, do seu lado direito, torcendo
+mais alto que qualquer um ali.
+
+— Obrigado, pai.
+
+Ele aperta meu ombro, o gesto simples carregando afeto que ainda me
+pega de surpresa às vezes, mesmo depois de meses reconstruindo essa
+relação — e sigo caminho pra casa com o peito mais leve, sabendo que
+qualquer coisa que aconteça no jogo, já tenho vitória suficiente só
+em ter ele por perto pra testemunhar.
+
 Em casa, encontro Isa terminando de organizar o próprio caderno de
 documentação, o processo contra Grant avançando devagar mas
 constantemente através do escritório de Denise.
@@ -103,3 +123,28 @@ observando Isa dormir ao meu lado, a respiração calma, o rosto
 relaxado, antes de fechar os olhos de novo, tentando roubar mais
 algumas horas de sono antes do dia mais importante da temporada
 inteira começar de verdade.
+
+O celular vibra de novo, dessa vez Josh, torcendo de longe.
+*Boa sorte amanhã, cara. Queria poder estar aí pessoalmente.*
+Respondo agradecendo, sentindo o peso bom de tantas pessoas
+espalhadas por lugares diferentes, todas torcendo pela mesma vitória
+específica, cada uma à sua maneira fazendo parte dessa jornada mais
+do que jamais imaginei que fosse possível quando cheguei sozinho
+nessa cidade gelada, meses atrás.
+
+Fico deitado no escuro mais um tempo, o celular já silencioso na mesa
+de cabeceira, repassando mentalmente cada rosto que se tornou parte
+dessa vida nova — Beau, Amadou, Tyler, David, meu pai, Josh, e Isa,
+sempre Isa, dormindo tranquila ao meu lado depois de tanto tempo
+aprendendo, aos poucos, a permitir descanso de verdade.
+
+Penso em como, um ano atrás, eu media o próprio valor só pelo
+resultado do próximo jogo, sozinho numa pressão que eu mesmo
+alimentava sem perceber o tamanho do próprio isolamento. Hoje, mesmo
+com o jogo mais importante da carreira esperando pela manhã, sinto o
+peso repartido entre tanta gente disposta a carregar junto que quase
+parece leve.
+
+Finalmente sinto o sono chegar, não pela ausência de nervosismo, mas
+pela certeza tranquila de que, ganhando ou perdendo amanhã, já tenho
+tudo que realmente importa bem seguro ao meu lado.

@@ -48,6 +48,24 @@ confissão sem precisar dramatizar em cima dela, e volta a atenção pro
 gelo, deixando o silêncio compreensivo dizer o que palavras não
 precisavam.
 
+Depois de um tempo, ele quebra o silêncio de novo, a voz mais leve.
+
+— Sabe o que eu gosto nisso aqui? Ninguém nessa arquibancada está
+fingindo nada. Não tem sorriso ensaiado, não tem postura calculada
+pra câmera nenhuma. Só gente torcendo de verdade.
+
+— É diferente de tudo que eu conhecia antes.
+
+— Bom diferente, espero.
+
+— O melhor diferente. — Sorrio, sentindo o calor genuíno da
+afirmação. — Não trocaria esse ginásio pequeno e barulhento por
+nenhum camarote chique que já visitei na vida.
+
+Ele sorri, satisfeito com a resposta, e voltamos os dois a atenção
+pro jogo, a tensão crescendo a cada minuto que passa sem gol
+nenhum do lado dos Oil Barons.
+
 ---
 
 David empata o jogo aos dez minutos do terceiro período, um gol de
@@ -104,3 +122,39 @@ explicação apressada, mas escolhe não insistir no meio da comemoração
 geral, só aperta minha mão com mais força, como se pudesse sentir,
 sem eu precisar confirmar em voz alta, que alguma coisa mudou no ar
 ao nosso redor.
+
+Marco se aproxima, ainda eufórico com a vitória, e percebe também a
+mudança sutil na minha postura.
+
+— Está tudo bem?
+
+— Tudo bem — respondo, forçando um sorriso mais convincente. — Só
+cansaço acumulado do jogo inteiro.
+
+Ele não parece completamente convencido, mas deixa passar, puxando
+os dois de volta pra comemoração geral, o time inteiro se aproximando
+das arquibancadas pra cumprimentar a torcida.
+
+Mais tarde, já no apartamento, deitada ao lado de Dante, a euforia da
+vitória ainda pairando no ar, não consigo tirar da cabeça o rosto
+familiar demais desaparecendo pela porta.
+
+— Você ainda está pensando naquilo — Dante comenta, baixinho, no
+escuro.
+
+— Estou.
+
+— Quer me contar de verdade, agora que estamos sozinhos?
+
+Hesito, mas decido, finalmente, que esconder o próprio medo não
+protege ninguém.
+
+— Achei que era alguém que conhecia da vida antiga. Provavelmente
+nada. Mas o coração não parou de bater rápido desde então.
+
+Ele me puxa mais perto, sem julgamento nenhum na voz.
+
+— Vamos ficar de olho, então. Juntos.
+
+— Juntos — repito, sentindo o peso da palavra se firmar mais uma vez,
+mesmo com o medo ainda pairando por baixo da vitória recente.

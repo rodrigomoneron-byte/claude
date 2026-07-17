@@ -20,6 +20,23 @@ se eu ainda estou realmente ali.
 
 — Bom dia de verdade, pela primeira vez em meses.
 
+Sento devagar, o corpo ainda dolorido da posição estranha de dormir
+no sofá pequeno, e aceito a xícara com as duas mãos, sentindo o
+calor se espalhar pelos dedos gelados. Dante senta ao meu lado, perto
+demais pro espaço apertado do sofá, mas nenhum dos dois faz questão
+de ajustar a distância.
+
+— Dormiu bem? — ele pergunta, um sorriso pequeno no canto da boca.
+
+— Dormi melhor que em qualquer cama que já tive nos últimos dois
+meses, apesar do sofá duro.
+
+— Isso diz mais sobre os últimos dois meses do que sobre o sofá.
+
+Rio, batendo de leve no ombro dele, e os dois ficamos ali, bebendo
+café devagar, sem pressa nenhuma de preencher o silêncio confortável
+com palavra a mais.
+
 ---
 
 Marco já saiu pra alguma reunião cedo, deixando os dois sozinhos no
@@ -92,3 +109,29 @@ esfriando na mesa, sentindo o tipo específico de tensão que não é
 medo nem urgência calculada — só duas pessoas reaprendendo, devagar, o
 peso exato da própria proximidade depois de meses inteiros vivendo
 só de memória e papel.
+
+— Posso te mostrar uma coisa também? — pergunto, depois de um tempo,
+puxando da bolsa a pasta pequena de cartas que carreguei o país
+inteiro.
+
+Ele folheia devagar, reconhecendo a própria letra em cada envelope,
+alguns amassados de tanto serem relidos.
+
+— Você guardou todas.
+
+— Guardei cada uma. Reli tantas vezes que decorei de cor.
+
+Ele para numa das últimas, a que mandei há poucas semanas, os olhos
+percorrendo as próprias palavras com uma expressão que não consigo
+decifrar por completo.
+
+— Eu quase não mandei essa. Achei que estava exposto demais.
+
+— Foi a que mais me deu coragem de vir. — Toco a página gasta, o
+papel amolecido de tanto ser dobrado e desdobrado. — Às vezes exposto
+demais é exatamente o que a outra pessoa precisa ouvir.
+
+Ele guarda a pasta com cuidado sobre a mesa, entrelaçando os dedos nos
+meus de novo, e ficamos ali, o apartamento pequeno em silêncio ao
+redor, cada carta entre nós dois finalmente reunida com a pessoa que
+a escreveu.

@@ -113,3 +113,37 @@ contra o frio da tarde, e penso que talvez seja assim, em gestos
 pequenos e vermelhos como esse, que reconstrução de verdade se
 constrói — não em grandes declarações, mas em cuidado repetido,
 consistente, dia após dia.
+
+— Vou usar isso todo santo dia — declaro, ajeitando as pontas do
+cachecol.
+
+— Mesmo quando estiver sujo de café da cafeteria?
+
+— Principalmente quando estiver sujo de café da cafeteria. — Rio,
+apertando a mão dele. — Isso vai virar prova visual de vida real
+sendo vivida, não decoração guardada intacta numa prateleira.
+
+Ele sorri, satisfeito com a resposta, e continuamos caminhando de
+mãos dadas pela rua gelada, o cachecol vermelho brilhando contra o
+branco da neve como uma pequena bandeira de coragem recém-conquistada.
+
+No caminho de volta pro apartamento, paramos numa praça pequena e
+vazia, os bancos cobertos de neve fresca intocada, e Dante me puxa
+pra rodopiar devagar no meio do espaço aberto, sem música nenhuma além
+do próprio riso dos dois ecoando na noite fria.
+
+— O que estamos fazendo? — pergunto, rindo, tentando não escorregar.
+
+— Comemorando. Sem plateia, sem câmera, só nós dois e uma praça vazia.
+
+— Isso é ridículo.
+
+— Ridículo bom. — Ele para de rodopiar, puxando eu mais perto,
+encostando a testa na minha. — Prefiro esse tipo de ridículo a
+qualquer festa chique que já frequentei na vida.
+
+Fico ali parada, a respiração ainda ofegante do movimento bobo, e
+sinto o peito inteiro se encher de um calor que nenhum inverno
+consegue tocar — a certeza pequena e enorme de que essa vida simples,
+cheia de gestos bobos numa praça vazia, vale infinitamente mais do
+que qualquer luxo que um dia achei que precisava pra ser feliz.

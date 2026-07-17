@@ -84,6 +84,21 @@ Ele ri — de verdade, alto, surpreso — e pela primeira vez desde a
 cirurgia sinto alguma coisa parecida com alívio genuíno, não o alívio
 performado que uso com médicos e jornalistas.
 
+— Vai dormir onde essa noite? — Beau pergunta, ajeitando um bloco de
+anotações debaixo do braço.
+
+— Motel na estrada principal, acho. Meu pai reservou alguma coisa.
+
+— Fica frio de verdade lá dentro, esse motel. — Ele faz uma careta,
+como quem já hospedou visitante ali antes e se arrependeu de
+recomendar. — Amanhã de manhã, oito horas, o time treina. Não
+precisa vir. Mas se vier, eu não me importo de ter companhia extra
+na grade.
+
+Não respondo na hora, só assinto, o convite pesando mais do que
+qualquer coisa formal poderia pesar — a primeira vez, em meses, que
+alguém pede minha presença sem esperar desempenho nenhum em troca.
+
 ---
 
 Meu pai me deixa sozinho no vestiário depois, dizendo que precisa

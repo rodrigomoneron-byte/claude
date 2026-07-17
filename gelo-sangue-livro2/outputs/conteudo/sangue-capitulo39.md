@@ -106,3 +106,43 @@ Beijo a testa dela de leve, sem acordar ela, e levanto devagar pra me
 preparar pro jogo mais importante da temporada — carregando comigo,
 além da estratégia e da responsabilidade com o time inteiro, o peso
 bom e leve de saber exatamente por quem, e pelo que, estou lutando.
+
+No caminho pro rinque, paro um segundo diante da vitrine escura de
+uma loja fechada, vendo o próprio reflexo distorcido no vidro — o
+casaco do time, o rosto sério de quem carrega responsabilidade real
+pela primeira vez em meses.
+
+Não sou mais o capitão que carregava um time inteiro sozinho nas
+costas. Sou só um homem tentando ajudar um grupo de garotos
+talentosos a acreditar no próprio valor — e, por algum motivo que
+ainda não sei nomear direito, essa versão menor e mais silenciosa de
+mim mesmo parece, hoje, infinitamente mais forte que qualquer capitão
+que já fui.
+
+No rinque, encontro Beau já esperando, o caderno tático aberto na
+bancada gelada.
+
+— Dormiu bem? — ele pergunta, sem erguer os olhos do próprio
+planejamento.
+
+— Melhor do que esperava.
+
+— Isso é bom sinal. — Ele finalmente olha pra mim, avaliando. — Você
+parece diferente hoje. Mais leve.
+
+— Acho que finalmente entendi que meu valor aqui não depende do
+resultado de um jogo só.
+
+— Levou tempo suficiente pra chegar nessa conclusão.
+
+— Levou uma mulher específica pra me lembrar disso, com bastante
+paciência.
+
+Beau ri, fechando o caderno. — Então vamos garantir que valeu a pena o
+esforço dela. Reúne o time. Hora de mostrar o que aprenderam esse ano
+inteiro.
+
+Sigo pro vestiário, sentindo o peso do dia se transformar, aos poucos,
+de ansiedade pura em determinação tranquila — pronto, finalmente, pra
+liderar não pela necessidade de provar nada, mas pela vontade genuína
+de ver cada garoto ali conquistar aquilo que merece.

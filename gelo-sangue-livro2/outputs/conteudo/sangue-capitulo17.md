@@ -109,3 +109,28 @@ juntos, alguma coisa que os dois quase perderam pra sempre — e, em
 algum lugar no fundo do peito, a certeza teimosa de que Isa também
 está, nesse exato momento, reconstruindo a própria versão da mesma
 coisa, em algum lugar que ainda não consigo alcançar.
+
+— Posso te perguntar uma coisa? — meu pai quebra o silêncio, guardando
+o álbum na estante.
+
+— Pode.
+
+— Você acha que ela ainda vai aparecer? De verdade, não só esperança
+vaga.
+
+Penso na pergunta com cuidado antes de responder, sentindo o peso
+real dela.
+
+— Acho que sim. Tenho que acreditar nisso, ou a espera inteira perde
+o sentido.
+
+— Isso é fé, ou é teimosia?
+
+— As duas coisas, provavelmente. — Sorrio, cansado mas sincero. — Acho
+que aprendi com você que às vezes não existe diferença real entre as
+duas, quando o que está em jogo importa o suficiente.
+
+Ele ri, um som baixo e genuíno, e os dois ficamos ali mais um tempo,
+o apartamento pequeno silencioso ao redor, cada um perdido nos
+próprios pensamentos sobre reconstrução, esperança e o peso estranho
+de recomeçar tarde demais, mas ainda a tempo.

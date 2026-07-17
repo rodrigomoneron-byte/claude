@@ -114,3 +114,49 @@ penso em quanto ainda temos pela frente — o jogo decisivo, a ordem de
 restrição, a incerteza real sobre até onde Grant e Baz Vance estão
 dispostos a ir — mas também, apesar de tudo, a certeza inabalável de
 que enfrentaremos cada obstáculo juntos, um de cada vez.
+
+Meu pai volta da cozinha, secando as mãos num pano, e senta de novo
+na mesa com os dois.
+
+— Vocês precisam comer alguma coisa. Dia inteiro sem parar direito
+pra respirar.
+
+— Não estou com muita fome — Isa admite.
+
+— Não perguntei se estava com fome. Perguntei se precisava comer. —
+Ele já está de pé de novo, indo até a geladeira. — Vou fazer alguma
+coisa simples. Vocês dois vão comer, quer queiram quer não.
+
+Isa ri, o som genuíno cortando a tensão acumulada do dia, e observo
+os dois — meu pai cozinhando com a mesma teimosia carinhosa de
+sempre, Isa relaxando aos poucos na cadeira — sentindo, mais uma vez,
+o peso bom de ter construído essa família pequena e improvável,
+capaz de encontrar normalidade mesmo em meio à tempestade que ainda
+está por vir.
+
+Mais tarde, depois que meu pai se recolhe pro próprio quarto, fico
+sozinho com Isa na sala pequena, o prato de comida quase esquecido
+entre os dois.
+
+— Obrigada por não ter surtado hoje — ela comenta, de repente.
+
+— Surtei um pouco, por dentro.
+
+— Não deu pra perceber.
+
+— Aprendi a guardar o pânico pra depois, quando você não estiver
+olhando. — Sorrio, cansado. — Não funciona sempre, mas hoje funcionou.
+
+Ela ri, encostando a cabeça no meu ombro, o peso do dia inteiro
+finalmente relaxando entre os dois.
+
+— Vamos superar isso, né?
+
+— Vamos. — Aperto a mão dela, sentindo a certeza se firmar mais uma
+vez ao dizer em voz alta. — Não porque eu prometo garantia nenhuma
+impossível. Porque nós dois já provamos, repetidamente, que sabemos
+enfrentar coisa pior do que essa, e ainda continuamos de pé.
+
+Ela assente, os olhos já pesados de cansaço, e ficamos ali mais um
+tempo, o silêncio da noite carregando o peso partilhado de medo e
+esperança em partes quase iguais.

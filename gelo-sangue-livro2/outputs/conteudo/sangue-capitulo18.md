@@ -89,3 +89,23 @@ Dou o primeiro passo em direção à porta do prédio, as flores vermelhas
 ainda apertadas contra o peito, o coração inteiro martelando um ritmo
 que parece, pela primeira vez em muito tempo, mais parecido com
 coragem do que com medo.
+
+A porta principal do prédio não tranca direito, o ferrolho quebrado há
+tempo demais pra alguém se preocupar em consertar, e entro sem
+precisar de campainha, o corredor de entrada cheirando a poeira velha
+e aquecedor antigo ligado forte demais.
+
+No pé da escada, paro mais uma vez, encarando os degraus estreitos que
+levam ao segundo andar como se fossem um precipício em vez de um lance
+comum de madeira gasta.
+
+Penso em Frieda, na padaria pequena, dizendo que coragem não é
+ausência de medo, só decisão de andar mesmo com ele grudado nas
+costas. Penso em Robert, no caminhão cheirando a diesel, perguntando
+se eu tinha certeza, e eu respondendo que certeza nenhuma existia,
+só a necessidade urgente de parar de fugir. Penso em Noor, na cafeteria
+de Edmonton, ensinando a caminhar pela rua sem olhar constantemente
+por cima do ombro.
+
+Cada uma delas, sem saber, me ajudou a construir o tipo específico de
+coragem que preciso agora, degrau por degrau, pra finalmente subir.

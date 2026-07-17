@@ -103,3 +103,53 @@ sentindo o peso bom de construir, aos poucos, uma vida cheia de gente
 que se importa de verdade — não porque precisa, mas porque escolhe,
 repetidamente, cuidar uns dos outros mesmo quando ninguém está
 cobrando isso de ninguém.
+
+— Você sabe o nome dela? — Isa pergunta, curiosa.
+
+— Aisha. Amadou fala dela como se fosse a pessoa mais corajosa do
+mundo inteiro.
+
+— Deve ser mesmo, pra ter sobrevivido sozinha daquele jeito.
+
+— Vocês duas provavelmente vão se dar bem — comento, pensativo. —
+Coragem parece reconhecer coragem, mesmo antes de se conhecerem
+pessoalmente.
+
+Isa sorri, guardando a ideia com carinho visível, e os dois ficamos
+ali mais um tempo, observando a neve continuar caindo lá fora, cada
+floco um lembrete pequeno de que o inverno, apesar de duro, também
+carrega dentro dele o tipo de silêncio que permite esperança crescer
+devagar, sem pressa, até finalmente florescer em notícia boa.
+
+— Posso te contar uma coisa? — Isa quebra o silêncio, depois de um
+tempo, a voz mais séria.
+
+— Pode.
+
+— Às vezes sinto inveja de Amadou, de um jeito estranho que nem sei
+explicar direito. — Ela hesita, procurando palavra certa. — Ele sabe
+exatamente por quem está esperando. Eu passei meses inteiros sem saber
+se você continuava esperando por mim, ou se já tinha desistido.
+
+— Nunca desisti. Nem por um segundo.
+
+— Eu sei disso agora. Só queria ter sabido também naquela época,
+enquanto esperava sozinha numa lanchonete qualquer sem certeza
+nenhuma.
+
+Puxo ela mais perto, sentindo o peso da confissão se assentar entre
+nós dois.
+
+— Se eu pudesse mandar alguma mensagem pro passado, pra você naquela
+lanchonete, sabe o que eu diria?
+
+— O quê?
+
+— Que valeria a pena. Cada segundo de espera, cada carta sem resposta
+imediata, cada medo que você carregou sozinha. Que no fim, os dois
+íamos chegar exatamente aqui, juntos, inteiros o suficiente pra
+recomeçar de verdade.
+
+Ela encosta a cabeça no meu ombro, os olhos marejados, e ficamos ali
+mais um tempo, o silêncio confortável carregando todo o peso de
+gratidão que nenhuma palavra sozinha consegue capturar por completo.

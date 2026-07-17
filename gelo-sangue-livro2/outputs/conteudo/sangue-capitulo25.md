@@ -111,3 +111,48 @@ dois.
 
 — Nós dois — ela repete, testando as palavras como quem prova um
 sabor novo. — Gosto de como isso soa, agora.
+
+Antes de voltarmos pro apartamento, ela para diante de uma vitrine de
+loja de artesanato local, observando um pequeno conjunto de enfeites
+de madeira pintados à mão.
+
+— Um dia quero ter um lugar meu de verdade — comenta, encostando a
+testa quase no vidro frio. — Nem grande, nem chique. Só meu, com
+coisas pequenas escolhidas por mim mesma, sem plateia julgando o
+gosto.
+
+— Isso vai acontecer.
+
+— Sei que vai. — Ela sorri, se afastando da vitrine. — É estranho
+sentir tanta certeza sobre alguma coisa, depois de anos vivendo sem
+nenhuma.
+
+Aperto a mão dela, sentindo o peso bom dessa certeza nova crescendo
+entre nós dois, e seguimos caminhando juntos rumo ao apartamento, a
+noite fria envolvendo a cidade pequena ao redor, cada passo carregando
+um pedaço a mais da vida que os dois estão, devagar, aprendendo a
+construir.
+
+Acabamos numa lanchonete pequena perto do rinque, dividindo uma fatia
+de torta doce demais e dois cafés fracos, o tipo de comemoração modesta
+que, seis anos atrás, jamais teria satisfeito a versão antiga dela —
+acostumada a champanhe em taças de cristal, restaurantes com estrela,
+aplausos calculados de gente que só fingia se importar.
+
+— Isso é ridículo, sabia? — ela comenta, rindo, limpando açúcar do
+canto da boca. — Eu, comemorando emprego de garçonete numa lanchonete
+de beira de estrada, mais feliz do que em qualquer festa chique que já
+frequentei na vida inteira.
+
+— Ridículo bom ou ridículo ruim?
+
+— Ridículo perfeito. — Ela rouba um pedaço da minha fatia sem pedir
+licença nenhuma, o gesto pequeno carregando uma intimidade que nunca
+existiu nos primeiros meses escondidos em Boston. — Acho que finalmente
+entendi a diferença entre comemorar pra impressionar alguém e comemorar
+porque a alegria é genuína.
+
+Estendo a mão por cima da mesa gasta, entrelaçando os dedos nos dela,
+e ficamos ali um tempo, só bebendo café ruim e sorrindo bobo um pro
+outro, sem pressa nenhuma de terminar aquele momento pequeno e
+completo.

@@ -59,6 +59,19 @@ chance de descobrir sozinho o que consegue construir, sem decidir isso
 sob pressão de prazo alheio. Vamos brigar por essa vaga juntos, todo
 o time. Você não está sozinho nessa.
 
+Tyler assente, os olhos ainda marejados, e antes de se afastar pra
+voltar ao vestiário, hesita um segundo a mais.
+
+— Como você sabe que vai dar certo?
+
+— Não sei. — Encaro ele com toda a honestidade que consigo reunir. —
+Ninguém sabe garantia nenhuma nessa vida. Só sei que desistir agora,
+com medo do resultado, é a única forma garantida de nunca descobrir.
+
+Ele processa a frase devagar, um pequeno sorriso substituindo aos
+poucos a preocupação anterior, e volta pro vestiário com um passo
+mais leve do que o de minutos atrás.
+
 ---
 
 À noite, conto pra Isa sobre a conversa, os dois deitados na cama
@@ -90,3 +103,35 @@ tarde demais pra aprender o próprio valor de verdade.
 A frase carrega um peso enorme, e fico ali, em silêncio, deixando as
 palavras dela se instalarem fundo, guardando a ternura inteira por
 trás da intenção completa da frase.
+
+Ela se aproxima devagar, o corpo deslizando pra mais perto do meu no
+espaço apertado da cama, e beija minha testa antes de descer pro
+canto da boca, o gesto carregado mais de cuidado do que de urgência.
+
+— Deixa eu cuidar de você um pouco — ela sussurra, os dedos já
+desabotoando a camisa devagar. — Você passa o tempo inteiro cuidando
+de todo mundo. Hoje é sua vez.
+
+Não discuto. Deixo ela guiar o próprio ritmo, as mãos dela mapeando
+cada tensão acumulada no meu corpo com uma atenção que sinto quase
+reverente, e aos poucos a preocupação com Tyler, com o calendário
+apertado, com o próprio peso de carregar expectativa alheia se
+dissolve, substituída só pela presença dela, real e próxima.
+
+Fazemos amor devagar, o quarto pequeno iluminado só pela luz fraca
+do abajur, cada gesto carregado de gratidão silenciosa — não fuga de
+nada, só dois corpos escolhendo, deliberadamente, existir plenamente
+um no outro antes que o mundo lá fora volte a cobrar atenção de
+novo.
+
+— Obrigado — murmuro, depois, a respiração ainda irregular.
+
+— Não precisa agradecer por isso.
+
+— Preciso, sim. — Beijo o topo da cabeça dela. — Ninguém nunca tinha
+cuidado de mim assim antes. Sem esperar nada em troca.
+
+Ela sorri contra meu peito, sem responder em palavras, e adormecemos
+juntos pouco depois, o cachecol vermelho ainda pendurado na cadeira
+torta, testemunha silenciosa de mais uma noite que os dois escolhemos
+construir com cuidado, longe de qualquer pressão externa.

@@ -87,3 +87,47 @@ familiar carregando a própria versão de esperança recém-conquistada,
 e sinto, mais uma vez, o peso bom e leve de pertencer, finalmente, a
 um lugar que escolhi construir com as próprias mãos, em vez de um
 lugar que me foi imposto por casamento ou obrigação nenhuma.
+
+David se aproxima, ainda ofegante da própria dança ridícula, e senta
+no banco ao lado do meu.
+
+— Você mudou o clima desse time inteiro, sabia — ele comenta, sério
+de repente. — Antes de você chegar, Dante era só um cara triste
+observando da grade. Agora ele sorri de verdade.
+
+— Ele sempre teve isso dentro dele. Só precisava de espaço pra deixar
+aparecer.
+
+— Talvez. Mas espaço, às vezes, é exatamente o que uma pessoa
+específica consegue oferecer, e mais ninguém.
+
+Ele se levanta antes que eu consiga responder, voltando pra pista de
+dança improvisada da cafeteria, e fico ali, sentindo o peso da
+observação dele se instalar fundo — a confirmação silenciosa de que a
+mudança em Dante, por mais interna que fosse, também precisou de
+alguém disposto a atravessar um país inteiro pra testemunhar ela de
+perto.
+
+A festa continua até tarde, risadas se misturando com música baixa
+saindo do celular de Tyler, e quando finalmente caminhamos de volta
+pro apartamento, o frio da noite cortando o rosto, sinto o peito
+cheio de um jeito que não sentia desde muito antes de qualquer coisa
+relacionada a Baz Vance ter entrado na minha vida.
+
+No caminho, paramos diante do rinque vazio, as luzes já apagadas, só
+o luar refletindo fraco na estrutura de metal corrugado.
+
+— Lembra do primeiro dia que te trouxe aqui? — Dante pergunta,
+parando ao lado da cerca.
+
+— Lembro. Disse que era perfeito.
+
+— E ainda é. — Ele aponta pro prédio modesto, quase invisível na
+escuridão. — Mas o que fez ele perfeito não foi o lugar em si. Foi
+tudo que aconteceu depois, dentro dele.
+
+Encosto a cabeça no ombro dele, os dois observando o rinque em
+silêncio por um tempo, e penso em quanta vida inteira ainda cabe
+dentro de um prédio pequeno de metal corrugado, esquecido no fim do
+mundo, quando as pessoas certas decidem construir alguma coisa
+verdadeira dentro dele.

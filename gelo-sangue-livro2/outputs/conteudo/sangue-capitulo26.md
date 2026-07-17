@@ -102,3 +102,37 @@ Encosto a cabeça no peito dele, sentindo o coração batendo firme sob
 a camisa, e permito a mim mesma acreditar, mesmo que só um pouco, que
 compartilhar o peso de uma ameaça antiga talvez seja exatamente o
 tipo de coisa que a torna mais suportável de carregar.
+
+Ele beija o topo da minha cabeça, devagar, e o gesto simples se
+transforma aos poucos em outra coisa — os lábios dele descendo até
+minha testa, depois até a lateral do rosto, cada toque perguntando
+antes de avançar, cada pausa me dando espaço pra recuar se o medo da
+tarde ainda pesasse demais.
+
+Não recuo. Puxo ele mais perto, precisando sentir o corpo dele real e
+presente contra o meu depois de uma tarde inteira de sombra e
+incerteza, e ele entende sem precisar de palavra nenhuma, levantando
+eu do chão da cozinha com cuidado, o beijo aprofundando aos poucos
+enquanto caminha comigo pro quarto pequeno.
+
+Fazemos amor devagar naquela noite, cada gesto carregado mais de
+consolo do que de urgência, as mãos dele mapeando cada cicatriz
+minha visível e invisível com uma reverência que nunca deixa de me
+surpreender, mesmo depois de meses reaprendendo esse tipo específico
+de intimidade sem medo.
+
+— Isso ajuda? — ele sussurra, depois, a testa encostada na minha, as
+respirações ainda irregulares.
+
+— Ajuda mais do que qualquer palavra conseguiria.
+
+— Então guardo isso pro repertório. — Ele sorri, cansado mas
+genuíno, puxando o cobertor fino por cima dos dois. — Sempre que o
+medo antigo aparecer, encontro um jeito de lembrar seu corpo que
+aqui, com nós dois, ele está seguro.
+
+Adormeço nos braços dele pouco depois, a sombra da ligação com Priya
+finalmente perdendo força suficiente pra permitir sono real, sem
+pesadelo, sem alerta constante — só o calor dele, a respiração calma,
+e a certeza teimosa de que, apesar de tudo, escolhi exatamente o
+lugar certo pra recomeçar.

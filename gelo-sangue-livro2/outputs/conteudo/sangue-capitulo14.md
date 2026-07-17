@@ -105,3 +105,32 @@ sabe exatamente de quem ele está falando.
 Não confirmo nem nego. Só seguro a xícara com as duas mãos, sentindo o
 calor através do papel, e decido, ali mesmo, que não posso mais adiar
 o que vim fazer.
+
+— Você não precisa me contar nada — Diane continua, a voz suave. —
+Só quero que saiba que, seja lá quem for essa pessoa que você está
+evitando ou esperando, ninguém devia passar semanas escondida atrás de
+balcão por causa de medo que já devia ter ficado pra trás.
+
+— Não é bem assim que funciona, medo desse tipo.
+
+— Eu sei que não é. — Ela bebe um gole do próprio café, os olhos
+carregando experiência que reconheço, sem precisar de detalhe extra. —
+Também já tive medo desse tamanho, uma vez. Levou anos pra diminuir.
+Nunca sumiu de vez, só ficou pequeno o suficiente pra eu conseguir
+viver ao redor dele.
+
+— Como você soube que estava pronta pra parar de esperar?
+
+— Nunca soube com certeza absoluta. — Diane sorri, um sorriso cansado
+mas gentil. — Só cansei mais de ficar parada do que de arriscar dar o
+próximo passo. Foi mais ou menos assim que funcionou pra mim.
+
+Guardo a frase dela com cuidado, sentindo ela se assentar em algum
+lugar dentro de mim onde a decisão, aos poucos, já vinha se formando
+havia dias.
+
+— Obrigada, Diane.
+
+— Não precisa agradecer. Só promete uma coisa: quando finalmente for,
+vai de cabeça erguida. Não se esconde atrás de balcão nenhum na hora
+de encarar o que veio buscar.

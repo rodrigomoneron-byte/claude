@@ -98,3 +98,40 @@ dele subindo e descendo com a respiração calma, sinto o sono chegar
 mais fácil do que em qualquer noite dos últimos dois meses inteiros
 — o corpo finalmente permitindo descanso de verdade, sabendo que, pela
 primeira vez em muito tempo, não preciso ficar alerta enquanto durmo.
+
+Acordo antes dele, a luz cinza do amanhecer entrando fraca pela
+cortina fina, e fico ali um tempo só observando o rosto relaxado de
+Dante dormindo, sem a tensão constante de vigiar time, pai, futuro —
+só descanso puro, merecido.
+
+Levanto devagar, cuidadosa pra não acordar ele, e vou até a janela
+pequena olhar a rua ainda vazia lá embaixo, o próprio quarto minúsculo
+parecendo, de repente, gigante o suficiente pra caber tudo que preciso.
+
+— Já acordada? — a voz dele soa rouca de sono, atrás de mim.
+
+— Só admirando a vista.
+
+— Que vista? É um beco com uma lixeira.
+
+— A vista de dentro — respondo, virando pra encará-lo. — De ter um
+lugar que é meu, e escolher dividir ele com você por vontade própria.
+
+Ele sorri, esticando o braço em convite silencioso, e volto pra cama
+estreita, encostando a cabeça no peito dele, o coração batendo firme
+sob a pele, e penso que talvez essa seja exatamente a definição real
+de lar: não o tamanho do espaço, mas a liberdade de escolher quem
+convidar pra dentro dele.
+
+— Precisa ir trabalhar hoje? — ele pergunta, os dedos traçando
+padrões preguiçosos nas minhas costas.
+
+— Turno da tarde. Ainda tenho a manhã inteira livre.
+
+— Então fica mais um pouco.
+
+Fico, sentindo o próprio corpo relaxar de volta contra o dele, o
+quarto pequeno aquecendo devagar sob a luz crescente da manhã, e
+penso que talvez essa seja a lição mais simples e mais difícil de
+toda a jornada até aqui: permitir a mim mesma descansar, sem culpa,
+sem pressa de justificar o próprio direito de simplesmente ficar.

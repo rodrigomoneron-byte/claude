@@ -98,3 +98,47 @@ se instalar em algum lugar fundo, ao lado da certeza crescente de que
 talvez essa cidade gelada e pequena tenha me ensinado mais sobre
 valor real do que qualquer temporada inteira de vitórias profissionais
 já ensinou.
+
+Paramos um momento na porta do prédio, o frio mordendo o rosto dos
+dois, e ela não entra direto, ficando parada na calçada, olhando pra
+mim com uma expressão que não consigo decifrar por completo.
+
+— O que foi?
+
+— Nada. Só pensando em como, há alguns meses, eu nem sabia se você
+ainda existia de verdade, em algum lugar do mundo. — Ela sorri,
+pequeno, genuíno. — E agora aqui estamos, discutindo o futuro de um
+goleiro refugiado como se fosse a coisa mais natural do universo.
+
+— É a coisa mais natural do universo, agora.
+
+Ela ri, o som ecoando baixinho na rua vazia, e a puxo pra um beijo
+demorado bem ali na entrada, o calor do gesto se espalhando pelo
+peito inteiro enquanto subimos juntos, de mãos dadas, as escadas
+estreitas até o apartamento.
+
+Meu pai já dormiu quando chegamos, a casa silenciosa, só a luz fraca
+da cozinha deixada acesa de propósito. Isa se serve de um copo de água
+enquanto tiro as botas cobertas de neve derretida.
+
+— Seu pai é um bom homem — ela comenta, encostada no balcão da
+cozinha. — Dá pra sentir isso, mesmo sem conhecer a história inteira
+por trás.
+
+— Ele está tentando. Todo dia, um pouco mais.
+
+— Isso conta muito. Tentativa genuína, repetida, importa mais do que
+perfeição instantânea.
+
+Puxo ela pra perto, ali mesmo na cozinha pequena, o silêncio da casa
+adormecida ao redor dos dois.
+
+— Você também está tentando, todo dia. — Beijo a testa dela, devagar.
+— E está indo muito bem, caso ninguém tenha dito isso hoje ainda.
+
+— Você disse. Umas três vezes, só nas últimas duas horas.
+
+— Vou continuar dizendo até você acreditar de vez.
+
+Ela sorri, cansada mas genuína, e os dois seguimos em silêncio pro
+quarto, o peso bom do dia inteiro finalmente pronto pra descansar.

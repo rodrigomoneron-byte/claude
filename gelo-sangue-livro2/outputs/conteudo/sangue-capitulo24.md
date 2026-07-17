@@ -98,3 +98,42 @@ difícil nos últimos dois meses.
 — Então vamos procurar juntos, amanhã. — Ele beija o topo da minha
 cabeça, o gesto simples, sem exigência nenhuma escondida atrás. — Sem
 pressa de resolver tudo hoje. Só o primeiro passo.
+
+Entramos de volta pro apartamento aquecido, o cheiro de lasanha
+ainda pairando no ar, e encontramos Marco dormindo sentado no sofá,
+o prato vazio equilibrado no colo, exausto da própria proeza
+culinária do dia.
+
+— Deixa ele dormir aí — Dante sussurra, rindo baixinho. — Merece o
+descanso.
+
+Cobrimos ele com um cobertor fino sem acordar, e os dois nos
+recolhemos pro quarto pequeno em silêncio, o dia inteiro pesando de
+um jeito bom nos ombros cansados, cada minuto daquela noite
+carregando a certeza tranquila de que, apesar de tudo ainda incerto
+lá fora, ali dentro, entre aquelas paredes simples, já existia lar
+suficiente pra sustentar qualquer coisa que viesse depois.
+
+Deitada ao lado de Dante, ainda acordada, escuto o som distante do
+prato de Marco sendo lavado — ele deve ter acordado sozinho, envergonhado
+da própria soneca no sofá — e sinto uma paz estranha se instalar,
+diferente de qualquer coisa que já senti dentro de uma casa.
+
+— Está pensando em quê? — Dante pergunta, a voz já sonolenta.
+
+— Em como uma lasanha malfeita e um sofá emprestado conseguem parecer
+mais lar do que qualquer mansão que já morei.
+
+— Lar nunca foi sobre o tamanho da casa.
+
+— Estou descobrindo isso agora, um pouco tarde na vida.
+
+— Nunca é tarde demais. — Ele puxa meu corpo mais perto, a respiração
+já ficando mais lenta. — Principalmente quando a pessoa certa aparece
+pra te lembrar disso.
+
+Fecho os olhos, o som da cidade pequena e gelada lá fora quase
+completamente silencioso, e adormeço sentindo, pela primeira vez em
+muito tempo, que talvez essa versão modesta e imperfeita de família
+seja exatamente o tipo de coisa que passei a vida inteira sem saber
+que precisava.

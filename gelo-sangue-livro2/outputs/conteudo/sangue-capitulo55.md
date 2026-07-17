@@ -113,3 +113,33 @@ cansado, e por um momento os quatro ficamos ali, celebrando juntos,
 antes que o resto do time nos engula de volta pra comemoração
 coletiva que continua, alta e genuína, muito depois do apito final já
 ter soado.
+
+Do outro lado do ginásio, através da multidão eufórica, avisto um
+repórter da matéria nacional entrevistando Amadou, o microfone
+apontado, a câmera captando cada palavra dele com atenção que, meses
+atrás, nenhum jornalista teria oferecido a um refugiado jogando hóquei
+amador numa cidade pequena do norte.
+
+— Isso vai mudar tudo pra ele — comento, apontando pra cena, Isa
+seguindo meu olhar.
+
+— Vai mudar pra todos vocês, de um jeito ou de outro.
+
+— Espero que sim. Ele merece isso mais do que qualquer um.
+
+Josh aparece no meio da multidão, gritando meu nome, o rosto vermelho
+de tanto berrar durante o jogo inteiro, e me puxa pra outro abraço
+apertado antes de puxar Isa também, os três rindo juntos em meio ao
+caos alegre ao redor.
+
+— Vocês viram aquele último gol? — Josh grita, ainda eufórico. —
+Achei que ia ter um treco ali na arquibancada.
+
+— Todos nós achamos — Isa responde, rindo, limpando lágrima ainda
+fresca do rosto.
+
+O ginásio inteiro continua vibrando ao nosso redor, luzes, gritos,
+abraços entre estranhos, e por um momento fico só parado no meio de
+tudo isso, absorvendo a cena inteira, sentindo, com clareza rara, que
+esse momento específico vai ficar gravado, pelo resto da vida, como
+um dos poucos verdadeiramente perfeitos.

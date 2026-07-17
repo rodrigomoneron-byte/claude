@@ -112,3 +112,45 @@ pedir que eu pagasse conta nenhuma por isso.
 Ele fica em silêncio por um momento, absorvendo a frase, antes de
 assentir devagar, como quem finalmente aceita uma verdade que levou
 a vida inteira pra reconhecer.
+
+— Vou ligar pra Isa amanhã de manhã — ele comenta, de repente. —
+Pedir desculpa por qualquer jeito que eu tenha, sem perceber,
+reforçado o padrão que ela passou a vida inteira tentando escapar.
+
+— Ela vai gostar disso.
+
+— Espero que sim. — Ele se levanta, guardando finalmente o caderno
+numa gaveta da cozinha. — Vou pra cama. Amanhã tem treino cedo, e
+você precisa de sono de verdade, não só conversa de madrugada comigo.
+
+— Boa noite, pai.
+
+— Boa noite, filho.
+
+A palavra "filho", dita com essa naturalidade nova, ainda me pega de
+surpresa toda vez, um lembrete pequeno e constante de quanto os dois
+já percorreram desde aquela primeira conversa tensa no estacionamento
+gelado, meses atrás.
+
+Deito naquela noite pensando na oficina nova do meu pai, no caderno
+cheio de projeções cuidadosas, na primeira vez em toda a vida que ele
+constrói alguma coisa só sua, sem depender do meu sucesso pra validar
+a própria existência.
+
+Penso também em Isa, na conversa difícil sobre proteção e controle, na
+frase dela ecoando ainda na cabeça — *meu corpo às vezes não sabe a
+diferença tão rápido quanto minha cabeça sabe*. Reconheço, deitado ali
+no escuro, o quanto ainda tenho pra aprender sobre a diferença entre
+cuidar de alguém e vigiar alguém, mesmo depois de todo progresso já
+conquistado.
+
+Pego o celular, mandando uma mensagem curta antes de dormir: *Só
+queria dizer boa noite, e que estou orgulhoso de você por me corrigir
+hoje. Prometo continuar aprendendo.*
+
+A resposta chega minutos depois: *Boa noite. Obrigada por ouvir de
+verdade, em vez de só concordar pra evitar briga.*
+
+Guardo o celular, sorrindo sozinho no escuro, sentindo o peso bom e
+estranho de estar cercado, finalmente, por gente disposta a crescer
+junto, em vez de ficar parada no mesmo padrão de sempre.

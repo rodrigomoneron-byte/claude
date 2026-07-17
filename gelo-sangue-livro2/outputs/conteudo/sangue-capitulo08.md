@@ -112,3 +112,22 @@ toalha. Levo essa certeza comigo enquanto atravesso a rua.
 Dobro a carta com mais força do que precisava, guardo no bolso, e
 sigo andando na direção da caixa de correio sem olhar pra trás uma
 segunda vez.
+
+Passo pela mesma banca de jornal no dia seguinte, e no dia depois
+disso, cada vez conferindo se surgiu alguma matéria nova, alguma
+pista sobre o que ele sabe ou não sabe sobre meu paradeiro. Nenhuma
+aparece. Só o mesmo tipo de matéria vazia, sorriso perfeito,
+narrativa cuidadosamente construída — e aos poucos aprendo a andar
+por aquela rua sem sentir o corpo travar de medo automático toda vez.
+
+Noor percebe a mudança, comentando de leve, numa tarde tranquila de
+trabalho, que pareço "mais leve" nos últimos dias.
+
+— Estou aprendendo a andar por essa cidade sem esperar que ele
+apareça em cada esquina — respondo, surpresa com a própria
+sinceridade.
+
+— Isso é progresso de verdade.
+
+— Acho que é. — Sorrio, sentindo o peso genuíno da própria afirmação
+pela primeira vez em muito tempo.

@@ -111,3 +111,32 @@ qual o próximo passo real.
 
 — Estou com medo. Mas não estou paralisada. — Uma pausa, respiração
 profunda do outro lado. — Essa é a diferença que importa agora.
+
+Desligo o telefone e encontro meu pai ainda parado no mesmo lugar,
+encostado no balcão da oficina, os olhos fixos na parede como se
+processasse alguma coisa maior do que a ligação em si.
+
+— Você está bem?
+
+— Não. — Ele passa a mão pelo rosto, cansado. — Passei a vida inteira
+achando que o meu maior erro tinha sido a garrafa. Agora percebo que
+existe gente nesse mundo capaz de causar dano muito maior sem nunca
+levantar a mão nenhuma vez, só usando telefone e advogado.
+
+— Grant Vance não é você, pai. Nem perto.
+
+— Eu sei. Mas reconheço o tipo. — Ele encara eu direto, a voz mais
+firme de repente. — Homem que confunde controle com amor. Eu confundi
+isso por anos, só que sem o dinheiro nem o poder dele. Imagina o
+estrago que alguém assim consegue fazer com recurso ilimitado.
+
+Fico em silêncio, pesando as palavras dele, sentindo o próprio medo se
+transformar, aos poucos, em alguma coisa mais parecida com determinação
+fria.
+
+— Vamos proteger ela — declaro, mais pra mim mesmo do que pra ele. —
+De todo jeito possível.
+
+— Vamos, sim. — Ele aperta meu ombro, o gesto firme e certo. — E dessa
+vez, ninguém vai fingir que não viu nada acontecendo bem debaixo do
+nariz.

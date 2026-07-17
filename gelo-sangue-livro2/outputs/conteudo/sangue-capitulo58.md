@@ -112,3 +112,47 @@ juntos na cozinha pequena, o peso da ameaça nova pairando sobre a
 alegria recente da mudança de apartamento — dois sentimentos opostos
 coexistindo, teimosos, sem que nenhum consiga apagar completamente o
 outro.
+
+Marco se despede pouco depois, prometendo ligar assim que tiver
+notícia do advogado, e Dante e eu ficamos sozinhos no meio das caixas
+ainda por desfazer, o silêncio do apartamento novo carregando peso
+diferente do que carregava antes da notícia chegar.
+
+— Não vamos deixar isso estragar hoje — Dante decide, de repente,
+puxando minha mão. — Ainda temos caixa pra desfazer, lembra?
+
+— Agora? Já é quase noite.
+
+— Exatamente por isso. Trabalho manual e problema grande não
+combinam bem, quando a cabeça insiste em pensar demais.
+
+Rio, apesar do peso ainda pairando no peito, e os dois passamos o
+resto da noite desempacotando pratos, livros, roupas, risos
+misturados com preocupação, prova pequena e teimosa de que a vida
+continua, mesmo em meio à tempestade que ainda se aproxima.
+
+No fundo de uma das últimas caixas, encontro um porta-retrato pequeno
+que nem lembrava ter guardado — uma foto tirada por Marie, sem eu
+perceber, no dia em que consegui o emprego na cafeteria, meu sorriso
+genuíno e solto capturado no momento exato em que ainda não sabia que
+estava sendo fotografada.
+
+— Olha isso — mostro pra Dante, o coração apertando de um jeito bom.
+
+— Você parece tão livre nessa foto.
+
+— Eu estava. Ainda estou, na maior parte do tempo, apesar de tudo.
+
+Ele pega o porta-retrato das minhas mãos, procurando um lugar na
+estante ainda vazia da sala, posicionando a foto bem no centro, o
+primeiro objeto pessoal a ganhar espaço definitivo no apartamento
+novo.
+
+— Primeira coisa oficial da nossa casa — ele declara, satisfeito.
+
+— Uma boa escolha pra começar.
+
+Fico observando a foto pequena brilhar sob a luz fraca da sala ainda
+cheia de caixa, e sinto, apesar da sombra nova pairando sobre o
+futuro próximo, que aquele sorriso capturado por acaso continua
+sendo, ainda hoje, inteiramente real.

@@ -99,8 +99,53 @@ pendurados sobre nós dois, ainda é o lugar mais seguro que já tive na
 vida inteira.
 
 Sinto o próprio peito apertar com a confissão, grato além de qualquer
-palavra pronta consiga expressar, e beijo o topo da cabeça dela,
-sentindo o sono finalmente começar a vencer o próprio corpo cansado
-enquanto os dois adormecemos juntos, enfrentando o futuro incerto
-lado a lado, exatamente como sempre deveria ter sido desde o
-princípio de tudo.
+palavra pronta consiga expressar, e viro de lado, encarando ela na
+penumbra do quarto quase vazio.
+
+— Vem cá — sussurro, puxando ela mais perto.
+
+Ela vem sem hesitar, o corpo se ajustando contra o meu no colchão
+fino emprestado, e o que começa como abraço simples aos poucos vira
+outra coisa — beijos lentos, mãos percorrendo devagar, os dois
+buscando no corpo um do outro o mesmo tipo de segurança que as
+palavras, sozinhas, não conseguem oferecer por completo.
+
+Fazemos amor devagar, cercados de caixa por desfazer e móveis ainda
+por comprar, o processo de difamação e a ameaça de Grant Vance
+momentaneamente esquecidos, substituídos só pela presença real um do
+outro — prova física de que, apesar de tudo que ainda precisamos
+enfrentar, escolhemos, repetidas vezes, continuar escolhendo isso.
+
+— Aconteça o que acontecer — ela sussurra, depois, a respiração
+ainda irregular —, isso aqui vale cada risco.
+
+— Vale, sim.
+
+Adormecemos juntos pouco depois, o colchão fino cedendo sob o peso
+dos dois, enfrentando o futuro incerto lado a lado, exatamente como
+sempre deveria ter sido desde o princípio de tudo.
+
+Acordo de madrugada, o quarto ainda escuro, e fico ali, observando a
+silhueta dela respirar calma ao meu lado, pensando em quanto caminho
+os dois já percorreram desde a primeira carta sem assinatura até
+essa noite específica, esse colchão emprestado, essa vida pequena e
+real que estamos construindo juntos, apesar de tudo que ainda tenta
+nos derrubar.
+
+Não sei o que os próximos meses vão trazer. Só sei que, seja o que
+for, vou enfrentar ao lado dela — e isso, por si só, já parece
+suficiente pra atravessar qualquer tempestade que ainda esteja por
+vir.
+
+Levanto devagar, cuidadoso pra não acordar ela, e vou até a janela do
+quarto quase vazio, olhando pra rua ainda escura lá fora, as primeiras
+luzes da manhã começando a colorir o céu num tom cinza-azulado.
+
+Penso em tudo que ainda está por vir — o processo, Grant Vance, a
+final de acesso, cada obstáculo real e concreto esperando pela frente.
+E ainda assim, olhando pra trás, pra cama onde ela dorme tranquila,
+sinto uma certeza que nenhum medo consegue abalar por completo.
+
+Voltamos um longo caminho pra chegar até aqui. E qualquer que seja o
+próximo capítulo dessa história, vamos escrever ele juntos, do jeito
+que sempre deveria ter sido desde o primeiro dia.

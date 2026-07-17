@@ -83,6 +83,17 @@ também. — Ele apaga o cigarro na neve, olhando pro céu já
 completamente escuro. — Você está começando a entender isso, acho.
 Devagar, mas está entendendo.
 
+— Seu avô parece ter sido um homem sábio.
+
+— Era teimoso, principalmente. — David sorri, o primeiro sorriso
+real da noite. — Mas a sabedoria dele geralmente vinha disfarçada de
+teimosia mesmo. Bom conselho raramente soa bonito na hora que é dado.
+
+Fico observando ele guardar o resto do maço no bolso do casaco,
+pensando em quantos avôs, pais, treinadores espalhados pelo mundo
+inteiro carregam esse mesmo tipo de sabedoria simples que só
+aprendemos a valorizar tarde demais.
+
 A frase fica comigo no caminho de volta ao motel, o ombro latejando de
 cansaço mais do que de dor real pela primeira vez em meses — um
 cansaço bom, ganho, diferente de qualquer exaustão que a carreira de

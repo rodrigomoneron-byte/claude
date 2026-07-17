@@ -36,6 +36,21 @@ qualquer logística que Isa precisar, lembrando, sem dizer diretamente,
 da própria experiência lidando com burocracia e exposição pública
 depois de anos como refugiado.
 
+— Ela vai precisar de gente que entenda o peso disso — Amadou
+comenta, sério. — Eu passei por processo de asilo inteiro sendo
+julgado por estranhos decidindo se minha história era "verdadeira o
+suficiente". Sei como isso pesa.
+
+— Vou dizer a ela que você se ofereceu.
+
+— Diz, sim. — Ele aperta meu ombro de leve. — Ninguém devia enfrentar
+esse tipo de julgamento sozinho.
+
+Fico pensando na frase dele o resto do dia, reconhecendo nela o
+mesmo tipo de solidariedade silenciosa que transformou esse time
+pequeno numa família de verdade, muito além de qualquer resultado de
+placar.
+
 ---
 
 A entrevista está marcada pra semana seguinte, tempo suficiente pra
@@ -97,3 +112,48 @@ poucos contra meu peito, e fico acordado mais tempo que ela, olhando
 pro teto escuro, guardando esse momento específico com o cuidado de
 quem sabe, sem precisar dizer em voz alta, que a coragem de amanhã vai
 precisar de toda a ternura reunida hoje.
+
+De madrugada, ela se mexe, murmurando qualquer coisa incompreensível
+no meio do sono, e a puxo mais perto instintivamente, sentindo o
+corpo dela relaxar de volta contra o meu. Penso em quantas noites
+parecidas ela deve ter passado sozinha, nesses últimos meses,
+enfrentando pesadelo atrás de pesadelo sem ninguém por perto pra
+oferecer esse mesmo tipo de âncora silenciosa.
+
+Penso também em Carla Duncan, na entrevista marcada, no risco real
+que Isa está escolhendo assumir por vontade própria — e sinto, mais
+uma vez, o peso enorme de admiração que carrego por essa mulher que
+decidiu, contra todo instinto de sobrevivência que a manteve segura
+até aqui, expor a própria dor em nome de alguma coisa maior que ela
+mesma.
+
+Não durmo direito o resto da noite, a mente correndo entre orgulho e
+medo protetor, mas não me importo. Prefiro ficar acordado, vigiando
+o sono dela, do que perder um segundo sequer dessa proximidade
+recém-reconquistada.
+
+Pela manhã, ela acorda encontrando meu olhar já fixo nela, e sorri,
+ainda sonolenta, sem perceber de imediato quanto tempo passei
+acordado.
+
+— Você não dormiu, dormiu?
+
+— Um pouco.
+
+— Dante.
+
+— Queria ficar de olho. Só isso. — Puxo ela mais perto, beijando o
+topo da cabeça dela. — Amanhã você enfrenta uma coisa enorme. Hoje eu
+só queria aproveitar cada minuto extra ao seu lado.
+
+Ela encosta a cabeça no meu peito de novo, o corpo ainda relaxado de
+sono.
+
+— Isso é a coisa mais gentil que alguém já fez por mim.
+
+— Vou continuar fazendo, sempre que puder.
+
+Ficamos ali mais um tempo, o dia começando devagar lá fora, nenhum dos
+dois com pressa de sair da cama antes do necessário, absorvendo, cada
+um à sua maneira, o peso tranquilo desse momento simples antes da
+tempestade que ainda está por vir.

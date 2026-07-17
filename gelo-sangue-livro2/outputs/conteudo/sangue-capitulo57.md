@@ -111,3 +111,39 @@ e penso que talvez essa seja, no fim, a verdadeira vitória que
 importa mais que qualquer campeonato: construir, com as próprias
 mãos, uma família escolhida com cuidado, amor genuíno, e coragem
 suficiente pra tentar de novo depois de tanta perda.
+
+Meu pai vai embora pouco depois, alegando cansaço que nenhum dos dois
+acredita completamente, mas aceitando a desculpa gentil sem
+questionar, deixando Isa e eu sozinhos no apartamento pequeno,
+ainda absorvendo o peso enorme do próprio compromisso recém-selado.
+
+— Não acredito que isso está acontecendo de verdade — ela murmura,
+encostando a testa na minha.
+
+— Acredite. Está acontecendo.
+
+Beijo ela devagar, o gesto se transformando aos poucos em outra
+coisa — mãos percorrendo devagar, roupas caindo no chão da sala sem
+pressa nenhuma, os dois se movendo juntos até o quarto entre risos
+baixos e beijos que não conseguem esperar.
+
+Fazemos amor devagar naquela noite, cada gesto carregado do peso
+simbólico enorme do dia — não mais medo, não mais precaução
+calculada, só dois corpos celebrando, sem reserva nenhuma, a decisão
+recém-tomada de construir futuro real juntos.
+
+— Sabe o que mais me deixa feliz nisso tudo? — ela pergunta, depois,
+a cabeça no meu peito.
+
+— O quê?
+
+— Que escolhi isso. De verdade, livremente, sem ninguém decidindo
+por mim. — Ela ergue o rosto, os olhos brilhando. — Nunca mais vou
+tomar isso como garantido.
+
+— Nem eu.
+
+Adormecemos enrolados um no outro, o apartamento pequeno demais mas
+suficiente por enquanto, a promessa de um lar maior esperando pra
+ser construída, tijolo por tijolo, junto com tudo mais que os dois já
+conquistaram nos últimos meses.

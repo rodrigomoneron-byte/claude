@@ -107,3 +107,35 @@ Guardo o celular, finalmente pronta pra dormir, e apago a luz sentindo
 o peso estranho e bom de descobrir que até a própria dor, processada
 com coragem suficiente, pode se transformar em algo que ajuda outras
 pessoas a atravessar o próprio caminho difícil.
+
+No escuro, sinto a mão de Dante procurar a minha por baixo do
+cobertor, os dedos entrelaçando devagar.
+
+— Você está bem? Foi um dia cheio.
+
+— Estou mais que bem. Estou orgulhosa. — Viro de lado, encarando ele
+na penumbra. — Da ordem de restrição, das mensagens, de mim mesma.
+
+— Eu também estou orgulhoso de você. Todo dia um pouco mais.
+
+Puxo ele pra perto, o beijo começando devagar antes de aprofundar,
+o corpo inteiro relaxando contra o dele depois da tensão acumulada
+da semana inteira. Ele me guia com cuidado, cada gesto perguntando
+antes de avançar, cada pausa me dando espaço pra sentir por inteiro
+o próprio alívio antes de qualquer coisa mais.
+
+Fazemos amor devagar, celebrando em silêncio a pequena vitória
+concreta do dia — a ordem concedida, o medo administrável em vez de
+paralisante, a certeza crescente de que essa vida nova, construída
+com tanto esforço, vale cada risco ainda por enfrentar.
+
+— Isso também ajuda, sabia — sussurro, depois, a cabeça no peito
+dele. — Sentir você tão perto, depois de um dia tão pesado.
+
+— Sempre que precisar, estou aqui.
+
+Adormeço nos braços dele pouco depois, o peso do dia inteiro
+finalmente se dissolvendo em sono real, sem alerta, sem vigilância —
+só o calor dele, a respiração calma, e a certeza teimosa de que a
+proteção legal conquistada hoje é só mais um tijolo na construção
+de uma vida que ninguém mais vai conseguir tirar de mim.

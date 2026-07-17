@@ -121,3 +121,19 @@ decidiu a resposta antes mesmo da pergunta terminar de sair da minha
 boca — e pela primeira vez desde que cheguei a esse quarto de motel
 gelado, sinto que finalmente tenho um plano concreto pra seguir, em
 vez de só esperar o próximo golpe.
+
+— Vou dormir aqui essa noite, se você aguentar minha companhia mais
+umas horas — Josh anuncia, já se acomodando na cadeira torta. — Amanhã
+cedo pego estrada de volta. Dezoito horas é osso, mas prefiro isso a
+te deixar sozinho logo depois dessa carta.
+
+— Não precisa. Estou bem.
+
+— Não perguntei se precisava. — Ele sorri, o mesmo sorriso teimoso de
+sempre. — Só avisei o que vou fazer.
+
+Não discuto. Deito na cama estreita, a carta ainda guardada perto do
+peito, e pela primeira vez em semanas adormeço sem o peso costumeiro
+de silêncio total ao redor — só a respiração de um amigo por perto,
+prova pequena e concreta de que não estou enfrentando nada disso
+completamente sozinho.

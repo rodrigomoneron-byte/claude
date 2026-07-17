@@ -111,3 +111,53 @@ contra o meu, e os dois ficamos ali no sofá pequeno, observando as
 luzes da cidade pela janela, dois entre tantos outros pontos pequenos
 de vida acontecendo naquela noite fria, cada um carregando o próprio
 peso, cada um tentando, à sua maneira, seguir em frente apesar dele.
+
+Meu pai chega mais tarde, encontrando os dois ainda no sofá, e senta
+na poltrona ao lado sem perguntar sobre o clima pesado no ar.
+
+— Vi a matéria — ele comenta, depois de um tempo. — Você foi
+cuidadoso. Orgulho genuíno, sem exagero.
+
+— Tentei.
+
+— Conseguiu. — Ele olha pra Isa, o tom suavizando. — E você, como
+está lidando com tudo isso?
+
+— Com medo administrável — ela responde, um pequeno sorriso surgindo
+apesar da tensão. — Aprendi a chamar assim recentemente.
+
+— Isso soa como progresso de verdade.
+
+Os três ficamos ali um tempo, conversando sobre nada em particular,
+deixando a tensão da noite se dissolver aos poucos na companhia
+simples uns dos outros, até finalmente cada um seguir pro próprio
+canto do apartamento pequeno, levando consigo o peso partilhado, mais
+leve por não precisar carregar sozinho.
+
+Antes de dormir, Isa me mostra os comentários que já começaram a
+aparecer sob a matéria nacional, a maioria positiva, alguns
+curiosos sobre a "vida pessoal" mencionada de forma vaga.
+
+— Ninguém adivinhou ainda — ela comenta, rolando a tela devagar.
+
+— Ainda é cedo. Mas alguém vai adivinhar, eventualmente.
+
+— Eu sei. — Ela guarda o celular, encarando o teto. — E quando isso
+acontecer, quero estar pronta, não surpreendida.
+
+— Você está mais pronta do que imagina.
+
+— Espero que sim. — Ela vira de lado, encarando eu no escuro. — Fico
+pensando: se Baz visse essa matéria agora, o que ele pensaria, olhando
+pra essa vida que construí sem ele?
+
+— O que você acha que ele pensaria?
+
+— Acho que ficaria furioso por eu ter conseguido ser feliz sem
+precisar da aprovação dele. — Ela sorri, um sorriso pequeno mas
+satisfeito. — E, pela primeira vez, essa possibilidade não me
+assusta. Só me deixa orgulhosa.
+
+Puxo ela mais perto, sentindo o peso bom dessa nova coragem se
+firmando entre nós dois, e adormecemos assim, juntos, prontos pra
+qualquer coisa que o mundo lá fora ainda decida trazer.

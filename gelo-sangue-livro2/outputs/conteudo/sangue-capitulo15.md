@@ -105,3 +105,34 @@ Fico olhando pro celular por mais tempo do que deveria, imaginando o
 alcance invisível daquele link pequeno se espalhando por cidades que
 não consigo nomear, torcendo, sem nenhuma certeza real, que ele chegue
 exatamente aonde precisa chegar.
+
+Meu pai volta pouco depois, o rosto corado de frio e de algo que
+reconheço, surpreso, como entusiasmo genuíno.
+
+— A reunião foi bem?
+
+— Foi melhor que bem. — Ele tira o casaco, ainda sorrindo sozinho. —
+O investidor gostou da ideia de patrocinar equipamento novo pro time.
+Nada grande, mas o suficiente pra parar de remendar capacete rachado
+com fita adesiva.
+
+— Isso é ótima notícia, pai.
+
+— É, sim. — Ele senta na poltrona, o cansaço bom de quem finalmente
+sente movimento na própria vida de novo. — Sabe, faz anos que eu não
+sentia esse tipo de animação por projeto nenhum. Achei que tinha
+perdido essa capacidade de vez, depois de tudo.
+
+— Ninguém perde isso de vez. Só fica enterrado até alguma coisa
+desenterrar de novo.
+
+— Você aprendeu essa frase com ela? Com a moça?
+
+— Aprendi observando ela reconstruir a própria vida do zero, sem
+reclamar nem uma vez. — Guardo o celular, encarando meu pai com um
+carinho que ainda me surpreende sentir tão fácil agora. — Espero que
+vocês dois se conheçam logo. Acho que ia gostar muito dela.
+
+— Tenho certeza que sim, filho. Qualquer mulher capaz de te devolver
+esse brilho no olho já merece minha gratidão eterna, antes mesmo de
+eu conhecer ela direito.

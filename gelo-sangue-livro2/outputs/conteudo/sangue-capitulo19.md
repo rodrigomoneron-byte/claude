@@ -105,3 +105,30 @@ correndo em círculos. Meu pai termina a louça, seca as mãos no pano de
 prato, e senta na poltrona ao lado sem dizer nada — só presente,
 esperando junto comigo, mesmo sem eu saber exatamente o que os dois
 estamos esperando.
+
+— Você lembra quando eu era pequeno e ficava esperando você voltar do
+turno da noite? — pergunto, de repente, a memória vindo sem aviso. —
+Ficava sentado exatamente assim, olhando pra porta, contando os
+minutos.
+
+— Lembro. Você sempre fingia que estava assistindo televisão, mas
+seus olhos ficavam grudados na porta o tempo inteiro.
+
+— Achei que eu tinha escondido bem.
+
+— Filho nunca esconde nada direito de pai, principalmente quando o
+assunto é esperar alguém importante chegar. — Ele sorri, um sorriso
+cansado mas genuíno. — Reconheço esse mesmo olhar em você agora.
+
+— É estranho, né? Depois de tanto tempo evitando qualquer sentimento
+parecido com esperança, aqui estou eu, esperando de novo, sem
+conseguir evitar.
+
+— Isso não é fraqueza, filho. É coragem disfarçada de paciência. — Ele
+aperta meu ombro de leve. — Só quem já perdeu esperança de verdade sabe
+o tanto que custa deixar ela voltar a existir.
+
+Fico em silêncio, deixando as palavras dele se assentarem, os dois
+olhando juntos pra porta fechada do apartamento, esperando sem saber
+exatamente o que, com uma paciência que os dois, cada um à sua
+maneira, aprenderam duramente a reconstruir.

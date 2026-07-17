@@ -23,6 +23,13 @@ próprio espaço que ocupa.
 Não reconheço completamente essa mulher no reflexo. Mas gosto
 imensamente de quem ela está se tornando.
 
+Entro na loja por impulso, comprando um pequeno enfeite de vidro
+soprado, azul e vermelho misturados, que a dona explica representar
+"proteção e coragem" na tradição local. Não sei se acredito em
+simbolismo de loja de suvenir, mas guardo o enfeite no bolso mesmo
+assim, precisando de qualquer amuleto pequeno que ajude a atravessar
+os próximos dias de incerteza.
+
 ---
 
 À tarde, Denise liga com uma atualização inesperada.
@@ -100,3 +107,33 @@ Fico em silêncio por um momento, deixando a verdade da frase dele se
 instalar fundo, antes de puxar ele pra mais perto, grata, mais uma
 vez, por ter atravessado tanto pra finalmente chegar exatamente onde
 precisava estar.
+
+Ele beija minha testa, depois a lateral do rosto, o gesto simples se
+transformando aos poucos em outra coisa — a mesma pergunta silenciosa
+de sempre, esperando confirmação antes de qualquer avanço maior.
+
+Confirmo puxando ele pra mim, o beijo aprofundando devagar, os dois
+se movendo juntos do sofá pequeno até o quarto sem pressa nenhuma,
+cada gesto carregado de gratidão acumulada — pela recusa do acordo,
+pela mensagem de Priya, pela rede inteira de gente boa que se formou
+ao redor de nós dois sem que nenhum precisasse pedir.
+
+Fazemos amor devagar naquela noite, o quarto iluminado só pela luz
+fraca do corredor, cada toque redescobrindo o corpo do outro com uma
+ternura que nunca deixa de me surpreender, mesmo depois de meses
+reconstruindo essa intimidade sem medo.
+
+— Você percebe o quanto mudou, desde que chegou aqui? — ele pergunta,
+depois, os dedos traçando distraídos a linha do meu ombro.
+
+— Percebo. Às vezes ainda estranho a própria mudança.
+
+— Eu gosto de cada versão sua que já conheci. — Ele beija meu ombro,
+o gesto leve. — Mas essa, a de agora, é a que mais me deixa sem
+fôlego.
+
+Sorrio contra o travesseiro, sentindo o peso bom e leve da própria
+felicidade, e adormeço pouco depois, o corpo dele quente ao meu lado,
+a rede de apoio que construí sem perceber finalmente parecendo sólida
+o suficiente pra sustentar qualquer tempestade que ainda esteja por
+vir.

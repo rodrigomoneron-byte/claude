@@ -114,3 +114,43 @@ difícil, e aperto o passo pra acompanhar o dele, os dois seguindo
 juntos pela rua gelada, um pouco mais sábios agora sobre o próprio
 mapa complicado de confiança que ainda estamos, devagar, aprendendo a
 desenhar.
+
+Perto da minha pensão, ele para de repente, soltando minha mão só pra
+enfiar as duas mãos nos próprios bolsos, criando distância física
+pequena e deliberada.
+
+— O que você está fazendo?
+
+— Praticando. — Ele sorri, torto. — Deixando você caminhar os últimos
+metros sozinha até a porta, sem escolta nenhuma, só porque escolhi
+confiar que você consegue.
+
+O gesto pequeno me atinge fundo, mais significativo do que qualquer
+declaração grandiosa poderia ser, e caminho os últimos passos sozinha
+mesmo, sentindo o próprio corpo relaxar aos poucos, sem o peso
+constante de presença vigilante atrás de mim.
+
+Na porta, viro pra olhar ele ainda parado na esquina, esperando com
+paciência real pra ter certeza de que entro segura, e aceno, um gesto
+pequeno de gratidão que ele retribui antes de finalmente virar as
+costas e seguir pro próprio caminho.
+
+Entro no quarto vazio, tranco a porta, e fico ali um momento, sentindo
+orgulho estranho e novo pela simples proeza de ter caminhado sozinha,
+por escolha própria, sem que isso significasse abandono nenhum — só
+espaço, dado e recebido em partes iguais.
+
+Escrevo no caderninho antes de dormir, a caneta correndo mais leve do
+que em qualquer entrada recente:
+
+*Hoje pedi espaço, e recebi. Hoje briguei sem medo de ser punida por
+isso depois. Hoje caminhei sozinha os últimos metros até minha própria
+porta, e ninguém me seguiu contra minha vontade.*
+
+*Talvez seja isso, no fim, o que reconstrução realmente significa —
+não a ausência de conflito, mas a certeza tranquila de que o conflito,
+quando surge, pode ser resolvido sem que ninguém precise perder a
+própria voz no processo.*
+
+Fecho o caderno, apago a luz, e adormeço sentindo o peso leve e bom de
+mais um dia vivido inteiramente por escolha própria.

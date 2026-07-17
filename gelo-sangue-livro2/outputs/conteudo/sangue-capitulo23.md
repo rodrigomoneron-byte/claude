@@ -107,3 +107,32 @@ peso nenhum de novo.
 Puxo ela mais perto, sentindo o corpo inteiro relaxar contra o meu de
 novo, e decido, por hoje, deixar o mundo lá fora esperar mais algumas
 horas antes de voltar a cobrar qualquer coisa dos dois.
+
+Mais tarde, já vestidos de novo, sentados na cama com a luz do fim de
+tarde entrando fraca pela janela, ela apoia a cabeça no meu ombro,
+folheando distraída um livro qualquer que pegou da estante do meu pai.
+
+— Precisamos avisar seu pai que estou aqui, antes que ele volte?
+
+— Ele sabe. Fingiu não saber, mas sabe. — Sorrio, lembrando da
+mensagem estranhamente conveniente dele mais cedo. — Acho que ele
+está tentando, do jeito desajeitado dele, dar espaço pros dois sem
+precisar dizer isso em voz alta.
+
+— Ele é um bom homem, sabia? Mesmo com tudo que você já me contou
+sobre o passado dele.
+
+— Está aprendendo a ser. Cada dia um pouco mais.
+
+Ela fecha o livro, virando pra me encarar direto.
+
+— Isso parece ser o tema da vida de todo mundo aqui, sabe? Aprender a
+ser melhor, um dia de cada vez, sem pressa de chegar perfeito de
+primeira.
+
+— Talvez seja exatamente isso que Fort McMurray ensina pra quem chega
+aqui procurando recomeço.
+
+Ela sorri, guardando o livro de volta na estante, e os dois ficamos
+ali mais um tempo, a luz da tarde diminuindo aos poucos, nenhum dos
+dois com pressa nenhuma de quebrar aquele silêncio bom.

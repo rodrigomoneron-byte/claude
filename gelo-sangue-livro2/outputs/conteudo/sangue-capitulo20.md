@@ -7,6 +7,14 @@ duas vezes no caminho, não porque as pernas cansem, mas porque o
 próprio corpo parece resistir ao ritmo simples de subir um lance de
 escada comum.
 
+Do lado de fora, antes de entrar no prédio, fiquei parada um bom
+tempo observando a fachada simples de tijolo, contando as janelas
+até identificar qual provavelmente pertencia ao apartamento certo,
+adiando o próprio momento de atravessar a porta principal com
+desculpas pequenas — ajeitar o casaco, checar o celular sem mensagem
+nenhuma nova, respirar fundo mais uma vez antes de finalmente
+destrancar coragem suficiente pra dar o primeiro passo escada acima.
+
 No patamar, encontro a porta certa graças ao número pequeno de latão
 pendurado torto — 2B —, exatamente como Josh descreveu na última
 mensagem que troquei com ele antes de desligar o celular pré-pago de
@@ -63,6 +71,19 @@ acontecer. As flores já perderam um pouco da rigidez original,
 amassadas contra o peito pelo aperto nervoso das próprias mãos, mas
 ainda vermelhas, ainda vivas, ainda exatamente a cor que escolho
 carregar comigo agora.
+
+Penso em Marie, na cafeteria de Fort McMurray onde ainda nem comecei
+a trabalhar, esperando pra me contratar amanhã sem saber nada dessa
+noite decisiva. Penso em Diane, na lavanderia, provavelmente torcendo
+à distância sem saber exatamente quando o momento chegaria. Penso em
+cada mulher que cruzou meu caminho nesses dois meses, cada uma
+oferecendo um pedaço pequeno da coragem que finalmente consigo reunir
+inteira aqui, nesse corredor estreito, diante dessa porta específica.
+
+Reviso, uma última vez, o motivo real de estar aqui — não pra ser
+resgatada, não pra retomar uma vida que já não me serve mais, mas pra
+oferecer a mim mesma a chance de escolher, com os próprios pés
+plantados no chão, a próxima página dessa história.
 
 ---
 

@@ -105,3 +105,48 @@ não deixar o medo administrável de hoje roubar o resto da noite —
 ainda temos jantar pra terminar, um filme qualquer esperando na
 televisão pequena, e a simples alegria doméstica de estar viva, aqui,
 com alguém que finalmente escolhi por inteiro.
+
+Terminamos o jantar sentados no chão, o filme esquecido de fundo,
+mais interessados na própria conversa fácil do que em qualquer trama
+na tela. Dante conta sobre um erro bobo que cometeu no treino daquela
+manhã, rindo de si mesmo sem nenhum resquício da vergonha que
+carregaria fácil meses atrás, e a leveza do momento me pega de
+surpresa, contrastando tanto com o peso da mensagem de Marco horas
+antes.
+
+— Como você consegue rir tão fácil, mesmo com tudo isso pairando? —
+pergunto, genuinamente curiosa.
+
+— Aprendi que medo e alegria conseguem existir ao mesmo tempo, sem
+brigar entre si. — Ele encolhe os ombros, simples. — Levei muito
+tempo pra aprender isso. Vale a pena, no fim.
+
+Encosto a cabeça no ombro dele, absorvendo a lição pequena e enorme
+ao mesmo tempo, e deixo o resto da noite se desenrolar devagar, sem
+pressa, sem medo dominando cada segundo.
+
+Antes de dormir, releio a mensagem de Marco mais uma vez, guardando o
+próprio contato dele com um nome específico no celular pré-pago —
+"Marco (emergência)" — um gesto pequeno que carrega mais peso do que
+deveria, a simples confirmação de que existe, agora, uma rede real de
+gente pronta pra agir se alguma coisa der errado.
+
+— No que está pensando? — Dante pergunta, notando meu silêncio.
+
+— Em como, seis meses atrás, eu não tinha rede nenhuma. Só eu, sozinha,
+tentando adivinhar cada movimento perigoso antes que ele acontecesse.
+
+— E agora?
+
+— Agora tenho vocês dois, a Diane, a Frieda, a Priya, o Josh. Um
+mapa inteiro de gente disposta a me ajudar, se precisar.
+
+— Isso muda tudo, não muda?
+
+— Muda completamente. — Guardo o celular na mesa de cabeceira,
+apagando a luz do quarto. — Medo sozinho é insuportável. Medo
+compartilhado ainda dói, mas fica administrável.
+
+Ele apaga a própria luz do lado dele, puxando meu corpo mais perto no
+escuro, e adormecemos assim, juntos, o peso do dia se dissolvendo aos
+poucos na simples certeza de não estar mais enfrentando nada sozinha.

@@ -119,3 +119,33 @@ sozinha — e que o inverno que ainda se estende à nossa frente, por
 mais longo e incerto que prometa ser, finalmente parece um inverno que
 os dois vamos atravessar juntos, de mãos dadas, prontos pra enfrentar
 o que vier, um dia de cada vez.
+
+Dante desenrola o cachecol vermelho do próprio pescoço, colocando ele
+ao redor do meu, o gesto pequeno e silencioso carregando mais
+significado do que qualquer discurso grandioso conseguiria.
+
+— Pra te manter aquecida enquanto atravessamos isso.
+
+— Achei que esse cachecol fosse meu.
+
+— É seu. Só emprestando de volta, agora, quando parece que você
+precisa mais dele do que eu.
+
+Aperto o tecido vermelho contra o pescoço, o calor imediato contra o
+frio da cozinha ainda sem aquecimento completo, e sinto, apesar de
+tudo que ainda está por vir — o processo, a final, Grant Vance à
+espreita —, uma paz estranha e teimosa se instalar no peito.
+
+Ficamos ali, encostados um no outro, olhando pra data circulada no
+calendário, dois meses de distância entre o presente e o momento que
+vai decidir tanta coisa de uma vez. Não sei exatamente o que o futuro
+guarda. Só sei que, seja qual for o resultado das duas batalhas que
+se aproximam, não vou enfrentar nenhuma delas do jeito que enfrentei
+os primeiros meses depois da fuga — sozinha, sem rede, sem ninguém
+pra segurar minha mão no escuro.
+
+Dessa vez, tenho Dante. Tenho Marco. Tenho um time inteiro de gente
+que aprendeu, cada um à sua maneira, o valor real de não desistir. E
+tenho, principalmente, a versão de mim mesma que essa jornada inteira
+me ajudou a reconstruir — mais forte, mais inteira, pronta pra
+qualquer inverno que ainda esteja por vir.

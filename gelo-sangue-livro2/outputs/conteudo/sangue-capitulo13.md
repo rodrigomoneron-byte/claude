@@ -109,3 +109,22 @@ Bato meu copo levemente contra o dele, um brinde improvisado e sem
 cerimônia nenhuma, e os dois bebemos em silêncio, o apartamento
 pequeno parecendo, pela primeira vez desde que chegamos, um lugar que
 poderia, um dia, virar lar de verdade.
+
+— Vai conseguir dormir essa noite? — meu pai pergunta, lavando o
+próprio copo na pia pequena.
+
+— Duvido muito.
+
+— Eu também duvido, do meu lado. — Ele seca as mãos, encostando na
+bancada. — Faz sentido, acho. Quando nós esperamos alguma coisa
+importante o suficiente, o corpo esquece como descansar direito.
+
+— É verdade. — Sinto o próprio corpo confirmar a observação dele, a
+tensão acumulada dos últimos dias recusando qualquer sinal de alívio
+imediato.
+
+Vou pro quarto pouco depois, deitando na cama estreita sem realmente
+esperar dormir, os olhos fixos no teto escuro, repassando cada palavra
+da carta que acabei de mandar, torcendo, sem permissão real pra
+esperança grande demais, que ela chegue exatamente a tempo de fazer
+diferença.

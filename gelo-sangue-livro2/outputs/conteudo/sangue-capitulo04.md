@@ -116,3 +116,14 @@ Apaga a luz do corredor antes de eu ter tempo de duvidar da própria
 coragem, e fico ali, no escuro, sentindo pela primeira vez em sessenta
 dias que o norte que escolhi finalmente tem um mapa real por baixo
 dele.
+
+Deito na cama estreita, o coração ainda acelerado, tentando imaginar
+o rosto do investigador que Priya descreveu — terno caro, crachá
+falso de profissionalismo, a mesma frieza calculada que sempre
+definiu qualquer coisa que Baz já contratou. Penso em quantas vezes,
+durante o casamento, cruzei com homens parecidos sem nunca saber ao
+certo se estavam ali por acaso ou por ordem direta dele.
+
+Não durmo bem naquela noite, o corpo alerta demais pra qualquer
+descanso real, mas pela primeira vez o motivo do próprio desassossego
+não é só medo puro — é também, embora frágil, o início de um plano.

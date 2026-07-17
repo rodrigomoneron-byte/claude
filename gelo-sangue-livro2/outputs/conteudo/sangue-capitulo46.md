@@ -50,6 +50,21 @@ enquanto ele sorria pra câmeras — cada detalhe saindo mais fácil do
 que temia, como se guardar tudo silenciado por tanto tempo tivesse
 criado pressão que só a confissão completa conseguia aliviar.
 
+Carla escuta sem interromper, o rosto mantendo uma neutralidade
+profissional que ainda assim carrega compaixão genuína por trás.
+Quando finalmente paro pra respirar, ela oferece um copo de água,
+esperando em silêncio até eu me recompor.
+
+— Você não precisa continuar se for demais — ela oferece.
+
+— Preciso. Já cheguei até aqui.
+
+Ela assente, respeitando a decisão sem insistir, e continuo contando
+— sobre as festas onde sorria por obrigação, sobre os anos
+aprendendo a antecipar cada humor dele antes que explodisse em
+alguma coisa pior, sobre a solidão específica de viver cercada de
+luxo e completamente sozinha ao mesmo tempo.
+
 ---
 
 — Por que decidiu falar agora? — Carla pergunta, no fim, fechando o
@@ -105,3 +120,30 @@ A palavra "família" carrega um peso que ainda me pega de surpresa
 cada vez que ele usa ela, genuína, sem hesitação nenhuma, incluindo
 eu automaticamente num círculo que passei seis anos aprendendo a não
 merecer.
+
+Depois que Marco sobe pro próprio quarto, fico sozinha na cozinha com
+Dante por mais um tempo, o silêncio confortável preenchendo o espaço
+entre os dois.
+
+— Está com medo do que vem depois? — ele pergunta, por fim.
+
+— Estou. Mas é um medo diferente do que eu sentia antes. — Giro a
+xícara vazia entre os dedos, procurando palavra certa. — Antes, o medo
+me paralisava, me fazia menor. Esse medo agora parece mais... ativo.
+Como se estivesse lutando por alguma coisa, em vez de só me escondendo
+dela.
+
+— Isso é progresso de verdade, sabia?
+
+— Sei. Só ainda estou aprendendo a confiar nesse tipo novo de medo.
+
+Ele estende a mão por cima da mesa, entrelaçando os dedos nos meus,
+sem pressa nenhuma pra encerrar a conversa.
+
+— Aconteça o que acontecer quando essa matéria sair, você não vai
+enfrentar sozinha. Nem o Marco vai deixar. Nem ninguém dessa família
+inteira que você foi construindo aos poucos, sem perceber.
+
+— Família — repito, testando a palavra de novo, sentindo ela se
+encaixar, aos poucos, num lugar dentro de mim que passou anos vazio.
+— Gosto de como isso soa, vindo de vocês dois.

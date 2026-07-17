@@ -76,6 +76,16 @@ na hora. Só assinto, guardando a ironia de volta no bolso pela primeira
 vez em muito tempo, porque nenhuma piada parece suficiente pra
 disfarçar o tamanho do que ele acabou de nomear.
 
+— Vou começar amanhã cedo — falo, por fim, decidindo aceitar antes
+que a própria dúvida tenha chance de crescer mais.
+
+— Bom. — Beau já está de volta ao quadro branco, rabiscando alguma
+formação nova. — Traz café. Forte. Vamos precisar dos dois.
+
+Saio do escritório sentindo o peso estranho de um convite que não
+pedi, mas que, de algum jeito torto, parece exatamente o tipo de
+convite que eu precisava receber.
+
 ---
 
 Meu pai me espera no estacionamento depois, encostado no carro,

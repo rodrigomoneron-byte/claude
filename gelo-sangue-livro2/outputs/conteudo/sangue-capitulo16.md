@@ -98,3 +98,33 @@ frio do metal atravessar a pele, quase como se pudesse sentir, através
 dela, alguma coisa do calor que sei que existe do outro lado — e sigo
 andando pro trabalho antes que a coragem nova tenha chance de esfriar
 de novo.
+
+No trabalho, Diane percebe a mudança antes mesmo de eu contar
+qualquer coisa, o jeito como ando, talvez, ou o jeito como paro de
+verificar a porta a cada cliente novo que entra.
+
+— Alguma coisa mudou em você hoje.
+
+— Decidi um prazo. Antes do fim da semana.
+
+Diane larga a toalha que segurava, dando atenção total.
+
+— Isso é grande.
+
+— É aterrorizante.
+
+— As duas coisas quase sempre andam juntas. — Ela sorri, o tipo de
+sorriso que carrega experiência de vida inteira por trás. — Precisa de
+alguma coisa de mim, pros próximos dias?
+
+— Só continuar sendo essa presença firme que você já é. Isso já ajuda
+mais do que consigo explicar.
+
+— Sempre vou estar aqui, o tempo que precisar. — Ela volta ao próprio
+trabalho, mas antes acrescenta, baixinho: — E quando finalmente for,
+manda notícia. Quero saber que chegou bem do outro lado, seja qual for
+esse outro lado.
+
+Prometo que sim, sentindo o peso da decisão se firmar ainda mais
+dentro do peito, cada palavra de apoio recebida ao longo do caminho
+se somando, aos poucos, à coragem final que ainda preciso reunir.

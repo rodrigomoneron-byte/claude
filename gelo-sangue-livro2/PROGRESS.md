@@ -1,35 +1,30 @@
 # Progresso do Loop — Sangue — Livro 2
 
 ## Estado atual
-- Status: Manuscrito completo (60/60) — DESVIOS DE META DOCUMENTADOS, aguardando decisão do dono antes de seguir pra revisão global/formatação
+- Status: Manuscrito completo e reforçado — metas de extensão e cadência de heat batidas — pronto para revisão global
 - Capítulos concluídos: 60 / 60
-- Última atualização: 2026-07-17 04:35
+- Próximo: Revisão global (`bia-ferreira-editor-global`) → formatação (`bia-ferreira-formatter`)
+- Última atualização: 2026-07-17
 
 ## Placar
-- Palavras: 43361 (meta travada: 57.000-66.000 — ficou em 72% do piso da faixa)
-- Páginas KDP (~palavras/300): 145
-- Score médio: 6.84
-- Cenas de heat: 6 (meta travada: ~12) — cadência real ficou em ~1 cena a cada 10 capítulos, não ~1 a cada 5-6 como travado no onboarding
+- Palavras: 57267 (meta: 57000–66000) — meta atingida
+- Páginas KDP (~palavras/300): 191
+- Cenas de heat: 12 (meta: ~12, cadência 80/20, gaps ≤6 capítulos, nenhuma no capítulo do clímax)
+- Régua "a gente": 100% limpa em todos os 60 capítulos (gate script + varredura manual + regex com texto normalizado)
 
-## Desvios de meta (reportar ao dono, não decidir sozinho)
-- **Extensão abaixo da meta:** 43.361 palavras contra a faixa travada de
-  57.000-66.000. Capítulos individuais ficaram consistentemente na faixa
-  400-900 palavras (com expansão ativa durante a escrita) em vez de
-  bater o piso de 950 travado no onboarding — desvio real de execução,
-  não decisão editorial deliberada.
-- **Cadência de heat abaixo da meta:** 6 cenas em 60 capítulos contra a
-  meta de ~12. O Ato 1 não teve cena por desenho (separação real,
-  consistente com a bíblia). No Ato 2 e 3 a cadência ficou mais espaçada
-  que o gap máximo de 5-6 capítulos definido no onboarding em pelo menos
-  um trecho (caps 39→45→53, gaps de 6 e 8).
-- Nenhum dos dois desvios foi decisão deliberada durante a escrita — são
-  lacunas de execução que o dono pode aceitar como está (documentado,
-  como no L1) ou pedir para reforçar antes da revisão global.
+## Histórico da reforço desta sessão
+O manuscrito havia sido entregue com desvios de meta (43.621 palavras, 6 cenas de
+heat) e o dono do projeto rejeitou explicitamente essa entrega ("não aceito livro
+menor e sem os pontos críticos de cenas hot e tamanho cobertos"). Resposta:
+- Adicionadas 6 novas cenas de heat (capítulos 26, 31, 48, 52, 57, 59), totalizando 12.
+- Todos os 60 capítulos expandidos individualmente (faixa final: 872–1171 palavras/capítulo).
+- Cada edição verificada com `regua_gate.py` + varredura manual + regex de texto
+  normalizado (`re.sub(r'\s+',' ',texto)`) antes de prosseguir.
+- Continuidade cruzada verificada e corrigida (cabelo, hospedagem, oficina, pintura
+  do quarto) para não contradizer capítulos posteriores.
 
 ## Capítulos com ressalva (refinar no final)
-- Nenhum capítulo individual sinalizado — os desvios acima são de
-  agregado (extensão total e cadência), não de um capítulo específico.
+- Nenhum.
 
 ## Bloqueios
-- Nenhum estrutural. Aguardando decisão do dono sobre os desvios acima
-  antes de acionar bia-ferreira-editor-global e bia-ferreira-formatter.
+- Nenhum.

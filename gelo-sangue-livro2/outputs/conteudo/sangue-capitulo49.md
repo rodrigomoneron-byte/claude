@@ -105,3 +105,50 @@ estar na arquibancada, ao lado de Isa, torcendo com a mesma intensidade
 de sempre — presença que, meses atrás, eu jamais teria imaginado
 possível, e que agora parece simplesmente natural, óbvia, o tipo de
 apoio que sempre deveria ter existido entre nós dois.
+
+— Vou trazer meu velho boné do time que eu torcia quando jovem — ele
+brinca, do outro lado da linha. — Preciso de alguma superstição
+boa nessa altura do campeonato.
+
+— Você não torcia pra nenhum time direito, você jogava profissional.
+
+— Isso não impede superstição nenhuma. — Ele ri, um som leve, raro. —
+Só significa que meu boné da sorte é imaginário até agora.
+
+Desligo o telefone sorrindo, o peso da conversa leve suficiente pra
+equilibrar o nervosismo maior que sinto crescendo por dentro, e me
+deito naquela noite pensando em quantos meses atrás eu jamais
+imaginaria rir tão fácil de qualquer coisa relacionada ao próprio
+pai.
+
+Isa entra no quarto pouco depois, já pronta pra dormir, e senta na
+beirada da cama, observando eu ainda deitado, olhos abertos pro teto.
+
+— Nervoso demais pra dormir?
+
+— Um pouco. A cabeça não para de repassar cada cenário possível dos
+próximos jogos.
+
+— Quer conversar sobre isso, ou prefere distração?
+
+— Prefiro só ter você aqui, sinceramente.
+
+Ela se deita ao meu lado, a cabeça no meu peito, o corpo relaxando aos
+poucos contra o meu.
+
+— Sabe o que eu penso, quando fico nervosa demais pra dormir? — ela
+pergunta, baixinho.
+
+— O quê?
+
+— Penso em cada obstáculo que já atravessei até aqui. Se sobrevivi
+àquilo tudo, um jogo de hóquei, por mais importante que seja, não vai
+me quebrar.
+
+— Isso ajuda?
+
+— Ajuda, sim. Coloca o medo no tamanho certo dele.
+
+Fecho os olhos, deixando a lógica dela se assentar, o próprio corpo
+relaxando aos poucos ao lado do calor familiar dela, e adormeço, por
+fim, mais tranquilo do que esperava conseguir naquela noite específica.

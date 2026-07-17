@@ -116,3 +116,33 @@ como um pequeno escudo de papel contra o medo, e sinto, apesar de
 tudo, que talvez essa seja exatamente a diferença entre a mulher que
 fugiu de casa sem plano nenhum e a mulher que sou agora: a capacidade
 de enfrentar o medo com estratégia, não só com fuga.
+
+Naquela noite, ligo pra Frieda, a primeira pessoa que me tratou como
+gente inteira nos primeiros dias de fuga, precisando ouvir uma voz que
+conheceu a versão mais frágil de mim mesma antes de qualquer coisa
+reconstruída.
+
+— Registrei um boletim hoje — conto, sentada na cama estreita do meu
+quarto. — E estou pensando seriamente em contar minha história
+publicamente.
+
+— Isso assusta você?
+
+— Aterroriza.
+
+— Bom — Frieda responde, a voz calorosa mesmo à distância. — Significa
+que a decisão é real, não só um gesto vazio. Coragem de verdade sempre
+vem acompanhada de medo de verdade. Quem diz o contrário nunca
+precisou de coragem nenhuma.
+
+— Como você soube, na sua época, que estava pronta pra falar?
+
+— Nunca soube com certeza absoluta. Só cansei mais de ficar calada do
+que de arriscar ser ouvida. — Uma pausa curta. — Você vai saber
+quando chegar nesse ponto também. E quando chegar, um bocado de gente
+vai estar do seu lado, prontinha pra te ouvir.
+
+Desligo o telefone sentindo o peso da conversa se assentar como
+possibilidade real, não mais só teoria distante — a ideia de finalmente
+contar a própria história, nos próprios termos, deixando de ser
+personagem silenciosa na narrativa de outra pessoa.

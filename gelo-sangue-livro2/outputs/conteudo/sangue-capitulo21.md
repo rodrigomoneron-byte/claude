@@ -119,3 +119,24 @@ Levo ela pra dentro do apartamento, a mão dela na minha, os dedos
 entrelaçados com uma naturalidade que os últimos meses de ausência não
 conseguiram apagar, e fecho a porta atrás de nós dois, deixando o
 corredor frio e vazio pra trás.
+
+Meu pai insiste em preparar chá pros três, um gesto doméstico tão
+distante de qualquer versão dele que existia meses atrás, e Isa senta
+na mesinha da cozinha, ainda absorvendo os detalhes do apartamento
+simples, os olhos pousando em cada objeto pequeno como quem tenta
+memorizar um lugar que pretende, com sorte, chamar de familiar em
+breve.
+
+— É simples — meu pai comenta, meio sem jeito, servindo o chá. —
+Nada perto do que você provavelmente está acostumada.
+
+— É perfeito — Isa responde, sem hesitação. — Simples parece exatamente
+o que eu precisava depois de tanto tempo cercada de coisa cara
+disfarçando problema grande demais.
+
+Meu pai sorri, satisfeito com a resposta, e os três ficamos ali,
+bebendo chá morno na cozinha pequena, a conversa fluindo fácil demais
+pra combinar com a tensão emocional de apenas alguns minutos atrás —
+como se o próprio apartamento, humilde e aquecido, soubesse
+exatamente como acolher gente cansada de fingir força o tempo
+inteiro.

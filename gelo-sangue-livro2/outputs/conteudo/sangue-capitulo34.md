@@ -98,3 +98,44 @@ nem o dinheiro, nem o status, nem a segurança falsa de um casamento
 que nunca foi segurança de verdade. Fecho os olhos de novo, encostando
 mais perto do calor dele, e deixo o sono me levar de volta, leve,
 sem medo nenhum vigiando o próprio descanso.
+
+Pela manhã, encontro um bilhete curto colado na porta do quarto,
+letra apressada de Dante, que saiu cedo pra revisão de vídeo do
+jogo: *Bom dia. Café guardado no fogão. Te amo, mesmo escrevendo
+isso num papel qualquer às pressas.* Sorrio sozinha no quarto vazio,
+guardando o bilhete na mesma pasta onde guardo as cartas — mais um
+pedaço pequeno de prova concreta de que essa vida, construída aos
+poucos, é real de verdade.
+
+Faço café pra mim mesma, sentando na única cadeira do quarto pequeno
+pra beber devagar, olhando pela janela pro dia claro que se abre lá
+fora, o time inteiro provavelmente ainda comemorando a vitória em
+algum lugar da cidade pequena que aprendi, aos poucos, a chamar de
+minha também.
+
+Pego o celular pré-pago e mando uma mensagem curta pra Priya: *Consegui
+emprego, fiz amigos de verdade, e ontem à noite fui chamada de
+mascote da sorte de um time de hóquei amador. Quem diria que a vida
+depois de fugir seria essa.*
+
+A resposta chega em minutos: *Isso é literalmente a coisa mais feliz
+que você já me contou em seis anos. Guarda esse dia com carinho.*
+
+Guardo, sim — não só na memória, mas na própria pasta de cartas e
+bilhetes que carrego comigo como prova física de cada pedacinho de
+felicidade conquistada, um por um, longe de qualquer sombra que um dia
+tentou apagar minha capacidade inteira de sentir alegria simples.
+
+Termino o café e me visto devagar, o quarto pequeno banhado de luz da
+manhã, e antes de sair pro próprio turno, paro diante do espelho
+manchado, observando o próprio reflexo com uma curiosidade nova.
+
+Não vejo mais a mulher cansada de meses atrás, os olhos fundos de
+quem dormia com um olho aberto. Vejo alguém mais cheia, mais presente,
+o rosto ainda marcado por tudo que atravessou, mas leve de um jeito
+que não lembra ter sentido antes, nem nos anos supostamente dourados
+do próprio casamento.
+
+Saio pro trabalho sorrindo sozinha pela rua gelada, sem motivo
+específico além da simples alegria de estar viva, presente, escolhida
+e escolhendo, um dia comum de cada vez.

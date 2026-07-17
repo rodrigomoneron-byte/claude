@@ -111,3 +111,23 @@ o tipo que não exige nada de mim além de existir dentro dele.
 
 Fecho os olhos, a mochila apertada contra o peito, e deixo a estrada
 me levar na direção do único norte que ainda faz sentido pra mim.
+
+Paramos numa lanchonete de beira de estrada pra almoçar, o
+estabelecimento pequeno e quase vazio, cheirando a fritura e café
+requentado. Robert insiste em pagar o próprio prato, recusando
+qualquer ajuda financeira minha, e sento observando o vapor subindo
+da xícara, pensando em quantas lanchonetes parecidas com essa já
+cruzei nos últimos dois meses — cada uma um pequeno marco na longa
+travessia entre a mulher que fui e a que ainda estou me tornando.
+
+— Vai dar tudo certo — Robert comenta, entre uma garfada e outra,
+sem muita certeza real na própria voz, mas com gentileza suficiente
+pra fazer a frase valer alguma coisa mesmo assim.
+
+— Espero que sim.
+
+Terminamos o almoço em silêncio confortável, e voltamos pra estrada
+logo depois, o sol já começando a baixar no horizonte cinza, cada
+quilômetro adicional aproximando, devagar mas com certeza cada vez
+maior, o momento que venho temendo e desejando em partes iguais há
+semanas inteiras.
