@@ -146,3 +146,19 @@
   arco jurídico do L3. Baz permanece vivo e presente na trama (não é
   o fim do personagem, só do processo civil) — a escalada final dele
   e a morte de Grant ainda estão por vir no Ato 3.
+- Cap. 36: Grant tem nova complicação cardíaca, internado em condição
+  "crítica" — médicos "não otimistas".
+- Cap. 38: Aisha (irmã de Amadou) chega em Fort McMurray, reencontro
+  emocionante. Mesma noite, Marco avisa que a condição de Grant piorou
+  — "questão de dias, talvez menos".
+- Cap. 39: Oil Barons vencem jogo decisivo e garantem vaga DIRETA nos
+  playoffs (sem fase extra). Durante a comemoração, Denise avisa por
+  mensagem que Grant está "estável mas crítico".
+- Cap. 40 — FECHA O ATO 2: temporada regular encerrada, playoffs
+  começam semana seguinte. Aisha se estabelece na cafeteria de Marie.
+  Jantar de comemoração com Marco é interrompido por ligação de
+  Denise — o capítulo termina em cliffhanger, ANTES de revelar o
+  conteúdo da ligação. Ato 3 (cap. 41) deve abrir revelando o
+  conteúdo dessa ligação — presumivelmente a notícia da morte de
+  Grant Vance, conforme travado na bíblia (arco-trama-livro3.md,
+  decisão 4).
