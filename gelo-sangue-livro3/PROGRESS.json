@@ -6,10 +6,10 @@
     "Dante",
     "Isa"
   ],
-  "status": "Em andamento",
-  "next_chapter": 60,
-  "next_pov": "Isa",
-  "updated": "2026-07-18 04:29",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 61,
+  "next_pov": "Dante",
+  "updated": "2026-07-18 04:31",
   "chapters": [
     {
       "n": 1,
@@ -423,15 +423,22 @@
       "words": 838,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 60,
+      "pov": "Isa",
+      "words": 938,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 59,
-    "total_words": 53952,
-    "pages_kdp": 180,
+    "chapters_done": 60,
+    "total_words": 54890,
+    "pages_kdp": 183,
     "avg_score": 7.0,
-    "pct_to_target": 93
+    "pct_to_target": 95
   },
   "heat_log": [
     {

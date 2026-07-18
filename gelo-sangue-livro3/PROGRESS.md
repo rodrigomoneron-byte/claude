@@ -1,16 +1,16 @@
 # Progresso do Loop — Raiz
 
 ## Estado atual
-- Status: Em andamento
-- Capítulos concluídos: 59 / 60
-- Próximo: Capítulo 60 (POV Isa)
-- Última atualização: 2026-07-18 04:29
+- Status: Manuscrito completo — revisão/formatação pendentes
+- Capítulos concluídos: 60 / 60
+- Próximo: Capítulo 61 (POV Dante)
+- Última atualização: 2026-07-18 04:31
 
 ## Placar
-- Palavras: 53952
-- Páginas KDP (~palavras/300): 180
+- Palavras: 54890
+- Páginas KDP (~palavras/300): 183
 - Score médio: 7.0
-- Meta de palavras: 58000 (93%)
+- Meta de palavras: 58000 (95%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
