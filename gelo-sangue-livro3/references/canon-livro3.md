@@ -154,6 +154,19 @@
 - Cap. 39: Oil Barons vencem jogo decisivo e garantem vaga DIRETA nos
   playoffs (sem fase extra). Durante a comemoração, Denise avisa por
   mensagem que Grant está "estável mas crítico".
+- Cap. 44: Baz perde o patrocínio principal (consequência pública),
+  manda mensagem conciliatória pra Dante — resposta cautelosa mas
+  aberta enviada.
+- Cap. 45: Oil Barons vencem a série contra Edmonton em 7 jogos,
+  avançam pra FINAL da primeira divisão pela primeira vez na história
+  do time. Josh viaja sem avisar pra surpreender Dante e Isa.
+- Cap. 46: ENCONTRO FINAL entre Isa e Baz, pessoalmente, numa
+  cafeteria neutra em Edmonton — ele pede desculpa genuína (não só
+  pelo pai, pelas próprias ações), ela NÃO oferece perdão completo mas
+  reconhece a tentativa de mudança dele e estabelece limite final
+  ("não me procure de novo"). Fecha definitivamente o arco Isa/Baz —
+  ele não deve mais aparecer na trama a partir daqui, exceto talvez
+  menção indireta no epílogo.
 - Cap. 40 — FECHA O ATO 2: temporada regular encerrada, playoffs
   começam semana seguinte. Aisha se estabelece na cafeteria de Marie.
   Jantar de comemoração com Marco é interrompido por ligação de
