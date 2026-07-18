@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 55,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 04:23",
+  "next_chapter": 56,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 04:24",
   "chapters": [
     {
       "n": 1,
@@ -388,15 +388,22 @@
       "words": 818,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 55,
+      "pov": "Dante",
+      "words": 834,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 54,
-    "total_words": 49383,
-    "pages_kdp": 165,
+    "chapters_done": 55,
+    "total_words": 50217,
+    "pages_kdp": 167,
     "avg_score": 7.0,
-    "pct_to_target": 85
+    "pct_to_target": 87
   },
   "heat_log": [
     {
@@ -438,6 +445,10 @@
     {
       "n": 51,
       "desc": "10a cena — celebracao da manha depois do pedido de casamento"
+    },
+    {
+      "n": 55,
+      "desc": "11a cena — primeira noite na casa nova, celebrando o lar recem-conquistado"
     }
   ],
   "decisoes_travadas": {
