@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 35,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 01:33",
+  "next_chapter": 36,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 01:35",
   "chapters": [
     {
       "n": 1,
@@ -248,15 +248,22 @@
       "words": 889,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 35,
+      "pov": "Dante",
+      "words": 872,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 34,
-    "total_words": 31831,
-    "pages_kdp": 106,
+    "chapters_done": 35,
+    "total_words": 32703,
+    "pages_kdp": 109,
     "avg_score": 7.0,
-    "pct_to_target": 55
+    "pct_to_target": 56
   },
   "heat_log": [
     {
@@ -282,6 +289,10 @@
     {
       "n": 30,
       "desc": "6a cena — praticando confiar na calmaria depois da prisao de Grant"
+    },
+    {
+      "n": 35,
+      "desc": "7a cena — celebracao do veredito favoravel, recepcao do time"
     }
   ],
   "decisoes_travadas": {
