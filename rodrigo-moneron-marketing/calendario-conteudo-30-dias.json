@@ -1,0 +1,1230 @@
+{
+  "brand": "Rodrigo Moneron",
+  "nicho": "marketing de tribo para escritores independentes da Amazon",
+  "tese": "escritor não vive de viral, vive de tribo",
+  "periodo_dias": 30,
+  "posts_por_dia": 5,
+  "estrutura_padrao": {
+    "slides": "variável — 8 é o padrão de referência, mas o número pode subir ou descer conforme a complexidade do tema (mínimo 5, máximo 12)",
+    "campos_base": [
+      "slide_1_hook",
+      "slide_2_contexto",
+      "slide_3_tensao",
+      "slide_4_prova",
+      "slide_5_desdobramento",
+      "slide_6_virada",
+      "slide_7_resumo",
+      "slide_8_cta"
+    ],
+    "campos_opcionais": [
+      "slide_objecao",
+      "slide_prova_extra",
+      "slide_bastidor",
+      "slide_dado_numero",
+      "slide_micro_historia"
+    ],
+    "regra_de_variacao": "Os campos_base formam a espinha dorsal do carrossel. Se o tema for simples e o gancho já for autoexplicativo, funda contexto+tensão em um slide só e feche em 5-6 slides. Se o tema exigir mais prova, objeção ou um dado numérico forte, insira campos_opcionais entre desdobramento e virada, podendo chegar a 10-12 slides. Nunca adicionar slide que não avance o argumento só para bater um número redondo."
+  },
+  "dias": [
+    {
+      "dia": 1,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A conta que o autor independente não faz: quanto custa lançar sem lista",
+          "gancho": "O mesmo orçamento pode evaporar ou compor.",
+          "angulo": "Tráfego alugado vs base própria.",
+          "cta": "Você está comprando alcance ou ativo?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Por que o gráfico de vendas parece eletrocardiograma",
+          "gancho": "O pico engana.",
+          "angulo": "Vendas em picos e vales.",
+          "cta": "Seu catálogo sustenta ou só reage?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Anatomia de uma tribo de 250 milhões de páginas",
+          "gancho": "O motor não foi sorte.",
+          "angulo": "Construção por camadas.",
+          "cta": "Quer ver a máquina por dentro?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Leitora não segue autora, pertence a um universo",
+          "gancho": "Seguidores não equivalem a vínculo.",
+          "angulo": "Fandom e pertencimento.",
+          "cta": "Você quer audiência ou tribo?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "As três camadas da arquitetura, na ordem certa",
+          "gancho": "Leitor definido antes de alavanca.",
+          "angulo": "Leitor → comunidade → marketing.",
+          "cta": "Qual camada você está pulando?"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O mercado criou uma segunda profissão para o escritor",
+          "gancho": "Escrever virou metade do trabalho.",
+          "angulo": "Autor como criador de conteúdo forçado.",
+          "cta": "Seu marketing está ajudando ou drenando?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O erro de jogar tráfego frio direto na Amazon",
+          "gancho": "Link direto não constrói base.",
+          "angulo": "Captura antes da venda.",
+          "cta": "Onde sua verba morre?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A decisão que veio antes da escala",
+          "gancho": "Clareza vende mais que campanha.",
+          "angulo": "Definição da leitora exata.",
+          "cta": "Seu posicionamento está claro?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "A exaustão do algoritmo",
+          "gancho": "O problema não é escrever.",
+          "angulo": "Perseguição de viral como desgaste.",
+          "cta": "Você está criando ou correndo atrás?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Diagnóstico aberto: o post impulsionado com link direto pra Amazon",
+          "gancho": "Por que a verba some.",
+          "angulo": "Fluxo ruim de conversão.",
+          "cta": "Quer que eu destrinche o funil?"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Quanto custa lançar sem lista",
+          "gancho": "Cada lançamento recomeça do zero.",
+          "angulo": "Custo oculto da ausência de base.",
+          "cta": "Seu lançamento constrói ou reinicia?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que separa catálogos estáveis dos instáveis",
+          "gancho": "Frequência não é previsibilidade.",
+          "angulo": "Estabilidade vem de comunidade.",
+          "cta": "O que sustenta seu catálogo?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "1.000 Fãs Fiéis fora do papel",
+          "gancho": "Teoria virou operação real.",
+          "angulo": "Prática da tese.",
+          "cta": "Você está mirando alcance ou profundidade?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O pico de vendas como armadilha emocional",
+          "gancho": "O que funcionou pode enganar.",
+          "angulo": "Repetir fórmula errada.",
+          "cta": "Seu pico virou vício?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Como eu montaria o plano da Julia",
+          "gancho": "Do R$ 3k no pico ao previsível.",
+          "angulo": "Plano aplicado ao ICP.",
+          "cta": "Quer o passo a passo?"
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Audiência alugada não é ativo",
+          "gancho": "O que depende de plataforma não é seu.",
+          "angulo": "Dependência de canal.",
+          "cta": "Sua audiência é sua ou emprestada?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Por que impulsionar post não é estratégia",
+          "gancho": "Mais verba não corrige fluxo ruim.",
+          "angulo": "Gasto sem arquitetura.",
+          "cta": "Você está construindo ou só pagando alcance?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O bastidor que ninguém vê",
+          "gancho": "O marketing real acontece antes do post.",
+          "angulo": "Decisões invisíveis.",
+          "cta": "Quer ver o bastidor?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Seguidores não são base",
+          "gancho": "Número não é vínculo.",
+          "angulo": "Métrica vazia vs ativo real.",
+          "cta": "O que sua métrica está escondendo?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O plano mínimo para sair do ciclo lança-vale",
+          "gancho": "Começar pequeno e certo.",
+          "angulo": "Primeiro sistema, depois escala.",
+          "cta": "Você quer consistência ou previsibilidade?"
+        }
+      ]
+    },
+    {
+      "dia": 5,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O mito da consistência sem estratégia",
+          "gancho": "Postar todo dia não resolve arquitetura.",
+          "angulo": "Volume sem sistema.",
+          "cta": "Seu esforço está composto?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que o autor compra quando compra divulgação",
+          "gancho": "Divulgação não pode evaporar.",
+          "angulo": "Investimento em ativo durável.",
+          "cta": "Sua divulgação deixa o quê para depois?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O que foi descartado na construção da máquina",
+          "gancho": "Nem tudo que cresce compõe.",
+          "angulo": "Cortes estratégicos.",
+          "cta": "Você sabe o que cortar?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Por que autores viram reféns da rotina de conteúdo",
+          "gancho": "O conteúdo virou muleta.",
+          "angulo": "Escrita espremida pelo marketing.",
+          "cta": "Seu conteúdo trabalha para você?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O que construir antes de pedir alcance",
+          "gancho": "Primeiro ativo, depois alavanca.",
+          "angulo": "Ordem de construção.",
+          "cta": "O que você está pedindo cedo demais?"
+        }
+      ]
+    },
+    {
+      "dia": 6,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O autor independente e a conta que não fecha",
+          "gancho": "O problema é estrutural, não emocional.",
+          "angulo": "Renda parcial vs renda de livro.",
+          "cta": "Sua operação fecha no papel?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O custo real de depender de tráfego frio",
+          "gancho": "Clique não vira ativo sozinho.",
+          "angulo": "Sem captura, não há base.",
+          "cta": "Sua campanha constrói memória?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Como o posicionamento da autora organizou tudo",
+          "gancho": "Antes da escala veio a clareza.",
+          "angulo": "Marca, leitura e venda.",
+          "cta": "Seu posicionamento está afiado?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "A cultura do viral e o custo invisível",
+          "gancho": "Viral é vento, não casa.",
+          "angulo": "Hype vs sustentação.",
+          "cta": "Você está perseguindo vento?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A escada de ofertas que cabe no bolso da Julia",
+          "gancho": "Entrada, próximo passo, acompanhamento.",
+          "angulo": "Calibragem de ticket.",
+          "cta": "Sua oferta conversa com o bolso real?"
+        }
+      ]
+    },
+    {
+      "dia": 7,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O gráfico em formato de eletrocardiograma",
+          "gancho": "Pico e vale são sinais de arquitetura ruim.",
+          "angulo": "Oscilação de vendas.",
+          "cta": "Seu gráfico está estável?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Lançar sem base é recomeçar",
+          "gancho": "Todo mês zerado custa caro.",
+          "angulo": "Acúmulo vs reinício.",
+          "cta": "Quantas vezes você recomeça?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A primeira vez que a máquina mostrou tração",
+          "gancho": "Tração não é sorte.",
+          "angulo": "Sinais iniciais do sistema.",
+          "cta": "Você reconhece a tração?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O que o fandom ensina sobre venda de livro",
+          "gancho": "Pertencer vende mais que seguir.",
+          "angulo": "Fandom como lógica de mercado.",
+          "cta": "Sua leitora sente pertencimento?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Como medir se sua base está crescendo",
+          "gancho": "Nem todo crescimento aparece no feed.",
+          "angulo": "Sinais de comunidade real.",
+          "cta": "Você mede o que importa?"
+        }
+      ]
+    },
+    {
+      "dia": 8,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Por que o catálogo para de compor",
+          "gancho": "Frequência sem vínculo não sustenta nada.",
+          "angulo": "Catálogo parado.",
+          "cta": "Seu catálogo está compondo?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Tráfego frio sem captura",
+          "gancho": "A venda acontece cedo demais.",
+          "angulo": "Ponte ausente.",
+          "cta": "Onde você captura a atenção?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O que mudou quando a base deixou de ser genérica",
+          "gancho": "Genérico não cria tribo.",
+          "angulo": "Nicho e especificidade.",
+          "cta": "Sua base sabe por que existe?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O criador que escreve e o criador que performa",
+          "gancho": "Nem todo esforço compõe.",
+          "angulo": "Dupla jornada criativa.",
+          "cta": "Você está escrevendo ou performando?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O funil de um autor independente",
+          "gancho": "Lista antes da venda.",
+          "angulo": "Jornada do leitor.",
+          "cta": "Seu funil existe de verdade?"
+        }
+      ]
+    },
+    {
+      "dia": 9,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A diferença entre vender e sustentar renda",
+          "gancho": "Venda pontual não é previsibilidade.",
+          "angulo": "Pontualidade vs constância.",
+          "cta": "Sua renda é previsível?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O erro de começar pela alavanca",
+          "gancho": "Escalar antes de estruturar custa caro.",
+          "angulo": "Ordem errada.",
+          "cta": "Você está começando pelo fim?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O bastidor por dentro",
+          "gancho": "Decisões invisíveis mudam tudo.",
+          "angulo": "Processo antes do resultado.",
+          "cta": "Quer o mapa real?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Pertencer não é o mesmo que seguir",
+          "gancho": "Seguidores observam, tribos reagem.",
+          "angulo": "Diferença entre métrica e vínculo.",
+          "cta": "Seu público pertence ou só segue?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O marketing precisa começar pelo leitor",
+          "gancho": "Sem leitor definido, tudo dispersa.",
+          "angulo": "Base de comunicação.",
+          "cta": "Você sabe para quem fala?"
+        }
+      ]
+    },
+    {
+      "dia": 10,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A segunda profissão que nenhum escritor pediu",
+          "gancho": "Criar conteúdo virou obrigação.",
+          "angulo": "Autor transformado em mídia.",
+          "cta": "Seu trabalho editorial virou manutenção?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Quando a divulgação vira custo recorrente",
+          "gancho": "Gasto sem ativo é vazamento.",
+          "angulo": "Investimento que não fica.",
+          "cta": "Sua divulgação deixa o quê de pé?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Por que esse case é difícil de copiar",
+          "gancho": "Operar por dentro muda o lastro.",
+          "angulo": "Vantagem proprietária.",
+          "cta": "Sua prova é replicável?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O custo humano de perseguir viral",
+          "gancho": "A conta mental aparece depois.",
+          "angulo": "Exaustão e expectativa.",
+          "cta": "Seu marketing está te esgotando?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O diagnóstico que separa esforço de arquitetura",
+          "gancho": "Nem todo trabalho compõe.",
+          "angulo": "Arquitetura vs esforço.",
+          "cta": "Você está construindo ou só trabalhando?"
+        }
+      ]
+    },
+    {
+      "dia": 11,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A conta do impulsionamento vs base própria",
+          "gancho": "O orçamento pode sumir ou construir.",
+          "angulo": "Comparação de alocação.",
+          "cta": "Seu dinheiro fica em quê?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que se perde sem lista",
+          "gancho": "Sem lista, não há continuidade.",
+          "angulo": "Memória comercial.",
+          "cta": "Quem volta para comprar de você?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Definir a leitora antes de escalar",
+          "gancho": "Posicionamento antes do volume.",
+          "angulo": "Fundação estratégica.",
+          "cta": "Sua leitora está nomeada?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O marketing errado, na ordem errada",
+          "gancho": "O problema é sequência, não esforço.",
+          "angulo": "Fazer muito e compor pouco.",
+          "cta": "Você está invertendo a ordem?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Leitor definido primeiro",
+          "gancho": "Sem alvo claro, tudo dispersa.",
+          "angulo": "Primeira camada do método.",
+          "cta": "Quem é o leitor certo?"
+        }
+      ]
+    },
+    {
+      "dia": 12,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Dependência de plataforma e fragilidade",
+          "gancho": "Quem não possui a base sofre mais.",
+          "angulo": "Risco de canal único.",
+          "cta": "Sua operação depende do quê?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O post que morre no link da Amazon",
+          "gancho": "Venda antes da posse.",
+          "angulo": "Fluxo sem retenção.",
+          "cta": "Seu clique vira ativo?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Comunidade nomeada como motor",
+          "gancho": "Nomear muda pertencimento.",
+          "angulo": "Comunidade batizada como exemplo.",
+          "cta": "Sua comunidade tem nome?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O algoritmo não é casa",
+          "gancho": "Plataforma não substitui base.",
+          "angulo": "Casa própria vs aluguel.",
+          "cta": "Você mora na audiência de quem?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A ponte entre conteúdo e oferta",
+          "gancho": "Conteúdo sem ponte não converte.",
+          "angulo": "Funil intermediário.",
+          "cta": "Onde entra a captura?"
+        }
+      ]
+    },
+    {
+      "dia": 13,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Catálogo parado, esforço alto",
+          "gancho": "Trabalho sem compor não sustenta.",
+          "angulo": "Esforço sem sistema.",
+          "cta": "Seu esforço está acumulando?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A verba que evapora",
+          "gancho": "Gasto sem lastro desaparece.",
+          "angulo": "Desperdício de mídia.",
+          "cta": "Onde seu dinheiro desaparece?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A clareza que antecede a campanha",
+          "gancho": "Antes de crescer, definir.",
+          "angulo": "Posicionamento e escala.",
+          "cta": "Você está claro antes de investir?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Viral não sustenta catálogo",
+          "gancho": "Viral é pico, não casa.",
+          "angulo": "Atividade sem continuidade.",
+          "cta": "Seu catálogo vive de quê?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A ordem certa da arquitetura",
+          "gancho": "Leitor, comunidade, alavanca.",
+          "angulo": "Processo em sequência.",
+          "cta": "Sua ordem está invertida?"
+        }
+      ]
+    },
+    {
+      "dia": 14,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O risco de um único canal",
+          "gancho": "Depender de plataforma é frágil.",
+          "angulo": "Concentração de risco.",
+          "cta": "Seu negócio tem redundância?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que a oscilação do KU ensina",
+          "gancho": "Renda variável pede visão de base.",
+          "angulo": "Regra externa e renda.",
+          "cta": "Você acompanha o risco?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Aplicação real dos 1.000 Fãs Fiéis",
+          "gancho": "A teoria virou operação.",
+          "angulo": "Profundidade antes de alcance.",
+          "cta": "Você prioriza profundidade?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Audiência alugada e ansiedade",
+          "gancho": "Quando tudo depende do algoritmo, tudo pesa.",
+          "angulo": "Dependência emocional.",
+          "cta": "Sua estratégia te acalma ou aumenta a pressão?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O plano aplicado ao caso típico do autor validado e instável",
+          "gancho": "Do pico ao previsível.",
+          "angulo": "Plano para o ICP.",
+          "cta": "Quer um plano assim?"
+        }
+      ]
+    },
+    {
+      "dia": 15,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Lançamento sem ativo",
+          "gancho": "Sem base, tudo recomeça.",
+          "angulo": "Lançamento como reação.",
+          "cta": "Seu lançamento deixa o quê?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A diferença entre hype e base",
+          "gancho": "Hype passa, base sustenta.",
+          "angulo": "Ritmo e permanência.",
+          "cta": "Seu crescimento é de verdade?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O motor da comunidade batizada",
+          "gancho": "Comunidade nomeada não é detalhe.",
+          "angulo": "Tribo como ativo.",
+          "cta": "Sua comunidade é só público?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Leitora certa versus público geral",
+          "gancho": "Mensagem ampla dilui força.",
+          "angulo": "Precisão de nicho.",
+          "cta": "Você fala com quem exatamente?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O próximo passo depois do diagnóstico",
+          "gancho": "Diagnóstico só vale se virar ação.",
+          "angulo": "Etapa seguinte.",
+          "cta": "Você transforma diagnóstico em sistema?"
+        }
+      ]
+    },
+    {
+      "dia": 16,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O que faz o vale doer tanto",
+          "gancho": "O problema é a falta de previsibilidade.",
+          "angulo": "Pico-vale e pressão.",
+          "cta": "O vale está te travando?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Renda variável não exige improviso, exige arquitetura",
+          "gancho": "O sistema precisa de base, não de sorte.",
+          "angulo": "Estrutura estável.",
+          "cta": "Sua operação é estável?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Decisões e cortes na construção",
+          "gancho": "Crescer também é desistir.",
+          "angulo": "Curadoria estratégica.",
+          "cta": "Você sabe o que não fazer?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O apego ao post diário",
+          "gancho": "Frequência sem direção vira desgaste.",
+          "angulo": "Rotina vazia.",
+          "cta": "Seu post diário está composto?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Como criar um sistema, não uma rotina",
+          "gancho": "Rotina não garante resultado.",
+          "angulo": "Sistema e repetição.",
+          "cta": "Sua rotina vira ativo?"
+        }
+      ]
+    },
+    {
+      "dia": 17,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Tráfego pago sem estratégia de retenção",
+          "gancho": "Clique não é relacionamento.",
+          "angulo": "Aquisição sem continuidade.",
+          "cta": "Você retém quem entra?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A ilusão do crescimento rápido",
+          "gancho": "Subida não é sustentação.",
+          "angulo": "Velocidade vs estabilidade.",
+          "cta": "Seu crescimento é sustentado?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A prova viva da tese",
+          "gancho": "Não é teoria, é operação.",
+          "angulo": "Lastro real.",
+          "cta": "Sua prova é viva?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O que o pertence tem que o segue não tem",
+          "gancho": "Pertencimento gera ação.",
+          "angulo": "Vínculo profundo.",
+          "cta": "Sua audiência age ou só assiste?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Como montar base antes da venda",
+          "gancho": "Venda é consequência.",
+          "angulo": "Base primeiro.",
+          "cta": "Você constrói antes de vender?"
+        }
+      ]
+    },
+    {
+      "dia": 18,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O que o autor compra sem perceber",
+          "gancho": "Nem todo gasto vira ativo.",
+          "angulo": "Compra de atenção.",
+          "cta": "O que sua compra realmente entrega?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Alcance não é ativo",
+          "gancho": "Volume sem posse é frágil.",
+          "angulo": "Métrica de vaidade.",
+          "cta": "Seu alcance está compondo?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O que veio antes da escala",
+          "gancho": "Escala boa nasce da base.",
+          "angulo": "Fundação da máquina.",
+          "cta": "O que sustentou sua escala?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Exaustão de marketing errado",
+          "gancho": "O problema não é a quantidade de esforço.",
+          "angulo": "Energia desperdiçada.",
+          "cta": "Seu esforço está no lugar certo?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Como organizar a escada de ofertas",
+          "gancho": "Cada oferta tem um lugar.",
+          "angulo": "Entrada, continuidade e acompanhamento.",
+          "cta": "Sua escada existe?"
+        }
+      ]
+    },
+    {
+      "dia": 19,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Por que o vale pesa mais do que devia",
+          "gancho": "Sem previsibilidade, o vale dói mais.",
+          "angulo": "Oscilação emocional e financeira.",
+          "cta": "Seu vale está caro?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Improviso não é sistema",
+          "gancho": "Renda variável não perdoa arquitetura frágil.",
+          "angulo": "Arquitetura como estabilidade.",
+          "cta": "Sua estrutura resiste ao mês ruim?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O bastidor da comunidade",
+          "gancho": "Comunidade não nasce por acaso.",
+          "angulo": "Construção de tribo.",
+          "cta": "Você construiu ou só reuniu?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Seguidores versus pertencimento",
+          "gancho": "Número não substitui vínculo.",
+          "angulo": "Diferença prática.",
+          "cta": "Sua base pertence?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A leitura certa do diagnóstico",
+          "gancho": "Diagnóstico útil vira ação.",
+          "angulo": "Interpretar e aplicar.",
+          "cta": "Você sabe o que fazer com o diagnóstico?"
+        }
+      ]
+    },
+    {
+      "dia": 20,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A lógica do catálogo que compõe",
+          "gancho": "Catálogo é ativo, não depósito.",
+          "angulo": "Construção cumulativa.",
+          "cta": "Seu catálogo cresce de verdade?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O problema da atenção alugada",
+          "gancho": "Você não controla o aluguel.",
+          "angulo": "Dependência de feed.",
+          "cta": "Sua atenção é sua?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A história em primeira pessoa",
+          "gancho": "Bastidor próprio gera autoridade.",
+          "angulo": "Narrativa proprietária.",
+          "cta": "Você tem história própria?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O autor preso ao ciclo",
+          "gancho": "O ciclo não é só financeiro.",
+          "angulo": "Mentalidade de recomeço.",
+          "cta": "Você está preso ao ciclo?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O que o leitor definido muda na prática",
+          "gancho": "Clareza melhora tudo.",
+          "angulo": "Segmentação aplicada.",
+          "cta": "Seu leitor muda suas decisões?"
+        }
+      ]
+    },
+    {
+      "dia": 21,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Quanto custa o recomeço",
+          "gancho": "Recomeçar sempre é caro.",
+          "angulo": "Zero a cada lançamento.",
+          "cta": "Quanto custa zerar seu jogo?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A dependência da Amazon",
+          "gancho": "Plataforma não substitui base.",
+          "angulo": "Risco concentrado.",
+          "cta": "Sua renda depende de um lugar só?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O método demonstrado",
+          "gancho": "Resultado com raciocínio por trás.",
+          "angulo": "Prova e método.",
+          "cta": "Você mostra método ou só resultado?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Por que viral e previsibilidade quase nunca andam juntos",
+          "gancho": "A lógica de um não alimenta o outro.",
+          "angulo": "Temporalidade oposta.",
+          "cta": "Você quer estabilidade ou pico?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Da teoria à operação",
+          "gancho": "Conceito bom precisa virar sistema.",
+          "angulo": "Aplicação prática.",
+          "cta": "Sua teoria virou processo?"
+        }
+      ]
+    },
+    {
+      "dia": 22,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O marketing que evapora",
+          "gancho": "Se não fica, não compõe.",
+          "angulo": "Vazamento de valor.",
+          "cta": "O que do seu marketing permanece?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A conta que ninguém quer fazer",
+          "gancho": "O custo do improviso aparece depois.",
+          "angulo": "Economia oculta.",
+          "cta": "Você já calculou o custo real?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O mecanismo por trás do resultado",
+          "gancho": "Resultado sem mecanismo vira sorte.",
+          "angulo": "Anatomia do case.",
+          "cta": "Seu resultado é explicável?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O criador exausto",
+          "gancho": "Quando tudo vira conteúdo, sobra pouco para criar.",
+          "angulo": "Sobrecarga criativa.",
+          "cta": "Você ainda tem espaço para escrever?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O mapa de arquitetura",
+          "gancho": "Arquitetura antes da execução.",
+          "angulo": "Estrutura visual do método.",
+          "cta": "Você tem mapa ou improviso?"
+        }
+      ]
+    },
+    {
+      "dia": 23,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O erro estrutural do autor independente",
+          "gancho": "O problema não é esforço, é desenho.",
+          "angulo": "Arquitetura falha.",
+          "cta": "Você está desenhando certo?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "Lançar sem lista é queimar tempo",
+          "gancho": "Tempo é ativo também.",
+          "angulo": "Custo temporal do improviso.",
+          "cta": "Quanto tempo seu recomeço consome?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O que ninguém pode copiar",
+          "gancho": "Operar por dentro gera vantagem.",
+          "angulo": "Lastro proprietário.",
+          "cta": "Sua vantagem é defensável?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Pertencer vende",
+          "gancho": "Vínculo gera compra recorrente.",
+          "angulo": "Comunidade como motor.",
+          "cta": "Sua marca cria pertencimento?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A sequência certa do funil",
+          "gancho": "Sem ordem, o funil quebra.",
+          "angulo": "Sequência operacional.",
+          "cta": "Seu funil tem ordem?"
+        }
+      ]
+    },
+    {
+      "dia": 24,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A diferença entre movimentar e construir",
+          "gancho": "Movimento não é compor.",
+          "angulo": "Atividade versus ativo.",
+          "cta": "Seu esforço constrói?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que sustenta renda entre lançamentos",
+          "gancho": "Entre picos precisa existir base.",
+          "angulo": "Continuidade comercial.",
+          "cta": "O intervalo entre lançamentos trabalha para você?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Quando o posicionamento organiza a máquina",
+          "gancho": "Posicionamento certo simplifica tudo.",
+          "angulo": "Fundação estratégica.",
+          "cta": "Seu posicionamento organiza ou confunde?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "A narrativa do algoritmo",
+          "gancho": "Nem todo alcance é conquista.",
+          "angulo": "Percepção e ilusão.",
+          "cta": "Você acredita na narrativa certa?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A estrutura mínima para não recomeçar",
+          "gancho": "O mínimo que já compõe.",
+          "angulo": "Sistema enxuto.",
+          "cta": "Qual é o seu mínimo viável?"
+        }
+      ]
+    },
+    {
+      "dia": 25,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Por que a maioria dos lançamentos morre cedo",
+          "gancho": "Sem base, a vida útil é curta.",
+          "angulo": "Longevidade comercial.",
+          "cta": "Seu lançamento dura quanto?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "A ilusão do post frequente",
+          "gancho": "Frequência não compensa vazio.",
+          "angulo": "Cadência sem tese.",
+          "cta": "Seu post frequente compensa o quê?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O caso maior do mercado",
+          "gancho": "Não é um case qualquer.",
+          "angulo": "Lastro e escala.",
+          "cta": "Você conhece a prova?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O que o fandom faz melhor que o feed",
+          "gancho": "Tribos engajam mais que timelines.",
+          "angulo": "Comunidade ativa.",
+          "cta": "Sua audiência reage ou só passa?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O que construir antes de crescer",
+          "gancho": "Crescer sem base dá trabalho dobrado.",
+          "angulo": "Base antes de expansão.",
+          "cta": "Você já construiu a base?"
+        }
+      ]
+    },
+    {
+      "dia": 26,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Tráfego sem base vira custo",
+          "gancho": "Aquisição sem retenção é vazamento.",
+          "angulo": "Mídia sem sistema.",
+          "cta": "Seu tráfego compõe?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que a audiência própria resolve",
+          "gancho": "Posse reduz risco.",
+          "angulo": "Base como proteção.",
+          "cta": "O que sua base protege?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "Comunidade com nome próprio",
+          "gancho": "Nome é identidade.",
+          "angulo": "Pertencimento material.",
+          "cta": "Sua comunidade tem identidade?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O valor do pertencimento",
+          "gancho": "Pertencer move ação.",
+          "angulo": "Identidade compartilhada.",
+          "cta": "Sua marca cria identidade?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Reescrevendo o plano da Julia",
+          "gancho": "Do instável ao previsível.",
+          "angulo": "Aplicação no ICP.",
+          "cta": "Você quer o plano completo?"
+        }
+      ]
+    },
+    {
+      "dia": 27,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Por que a verba some",
+          "gancho": "Sem sistema, o dinheiro escorre.",
+          "angulo": "Desperdício estrutural.",
+          "cta": "Sua verba some em qual etapa?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O ativo que fica",
+          "gancho": "Nem todo post é igual.",
+          "angulo": "Ativo durável.",
+          "cta": "O que fica depois do post?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O que foi aprendido por dentro",
+          "gancho": "Aprender operando muda tudo.",
+          "angulo": "Experiência proprietária.",
+          "cta": "Sua aprendizagem é prática?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O autor preso ao ciclo",
+          "gancho": "O problema é repetição sem acúmulo.",
+          "angulo": "Ciclo lança-vale.",
+          "cta": "Você vive no ciclo?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Diagnóstico e direção",
+          "gancho": "Diagnóstico sem direção não gera nada.",
+          "angulo": "Próximo passo claro.",
+          "cta": "Seu diagnóstico vira ação?"
+        }
+      ]
+    },
+    {
+      "dia": 28,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "A matemática do lançamento sem lista",
+          "gancho": "A conta dói porque se repete.",
+          "angulo": "Custo e recorrência.",
+          "cta": "Sua matemática fecha?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O custo da dependência",
+          "gancho": "Dependência sempre cobra depois.",
+          "angulo": "Risco operacional.",
+          "cta": "De quem você depende demais?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "O caso como prova, não teoria",
+          "gancho": "A prova vale mais que discurso.",
+          "angulo": "Lastro verificável.",
+          "cta": "Sua prova é concreta?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "O que a tribo muda na venda",
+          "gancho": "Tribo compra, observa e volta.",
+          "angulo": "Comportamento recorrente.",
+          "cta": "Sua audiência volta?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "A arquitetura da previsibilidade",
+          "gancho": "Previsibilidade é construída.",
+          "angulo": "Sistema de estabilidade.",
+          "cta": "Sua operação é previsível?"
+        }
+      ]
+    },
+    {
+      "dia": 29,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "Onde a maioria erra o investimento",
+          "gancho": "O problema é alocação, não gasto.",
+          "angulo": "Direção do orçamento.",
+          "cta": "Seu investimento vai para onde?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que é construir um ativo",
+          "gancho": "Ativo é o que permanece.",
+          "angulo": "Posse e continuidade.",
+          "cta": "O que do seu marketing permanece?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A construção da tribo passo a passo",
+          "gancho": "Tribo não nasce pronta.",
+          "angulo": "Processo de formação.",
+          "cta": "Você construiu passo a passo?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Viral é vento, tribo é motor",
+          "gancho": "Um empurra; o outro move.",
+          "angulo": "Comparação central.",
+          "cta": "Você quer vento ou motor?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "O método aplicado ao autor validado e instável",
+          "gancho": "Da dor ao sistema.",
+          "angulo": "Aplicação direta.",
+          "cta": "Quer o método para o seu caso?"
+        }
+      ]
+    },
+    {
+      "dia": 30,
+      "posts": [
+        {
+          "editoria": "Mercado",
+          "tema": "O fechamento da conta do autor independente",
+          "gancho": "Sem estrutura, a conta não fecha.",
+          "angulo": "Resumo do problema estrutural.",
+          "cta": "Sua conta fecha hoje?"
+        },
+        {
+          "editoria": "Mercado",
+          "tema": "O que acontece quando a base existe",
+          "gancho": "A base muda o jogo.",
+          "angulo": "Acúmulo e previsibilidade.",
+          "cta": "Sua base já existe?"
+        },
+        {
+          "editoria": "Cases",
+          "tema": "A prova viva do argumento",
+          "gancho": "O caso sustenta a tese.",
+          "angulo": "Lastro final.",
+          "cta": "Você viu a prova?"
+        },
+        {
+          "editoria": "Cultura",
+          "tema": "Escritor não vive de viral, vive de tribo",
+          "gancho": "A frase que organiza tudo.",
+          "angulo": "Tese central em forma de síntese.",
+          "cta": "Sua marca já escolheu o lado?"
+        },
+        {
+          "editoria": "Produtos",
+          "tema": "Leitor definido, comunidade nomeada, alavancas de marketing",
+          "gancho": "Essa é a ordem.",
+          "angulo": "Resumo do método.",
+          "cta": "Qual dessas camadas falta no seu negócio?"
+        }
+      ]
+    }
+  ]
+}
