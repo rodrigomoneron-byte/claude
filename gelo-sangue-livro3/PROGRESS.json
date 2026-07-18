@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 43,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 01:50",
+  "next_chapter": 44,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 01:52",
   "chapters": [
     {
       "n": 1,
@@ -304,15 +304,22 @@
       "words": 883,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 43,
+      "pov": "Dante",
+      "words": 853,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 42,
-    "total_words": 38784,
-    "pages_kdp": 129,
+    "chapters_done": 43,
+    "total_words": 39637,
+    "pages_kdp": 132,
     "avg_score": 7.0,
-    "pct_to_target": 67
+    "pct_to_target": 68
   },
   "heat_log": [
     {
@@ -342,6 +349,10 @@
     {
       "n": 35,
       "desc": "7a cena — celebracao do veredito favoravel, recepcao do time"
+    },
+    {
+      "n": 43,
+      "desc": "8a cena — momento simples de alegria durante os playoffs, apos processar a morte de Grant"
     }
   ],
   "decisoes_travadas": {
