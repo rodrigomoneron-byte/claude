@@ -129,3 +129,20 @@
   carinhoso, tratado como piada suave entre os três. Plantado como
   fio leve pra "compromisso mais sério" do Ato 3 (não é noivado
   formal ainda, só sinalização emocional).
+- Cap. 29: audiência de fiança de Grant — condições restritivas
+  (monitoramento eletrônico, proibição total de contato) concedidas
+  em vez de detenção completa. Baz aborda Dante no corredor,
+  confessando que não sabia do plano do pai de ir até a escola —
+  primeira rachadura pública na máscara dele.
+- Cap. 31: segunda sessão do processo civil — Priya testemunha sobre a
+  noite da fuga de Isa. Data de alegações finais marcada.
+- Cap. 33: alegações finais — advogado de Baz (Wexler) claramente
+  perdendo confiança, chega a admitir "elemento de verdade parcial"
+  nas alegações de Isa. Juíza Okafor reserva 7 dias pra veredito.
+- Cap. 34: VEREDITO — processo por difamação julgado IMPROCEDENTE;
+  tribunal reconhece formalmente o padrão de conduta abusiva de Baz
+  durante o casamento. Encontro silencioso final entre Isa e Baz no
+  corredor do tribunal (sem diálogo, só troca de olhar) — fecha o
+  arco jurídico do L3. Baz permanece vivo e presente na trama (não é
+  o fim do personagem, só do processo civil) — a escalada final dele
+  e a morte de Grant ainda estão por vir no Ato 3.
