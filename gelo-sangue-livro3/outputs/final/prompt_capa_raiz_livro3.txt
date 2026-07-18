@@ -1,0 +1,40 @@
+TÍTULO: Gelo e Sangue — Livro 3: Raiz (O Peso da Herança)
+
+DESCRIÇÃO VISUAL:
+Composição vertical fechada, fundo dominante em Verde Floresta Noturno
+(#1A2421), textura de superfície de gelo rachado ocupando o terço
+inferior do quadro — a mesma rachadura visual da capa do Livro 1
+("Gelo"), agora com um fio fino de vermelho-sangue-borgonha (#4A0E2E)
+correndo por dentro da rachadura, ecoando a capa do Livro 2 ("Sangue").
+No ponto exato onde a rachadura e o fio vermelho se encontram, uma
+pequena muda de árvore (bordo/maple) brota — tronco fino, três ou
+quatro folhas vermelhas pequenas, desenhada com a mesma paleta de
+Ouro Envelhecido (#C5A059) usada nos detalhes de luz, como se a própria
+luz estivesse formando a planta. Iluminação chiaroscuro, luz quente
+pontual (efeito vela/latão) incidindo só sobre a muda e o fio vermelho,
+o resto da composição em sombra fria e texturizada (gelo, pedra escura,
+leve textura de madeira/carvalho ao fundo, quase imperceptível). Sem
+casal, sem rosto humano, sem figura humana nenhuma em cena — só a
+textura de gelo rachado, o fio vermelho, e a muda brotando em luz
+dourada. Título "RAIZ" em serif display de alto contraste (estilo
+Cinzel Decorative/Playfair Display Black) em Ouro Envelhecido, parte
+superior do quadro; subtítulo "O Peso da Herança" em serif clássica
+menor, papel pergaminho (#E5D3B3), logo abaixo do título. Monograma
+R·B·G discreto em ouro envelhecido, rodapé, estilo brasão/lacre de
+cera.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rosto humano em close, figura humana
+completa, mãos, corpo, texto incorporado além do título/subtítulo
+especificado, fundo branco genérico, luz fria/azulada dominante,
+estética de cartaz esportivo, capacete de hóquei, taco, patins,
+uniforme de time, clip-art óbvio de árvore realista fora de estilo
+editorial, fonte sans-serif no título
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, dark romance contemporâneo, chiaroscuro
+com luz quente pontual sobre fundo frio dominante, elegância clássica
+de "clube inglês" (Old English Gentleman's Club) aplicada a um universo
+de gelo/hóquei — síntese visual da trilogia completa (gelo do Livro 1,
+sangue do Livro 2, raiz do Livro 3) numa única imagem.

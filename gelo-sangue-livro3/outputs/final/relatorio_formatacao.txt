@@ -1,0 +1,68 @@
+RELATÓRIO DE FORMATAÇÃO — Raiz (Gelo e Sangue, Livro 3)
+Autor: R.B. Guidenelli
+Data: 2026-07-18
+
+0. REVISÃO GLOBAL (pré-formatação)
+   Manuscrito revisado integralmente contra references/project_dna.md,
+   references/arco-trama-livro3.md e references/canon-livro3.md.
+   Status: APROVADO PARA FORMATAÇÃO. Um erro pontual de POV encontrado
+   e corrigido no Epílogo ("Isa e eu" → "Trocamos... com Dante", já
+   que a narradora do Epílogo é a própria Isa). Relatório completo em
+   references/revisao-global-raiz.md.
+
+1. CAPÍTULOS INCLUÍDOS
+   60 capítulos + Epílogo = 61 arquivos, sem falhas de contagem
+   (confirmado pela saída do build_epub.py e build_pdf.py — ambos
+   listaram Capítulo 1 a 60 + Epílogo, sem pulos nem duplicatas).
+   POV: Dante (ímpar) / Isa (par), alternância 30/30 confirmada por
+   varredura automática; Epílogo em POV Isa (permitido, sem regra de
+   alternância nesse capítulo extra); Baz sem capítulo de POV próprio
+   em nenhum momento da trilogia — regra estrutural preservada.
+   Linha de POV convertida em subtítulo discreto ("*POV: Nome*") sob o
+   título de cada capítulo — nenhuma marcação crua "### POV:" chega ao
+   leitor final.
+
+2. CONTAGEM DE PALAVRAS
+   Manuscrito completo: 58.004 palavras (~193 páginas KDP em 6"x9"),
+   dentro da meta travada de 58.000-67.000 palavras.
+   Cadência de heat: 12 cenas no corpo (caps. 4, 8, 12, 16, 23, 30, 35,
+   43, 47, 51, 55, 59) + 1 cena no Epílogo = 13 cenas, cadência ~80/20
+   mantida, nenhuma cena em capítulo de clímax. Um gap de 8 capítulos
+   entre as cenas dos caps. 35 e 43 excede o máximo travado de 5-6 —
+   desvio documentado e justificado (janela ocupada pelo fechamento do
+   Ato 2 e pela revelação/luto da morte de Grant Vance, capítulo de
+   clímax onde heat é proibido pela própria bíblia).
+
+3. ARQUIVOS GERADOS
+   - raiz_livro3.epub (EPUB 3.0, 200 KB, 61 capítulos + sumário NCX/nav)
+   - raiz_livro3_kdp.pdf (PDF 6"x9" KDP, 488 KB, 267 páginas, Times-
+     Roman 11pt justificado, numeração a partir do Capítulo 1)
+   - prompt_capa_raiz_livro3.txt (síntese visual da trilogia: gelo
+     rachado do L1 + fio vermelho-sangue do L2 + muda de árvore
+     brotando no ponto de encontro, branding oficial R.B. Guidenelli)
+   - metadados_raiz_livro3.json
+   - manuscrito/ (61 arquivos .md numerados + metadata.json, fonte
+     usada pelos scripts de build)
+
+4. VALIDAÇÃO TÉCNICA
+   - EPUB: aberto sem erro via `ebooklib.epub.read_epub()` — 64 itens
+     internos (61 capítulos + capa/nav/ncx/css).
+   - PDF: 267 páginas confirmadas via PyMuPDF; dimensão 432×648pt
+     (6"x9") confirmada; página de título e página do Capítulo 1
+     inspecionadas visualmente (renderizadas em PNG) — margens,
+     tipografia, subtítulo de POV em itálico e numeração de rodapé
+     corretos.
+   - Régua "a gente": varredura final (regua_gate.py + grep manual +
+     regex normalizado) sobre os 61 arquivos formatados em
+     outputs/final/manuscrito/ — LIMPO. As 8 ocorrências de "gente"
+     remanescentes (caps. 13, 32, 34, 45, 46, 52×2, 55) são todas
+     falsos positivos do padrão "tanta/muita gente" (pessoas).
+
+5. LEMBRETE
+   O identificador em metadata.json/metadados_raiz_livro3.json é um
+   placeholder UUID gerado localmente — deve ser substituído pelo
+   ISBN/ASIN real antes da publicação na Amazon KDP.
+
+CONCLUSÃO: Trilogia "Gelo e Sangue" completa — Livro 3 "Raiz" formatado
+e pronto para publicação, mesma casa/pseudônimo e branding dos Livros
+1 e 2.

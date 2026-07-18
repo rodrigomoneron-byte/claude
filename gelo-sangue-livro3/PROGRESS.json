@@ -6,10 +6,10 @@
     "Dante",
     "Isa"
   ],
-  "status": "Manuscrito completo — revisão/formatação pendentes",
-  "next_chapter": 61,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 04:31",
+  "status": "Manuscrito completo, revisado e formatado — APROVADO PARA FORMATACAO, EPUB/PDF/capa entregues",
+  "next_chapter": "concluido",
+  "next_pov": "concluido",
+  "updated": "2026-07-18 04:45",
   "chapters": [
     {
       "n": 1,
@@ -435,10 +435,10 @@
   "blocks": [],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 54890,
-    "pages_kdp": 183,
+    "total_words": 58004,
+    "pages_kdp": 193,
     "avg_score": 7.0,
-    "pct_to_target": 95
+    "pct_to_target": 100
   },
   "heat_log": [
     {
