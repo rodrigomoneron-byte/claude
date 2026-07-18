@@ -1,0 +1,68 @@
+{
+  "tema": "1.000 Fãs Fiéis fora do papel",
+  "editoria": "CASES",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "**1.000** leitoras fiéis venderam mais do que 100.000 visualizações jamais venderiam.",
+    "sub": "A teoria de Kevin Kelly, testada dentro de uma tribo real."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "A teoria que quase todo mundo cita e poucos aplicam",
+      "body": [
+        "1.000 Fãs Fiéis circula há anos como ideia inspiradora: bastam mil pessoas dispostas a comprar tudo que você lança pra sustentar um negócio criativo.",
+        "A maioria conhece a teoria. Poucos desenharam, na prática, como chegar a esses mil nomes."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Como a teoria virou plano",
+      "body": [
+        "A aplicação começou definindo com detalhe quem seria essa leitora fiel, depois criando um espaço — a comunidade das sadleitoras — pra reunir quem se encaixasse nessa definição.",
+        "Só depois disso a meta deixou de ser alcance e passou a ser profundidade: quantas dessas leitoras voltam a comprar, não quantas veem o post."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que resultou das duas primeiras camadas",
+      "componente": { "tipo": "num-gigante", "numero": "250M", "label": "páginas lidas — resultado de mirar profundidade, não alcance" },
+      "body": [
+        "O número de páginas lidas não veio de mais gente vendo o conteúdo. Veio de mais gente voltando pro mesmo universo."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que muda quando a meta é profundidade",
+      "body": [
+        "Alcance mede quantas pessoas passaram pelo conteúdo uma vez. Profundidade mede quantas dessas pessoas continuam comprando depois da primeira vez.",
+        "São duas métricas diferentes, e só uma delas paga conta todo mês."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Você está mirando alcance ou profundidade?",
+      "body": [
+        "A resposta aparece na pergunta que orienta o conteúdo: ele foi feito pra alcançar mais gente ou pra aprofundar o vínculo com quem já está dentro?",
+        "As duas coisas têm valor, mas confundir uma com a outra é o que mantém tanto autor preso ao pico isolado."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que replicar da aplicação real",
+      "body": [
+        "Não é preciso replicar o número. É preciso replicar a ordem: definir a leitora fiel antes de contar quantas mil ela precisa ser.",
+        "A teoria funciona porque foi tratada como operação, com etapas, e não como slogan motivacional."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "A teoria só virou 250 milhões de páginas porque virou operação, etapa por etapa.",
+    "chamada": "Quer o passo a passo de como aplicar os 1.000 Fãs Fiéis no seu catálogo?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "1000FÃS",
+    "beneficio": "recebe o passo a passo de aplicação dos 1.000 Fãs Fiéis pro autor independente"
+  }
+}

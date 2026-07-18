@@ -1,0 +1,68 @@
+{
+  "tema": "Quanto custa lançar sem lista",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Sem uma **base**, todo lançamento recomeça do mesmo lugar: o zero.",
+    "sub": "O esforço se repete; o resultado não se acumula."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O que se repete lançamento após lançamento",
+      "body": [
+        "Cada vez que um livro sai, o autor sem base explica de novo quem ele é, por que esse livro importa e por que vale a pena comprar agora.",
+        "É a mesma apresentação, refeita do zero, gastando o mesmo fôlego que já foi gasto no lançamento anterior."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Por que o esforço não se acumula",
+      "body": [
+        "Sem uma lista ou uma comunidade que atravesse os lançamentos, cada campanha fala com um público quase completamente novo em relação ao anterior.",
+        "O resultado de um lançamento não empresta força pro próximo, porque não existe onde essa força ficar guardada entre um e outro."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O número que a ausência de base revela",
+      "componente": { "tipo": "num-gigante", "numero": "0", "label": "leitores que atravessam de um lançamento pro outro, sem lista" },
+      "body": [
+        "Com uma base, esse número deixa de ser zero, e cada lançamento novo já começa com parte do público pronto pra comprar."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O tempo que isso consome",
+      "body": [
+        "Reexplicar o próprio trabalho a cada lançamento consome semanas de divulgação que, com uma base, seriam usadas pra aprofundar a relação com quem já compra.",
+        "O tempo perdido reconstruindo não aparece na planilha de custo, mas aparece no calendário do ano inteiro."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que muda com uma lista simples",
+      "body": [
+        "Mesmo uma lista pequena, de algumas centenas de nomes, já garante que parte do próximo lançamento não comece do zero.",
+        "O crescimento da base vira o único número que realmente acumula de um lançamento pro outro."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Lançamento constrói ou reinicia?",
+      "body": [
+        "A resposta está numa pergunta simples: depois que a campanha termina, alguma coisa continua existindo além das vendas já feitas?",
+        "Se a resposta for não, o próximo lançamento já nasce devendo o mesmo trabalho de novo."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "A diferença entre construir e reiniciar mora no que sobra depois que a campanha termina.",
+    "chamada": "Quer o checklist pra saber se seu próximo lançamento constrói ou reinicia?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "CONSTRÓI",
+    "beneficio": "recebe o checklist de lançamento que constrói base em vez de reiniciar"
+  }
+}

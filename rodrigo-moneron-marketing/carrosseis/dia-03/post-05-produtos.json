@@ -1,0 +1,73 @@
+{
+  "tema": "Como eu montaria o plano da Julia",
+  "editoria": "PRODUTOS",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Como eu montaria o plano de Julia: do pico de **R$ 3 mil** ao previsível.",
+    "sub": "Um plano real pro autor validado e instável."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O ponto de partida de Julia",
+      "body": [
+        "Julia já publicou, já viu o pico de três mil reais num mês bom e o vale de mil reais até o próximo lançamento. Ela não precisa ser convencida de que tem um problema.",
+        "Ela já tentou vídeo atrás de viral, post diário copiando autoras maiores, impulsionamento com link direto — e viu as três tentativas alugarem atenção sem construir nada."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Primeiro passo: parar de alugar atenção",
+      "body": [
+        "Antes de qualquer novo anúncio, o plano corta as três tentativas que só alugam atenção e reserva esse tempo pra definir a leitora exata de Julia.",
+        "Sem essa definição, qualquer coisa que vier depois — lista, comunidade, campanha — nasce apontando pra direção errada."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Segundo passo: montar a base",
+      "body": [
+        "Com a leitora definida, o plano cria uma lista simples de e-mail e um grupo pequeno e batizado, priorizando cem leitoras engajadas sobre mil seguidoras distantes.",
+        "Esse grupo pequeno já garante que o próximo lançamento não comece do zero absoluto."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "A meta em números",
+      "componente": {
+        "tipo": "tabela",
+        "colunas": ["Métrica", "Antes do plano", "Depois do plano (meta)"],
+        "linhas": [
+          { "celulas": ["Pico", "R$ 3.000", "R$ 3.000 a R$ 4.000"] },
+          { "celulas": ["Vale", "R$ 1.000", "R$ 2.000 a R$ 2.500"] },
+          { "celulas": ["O que sustenta entre lançamentos", "nada", "lista e grupo próprios"], "destaque": true }
+        ]
+      }
+    },
+    {
+      "base": "tinta",
+      "title": "Terceiro passo: usar a alavanca por último",
+      "body": [
+        "Só depois da leitora definida e da base formada entra tráfego pago, agora apontando pra uma página de captura, não direto pro link da Amazon.",
+        "A mesma verba que antes evaporava em cliques passa a formar lista antes de qualquer venda acontecer."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que muda em seis meses",
+      "body": [
+        "O objetivo do plano não é eliminar o vale. É levantar o piso dele, porque agora existe uma base pequena comprando mesmo fora do lançamento.",
+        "O pico deixa de ser a única fonte de receita e passa a ser um evento que soma a algo que já existia."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "O plano de Julia não depende de sorte no próximo lançamento — depende da base que ela constrói entre eles.",
+    "chamada": "Quer o passo a passo completo desse plano aplicado ao seu momento?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "PLANO",
+    "beneficio": "recebe o passo a passo completo do plano aplicado ao autor validado e instável"
+  }
+}

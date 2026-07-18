@@ -1,0 +1,64 @@
+{
+  "tema": "O que separa catálogos estáveis dos instáveis",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Frequência de post não é o que separa catálogo estável de instável. É **comunidade**.",
+    "sub": "O que sustenta vendas fora dos dias de lançamento."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "Dois autores, mesma frequência de post",
+      "body": [
+        "Um posta todo dia e vive de pico e vale. O outro posta bem menos e mantém vendas estáveis o ano inteiro. A diferença não está na grade de conteúdo.",
+        "Está em quem, além do algoritmo, ainda compra quando não há post nenhum saindo naquele dia."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Onde mora a estabilidade",
+      "body": [
+        "Catálogos estáveis têm uma base que compra por hábito, não por lembrete. Ela existe numa lista, num grupo, numa comunidade que independe do que sai no feed hoje.",
+        "Sem essa base, cada dia sem post é um dia sem motivo pra ninguém comprar."
+      ]
+    },
+    {
+      "base": "tinta",
+      "quote": "Postar todo dia sem comunidade é rodar mais rápido no mesmo lugar."
+    },
+    {
+      "base": "papel",
+      "title": "O que a frequência de fato resolve",
+      "body": [
+        "Postar mantém a marca visível, mas visibilidade sem vínculo não converte sozinha. Ela precisa de uma base que já decidiu confiar, não de um público só de passagem.",
+        "Frequência ajuda a comunidade a lembrar que o autor existe. Ela não cria a comunidade sozinha."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Como identificar se seu catálogo tem essa base",
+      "body": [
+        "Pergunte quantas vendas aconteceriam num mês sem nenhum post novo. Se a resposta for perto de zero, o catálogo depende inteiramente da grade de conteúdo.",
+        "Se alguma venda continuar, ainda que pequena, é sinal de que existe uma base sustentando por trás."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que sustenta seu catálogo, de fato",
+      "body": [
+        "Sustentar não é a mesma tarefa que aparecer. Aparecer é feito pra ser visto agora. Sustentar é feito pra vender mesmo quando ninguém está olhando o feed.",
+        "Os catálogos mais estáveis investem tempo nas duas tarefas, mas nunca confundem uma com a outra."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "Estabilidade não vem da grade de conteúdo. Vem do que existe por trás dela.",
+    "chamada": "Quer avaliar o que sustenta seu catálogo hoje?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "SUSTENTA",
+    "beneficio": "recebe o diagnóstico rápido do que sustenta (ou não) seu catálogo hoje"
+  }
+}

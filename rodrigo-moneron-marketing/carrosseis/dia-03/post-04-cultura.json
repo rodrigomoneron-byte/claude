@@ -1,0 +1,64 @@
+{
+  "tema": "O pico de vendas como armadilha emocional",
+  "editoria": "CULTURA",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "Por que o lançamento que funcionou convence o autor a repetir a ~~fórmula errada~~.",
+    "sub": "O pico vicia antes de decepcionar."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "O pico convence mais do que devia",
+      "body": [
+        "Um lançamento que vendeu bem parece prova de que a estratégia certa foi encontrada. O autor guarda cada detalhe — hora do post, palavra do anúncio — pra repetir religiosamente.",
+        "O problema é que o pico muitas vezes teve causas que não vão se repetir sozinhas."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Por que o pico engana",
+      "body": [
+        "Um lançamento bem-sucedido combina vários fatores ao mesmo tempo: timing, sorte de algoritmo, alguma menção externa. Isolar qual desses fatores realmente decidiu o resultado é raro.",
+        "O autor credita o resultado à parte que lembra melhor, não à parte que mais pesou."
+      ]
+    },
+    {
+      "base": "papel",
+      "quote": "O pico prova que algo funcionou uma vez. Não prova que vai funcionar de novo."
+    },
+    {
+      "base": "tinta",
+      "title": "Como a armadilha emocional se fecha",
+      "body": [
+        "Depois do pico, o vale seguinte é interpretado como falha de execução, não como ausência da mesma combinação de fatores que gerou o resultado anterior.",
+        "O autor tenta replicar com ainda mais intensidade a mesma fórmula, gastando energia num padrão que não estava sob controle dele em primeiro lugar."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Seu pico virou vício?",
+      "body": [
+        "Um sinal claro: cada lançamento novo tenta imitar o anterior no detalhe, mesmo quando o contexto mudou, o público cresceu ou a plataforma alterou as regras.",
+        "Vício em repetir o pico impede de investir energia no que sustenta vendas fora dele."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que olhar em vez do pico",
+      "body": [
+        "Em vez de tentar recriar o pico, vale olhar o que aconteceu no vale — quem comprou sem nenhum estímulo de lançamento — porque ali mora a base real.",
+        "Essa base é o que decide se o próximo pico, quando vier, vai ter chão embaixo dele."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "O pico ensina menos do que parece. O vale ensina mais do que incomoda.",
+    "chamada": "Quer entender o que olhar no seu vale antes do próximo lançamento?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "VALE",
+    "beneficio": "recebe o roteiro de leitura do vale entre lançamentos"
+  }
+}
