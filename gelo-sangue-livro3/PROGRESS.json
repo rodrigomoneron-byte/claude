@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 51,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 03:26",
+  "next_chapter": 52,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 03:27",
   "chapters": [
     {
       "n": 1,
@@ -360,15 +360,22 @@
       "words": 966,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 51,
+      "pov": "Dante",
+      "words": 899,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 50,
-    "total_words": 45980,
-    "pages_kdp": 153,
+    "chapters_done": 51,
+    "total_words": 46879,
+    "pages_kdp": 156,
     "avg_score": 7.0,
-    "pct_to_target": 79
+    "pct_to_target": 81
   },
   "heat_log": [
     {
@@ -406,6 +413,10 @@
     {
       "n": 47,
       "desc": "9a cena — vespera da final, consolo mutuo antes do jogo mais importante"
+    },
+    {
+      "n": 51,
+      "desc": "10a cena — celebracao da manha depois do pedido de casamento"
     }
   ],
   "decisoes_travadas": {
