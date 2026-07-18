@@ -1,0 +1,73 @@
+{
+  "tema": "O erro de jogar tráfego frio direto na Amazon",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Tráfego frio direto pro link da Amazon é aposta sem **captura** no meio do caminho.",
+    "sub": "A verba desaparece exatamente nesse ponto."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O caminho mais curto é o mais caro",
+      "body": [
+        "Anúncio aponta direto pro link de venda. Parece eficiente porque corta uma etapa, só que essa etapa é a única que deixa algo depois do clique.",
+        "Sem ela, cada centavo trabalha uma vez e desaparece junto com a campanha."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que a etapa que falta faz",
+      "body": [
+        "Uma página de captura entre o anúncio e a Amazon transforma clique em contato. O clique sem captura é hóspede que sai sem deixar nome.",
+        "É essa diferença que decide se o próximo lançamento parte do zero ou parte de uma lista."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O mesmo clique, dois destinos",
+      "componente": {
+        "tipo": "tabela",
+        "colunas": ["Etapa", "Sem captura", "Com captura"],
+        "linhas": [
+          { "celulas": ["Cliques pagos", "100%", "100%"] },
+          { "celulas": ["Retorno visível", "só no lançamento atual", "no atual e nos seguintes"] },
+          { "celulas": ["O que resta depois", "nada", "contatos"], "destaque": true }
+        ]
+      }
+    },
+    {
+      "base": "papel",
+      "title": "Por que o erro se repete tanto",
+      "body": [
+        "Montar a página de captura parece um passo a mais, um atrito que atrasa o anúncio de ir ao ar. É atrito real, só que pequeno perto do que evita perder depois.",
+        "O autor vê o atraso de um dia. Não vê o recomeço do zero que evitou nos próximos seis meses."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Onde a verba morre, na prática",
+      "body": [
+        "A verba morre no momento em que o clique chega na Amazon sem ter passado por nenhum ponto de contato que o autor controle.",
+        "A partir dali, a plataforma decide se mostra esse comprador de novo. O autor não decide mais nada."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O ajuste custa quase nada",
+      "body": [
+        "Inserir a captura no meio do caminho custa uma página simples e algumas horas de configuração, valor pequeno perto da verba que a campanha já vai gastar.",
+        "O ajuste não muda o anúncio. Muda o que sobra depois dele."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "A verba só compõe quando passa por um ponto de captura antes da venda.",
+    "chamada": "Quer o passo a passo pra inserir a captura no seu próximo anúncio?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "CAPTURA",
+    "beneficio": "recebe o passo a passo de como inserir a página de captura antes do link"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "tema": "A exaustão do algoritmo",
+  "editoria": "CULTURA",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "O cansaço não vem de escrever. Vem de correr atrás do **algoritmo** todo dia.",
+    "sub": "A exaustão mudou de lugar."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "O que realmente cansa",
+      "body": [
+        "Autores independentes escrevem tanto quanto sempre escreveram. O que mudou foi a segunda tarefa: produzir conteúdo o dia inteiro atrás de um algoritmo que muda de regra sem aviso.",
+        "O cansaço que parecia vir da escrita vem, na maior parte, dessa corrida paralela."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Por que essa corrida não tem linha de chegada",
+      "body": [
+        "O algoritmo não anuncia quando vai mudar. Um formato que funcionava mês passado para de entregar alcance sem explicação, e o autor recomeça a testar do zero.",
+        "Persegui-lo é correr atrás de um alvo que se move sozinho, sem que o esforço vire acúmulo de nada."
+      ]
+    },
+    {
+      "base": "papel",
+      "quote": "Ninguém está desistindo de escrever. Estão desistindo do marketing que não compõe."
+    },
+    {
+      "base": "tinta",
+      "title": "O que diferencia quem não vive exausto",
+      "body": [
+        "Autores que constroem base própria — lista, grupo, comunidade — não dependem inteiramente do humor do algoritmo pra vender no mês seguinte.",
+        "A corrida continua existindo, mas deixa de ser a única rota entre o livro e a leitora."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Criar versus correr atrás",
+      "body": [
+        "Criar é produzir algo que soma à base, mesmo que pequeno. Correr atrás é produzir pra tentar adivinhar o que o algoritmo vai favorecer essa semana.",
+        "A pergunta que separa os dois é simples: o que sobra disso depois que o alcance cair?"
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Onde recomeçar sem se esgotar",
+      "body": [
+        "Reduzir a quantidade de conteúdo voltado só pra alcance libera tempo pra construir o que realmente compõe: comunidade, lista, relação direta com quem já lê.",
+        "Menos corrida, mais direção. O cansaço muda de natureza quando o esforço tem destino."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "O cansaço muda de figura quando parte do esforço para de depender do algoritmo.",
+    "chamada": "Quer identificar quanto do seu marketing é criação e quanto é corrida atrás do algoritmo?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "EXAUSTÃO",
+    "beneficio": "recebe o diagnóstico rápido de quanto do seu marketing hoje é criação e quanto é corrida"
+  }
+}

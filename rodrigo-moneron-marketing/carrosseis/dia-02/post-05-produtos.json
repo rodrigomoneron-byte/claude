@@ -1,0 +1,74 @@
+{
+  "tema": "Diagnóstico aberto: o post impulsionado com link direto pra Amazon",
+  "editoria": "PRODUTOS",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Diagnóstico aberto: o post impulsionado com link direto pra Amazon, **destrinchado** por dentro.",
+    "sub": "O fluxo que explica onde a verba some."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O funil que a maioria não desenha",
+      "body": [
+        "Antes de julgar se um anúncio funcionou, é preciso desenhar o caminho completo que o dinheiro percorre — do clique até a decisão de compra.",
+        "A maioria dos autores pula essa etapa e olha só o resultado final, sem saber em qual ponto do caminho ele foi decidido."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Passo 1 — o clique",
+      "body": [
+        "O anúncio entrega o clique. Até aqui, o dinheiro fez exatamente o que devia fazer, e a métrica de custo por clique costuma parecer boa.",
+        "O problema nunca está nesse primeiro passo. Está no que vem, ou não vem, depois dele."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Passo 2 — a chegada sem contexto",
+      "body": [
+        "Quem clica cai direto na página do livro na Amazon, sem ter recebido nenhuma informação além do próprio anúncio — sem aquecimento, sem motivo reforçado pra comprar ali.",
+        "A decisão de compra precisa acontecer inteira naquele instante, o que derruba a taxa de conversão."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O fluxo completo, etapa por etapa",
+      "componente": {
+        "tipo": "tabela",
+        "colunas": ["Etapa", "O que acontece", "O que falta"],
+        "linhas": [
+          { "celulas": ["Clique", "chega no anúncio", "—"] },
+          { "celulas": ["Chegada", "cai na Amazon sem contexto", "aquecimento"] },
+          { "celulas": ["Decisão", "precisa ser instantânea", "motivo reforçado"] },
+          { "celulas": ["Pós-clique", "nada é registrado", "captura de contato"], "destaque": true }
+        ]
+      }
+    },
+    {
+      "base": "tinta",
+      "title": "Onde entra o ajuste",
+      "body": [
+        "Inserir uma etapa intermediária — uma página que reforça o motivo da compra e capta contato antes do link — resolve dois problemas do mesmo fluxo de uma vez.",
+        "O clique deixa de precisar converter sozinho, e o contato passa a existir mesmo quando a venda não acontece na hora."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que fica depois do diagnóstico",
+      "body": [
+        "Esse fluxo se repete na maioria dos anúncios de autores independentes, com pequenas variações de formato, mas com o mesmo ponto cego no meio do caminho.",
+        "Destrinchar o funil antes de aumentar a verba evita pagar mais caro pelo mesmo erro."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "O funil mostra exatamente onde a verba para de compor.",
+    "chamada": "Quer que eu destrinche o funil da sua última campanha?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "FUNIL",
+    "beneficio": "recebe o roteiro de diagnóstico de funil pra revisar sua própria campanha"
+  }
+}

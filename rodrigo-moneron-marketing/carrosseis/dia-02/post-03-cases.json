@@ -1,0 +1,64 @@
+{
+  "tema": "A decisão que veio antes da escala",
+  "editoria": "CASES",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "Antes de qualquer campanha, uma decisão sozinha **valeu mais** que todas elas juntas.",
+    "sub": "Definir a leitora exata, e não o público em geral."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "O dia em que a estratégia mudou de direção",
+      "body": [
+        "Antes de qualquer verba em anúncio, a decisão foi parar de escrever pra um público genérico e escrever pra uma leitora com nome, idade e rotina definidos.",
+        "Essa decisão não apareceu em nenhum gráfico. Apareceu em cada escolha de enredo que veio depois."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Por que clareza vende mais que verba",
+      "body": [
+        "Uma campanha ampla compra atenção de gente que talvez nunca compre. Uma mensagem afiada pra uma leitora exata converte com um público bem menor, porque fala direto com a dor dela.",
+        "O resultado por real investido muda quando o alvo para de ser todo mundo."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que essa decisão sustentou depois",
+      "body": [
+        "Toda campanha, todo lançamento e toda parceria feitos depois partiram da mesma definição de leitora, sem precisar ser reinventada a cada vez.",
+        "É essa consistência que permitiu escalar sem perder a voz que criou a tribo em primeiro lugar."
+      ]
+    },
+    {
+      "base": "tinta",
+      "quote": "Clareza sobre quem se escreve vale mais do que qualquer campanha depois."
+    },
+    {
+      "base": "papel",
+      "title": "Como essa decisão se parece na prática",
+      "body": [
+        "Não é uma frase de posicionamento guardada numa gaveta. É um documento vivo que orienta capa, tom, enredo e até o tipo de anúncio que vale a pena rodar.",
+        "Quando a dúvida aparece numa decisão de marketing, a resposta já está nessa definição."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Seu posicionamento está claro?",
+      "body": [
+        "A maioria dos autores sabe o gênero que escreve, mas não sabe descrever a leitora com a mesma precisão que descreveria a trama do próprio livro.",
+        "Esse é o teste: pedir pra descrever a leitora e ver se a resposta sai tão detalhada quanto a sinopse."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "A decisão que sustentou essa escala começou antes de qualquer campanha rodar.",
+    "chamada": "Quer o roteiro pra definir sua leitora com esse nível de clareza?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "LEITORA",
+    "beneficio": "recebe o roteiro de definição de leitora usado nessa construção"
+  }
+}

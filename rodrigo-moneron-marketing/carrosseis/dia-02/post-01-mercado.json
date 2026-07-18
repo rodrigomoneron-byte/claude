@@ -1,0 +1,64 @@
+{
+  "tema": "O mercado criou uma segunda profissão para o escritor",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "A segunda profissão que o mercado impôs ao escritor: virar a própria **equipe de mídia**.",
+    "sub": "Escrever deixou de ser metade do trabalho."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O dia vira duas jornadas",
+      "body": [
+        "Pela manhã, texto. À tarde, post, roteiro de vídeo, resposta de comentário, agenda de stories. A segunda parte do dia não estava no plano de quem só queria escrever.",
+        "Ninguém assinou embaixo desse acordo. Ele foi se formando conforme o consenso do mercado virou lei não escrita."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "De onde veio o consenso",
+      "body": [
+        "A regra informal — poste todo dia, apareça sempre, persiga o algoritmo — se espalhou como caminho único pra vender livro, sem provas de que funciona além do curto prazo.",
+        "Autores repetem porque todo mundo repete, não porque alguém mediu o retorno de cada hora gasta nisso."
+      ]
+    },
+    {
+      "base": "tinta",
+      "quote": "O consenso vendeu trabalho. Não vendeu tribo."
+    },
+    {
+      "base": "papel",
+      "title": "O custo que não aparece na planilha",
+      "body": [
+        "Tempo gasto em conteúdo que não constrói base é tempo tirado da escrita, e o próximo livro, que é o que sustenta o catálogo, atrasa.",
+        "O autor mede curtida. Raramente mede quantas horas de escrita a segunda profissão consumiu naquele mês."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que fazer com a segunda profissão",
+      "body": [
+        "Não é abandonar as redes. É decidir quais horas nelas constroem base e quais só alimentam o algoritmo sem deixar nada depois.",
+        "Um conteúdo por semana com propósito de captura vale mais que sete sem direção nenhuma."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Onde o marketing ajuda e onde drena",
+      "body": [
+        "Marketing ajuda quando cada peça soma a uma base que continua depois do post. Drena quando existe só pra preencher a grade do dia.",
+        "Essa é a régua: o que ficou depois que o post saiu do ar?"
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "A segunda profissão só compensa quando soma a uma base, não quando só preenche a agenda.",
+    "chamada": "Quer saber quais horas do seu marketing constroem e quais só drenam?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "DRENA",
+    "beneficio": "recebe o checklist pra separar marketing que constrói do que só ocupa a agenda"
+  }
+}
