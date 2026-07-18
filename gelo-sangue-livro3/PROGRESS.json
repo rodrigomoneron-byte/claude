@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 59,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 04:28",
+  "next_chapter": 60,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 04:29",
   "chapters": [
     {
       "n": 1,
@@ -416,15 +416,22 @@
       "words": 991,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 59,
+      "pov": "Dante",
+      "words": 838,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 58,
-    "total_words": 53114,
-    "pages_kdp": 177,
+    "chapters_done": 59,
+    "total_words": 53952,
+    "pages_kdp": 180,
     "avg_score": 7.0,
-    "pct_to_target": 92
+    "pct_to_target": 93
   },
   "heat_log": [
     {
@@ -470,6 +477,10 @@
     {
       "n": 55,
       "desc": "11a cena — primeira noite na casa nova, celebrando o lar recem-conquistado"
+    },
+    {
+      "n": 59,
+      "desc": "12a cena — transplante da muda no quintal, celebrando a chegada da primavera"
     }
   ],
   "decisoes_travadas": {

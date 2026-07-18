@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 58 / 60
-- Próximo: Capítulo 59 (POV Dante)
-- Última atualização: 2026-07-18 04:28
+- Capítulos concluídos: 59 / 60
+- Próximo: Capítulo 60 (POV Isa)
+- Última atualização: 2026-07-18 04:29
 
 ## Placar
-- Palavras: 53114
-- Páginas KDP (~palavras/300): 177
+- Palavras: 53952
+- Páginas KDP (~palavras/300): 180
 - Score médio: 7.0
-- Meta de palavras: 58000 (92%)
+- Meta de palavras: 58000 (93%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
