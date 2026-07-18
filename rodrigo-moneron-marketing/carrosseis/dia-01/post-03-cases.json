@@ -1,0 +1,68 @@
+{
+  "tema": "Anatomia de uma tribo de 250 milhões de páginas",
+  "editoria": "CASES",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "Por dentro da tribo de **250 milhões** de páginas lidas: a camada que veio antes de tudo.",
+    "sub": "Construída em camadas, na ordem certa."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "Antes do motor, uma decisão",
+      "body": [
+        "Toda tribo grande parece, de fora, um fenômeno espontâneo. A das sadleitoras não nasceu de um post que viralizou — nasceu de uma decisão tomada antes de qualquer campanha.",
+        "A decisão foi simples de descrever e difícil de sustentar: escrever pra uma leitora exata, não pra um público genérico."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "A primeira camada: o leitor definido",
+      "body": [
+        "Antes de qualquer estratégia de conteúdo, existiu a definição precisa de quem essa autora escreve — não mulheres que gostam de romance, mas uma leitora com nome, rotina e dor específicos.",
+        "Essa camada não aparece em nenhum post. Ela aparece em cada decisão de enredo, capa e tom que vem depois."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "A segunda camada: a comunidade batizada",
+      "body": [
+        "Só depois do leitor definido veio o nome da comunidade — as sadleitoras —, um espaço que pertence à autora, não a uma plataforma que pode mudar as regras amanhã.",
+        "Batizar a comunidade transformou seguidoras dispersas numa tribo com identidade própria, algo que sobrevive a qualquer mudança de algoritmo."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O número que resultou das duas camadas",
+      "componente": { "tipo": "num-gigante", "numero": "250M", "label": "páginas lidas no KDP — elite do Kindle Unlimited no Brasil" },
+      "body": [
+        "O número não veio de um lançamento isolado. Veio da soma de anos com a mesma leitora voltando pro mesmo universo."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "A terceira camada: as alavancas",
+      "body": [
+        "Só depois das duas primeiras camadas prontas entraram tráfego pago, lançamentos e parcerias — as alavancas que o mercado costuma tentar usar sozinhas, sem base nenhuma embaixo.",
+        "Usadas nessa ordem, as alavancas multiplicam uma base que já existe. Usadas antes, compram só atenção que passa."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O que foi descartado no caminho",
+      "body": [
+        "Nem toda tática testada entrou na máquina final. Formatos de conteúdo que geravam alcance, mas nenhum vínculo, foram cortados assim que ficou claro que não construíam nada.",
+        "Cortar cedo o que não compõe é tão parte do método quanto construir o que compõe."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "A anatomia inteira segue a mesma ordem, do primeiro leitor ao número final.",
+    "chamada": "Quer o mapa das três camadas aplicado ao seu catálogo?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "CAMADAS",
+    "beneficio": "recebe o mapa das três camadas aplicado ao autor independente"
+  }
+}

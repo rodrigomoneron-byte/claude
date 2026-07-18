@@ -1,0 +1,66 @@
+{
+  "tema": "A conta que o autor independente não faz: quanto custa lançar sem lista",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "Lançar sem lista custa a mesma verba duas vezes: uma que some, outra que **fica**.",
+    "sub": "O mesmo orçamento, dois destinos possíveis."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O mesmo real, dois caminhos",
+      "body": [
+        "Um autor independente investe cem reais num post impulsionado com link direto pra Amazon. O clique acontece, a venda talvez aconteça, e o rastro desaparece no dia seguinte.",
+        "O mesmo valor, aplicado numa página de captura antes do link, vira um nome na lista. Esse nome existe amanhã, no próximo lançamento e no seguinte."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Por que o clique não compõe",
+      "body": [
+        "Tráfego pago sem página de captura entrega a venda pontual e nada além dela, porque a plataforma guarda o histórico do clique, não o autor.",
+        "Quando o próximo livro sai, o mesmo público precisa ser alugado de novo, pelo mesmo preço ou mais caro, já que o algoritmo também mudou."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "A mesma verba, dois destinos",
+      "componente": {
+        "tipo": "tabela",
+        "colunas": ["Num exemplo simples", "Tráfego direto", "Tráfego + captura"],
+        "linhas": [
+          { "celulas": ["Verba investida", "R$ 500", "R$ 500"] },
+          { "celulas": ["Cliques na Amazon", "cerca de 500", "cerca de 500"] },
+          { "celulas": ["Nomes capturados", "0", "80 a 120"] },
+          { "celulas": ["O que resta em 90 dias", "nada", "lista viva"], "destaque": true }
+        ]
+      }
+    },
+    {
+      "base": "papel",
+      "title": "O que muda na prática",
+      "body": [
+        "Colocar uma página simples entre o anúncio e a Amazon custa pouco mais que o próprio anúncio, mas a diferença só aparece no lançamento seguinte, não neste.",
+        "Quem já testou os dois caminhos costuma voltar pro mesmo lugar: o dinheiro que vira nome supera, cedo ou tarde, o dinheiro que vira clique."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Onde a verba vai morar",
+      "body": [
+        "Toda campanha decide, antes de rodar, se compra impulso ou compra memória, e poucos autores independentes fazem essa conta antes de apertar o botão de impulsionar.",
+        "A arquitetura muda o destino do mesmo real: numa ponta, alcance que passa; na outra, **base** que fica."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "A conta que separa quem lança sempre do zero de quem lança sobre uma base.",
+    "chamada": "Quer o modelo de página de captura pro seu próximo lançamento?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "BASE",
+    "beneficio": "recebe o modelo de página de captura pra autor independente"
+  }
+}

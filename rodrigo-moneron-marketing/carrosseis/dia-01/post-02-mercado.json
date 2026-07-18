@@ -1,0 +1,72 @@
+{
+  "tema": "Por que o gráfico de vendas parece eletrocardiograma",
+  "editoria": "MERCADO",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "O gráfico de vendas da maioria dos autores independentes tem a cara de um __eletrocardiograma__.",
+    "sub": "Pico depois de vale, vale depois de pico."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O padrão que ninguém aponta",
+      "body": [
+        "O lançamento sobe o gráfico por alguns dias. Depois ele desce e fica ali, baixo, até o próximo livro sair.",
+        "Quem olha de fora vê sucesso no pico. Quem vive dentro sente o vale, que dura muito mais tempo que a subida."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Por que o vale é maior que o pico",
+      "body": [
+        "O pico depende de um evento pontual — lançamento, promoção, impulsionamento — e passa porque o evento passa e o algoritmo redistribui a atenção pra outro título.",
+        "O vale aparece porque não existe nada sustentando a venda entre um evento e outro, nenhuma base que continue comprando fora da data do lançamento."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "O eletrocardiograma real",
+      "componente": {
+        "tipo": "ecg",
+        "pathBase": "M0,90 L40,85 L60,20 L80,95 L120,88 L140,15 L160,100 L200,92 L220,10 L240,98 L280,90 L300,25 L320,95 L360,88 L400,92",
+        "pathMeta": "M0,60 L400,52"
+      },
+      "body": [
+        "A linha verde marca o que uma comunidade sustenta entre lançamentos: venda menor, mas constante, algo que o pico isolado nunca entrega."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que os catálogos estáveis têm em comum",
+      "body": [
+        "Não é frequência de post. Autores que publicam todo dia também vivem o mesmo eletrocardiograma quando não têm base própria.",
+        "O que aparece nos poucos catálogos estáveis é uma comunidade que compra entre lançamentos, sem precisar de campanha pra lembrar que o livro existe."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Onde entra a comunidade",
+      "body": [
+        "Uma lista ou um grupo com leitoras engajadas segura o vale, porque parte da base volta a comprar mesmo sem impulsionamento ativo.",
+        "O gráfico não vira uma linha reta. Vira uma linha com picos menores e vales mais altos, o que já muda o ano inteiro."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que sustenta entre um lançamento e outro",
+      "body": [
+        "Todo autor independente lança. Poucos constroem o que sustenta o gráfico no intervalo, e é esse intervalo que decide se o negócio é previsível.",
+        "Comunidade não substitui lançamento. Ela estica o efeito dele pro resto do calendário."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "O gráfico muda de forma quando existe algo que sustenta o meio do caminho.",
+    "chamada": "Quer entender como estabilizar o vale sem virar mais um post por dia?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "GRÁFICO",
+    "beneficio": "recebe o raio-x de como estabilizar o vale entre lançamentos"
+  }
+}

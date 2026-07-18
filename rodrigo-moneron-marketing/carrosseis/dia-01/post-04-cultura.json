@@ -1,0 +1,64 @@
+{
+  "tema": "Leitora não segue autora, pertence a um universo",
+  "editoria": "CULTURA",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "tinta",
+    "headline": "Seguidor observa um perfil. Leitora fiel **pertence** a um universo inteiro.",
+    "sub": "A diferença aparece quando o algoritmo some."
+  },
+  "slides": [
+    {
+      "base": "papel",
+      "title": "O que o número de seguidores não mostra",
+      "body": [
+        "Uma conta pode ter cem mil seguidores e nenhum comprador recorrente. Outra pode ter oitocentas leitoras e vender todo mês, porque a métrica que importa não aparece no perfil.",
+        "Seguir é um gesto de um clique. Pertencer exige que a pessoa volte sem ser lembrada."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Como nasce o pertencimento",
+      "body": [
+        "Fandom não se constrói com post bonito. Constrói-se com um universo — personagens, tom, mundo — que a leitora carrega pra fora do feed, em conversa, em fanart, em teoria própria.",
+        "Quando o universo é forte o suficiente, a leitora deixa de acompanhar a autora e passa a fazer parte do que ela criou."
+      ]
+    },
+    {
+      "base": "papel",
+      "quote": "Seguidores acompanham. Uma tribo participa."
+    },
+    {
+      "base": "tinta",
+      "title": "O sinal que separa audiência de tribo",
+      "body": [
+        "Audiência reage ao post do dia. Tribo reage à notícia do próximo livro meses antes de ele existir, porque já decidiu que vai comprar.",
+        "Esse sinal aparece nos comentários, nos grupos e nas mensagens diretas — nunca só no número de curtidas."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "O que muda na prática pra quem escreve",
+      "body": [
+        "Escrever pra construir pertencimento significa dar à leitora um lugar que é dela — um grupo, um nome, um ritual — não só um feed que ela rola.",
+        "O conteúdo deixa de vender o livro toda hora e passa a alimentar o universo em que o livro vive."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Audiência ou tribo: a escolha que organiza tudo",
+      "body": [
+        "As duas métricas convivem no mesmo perfil, mas só uma delas sustenta venda quando o algoritmo decide mostrar menos.",
+        "Investir em pertencimento é investir no que continua de pé quando o alcance cai."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "papel",
+    "ponte": "A diferença entre as duas nunca aparece na bio — aparece na hora do lançamento.",
+    "chamada": "Quer entender como transformar seguidoras em tribo?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "TRIBO",
+    "beneficio": "recebe o raio-x de como nomear e construir sua comunidade"
+  }
+}

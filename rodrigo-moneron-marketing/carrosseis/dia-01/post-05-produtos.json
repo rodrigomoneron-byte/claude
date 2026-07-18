@@ -1,0 +1,75 @@
+{
+  "tema": "As três camadas da arquitetura, na ordem certa",
+  "editoria": "PRODUTOS",
+  "handle": "@rodrigomoneron",
+  "capa": {
+    "base": "papel",
+    "headline": "A arquitetura tem uma ordem: primeiro o **leitor**, só depois o marketing.",
+    "sub": "Inverter essa ordem é o erro mais comum do mercado."
+  },
+  "slides": [
+    {
+      "base": "tinta",
+      "title": "O erro que quase todo lançamento comete",
+      "body": [
+        "A maioria dos autores começa pela alavanca — anúncio, impulsionamento, parceria — tentando gerar venda antes de saber pra quem, exatamente, está vendendo.",
+        "O resultado é uma campanha cara que aluga atenção de gente errada, porque nenhuma das duas primeiras camadas foi construída antes."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Camada 1 — o leitor definido",
+      "body": [
+        "Definir o leitor não é escolher um gênero. É descrever uma pessoa: idade, rotina, o que ela já tentou e por que não funcionou.",
+        "Sem essa definição, todo conteúdo fala com todo mundo — e por isso não convence ninguém em particular."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Camada 2 — a comunidade nomeada",
+      "body": [
+        "Com o leitor definido, o próximo passo é dar um nome ao espaço onde ele se reúne — um grupo, uma lista, uma comunidade que pertence à autora.",
+        "Essa camada transforma leitores dispersos numa base que a plataforma não controla."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Camada 3 — as alavancas",
+      "componente": {
+        "tipo": "camadas",
+        "camadas": [
+          { "label": "Leitor definido", "largura": 45 },
+          { "label": "Comunidade nomeada", "largura": 65 },
+          { "label": "Alavancas de marketing", "largura": 90 }
+        ]
+      },
+      "body": [
+        "Só a terceira camada usa verba paga ou parceria, e só funciona quando as duas primeiras já sustentam a base."
+      ]
+    },
+    {
+      "base": "tinta",
+      "title": "Qual camada você está pulando",
+      "body": [
+        "Quem já tem leitor definido e ainda não nomeou a comunidade está com a base fraca antes da alavanca. Quem nomeou a comunidade sem nunca ter definido o leitor construiu uma casa sem fundação.",
+        "O diagnóstico começa perguntando qual das três camadas ainda não existe, não qual campanha rodar em seguida."
+      ]
+    },
+    {
+      "base": "papel",
+      "title": "Por que a ordem importa mais que o esforço",
+      "body": [
+        "Inverter a ordem não é fazer errado — é gastar mais pra chegar num resultado mais frágil, porque a alavanca amplifica o que já existe embaixo dela.",
+        "Fazer na ordem certa custa o mesmo trabalho, só que compõe."
+      ]
+    }
+  ],
+  "cta": {
+    "base": "tinta",
+    "ponte": "As três camadas na ordem certa custam o mesmo esforço — e compõem, em vez de evaporar.",
+    "chamada": "Quer o diagnóstico de qual camada falta no seu negócio?",
+    "instrucao": "Comenta a palavra abaixo:",
+    "palavra": "ARQUITETURA",
+    "beneficio": "recebe o diagnóstico das três camadas aplicado ao seu catálogo"
+  }
+}
