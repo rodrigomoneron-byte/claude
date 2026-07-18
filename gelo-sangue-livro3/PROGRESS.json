@@ -7,9 +7,9 @@
     "Isa"
   ],
   "status": "Em andamento",
-  "next_chapter": 57,
-  "next_pov": "Dante",
-  "updated": "2026-07-18 04:26",
+  "next_chapter": 58,
+  "next_pov": "Isa",
+  "updated": "2026-07-18 04:27",
   "chapters": [
     {
       "n": 1,
@@ -402,15 +402,22 @@
       "words": 890,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 57,
+      "pov": "Dante",
+      "words": 1016,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 56,
-    "total_words": 51107,
-    "pages_kdp": 170,
+    "chapters_done": 57,
+    "total_words": 52123,
+    "pages_kdp": 174,
     "avg_score": 7.0,
-    "pct_to_target": 88
+    "pct_to_target": 90
   },
   "heat_log": [
     {
