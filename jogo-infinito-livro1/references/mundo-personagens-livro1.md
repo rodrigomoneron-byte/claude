@@ -80,4 +80,41 @@ pública e Cami é contratada para gerenciar a crise.
   introduzir casamento anterior, ex-marido ou fuga de relacionamento
   romântico controlador pra Cami. Vigiar esse vazamento específico em
   capítulos futuros.
-(vazio — preencher a partir do Capítulo 1)
+- **Cap. 10**: Warren Higgins decide depor por conta própria — ISSO
+  ACONTECEU NO ATO 1, não no fechamento do Ato 2 como a bíblia
+  original previa. DESVIO DOCUMENTADO: o gancho de fechamento do Ato 2
+  precisa ser outro (decidir durante a escrita dos caps. 21-40 — ex.:
+  tentativa de intimidação contra Warren Higgins, ou vitória de
+  Patricia numa segunda votação de conselho, ou vazamento da auditoria
+  ampliada por fonte externa).
+- **Cap. 19**: relacionamento Cami/Alex vaza pra imprensa.
+- **Cap. 20 — FECHA O ATO 1**: Robert Carter anuncia candidatura a
+  promotor distrital usando o caso como plataforma política; Dan manda
+  mensagem pra Cami dizendo que o pai "está indo longe demais" e que
+  precisa conversar pessoalmente antes de tomar decisão irreversível —
+  gancho pro Ato 2, ainda não resolvido.
+- **DESVIO ESTRUTURAL IMPORTANTE (a partir do cap. 21)**: Dan evoluiu
+  organicamente pra aliado (recusa subpoena, avisa sobre o pai,
+  aconselha Cami com sabedoria genuína) em vez de permanecer obstáculo
+  romântico ativo. O "confronto público entre Alex e Dan" previsto na
+  bíblia original pro Ato 3 NÃO faz mais sentido dramático — o
+  antagonista real do Ato 2/3 é Robert Carter (pai de Dan), não Dan.
+  Ajuste pro Ato 3: clímax deve ser confronto entre Alex/Cami e Robert
+  Carter (colapso da campanha dele por conduta antiética), com Dan do
+  lado deles. Cami "escolher ficar com Alex cortando a esperança de
+  Dan" já aconteceu organicamente sem crueldade nem drama extra — Dan
+  já aceitou a perda e virou aliado genuíno. Reportar esse desvio ao
+  dono na revisão global.
+- **Cap. 21**: Dan recusa subpoena dos registros pessoais de Alex/Elena
+  pedido pelo pai; revela a Cami o motivo real do término (caso
+  Whitmore, escolheu carreira em vez de proteger o que importava pra
+  ela).
+- **Cap. 22**: Devon encontra e-mail de 4 anos atrás alertando sobre o
+  padrão, nunca escalado pra liderança.
+- **Cap. 23**: identificado que o e-mail era de Marcus Boone (medo,
+  não má-fé) — Alex confronta, exige transparência formal na auditoria
+  em vez de demissão. **2ª cena de heat** (gap real: 11 capítulos desde
+  a 1ª, no cap. 12 — EXCEDE o máximo de 5-6 travado na bíblia). DESVIO
+  DOCUMENTADO: reportar ao dono na revisão global; a partir daqui,
+  vigiar cadência mais de perto pra não repetir gap tão largo — próxima
+  cena não deve passar do cap. 28-29.

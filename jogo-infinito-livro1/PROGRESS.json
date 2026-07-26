@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 21,
+  "next_chapter": 41,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -152,6 +152,146 @@
       "words": 907,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 21,
+      "pov": "Cami",
+      "words": 892,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 22,
+      "pov": "Alex",
+      "words": 833,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 23,
+      "pov": "Cami",
+      "words": 887,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 24,
+      "pov": "Alex",
+      "words": 778,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 25,
+      "pov": "Cami",
+      "words": 781,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 26,
+      "pov": "Alex",
+      "words": 860,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 27,
+      "pov": "Cami",
+      "words": 774,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 28,
+      "pov": "Alex",
+      "words": 773,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 29,
+      "pov": "Cami",
+      "words": 799,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 30,
+      "pov": "Alex",
+      "words": 764,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 31,
+      "pov": "Cami",
+      "words": 714,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 32,
+      "pov": "Alex",
+      "words": 787,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 33,
+      "pov": "Cami",
+      "words": 846,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 34,
+      "pov": "Alex",
+      "words": 777,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 35,
+      "pov": "Cami",
+      "words": 708,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 36,
+      "pov": "Alex",
+      "words": 713,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 37,
+      "pov": "Cami",
+      "words": 787,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 38,
+      "pov": "Alex",
+      "words": 735,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 39,
+      "pov": "Cami",
+      "words": 747,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 40,
+      "pov": "Alex",
+      "words": 829,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -159,14 +299,26 @@
     {
       "n": 12,
       "desc": "1a cena — noite do depoimento, primeira vez juntos no escritorio de Alex"
+    },
+    {
+      "n": 23,
+      "desc": "2a cena — noite depois de Alex confrontar Marcus sobre o e-mail nao escalado, primeira vez no apartamento de Cami"
+    },
+    {
+      "n": 29,
+      "desc": "3a cena — reconciliacao apos o segredo do segundo algoritmo, primeiro Te amo dos dois"
+    },
+    {
+      "n": 35,
+      "desc": "4a cena — noite depois do ataque midiatico contra o pai de Cami, conforto e presenca"
     }
   ],
   "scoreboard": {
-    "chapters_done": 20,
-    "total_words": 18289,
-    "pages_kdp": 61,
+    "chapters_done": 40,
+    "total_words": 34073,
+    "pages_kdp": 114,
     "avg_score": 7.0,
-    "pct_to_target": 32
+    "pct_to_target": 59
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Triangulo — Cami dividida entre Alex e Dan; endgame Cami/Alex (TRAVADO via AskUserQuestion 2026-07-26)",
@@ -181,5 +333,5 @@
     "fonte": "Planejamento da Serie de Livros: Romance/Thriller Corporativo (PDF enviado pelo dono em 2026-07-26)"
   },
   "created": "2026-07-26",
-  "updated": "2026-07-26 04:54"
+  "updated": "2026-07-26 05:24"
 }
