@@ -57,4 +57,27 @@ pública e Cami é contratada para gerenciar a crise.
   Sangue (ou de qualquer outro livro da casa) é reaproveitado aqui.
 
 ## Log de decisões de escrita (preencher durante a produção)
+- Cap. 1: Cami contratada pela Voss Capital; Dan revelado como o
+  procurador do caso (fecha em gancho).
+- Cap. 3: primeiro reencontro presencial Cami/Dan, café perto do
+  tribunal.
+- **Cap. 12**: 1ª cena de heat — Cami e Alex, noite do depoimento, no
+  escritório dele.
+- **Cap. 14-15**: reunião de conselho, Patricia tenta destituir Alex,
+  votação 4-3 a favor dele.
+- **Cap. 17**: Dan revela que guardou, por 6 anos, uma confidência
+  pessoal antiga de Cami (o método dela de detectar hesitação em
+  cliente) e a reconheceu na estratégia de defesa da Voss Capital —
+  ameaça plantada, não usada formalmente ainda.
+- **Cap. 18 — CORREÇÃO DE CONTINUIDADE**: um rascunho inicial da cena
+  entre Cami e Alex mencionou "aquele casamento" como parte do medo
+  dela em relação a Dan — isso é vazamento do universo de Gelo e
+  Sangue (backstory de Isa, casamento controlador) e foi corrigido
+  antes de registrar. **FATO CANÔNICO DESTE LIVRO**: Cami NUNCA foi
+  casada. A ferida dela é exclusivamente sobre o pai (fraude
+  corporativa que destruiu a família quando ela tinha 19 anos) e o
+  medo de se tornar alguém que esconde em vez de encarar — nunca
+  introduzir casamento anterior, ex-marido ou fuga de relacionamento
+  romântico controlador pra Cami. Vigiar esse vazamento específico em
+  capítulos futuros.
 (vazio — preencher a partir do Capítulo 1)

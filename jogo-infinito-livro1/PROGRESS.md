@@ -1,16 +1,19 @@
-# Progresso do Loop — O Início do Jogo (Jogo Infinito, Livro 1)
+# Progresso do Loop — O Início do Jogo — Livro 1
 
-## Estado Atual
+## Estado atual
 - Status: Onboarding concluído — pronto para iniciar Capítulo 1
-- Capítulos: 0/60 | Palavras: 0 | Heat: 0/12
-- Próximo: Capítulo 1 (POV Cami)
+- Capítulos concluídos: 20 / 60
+- Próximo: Capítulo 21 (POV Cami)
+- Última atualização: 2026-07-26 04:54
 
-## Última Iteração
-- (nenhuma — onboarding concluído em 2026-07-26)
+## Placar
+- Palavras: 18289
+- Páginas KDP (~palavras/300): 61
+- Score médio: 7.0
+- Meta de palavras: 58000 (32%)
 
-## Próxima Iteração Deve
-1. Escrever Capítulo 1 (POV Cami) — abertura: Cami sendo contratada
-   pela Voss Capital pra gerenciar a crise, no mesmo momento em que a
-   investigação de Dan se torna pública.
-2. Validar régua + marcas, registrar em PROGRESS.json.
-3. Seguir o loop capítulo a capítulo conforme LOOP_INSTRUCTIONS.md.
+## Capítulos com ressalva (refinar no final)
+- Nenhum.
+
+## Bloqueios
+- Nenhum.
