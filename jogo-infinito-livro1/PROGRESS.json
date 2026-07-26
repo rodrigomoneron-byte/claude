@@ -1,0 +1,36 @@
+{
+  "book": "O Início do Jogo — Livro 1",
+  "series": "Jogo Infinito",
+  "author": "R.B. Guidenelli",
+  "status": "Onboarding concluído — pronto para iniciar Capítulo 1",
+  "target": 60,
+  "word_target": 58000,
+  "povs": ["Cami", "Alex"],
+  "next_chapter": 1,
+  "next_pov": "Cami",
+  "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes": 0
+  },
+  "decisoes_travadas": {
+    "nucleo_romantico": "Triangulo — Cami dividida entre Alex e Dan; endgame Cami/Alex (TRAVADO via AskUserQuestion 2026-07-26)",
+    "pov": "Dual — Cami (impar) + Alex (par); Dan nunca tem POV (TRAVADO via AskUserQuestion 2026-07-26)",
+    "tamanho_serie": "5 livros, arco completo planejado desde o Livro 1 (TRAVADO via AskUserQuestion 2026-07-26)",
+    "heat": "Explicito-elegante, cadencia 80/20 (~12 cenas), gap max 5-6 caps (TRAVADO via AskUserQuestion 2026-07-26)",
+    "elenco_central": "Cami mulher (Elo Emocional), Alex homem (Magnata), Dan homem (Guardiao da Lei) — sobrenome 'Stone' evitado a pedido do dono, usado Alex Voss (TRAVADO via AskUserQuestion 2026-07-26)",
+    "titulo_serie": "Jogo Infinito (PROPOSTO, a partir do planejamento original do dono)",
+    "titulo_livro1": "O Início do Jogo (PROPOSTO, a partir do planejamento original do dono)",
+    "extensao_capitulo": "950-1100 palavras (PROPOSTO, herdado do padrao bem-sucedido dos 3 livros anteriores)",
+    "extensao_total": "58000-67000 palavras, 60 capitulos, SEM epilogo neste volume (PROPOSTO)",
+    "fonte": "Planejamento da Serie de Livros: Romance/Thriller Corporativo (PDF enviado pelo dono em 2026-07-26)"
+  },
+  "created": "2026-07-26"
+}
