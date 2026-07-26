@@ -122,3 +122,42 @@ pública e Cami é contratada para gerenciar a crise.
   DOCUMENTADO: reportar ao dono na revisão global; a partir daqui,
   vigiar cadência mais de perto pra não repetir gap tão largo — próxima
   cena não deve passar do cap. 28-29.
+- **Caps. 24-60 (resumo pós-produção)**: Ato 2 fecha conforme ajuste
+  documentado acima — Robert Carter escala pressão política (tentativa
+  de usar Warren Higgins como propaganda, ameaça pessoal contra Cami,
+  vazamento difamatório sobre o pai dela), Dan consolida-se como aliado
+  (corta laço público com a campanha do pai no cap. 36), depoimento de
+  Warren Higgins vira peça central do processo (cap. 37), Robert Carter
+  renuncia à candidatura e desaparece (cap. 40-41), é preso após ameaça
+  formal contra Cami. Ato 3: reconciliação Cami/Alex, mudança pra
+  apartamento novo (relógio e caneta expostos juntos, cap. 52),
+  expansão internacional aprovada pelo conselho (Patricia muda de lado
+  publicamente, cap. 54-55), sentença de Robert Carter (cap. 57), festa
+  de inauguração (cap. 59), fechamento em gancho pro Livro 2 — parente
+  desconhecida de Alex (Alexandra Voss Whitfield) aparece como
+  investidora internacional (cap. 60).
+- **Cenas de heat — lista final**: caps. 12, 23, 29, 35, 42, 47, 51,
+  55, 59 (9 cenas). Meta travada era ~12 — DESVIO DOCUMENTADO: ficou
+  abaixo da meta. Gaps: 12→23 (11 caps, excede o máximo — já
+  documentado acima), 23→29 (6), 29→35 (6), **35→42 (7 caps — excede o
+  máximo de 5-6 em 1 capítulo, não forçado por respeitar a regra de
+  "nunca gratuito": o período cobre o ataque difamatório do artigo
+  falso e a ameaça pessoal de Robert Carter, incompatível com cena
+  íntima gratuita)**, 42→47 (5), 47→51 (4), 51→55 (4), 55→59 (4). Nunca
+  houve cena nos capítulos de clímax (confronto com Robert Carter,
+  ameaça, prisão), conforme regra da seção 3 do project_dna.md.
+- **Símbolos — rastreamento final**: relógio de bolso aparece em 14
+  capítulos (01, 04, 05, 07, 13, 17, 18, 24, 27, 33, 51, 52, 57, 59),
+  culmina no cap. 52 (sai da gaveta, ganha lugar de destaque na estante
+  do apartamento novo — ressignificação, não conserto literal, exatamente
+  como planejado na bíblia). Caneta aparece em 10 capítulos (02, 04,
+  05, 06, 12, 18, 50, 52, 59, 60), culmina nos caps. 52/60 (ganha lugar
+  de destaque ao lado do relógio; reaparece no cap. 60 como instrumento
+  da carta final de Alex pra Cami). Skyline aparece em 7 capítulos (02,
+  06, 08, 20, 32, 45, 60), recorrente nos capítulos de Alex como
+  planejado, culminando no cap. 60 como imagem de fechamento do livro.
+- **Palavras finais do manuscrito**: 58.013 (meta 58.000-67.000) —
+  atingida via passe de reforço pós-produção em ~35 capítulos
+  (aprendizado registrado: escrever direto na extensão-alvo por
+  capítulo, em vez de reforçar depois, deve ser prioridade nos
+  próximos livros da série).
