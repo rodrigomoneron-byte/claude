@@ -1,0 +1,74 @@
+RELATÓRIO DE FORMATAÇÃO — Jogo Infinito, Livro 1: O Início do Jogo
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-07-26
+
+1. CAPÍTULOS INCLUÍDOS: 60/60 (Capítulo 1 a Capítulo 60), organizados
+   em outputs/final/manuscrito/01_capitulo.md a 60_capitulo.md.
+   Alternância de POV confirmada: Cami (ímpares) / Alex (pares), Dan
+   nunca narra — 100% consistente nos 60 capítulos.
+
+2. CONTAGEM DE PALAVRAS: 58.013 palavras (meta da casa: 58.000-67.000
+   — atingida). Passe de reforço pós-produção aplicado em ~35
+   capítulos que ficaram abaixo do piso, sem alterar trama, POV ou
+   régua.
+
+3. EPUB: outputs/final/inicio-do-jogo.epub — gerado em EPUB 3.0,
+   63 itens (60 capítulos + sumário/metadados), validado com
+   ebooklib.epub.read_epub() sem erro.
+
+4. PDF: outputs/final/inicio-do-jogo_kdp.pdf — 273 páginas, 432x648pt
+   (6"x9" KDP), corpo Times-Roman 11pt justificado com recuo de
+   primeira linha, um capítulo por página nova, numeração de rodapé a
+   partir do Capítulo 1.
+
+5. RÉGUA "A GENTE": limpa em 100% dos 60 capítulos — confirmado via
+   scripts/regua_gate.py (RESULTADO: LIMPO) e varredura manual
+   grep -n "a gente" nos arquivos finais organizados
+   (outputs/final/manuscrito/). As 12 ocorrências literais da string
+   "gente" nesses arquivos são todas falsos positivos da whitelist
+   ("tanta gente", "muita gente", "gente real", "gente de/que/como" no
+   sentido de "pessoas") — nenhuma é a contração proibida "a gente".
+   Zero ocorrências do device proibido (personagem dizendo "a gente" e
+   sendo "corrigido").
+
+6. CADÊNCIA DE HEAT: 9 cenas (caps. 12, 23, 29, 35, 42, 47, 51, 55,
+   59) contra meta travada de ~12 — abaixo da meta, documentado como
+   desvio editorial no canon (references/mundo-personagens-livro1.md).
+   Um gap excede o máximo de 5-6 capítulos em dois pontos (12→23 = 11
+   caps; 35→42 = 7 caps), ambos por respeitar a regra "nunca forçar
+   cena que contradiga o beat da trama" — o primeiro cobre a formação
+   inicial da relação profissional, o segundo cobre o ataque
+   difamatório e a ameaça pessoal de Robert Carter contra Cami.
+   Nenhuma cena cai nos capítulos de clímax, conforme a regra da casa.
+
+7. SÍMBOLOS: relógio de bolso (14 aparições, culmina cap. 52), caneta
+   (10 aparições, culmina caps. 52/60), skyline de Manhattan (7
+   aparições, culmina cap. 60) — todos acima do mínimo de 3 e com
+   payoff claro.
+
+8. DESVIOS ESTRUTURAIS DA BÍBLIA ORIGINAL (documentados, reportados ao
+   dono do projeto, não bloqueiam aprovação):
+   - Warren Higgins decide testemunhar no Ato 1 (cap. 10), não no
+     fechamento do Ato 2 como planejado — o gancho de fechamento do
+     Ato 2 foi substituído pela mensagem de Dan sobre o próprio pai
+     "indo longe demais" (cap. 20/40-41).
+   - Dan evoluiu organicamente para aliado genuíno em vez de obstáculo
+     romântico até o fim — o "confronto público entre Alex e Dan"
+     planejado para o Ato 3 não fazia mais sentido dramático; o clímax
+     real do livro passou a ser o confronto com Robert Carter (pai de
+     Dan), que escala pressão política, ameaça Cami pessoalmente, e é
+     preso. Cami "cortar a esperança de Dan" aconteceu sem crueldade,
+     organicamente, no Ato 2.
+
+9. IDENTIFICADOR/ISBN: placeholder gerado
+   (urn:uuid:4c9e1a7d-3f2b-4e6a-9d5c-8b0a2f6e7c1d) — SUBSTITUIR pelo
+   ISBN real antes de publicar na KDP.
+
+10. FECHAMENTO: capítulo 60 fecha em gesto (carta guardada na gaveta +
+    skyline + gancho de nova investidora/parente desconhecida de Alex
+    pro Livro 2), sem epílogo — conforme a bíblia (epílogo reservado
+    ao Livro 5, fechamento final da série).
+
+STATUS GERAL: APROVADO PARA FORMATAÇÃO — nenhum ajuste obrigatório
+pendente. Desvios de meta (cadência de heat, extensão via reforço
+pós-produção) documentados e reportados acima, não bloqueantes.

@@ -1,0 +1,29 @@
+TÍTULO: Jogo Infinito — Livro 1: O Início do Jogo
+
+DESCRIÇÃO VISUAL:
+Um relógio de bolso antigo, rachado, com a tampa entreaberta, pousado
+sobre uma superfície de vidro escuro ou mármore negro polido que
+reflete, borradas e fora de foco, as luzes de arranha-céus de Manhattan
+à noite. Ao fundo, uma caneta-tinteiro de ouro envelhecido repousa
+paralela ao relógio, ambos meio imersos em uma poça estreita de luz
+quente (dourado envelhecido) que corta o restante do quadro, dominado
+por verde floresta noturno e reflexos de vidro frio. Iluminação
+chiaroscuro — a luz quente vem de baixo/lateral, como luz de escritório
+executivo tarde da noite, nunca luz branca de estúdio. Textura de
+mármore/vidro escovado, sem casal, sem rosto em cena. O ponteiro do
+relógio parado marca a rachadura entre o mundo do controle (vidro,
+mármore, skyline) e o mundo que ainda pulsa por baixo dele (o brilho
+quente do ouro).
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis, texto
+incorporado na imagem, fundo branco genérico, luz branca de estúdio,
+fonte serifada dourada de romance histórico, clip-art corporativo,
+gráfico de bolsa de valores, logotipos reais
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance
+corporativo, chiaroscuro com luz quente (âmbar/ouro envelhecido) sobre
+paleta fria dominante (verde floresta noturno, vidro, mármore negro),
+acabamento "The Old English Gentleman's Club" da casa R.B. Guidenelli
