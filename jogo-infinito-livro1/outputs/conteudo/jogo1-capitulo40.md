@@ -145,3 +145,25 @@ Leio a mensagem duas vezes, sentindo o próprio estômago apertar com
 implicação que ainda não sei nomear completamente, e fico ali, no
 escuro, montando guarda silenciosa ao lado de Cami adormecida,
 enquanto o próprio amanhecer ainda demora horas inteiras pra chegar.
+
+Respondo pra Dan, digitando devagar, escolhendo cada palavra com
+cuidado.
+
+*Avisa se precisar de qualquer coisa. E cuida de você também nessa
+busca. Não é responsabilidade sua consertar o que ele quebrou.*
+
+A resposta chega minutos depois, breve.
+
+*Obrigado. Vou manter contato.*
+
+Guardo o celular, voltando a atenção pra Cami, o próprio corpo dela
+finalmente relaxado no sono depois de horas tensas. Passo a mão de
+leve pelo cabelo dela, cuidadoso pra não acordar, e penso em quanto
+essa noite mudou o próprio entendimento sobre o que essa guerra
+realmente custa — não só reputação, não só dinheiro, mas segurança
+real de alguém que amo, ameaçada por um homem disposto a qualquer
+coisa pra não perder.
+
+Decido, ali mesmo no escuro, que qualquer recurso necessário vai ser
+empregado pra garantir que ela nunca mais precise sentir esse tipo de
+medo outra vez.

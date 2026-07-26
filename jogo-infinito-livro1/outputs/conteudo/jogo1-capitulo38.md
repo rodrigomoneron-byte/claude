@@ -140,3 +140,49 @@ significou muito.
 
 — Sempre, Alex. Família primeiro, lembra? Ainda estou ensinando você
 essa lição, mas está aprendendo rápido.
+
+No carro de volta pra casa, Cami fica em silêncio por um momento,
+olhando pela janela pra cidade passando devagar.
+
+— No que você está pensando? — pergunto, notando o próprio silêncio
+contemplativo dela.
+
+— Em quanto rápido sua irmã me fez sentir bem-vinda. Não esperava
+isso, honestamente. Achei que levaria mais tempo.
+
+— Elena sempre foi assim. Julga rápido, mas julga bem, geralmente.
+
+— Fico feliz que ela tenha gostado de mim.
+
+— Ela não só gostou. Ela te aceitou como parte da família, o que é
+diferente e mais raro ainda.
+
+Aperto a mão dela por cima do banco, sentindo gratidão renovada por
+essa noite específica, mais uma prova concreta de que a vida que
+construímos juntos já se estende muito além dos dois, alcançando
+família inteira disposta a acolher e proteger o que ainda continuamos
+construindo.
+
+Chegamos em casa pouco depois, ainda conversando sobre a noite, o
+próprio apartamento carregando calor diferente agora que sei que
+Elena aprovou completamente.
+
+— Sua irmã tem senso de humor parecido com o seu — Cami comenta,
+tirando os sapatos na entrada.
+
+— Ela ia discordar veementemente. Diz que o meu é mais seco, o dela
+mais afiado.
+
+— Os dois cortam igual, na minha experiência de hoje.
+
+Rio, puxando ela pra perto antes de subirmos, sentindo o próprio
+peito ainda quente da noite inteira.
+
+— Obrigado por vir. Por deixar ela te conhecer de verdade.
+
+— Eu queria conhecer. Faz parte de quem você é, e eu quero conhecer
+cada parte.
+
+Subimos juntos, o resto da noite se desenrolando devagar, leve, sem
+nenhuma crise competindo pela atenção dos dois pela primeira vez em
+muito tempo.

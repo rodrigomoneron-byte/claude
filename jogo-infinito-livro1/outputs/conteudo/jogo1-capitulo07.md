@@ -150,3 +150,9 @@ segurar antes de guardar de volta, como se o próprio gesto de tocar
 nele já fosse suficiente pra provar que alguma coisa dentro de mim
 ainda funciona direito, mesmo quando todo o resto ao redor insiste em
 desalinhar.
+
+Guardo ele de volta na gaveta, devagar, e fico sentada mais um
+momento no escuro do próprio quarto, deixando a mensagem de Dan e a
+memória do meu pai se acomodarem lado a lado, dois avisos diferentes
+que talvez, no fundo, digam a mesma coisa sobre confiar demais rápido
+demais.

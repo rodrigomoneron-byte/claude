@@ -145,3 +145,13 @@ esconder ele até que exploda sozinho.
 Alex se mexe ao meu lado, ainda meio adormecido, e puxa eu de volta
 pra perto sem acordar completamente, e fico ali, quieta, absorvendo o
 peso bom desse momento simples antes que o dia inteiro recomece.
+
+O sol começa a nascer devagar, luz fraca entrando pela cortina
+entreaberta, e observo o próprio quarto pequeno ganhar contorno aos
+poucos — as mesmas paredes que sempre conheci, agora carregando
+presença nova, bem-vinda, que meses atrás eu nunca imaginaria
+convidar pra dentro desse espaço tão cuidadosamente protegido.
+
+Alex murmura alguma coisa ininteligível, ainda dormindo, e sorrio,
+sentindo gratidão silenciosa por essa manhã específica, antes que
+qualquer crise nova decida exigir atenção outra vez.

@@ -63,6 +63,22 @@ algumas horas.
 
 — Gosto desse plano.
 
+— Podemos desligar os celulares, se quiser. Só por essa noite.
+
+— Isso soa quase impossível, considerando tudo que ainda está em
+andamento.
+
+— Impossível não. Só precisa de decisão deliberada de proteger um
+espaço pequeno, só nosso, longe de qualquer crise que ainda espera lá
+fora.
+
+— Vamos tentar, então.
+
+Ele desliga o próprio celular, colocando ele virado pra baixo na mesa,
+e faço o mesmo com o meu, sentindo, apesar do próprio nervosismo
+residual, alívio genuíno por essa pequena rebelião contra a urgência
+constante que definiu tanto dos últimos meses.
+
 Sorrio, apesar do próprio cansaço acumulado, e me aproximo mais dele,
 precisando da presença física que só ele consegue oferecer nesse
 momento específico.
@@ -126,3 +142,26 @@ juntos. Talvez seja isso, penso, adormecendo de novo devagar, que
 realmente separa amor genuíno de mera atração passageira: não
 ausência de dificuldade, mas capacidade comprovada de atravessar ela
 junto, repetidamente, sem desistir no meio do caminho.
+
+Pela manhã, acordo antes dele, e fico ali um tempo, observando a luz
+fraca entrando pela cortina entreaberta, iluminando o rosto de Alex
+ainda relaxado pelo sono. Existe algo quase sagrado nesses minutos
+silenciosos, penso, algo que nenhuma crise pública consegue tocar ou
+corromper — só nós dois, respirando devagar, protegidos por um tempo
+curto demais da urgência que espera lá fora assim que os celulares
+voltarem a ligar.
+
+Ele acorda aos poucos, os olhos ainda pesados de sono, e sorri ao me
+ver observando ele.
+
+— Bom dia — murmura, a voz rouca. — Isso foi exatamente o descanso
+que eu não sabia que precisava.
+
+— Eu também precisava. Obrigada por insistir nisso.
+
+— Sempre que puder, vou insistir. Você merece mais manhãs assim,
+sem urgência nenhuma competindo pela sua atenção.
+
+Beijo ele devagar, sentindo gratidão silenciosa por essa pausa
+pequena antes de qualquer celular voltar a vibrar com a próxima
+crise inevitável.

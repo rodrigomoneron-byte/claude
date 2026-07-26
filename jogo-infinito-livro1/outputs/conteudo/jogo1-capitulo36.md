@@ -132,3 +132,48 @@ Terminamos o café em silêncio contemplativo, cada um processando à
 própria maneira o peso de uma vitória real, mas ainda incompleta,
 diante de um adversário que claramente não sabe reconhecer quando já
 perdeu.
+
+— Vou ligar pra Devon também — comento, depois de um tempo. — Ele
+merece saber que a auditoria dele ajudou a expor tanta coisa, direta e
+indiretamente.
+
+— Boa ideia. Ele vai apreciar saber que o próprio trabalho fez
+diferença tão grande.
+
+Ligo pra Devon, contando os desenvolvimentos recentes, e a resposta
+dele carrega a mesma satisfação contida de sempre.
+
+— Fico feliz que a transparência tenha valido a pena, no fim — ele
+comenta. — Às vezes duvidamos se vale o próprio risco, expor problema
+real numa empresa poderosa.
+
+— Valeu completamente, Devon. E continua valendo, a cada semana que
+passa.
+
+— Aprecio ouvir isso. Vou continuar vigiando de perto qualquer padrão
+novo que apareça, garantindo que nunca mais precisemos passar por
+crise parecida.
+
+Desligo, sentindo gratidão renovada por ter, ao meu redor, tanta gente
+disposta a fazer o trabalho difícil, mesmo quando ninguém está
+observando de perto.
+
+Cami se aproxima, abraçando por trás enquanto guardo o celular, o
+queixo descansando no meu ombro.
+
+— Você fez muitas ligações importantes hoje — comenta, a voz suave.
+
+— Precisava fazer. Cada pessoa nessa lista ajudou a construir o
+caminho até aqui, de um jeito ou de outro.
+
+— Isso é liderança de verdade, sabe. Reconhecer o trabalho de cada
+um, não só assumir o crédito sozinho.
+
+— Aprendi isso com você, principalmente. Você sempre credita gente
+que trabalha nos bastidores, mesmo quando ninguém mais percebe.
+
+— Aprendemos juntos, então.
+
+Viro pra beijar ela devagar, sentindo, apesar da ameaça ainda pairando
+sobre nós dois, gratidão genuína por atravessar cada desafio novo
+lado a lado, nunca sozinho.

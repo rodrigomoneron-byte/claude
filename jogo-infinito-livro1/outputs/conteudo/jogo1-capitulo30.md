@@ -142,3 +142,45 @@ formalmente. Vocês dois continuam adiando isso.
 Desligo, rindo baixinho da própria repetição familiar dela, e sinto,
 apesar de tudo, gratidão genuína por ter tanta gente boa ao redor,
 disposta a comemorar cada pequena vitória junto comigo.
+
+Cami me liga pouco depois, já sabendo, através de Marcus
+provavelmente, da própria vitória do conselho.
+
+— Soube da votação. Parabéns, Alex!
+
+— Obrigado. Ainda processando o próprio alívio, honestamente.
+
+— Merece esse alívio. Lutou duro por essa vitória específica.
+
+— Nós lutamos duro. Você fez tanto quanto eu pra chegar até aqui.
+
+— Vamos celebrar juntos hoje à noite?
+
+— Definitivamente. Só me deixa terminar algumas coisas aqui primeiro.
+
+— Combinado. Te encontro em casa mais tarde.
+
+Desligo sentindo o próprio peito se encher de expectativa boa, gratidão
+múltipla se acumulando de todos os lados — vitória profissional, amor
+genuíno, família reconstruída — tudo convergindo num único dia que já
+carrega peso de virada importante nessa jornada inteira.
+
+Marcus bate na porta do escritório antes de eu sair, um sorriso ainda
+largo no rosto.
+
+— Vamos comemorar como equipe também, algum dia essa semana? Todo
+mundo que ajudou a construir essa vitória merece reconhecimento, não
+só nós dois.
+
+— Boa ideia. Vou organizar alguma coisa pra sexta-feira.
+
+— Devon vai adorar. Ele nunca recebe crédito suficiente pelo próprio
+trabalho.
+
+— Vou garantir que receba dessa vez.
+
+Marcus sai, e fico ali mais um momento, guardando os próprios
+documentos, sentindo, apesar de todo o cansaço acumulado da semana
+inteira, energia renovada pra continuar construindo, com a mesma
+equipe, o resto dessa reconstrução que ainda está longe de terminar
+completamente.

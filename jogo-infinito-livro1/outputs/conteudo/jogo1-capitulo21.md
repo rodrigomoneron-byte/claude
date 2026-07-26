@@ -143,3 +143,16 @@ só isso mesmo que parece: alguém escolhendo fazer certo, sem segunda
 intenção escondida atrás.
 
 — Espero que você esteja certa, Cami. Por todos os motivos possíveis.
+
+Desligo, guardando o celular no bolso, e sigo o resto do caminho até o
+escritório a pé, precisando do próprio ar frio da manhã pra organizar
+os pensamentos antes de qualquer reunião formal exigir foco completo.
+Penso em Dan, na própria coragem que encontrou pra recusar o pedido do
+pai, e em como essa mesma coragem, de um jeito estranho, me lembra
+exatamente do tipo de escolha que Alex também vem fazendo, repetidas
+vezes, desde que tudo isso começou.
+
+Chego no escritório determinada a contar pra ele sobre a ameaça do
+subpoena assim que tiver oportunidade, sabendo que verdade completa,
+mesmo quando desconfortável, continua sendo o único caminho que os
+dois escolheram seguir juntos.

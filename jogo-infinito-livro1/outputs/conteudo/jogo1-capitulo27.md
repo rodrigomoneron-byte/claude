@@ -141,3 +141,27 @@ verdade quando confrontado, ou o tipo que só escolhe verdade quando
 não existe mais espaço pra esconder. A diferença entre os dois tipos,
 reconheço agora, pode ser exatamente o que decide se essa relação
 ainda merece uma segunda chance real.
+
+Guardo o relógio de volta na gaveta, com cuidado, e sento na cama por
+mais um momento, deixando os próprios pensamentos se assentarem devagar.
+Penso em quantas vezes já testemunhei alguém escolher esconder verdade
+difícil — meu pai, principalmente, mas também, de forma menor, em
+tantas outras relações ao longo da própria vida adulta. Alex é
+diferente disso, reconheço, mesmo no meio da própria mágoa recente.
+
+O celular vibra na mesa de cabeceira — mensagem dele, curta, sem
+pressão nenhuma embutida. *Estou aqui, sempre que estiver pronta.
+Sem pressa.* Sorrio, apesar de mim mesma, sentindo o próprio peso da
+mágoa começar, devagar, a ceder espaço pra algo mais parecido com
+esperança genuína.
+
+Levanto, indo até o banheiro pra lavar o rosto, tentando organizar os
+próprios pensamentos antes que sete horas chegue rápido demais.
+Observo o próprio reflexo no espelho por um momento, tentando
+reconhecer a mulher que decidiu, meses atrás, aceitar esse contrato
+que mudaria tudo de um jeito que ela nunca antecipou completamente.
+
+Volto pro quarto, escolhendo roupa simples, confortável, nada
+performático — essa conversa não precisa de armadura nenhuma, só
+verdade completa dos dois lados, exatamente como sempre exigi de
+todo mundo ao meu redor.

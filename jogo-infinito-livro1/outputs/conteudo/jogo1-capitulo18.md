@@ -144,3 +144,27 @@ Decido, ali, no escuro, que vou encontrar um jeito de merecer a
 confiança que ela acabou de depositar em mim — não só sobrevivendo ao
 processo, mas provando, através de cada escolha seguinte, que verdade
 completa realmente vale o preço que ela sempre cobra.
+
+Pela manhã, antes mesmo do sol nascer completamente, verifico o
+celular, encontrando a matéria já publicada, o título direto demais
+pra confortar qualquer um dos dois: *Consultora de crise contratada
+pela Voss Capital mantém relacionamento com o CEO investigado.*
+
+Acordo Cami com cuidado, mostrando a tela.
+
+— Já saiu.
+
+Ela lê devagar, o próprio rosto processando cada palavra sem
+demonstrar pânico visível.
+
+— É melhor do que eu esperava, honestamente. Não insinuam nada sobre
+influência indevida, só relatam o fato.
+
+— Isso é porque fomos proativos primeiro. Verdade controlada, como
+você sempre diz.
+
+— Funcionou dessa vez. Vamos ver como o resto do dia se desenrola.
+
+Puxo ela mais perto, sentindo, apesar da própria tensão inevitável do
+dia que se aproxima, gratidão renovada por atravessar isso ao lado
+dela, não mais sozinho.

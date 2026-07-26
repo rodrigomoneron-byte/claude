@@ -129,3 +129,25 @@ devagar, a coexistir dentro de mim sem se cancelar por completo, e
 talvez seja isso — não a ausência de história, mas a capacidade de
 carregar ela sem deixar que ela decida tudo — que realmente separa
 quem eu era de quem estou tentando me tornar.
+
+Guardo o relógio de volta na gaveta e vou até a cozinha, precisando de
+alguma coisa quente pra segurar entre as mãos. Enquanto a água esquenta
+pro chá, ligo pra Renata, precisando processar em voz alta antes de
+encontrar Alex mais tarde.
+
+— Dan tinha informação pessoal minha guardada há seis anos — conto,
+ainda sentindo o próprio peso da revelação.
+
+— Isso é violação de confiança séria, Cami.
+
+— É. E ainda assim ele escolheu não usar formalmente. Isso complica
+como eu processo tudo isso.
+
+— Faz sentido sentir as duas coisas ao mesmo tempo — mágoa pela
+violação, gratidão pela escolha de não explorar ela completamente.
+
+— Exatamente isso.
+
+Desligo sentindo o próprio peito um pouco mais leve, grata por ter
+alguém disposta a validar a própria complexidade emocional sem
+simplificar ela demais.

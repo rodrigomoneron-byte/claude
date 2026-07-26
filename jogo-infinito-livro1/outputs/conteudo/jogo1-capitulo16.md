@@ -147,3 +147,27 @@ Fico sozinho na mesa por um momento depois que ela vai embora,
 pensando em quanta coisa ainda preciso contar pra Cami sobre quem
 realmente sou, além da versão que qualquer investigação federal
 consegue documentar.
+
+Pago a conta e saio do restaurante, caminhando devagar pelas ruas
+movimentadas de Manhattan, pensando em como apresentar Cami e Elena
+formalmente sem apressar nada. Ligo pra Cami no caminho de volta ao
+escritório.
+
+— Almocei com Elena — conto, assim que ela atende.
+
+— Como foi?
+
+— Bom. Estranhamente bom, considerando quanto tempo ficamos
+distantes.
+
+— Fico feliz por você, Alex. Vocês dois merecem essa reconexão.
+
+— Ela quer conhecer você, formalmente. Em breve.
+
+— Adoraria conhecer ela também.
+
+— Vou organizar isso assim que possível.
+
+Desligo sentindo o próprio peito se encher de esperança sobre tudo que
+ainda está por reconstruir — não só com Elena, mas com a família
+inteira que ainda espero, devagar, aprender a merecer de volta.

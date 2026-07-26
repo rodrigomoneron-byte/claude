@@ -38,6 +38,19 @@ desmoronar antes.
 
 — Essa não vai desmoronar.
 
+— Vou precisar de confirmação disso em ação, não só palavra. Vou
+solicitar acesso à documentação completa da auditoria interna, assim
+que estiver formalmente concluída.
+
+— Terá acesso total, sem restrição nenhuma.
+
+— Isso já é diferente do que a maioria das empresas nessa posição
+oferece.
+
+— Não somos a maioria das empresas. Aprendemos, do jeito difícil, que
+transparência total é o único caminho real pra reconstruir confiança
+perdida.
+
 Ele assente, sem parecer completamente convencido, mas disposto a
 aceitar a promessa por enquanto.
 
@@ -145,3 +158,16 @@ me diga se estou errada.
 Ele não responde imediatamente, e o próprio silêncio já responde a
 pergunta com mais clareza do que qualquer palavra conseguiria nesse
 momento exato.
+
+— Preciso te ver — falo, a voz mais firme do que o próprio coração
+acelerado sugeriria. — Agora, pessoalmente. Não pelo telefone.
+
+— Estou indo até você.
+
+Desligo, sentindo as mãos tremerem ligeiramente enquanto guardo o
+celular, o próprio apartamento de repente carregando peso diferente,
+mais frio, mais incerto do que há minutos atrás. Fico parada perto da
+janela, olhando pra rua lá embaixo, tentando organizar mentalmente as
+perguntas que preciso fazer antes que ele chegue — não pra atacar,
+mas pra entender exatamente o tamanho real do que ele escolheu
+esconder, e por quanto tempo.

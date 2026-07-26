@@ -135,3 +135,25 @@ coisa ininteligível antes de puxar eu de volta pra perto, e fico ali,
 quieta, absorvendo o peso bom desse momento simples antes que o dia
 inteiro, inevitavelmente, recomece com nova rodada de crise esperando
 lá fora.
+
+Levanto devagar, sem acordar ele, e vou até a cozinha preparar café,
+o apartamento pequeno banhado de luz suave da manhã. Enquanto a água
+esquenta, penso em quanto tempo atrás essa cena simples — acordar ao
+lado de alguém, preparar café numa cozinha compartilhada — parecia
+impossível de imaginar, considerando tudo que já atravessei antes de
+chegar até aqui.
+
+Alex aparece na cozinha pouco depois, ainda sonolento, e me abraça por
+trás enquanto sirvo as duas xícaras.
+
+— Bom dia — murmura, contra meu ombro.
+
+— Bom dia. Dormiu bem?
+
+— Dormi ótimo. Melhor do que em meses, honestamente.
+
+— Eu também.
+
+Ficamos ali, abraçados na cozinha pequena, absorvendo mais uma prova
+concreta de que reconstrução genuína, quando perseguida com esforço
+real, sempre encontra o próprio caminho até recompensa merecida.

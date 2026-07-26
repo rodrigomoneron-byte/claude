@@ -150,3 +150,24 @@ Ele assente, aceitando a sugestão sem resistência, e os dois seguimos
 juntos pra fora do escritório, o peso do dia inteiro finalmente
 começando a ceder espaço pra descanso possível, mesmo sabendo que
 amanhã trará nova rodada da mesma guerra.
+
+No caminho até o apartamento dele, caminhamos em silêncio confortável
+por um tempo, o próprio ar noturno carregando frescor bom depois de
+tanto tempo dentro de escritório fechado.
+
+— Obrigada por ficar comigo hoje — comento, finalmente, apertando a
+mão dele.
+
+— Não teria escolha diferente. Você é minha prioridade, mesmo em meio
+a crise corporativa inteira.
+
+— Isso significa muito, considerando tudo que está em jogo pra você
+também.
+
+— Nada importa mais do que isso, Cami. Nem processo, nem conselho, nem
+qualquer outra coisa.
+
+Aperto a mão dele mais forte, sentindo gratidão profunda por ouvir
+essas palavras, e continuamos caminhando juntos pela noite, prontos
+pra enfrentar mais um dia difícil amanhã, mas fortalecidos pela
+certeza de que atravessamos tudo isso lado a lado.

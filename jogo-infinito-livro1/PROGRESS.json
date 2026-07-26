@@ -2,14 +2,14 @@
   "book": "O Início do Jogo — Livro 1",
   "series": "Jogo Infinito",
   "author": "R.B. Guidenelli",
-  "status": "Onboarding concluído — pronto para iniciar Capítulo 1",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
   "target": 60,
   "word_target": 58000,
   "povs": [
     "Cami",
     "Alex"
   ],
-  "next_chapter": 41,
+  "next_chapter": 61,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -292,6 +292,146 @@
       "words": 829,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 41,
+      "pov": "Cami",
+      "words": 751,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 42,
+      "pov": "Alex",
+      "words": 947,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 43,
+      "pov": "Cami",
+      "words": 996,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 44,
+      "pov": "Alex",
+      "words": 877,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 45,
+      "pov": "Cami",
+      "words": 923,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 46,
+      "pov": "Alex",
+      "words": 812,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 47,
+      "pov": "Cami",
+      "words": 906,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 48,
+      "pov": "Alex",
+      "words": 852,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 49,
+      "pov": "Cami",
+      "words": 767,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 50,
+      "pov": "Alex",
+      "words": 780,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 51,
+      "pov": "Cami",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 52,
+      "pov": "Alex",
+      "words": 756,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 53,
+      "pov": "Cami",
+      "words": 829,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 54,
+      "pov": "Alex",
+      "words": 745,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 55,
+      "pov": "Cami",
+      "words": 835,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 56,
+      "pov": "Alex",
+      "words": 680,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 57,
+      "pov": "Cami",
+      "words": 741,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 58,
+      "pov": "Alex",
+      "words": 801,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 59,
+      "pov": "Cami",
+      "words": 820,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 60,
+      "pov": "Alex",
+      "words": 1004,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -311,14 +451,34 @@
     {
       "n": 35,
       "desc": "4a cena — noite depois do ataque midiatico contra o pai de Cami, conforto e presenca"
+    },
+    {
+      "n": 42,
+      "desc": "5a cena — celebracao da aprovacao unanime do plano de compensacao pelo conselho"
+    },
+    {
+      "n": 47,
+      "desc": "6a cena — noite da assinatura formal do acordo, celebracao da vitoria conquistada"
+    },
+    {
+      "n": 51,
+      "desc": "7a cena — primeira noite no apartamento novo, celebrando a mudanca"
+    },
+    {
+      "n": 55,
+      "desc": "8a cena — celebracao da assinatura dos termos de expansao internacional"
+    },
+    {
+      "n": 59,
+      "desc": "9a cena — noite da festa de inauguracao do apartamento"
     }
   ],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 34073,
-    "pages_kdp": 114,
+    "chapters_done": 60,
+    "total_words": 58013,
+    "pages_kdp": 193,
     "avg_score": 7.0,
-    "pct_to_target": 59
+    "pct_to_target": 100
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Triangulo — Cami dividida entre Alex e Dan; endgame Cami/Alex (TRAVADO via AskUserQuestion 2026-07-26)",
@@ -333,5 +493,5 @@
     "fonte": "Planejamento da Serie de Livros: Romance/Thriller Corporativo (PDF enviado pelo dono em 2026-07-26)"
   },
   "created": "2026-07-26",
-  "updated": "2026-07-26 05:24"
+  "updated": "2026-07-26 05:50"
 }

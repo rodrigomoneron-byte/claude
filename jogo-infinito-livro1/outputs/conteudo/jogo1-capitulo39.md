@@ -134,3 +134,39 @@ Ficamos em silêncio por um tempo, o próprio peso da apreensão pairando
 sobre nós dois, mas também a certeza tranquila de que, seja lá o que
 Robert Carter ainda estiver planejando, vamos atravessar isso juntos,
 do mesmo jeito que atravessamos cada obstáculo anterior.
+
+— Devíamos avisar Warren também — comento, depois de um tempo. — Ele
+foi peça central nessa história toda. Se Robert Carter está
+desesperado, pode tentar alguma coisa contra ele também.
+
+— Boa ideia. Vou ligar amanhã de manhã, com calma, sem alarmar
+demais.
+
+— Obrigada por pensar nisso.
+
+— Estamos nessa juntos, Cami. Proteger todo mundo envolvido faz parte
+disso.
+
+Aperto a mão dele, sentindo gratidão renovada por ter alguém que
+pensa não só na própria segurança, mas na segurança de cada pessoa
+que ajudou a construir essa vitória inteira, mesmo em meio a tanta
+incerteza ainda pairando sobre o próprio futuro imediato.
+
+Mais tarde, já no quarto, incapaz de dormir completamente, fico
+olhando pro teto no escuro, repassando mentalmente cada palavra que
+Dan repetiu do próprio pai. *Não vou deixar isso terminar assim tão
+fácil.* A frase continua girando, recusando qualquer interpretação
+tranquilizadora.
+
+Alex percebe minha inquietação, ainda meio acordado ao meu lado.
+
+— Não consegue dormir?
+
+— Não. Continuo pensando no que ele pode estar planejando.
+
+— Vem cá — murmura, puxando eu mais perto. — Não vamos resolver isso
+essa noite, pensando sem parar. Vamos descansar, e enfrentar o que
+vier amanhã, com a cabeça mais clara.
+
+Encosto nele, deixando o calor familiar do corpo dele acalmar,
+devagar, o próprio nervosismo que insiste em não me deixar em paz.

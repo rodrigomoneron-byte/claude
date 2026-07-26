@@ -152,3 +152,24 @@ por aí.
 As portas abrem antes que qualquer um dos dois precise explicar mais
 do que isso, e saímos pra noite fria de Manhattan carregando, pela
 primeira vez em semanas, algo parecido com esperança genuína.
+
+Caminhamos juntos pelas ruas ainda movimentadas, o próprio frio da
+noite mordendo de leve através do casaco, mas nenhum dos dois com
+pressa de chamar um táxi ainda.
+
+— Precisamos jantar algo — comento, notando o próprio estômago vazio
+depois de um dia inteiro consumido por tensão.
+
+— Concordo. Conheço um lugar pequeno perto daqui, nada chamativo, mas
+comida boa.
+
+— Perfeito.
+
+Ele me guia até um restaurante despretensioso, e jantamos ali, conversa
+leve preenchendo o espaço entre nós dois, risada genuína substituindo
+aos poucos a tensão acumulada do próprio dia inteiro.
+
+— Isso foi exatamente o que eu precisava — comento, no fim da
+refeição.
+
+— Eu também precisava disso. De você, principalmente.

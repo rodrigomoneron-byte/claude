@@ -23,6 +23,10 @@
 
 ## Elenco de apoio
 - **Marcus Boone** — COO da Voss Capital, braço direito de Alex.
+  Namorada nova a partir do cap. 56: **Naomi**, consultora financeira
+  (nome corrigido de "Priya" durante a escrita — Priya pertence ao
+  elenco de Gelo e Sangue, vazamento de universo pego e corrigido
+  antes de registrar).
 - **Devon Ashworth** — Chefe de Dados/IA da Voss Capital, não-binárie,
   consciência ética da equipe.
 - **Elena Voss** — irmã mais nova de Alex, artista, afastada da

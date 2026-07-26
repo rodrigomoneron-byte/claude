@@ -141,3 +141,34 @@ Desligo sentindo gratidão por ter alguém disposto a agir rápido sem
 questionar excessivamente, e fico ali, olhando pro skyline através da
 janela, tentando antecipar qual será o próximo movimento de um homem
 disposto a sacrificar qualquer princípio pela própria ambição.
+
+Ligo pra Cami antes de ir dormir, precisando ouvir a voz dela mais uma
+vez antes de encerrar o próprio dia.
+
+— Só queria dizer boa noite — falo, quando ela atende. — E que estou
+pensando em você.
+
+— Isso é gesto doce, considerando o dia pesado que tivemos.
+
+— Precisava disso também, honestamente. Lembrar que existe coisa boa
+em meio a tanta complicação.
+
+— Boa noite, Alex. Durma bem.
+
+— Você também. Amanhã encaramos mais uma rodada juntos.
+
+Desligo sentindo o próprio peito se aquecer, apesar de toda a
+apreensão residual sobre Robert Carter, gratidão renovada por ter
+alguém capaz de tornar até o fim de um dia difícil em momento de
+conforto genuíno.
+
+Deito na cama vazia, o próprio quarto silencioso demais depois de um
+dia carregado de tanta tensão acumulada, e fico ali, olhando pro
+teto, repassando mentalmente cada decisão tomada nas últimas horas —
+proteger Dan, confiar em Denise, escolher estratégia que não sacrifica
+ninguém desnecessariamente.
+
+Adormeço, eventualmente, sentindo que talvez essa disposição de
+escolher caminho mais difícil, mas mais íntegro, seja exatamente o
+tipo de liderança que quero deixar como legado, muito além de
+qualquer resultado financeiro que essa guerra inteira ainda traga.

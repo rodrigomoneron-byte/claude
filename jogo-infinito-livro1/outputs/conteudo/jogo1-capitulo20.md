@@ -126,6 +126,23 @@ que talvez essa seja exatamente a prova que preciso — não de que
 vamos vencer fácil, mas de que estamos dispostos a atravessar difícil
 juntos, sem soltar a mão um do outro no meio do caminho.
 
+— Preciso te perguntar uma coisa — ela comenta, depois de um momento,
+os dedos ainda entrelaçados nos meus. — Se isso continuar escalando,
+se a candidatura de Robert Carter transformar tudo isso em espetáculo
+público completo, você ainda vai querer minha consultoria envolvida?
+Ou vira risco político demais pra você carregar?
+
+A pergunta pega de surpresa, e levo um momento pra responder com a
+seriedade que ela merece.
+
+— Nunca vou pensar em você como risco a ser gerenciado, Cami. Você é
+a razão de eu ainda conseguir pensar com clareza em meio a tudo isso.
+
+— Isso é generoso, considerando quanto minha presença já complicou as
+coisas.
+
+— Complicou de jeito bom. Do jeito que importa.
+
 O celular dela vibra na mesa, quebrando o momento. Ela olha a tela, e
 alguma coisa no rosto dela muda — não alarme completo, mas atenção
 repentina, afiada.

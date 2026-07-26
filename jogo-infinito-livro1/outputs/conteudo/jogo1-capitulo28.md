@@ -132,3 +132,39 @@ Ela assente, satisfeita com a resposta, e sinto, pela primeira vez
 desde ontem à noite, que talvez estejamos realmente encontrando o
 próprio caminho de volta, mais devagar do que gostaria, mas real o
 suficiente pra confiar nele.
+
+— Preciso te agradecer por uma coisa — ela comenta, depois de um
+momento. — Por não tentar apressar essa reconstrução. Por deixar eu
+processar no próprio ritmo, sem pressionar pra voltar rápido demais ao
+normal.
+
+— Você merece esse espaço. Apressar isso só teria machucado os dois
+mais ainda.
+
+— Aprendi isso com você, de certo modo. A importância de dar tempo
+real pras coisas se resolverem direito, em vez de forçar resolução
+rápida só pra parecer bem na superfície.
+
+— Isso é lição que aprendemos juntos, acho.
+
+— Talvez seja mesmo.
+
+Ficamos sentados juntos em silêncio confortável mais um tempo, o peso
+da própria reconciliação ainda recente se assentando devagar, mas
+firme, entre nós dois.
+
+— Vou pedir comida — comento, depois de um tempo, quebrando o
+silêncio. — Aquele lugar tailandês que você gosta?
+
+— Perfeito. Já sinto fome só de pensar.
+
+Peço a comida, e voltamos a sentar juntos, conversa leve preenchendo
+o espaço que horas atrás carregava só tensão pesada. Existe algo
+quase milagroso, penso, em como uma noite pode conter tanto — mágoa
+real, conversa difícil, reconciliação frágil, e agora essa
+normalidade pequena, tão bem-vinda depois de tudo.
+
+— Obrigada por essa noite — ela murmura, encostando mais perto. —
+Por não desistir de mim, mesmo quando eu precisava de espaço.
+
+— Nunca ia desistir. Só precisava aprender a esperar direito.

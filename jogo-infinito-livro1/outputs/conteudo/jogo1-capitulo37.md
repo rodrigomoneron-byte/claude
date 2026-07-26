@@ -137,3 +137,48 @@ importa, mesmo em meio a tanta complicação pessoal ao redor.
 Ele se despede, seguindo pro próprio compromisso seguinte, e fico ali
 por um momento, absorvendo o peso de mais um dia que, apesar de tudo,
 trouxe mais clareza do que confusão pro caso inteiro.
+
+Ligo pra Alex, precisando compartilhar como o depoimento correu antes
+de qualquer outra coisa.
+
+— Warren foi excepcional — conto, assim que ele atende. — A sala
+inteira ficou em silêncio, ouvindo cada palavra dele.
+
+— Isso é ótimo. Como ele estava, depois de tudo?
+
+— Mais leve, na verdade. Como se contar a própria história tivesse
+devolvido alguma coisa que ele perdeu junto com a oficina.
+
+— Isso é exatamente o tipo de resultado que esperávamos, além só do
+impacto legal.
+
+— Concordo completamente. Vamos comemorar isso hoje à noite?
+
+— Definitivamente.
+
+Desligo, guardando o celular na bolsa, e fico parada mais um momento
+no corredor vazio do tribunal, deixando o próprio dia se assentar
+devagar. Penso em Warren, provavelmente já em casa a essa hora,
+processando o próprio depoimento, talvez sentindo, pela primeira vez
+em meses, que a própria voz finalmente contou pra alguma coisa maior
+do que só sobrevivência silenciosa.
+
+Renata me alcança na saída, o próprio rosto carregando satisfação
+profissional contida.
+
+— Como você está, depois de tudo isso?
+
+— Bem. Melhor do que esperava, considerando o peso emocional do
+próprio depoimento.
+
+— Casos assim lembram por que escolhemos esse trabalho, apesar de
+tanta complicação política ao redor.
+
+— Exatamente isso. Vou pra casa agora, processar o resto do dia com
+calma.
+
+— Merece o descanso. Foi um dia importante.
+
+Caminho até o carro sozinha, sentindo o próprio corpo finalmente
+relaxar depois de horas de tensão acumulada, grata por testemunhar
+algo genuinamente significativo nesse dia específico.

@@ -139,6 +139,15 @@ Penso em mim mesma, ainda carregando o relógio parado do meu pai como
 lembrete constante de tudo que silêncio pode destruir quando ninguém
 tem coragem de falar a tempo.
 
+Levanto devagar, sem acender luz nenhuma, e vou até a janela, olhando
+pra cidade ainda desperta lá fora, luzes espalhadas por cada prédio
+carregando própria história privada que nunca vou conhecer
+completamente. Existe conforto estranho nisso, penso — saber que cada
+janela iluminada esconde luta própria, dificuldade própria, e que
+ninguém atravessa a vida inteira sem enfrentar momento de escolha
+parecido com o que Dan, Alex e eu enfrentamos agora, cada um à
+própria maneira.
+
 Três pessoas diferentes, três histórias de pai que ensinou lição
 errada de algum jeito, e ainda assim os três tentando, cada um à
 própria maneira, escolher caminho diferente daquele que foi ensinado.

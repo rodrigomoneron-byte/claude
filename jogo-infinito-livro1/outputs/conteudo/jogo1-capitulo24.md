@@ -145,3 +145,50 @@ de tudo que os dois construímos apesar de cada nova complicação, e
 entramos juntos no elevador, prontos pra mais uma rodada da mesma
 guerra que já não sabemos mais contar quantas vezes precisamos
 enfrentar.
+
+No elevador, ela encosta a cabeça no meu ombro por um momento, o
+próprio cansaço visível apesar do esforço de manter compostura
+profissional.
+
+— Você está bem? — pergunto, notando o peso acumulado nela.
+
+— Estou. Só cansada, considerando quantas frentes diferentes essa
+guerra abriu ao mesmo tempo.
+
+— Podemos desacelerar um pouco, se precisar.
+
+— Não podemos, realmente. Mas aprecio a oferta.
+
+— Então vamos atravessar isso juntos, no ritmo que a situação exigir.
+
+— Combinado.
+
+As portas do elevador abrem no térreo, e saímos juntos pro fim de
+tarde ainda claro, prontos pra encarar o que quer que a sexta-feira
+ainda reserve pros dois.
+
+No carro, ela liga o próprio celular pra Denise, colocando em
+viva-voz enquanto dirijo, e escuto os dois alinharem os primeiros
+detalhes da reunião de sexta — horário, documentos necessários,
+perguntas que precisamos antecipar antes de qualquer coisa pegar nós
+dois de surpresa.
+
+— Isso deve cobrir o essencial — Denise conclui, depois de alguns
+minutos. — Vou mandar resumo por escrito ainda hoje à noite.
+
+— Perfeito. Obrigado, Denise.
+
+Cami desliga, guardando o celular, e encosta a cabeça no banco,
+fechando os olhos por um momento.
+
+— Cansada? — pergunto, parando no sinal vermelho.
+
+— Um pouco. Mas é o tipo de cansaço que vem de trabalho que importa,
+não de trabalho vazio.
+
+— Isso é jeito generoso de encarar semana tão pesada.
+
+— Aprendi a encontrar generosidade onde consigo, ultimamente.
+
+O sinal abre, e sigo dirigindo, sentindo gratidão silenciosa por
+atravessar mais essa semana difícil com ela ao lado, não sozinho.

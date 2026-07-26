@@ -153,3 +153,18 @@ faria.
 
 — Vai ser, se você continuar escolhendo verdade em vez de conveniência.
 Continue assim, e vamos descobrir o resto juntos.
+
+Adormeço pouco depois, o peso da própria conversa se assentando devagar,
+e acordo de madrugada, incapaz de voltar a dormir completamente. Fico
+ali, olhando pro teto escuro, pensando em Marcus, no próprio erro dele,
+em como julgamento fácil seria a resposta mais simples, mas não a mais
+justa.
+
+Cami se mexe ao meu lado, ainda adormecida, e observo ela por um
+momento, gratidão profunda crescendo por ter alguém que me ensina,
+constantemente, que verdade completa vale mais do que qualquer
+conforto temporário de fingir que tudo está bem quando não está.
+
+Fecho os olhos de novo, decidido a enfrentar o próprio dia seguinte
+com a mesma clareza que ela sempre traz pra cada decisão difícil que
+enfrentamos juntos.

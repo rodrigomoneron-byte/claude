@@ -162,3 +162,14 @@ Aceno, guardando a frase dela como se fosse âncora, e entramos juntos
 na sala onde sete pessoas já esperam, prontas pra decidir se ainda
 confiam em mim o suficiente pra continuar liderando a própria empresa
 que construí.
+
+Patricia já está sentada na própria posição habitual, os papéis
+organizados diante dela com precisão calculada, e sinto, cruzando o
+próprio olhar com o dela por um segundo, que essa reunião específica
+vai definir muito mais do que só voto de conselho — vai definir se a
+transparência que escolhi pode realmente sobreviver ao próprio custo
+político que carrega.
+
+Cami se senta na área reservada, longe o suficiente pra parecer
+neutra, perto o suficiente pra eu sentir a presença dela ao longo de
+cada palavra que ainda preciso pronunciar.

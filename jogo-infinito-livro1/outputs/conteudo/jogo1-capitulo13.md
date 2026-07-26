@@ -161,3 +161,15 @@ Ele me puxa mais perto, o próprio peito subindo e descendo mais devagar
 agora, e adormecemos assim, os dois carregando o peso de escolhas que
 nenhum dos dois está disposto a desfazer, mesmo sabendo quanto ainda
 vão custar antes do fim.
+
+Acordo antes dele de manhã, o quarto ainda escuro, e fico deitada
+ali, observando o próprio teto, pensando no café marcado com Robert
+Carter mais tarde naquele dia. Alguma parte de mim já sabe que
+qualquer coisa que ele disser vai carregar segunda intenção, mas
+escolho, mesmo assim, ir de olhos abertos, confiando na própria
+capacidade de reconhecer manipulação antes que ela cause dano real.
+
+Alex se mexe ao meu lado, ainda dormindo, e observo ele por um
+momento, grata por essa pausa pequena antes que o dia inteiro
+recomece, exigindo de novo cada pedaço de energia que ainda consigo
+reunir.

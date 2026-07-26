@@ -150,3 +150,38 @@ tempo, absorvendo juntos o peso estranho de uma noite que trouxe
 ataque doloroso e, ao mesmo tempo, prova renovada de que ainda existe
 gente disposta a fazer certo, mesmo em meio a tanta manipulação ao
 redor.
+
+— Preciso te contar uma coisa — falo, depois de um tempo. — Marcus já
+está preparando resposta formal com Denise. Vamos publicar desmentido
+completo amanhã de manhã, com prova documental clara.
+
+— Isso ajuda, mas ainda não desfaz o próprio impacto emocional.
+
+— Sei disso. Só queria que você soubesse que estamos fazendo tudo
+possível pra corrigir o estrago.
+
+— Aprecio isso, Alex. De verdade.
+
+Beijo o topo da cabeça dela, sentindo o próprio corpo dela relaxar
+gradualmente contra o meu, e ficamos ali em silêncio, absorvendo juntos
+o peso da própria noite difícil, gratos, apesar de tudo, por
+atravessar mais essa dificuldade um ao lado do outro.
+
+Mais tarde, já deitados, incapaz de dormir completamente, fico
+observando ela finalmente adormecer, o próprio rosto ainda carregando
+vestígio de tensão mesmo em sono. Penso em quanto essa mentira
+específica, calculada pra doer no lugar mais vulnerável possível,
+revela sobre até onde Robert Carter está disposto a ir.
+
+Pego o celular, escrevendo mensagem rápida pra Marcus.
+
+*Preciso de atualização sobre o desmentido assim que estiver pronto.
+Quero publicar antes das sete da manhã, antes que mais gente veja só
+a versão distorcida.*
+
+A resposta chega minutos depois. *Já estamos nisso. Vai estar pronto.*
+
+Guardo o celular, voltando atenção pra Cami adormecida ao meu lado, e
+decido, silenciosamente, que vou encontrar qualquer meio necessário
+pra garantir que essa mentira específica nunca mais tenha poder sobre
+ela outra vez.

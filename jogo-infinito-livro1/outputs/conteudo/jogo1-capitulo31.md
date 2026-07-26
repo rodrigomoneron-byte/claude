@@ -135,3 +135,45 @@ geralmente comete mais erro do que só esse primeiro.
 
 A observação dela carrega peso profético que espero, sinceramente, não
 se confirmar completamente nas próximas semanas.
+
+— Preciso ligar pro Alex também — comento, já pegando o celular. — Ele
+precisa saber disso antes de qualquer coisa mais escalar.
+
+— Vai com calma na ligação. Vocês dois já carregam peso suficiente
+sem precisar de mais uma crise chegando de supetão.
+
+— Vou tentar. Mas Robert Carter parece decidido a testar cada limite
+possível, e isso me deixa nervosa de um jeito que não sentia há
+semanas.
+
+— É natural sentir isso. Só não deixa esse nervosismo tomar conta
+completamente. Vocês já sobreviveram a coisa pior.
+
+— Isso é verdade. Obrigada por lembrar, Renata.
+
+— Sempre que precisar.
+
+Ela sai da sala, deixando a porta entreaberta, e fico ali sozinha por
+um momento, tentando organizar mentalmente cada movimento possível que
+Robert Carter ainda pode fazer antes que essa guerra inteira chegue a
+alguma conclusão. Ligo pro Alex, precisando ouvir a voz dele antes de
+enfrentar o resto do dia.
+
+— Já sabe sobre Warren? — pergunto, assim que ele atende.
+
+— Dan acabou de me contar. Meu pai nunca teria ido tão longe, mesmo
+nos piores momentos da própria carreira.
+
+— Isso me preocupa mais do que qualquer estratégia jurídica formal.
+Gente desesperada é imprevisível.
+
+— Vamos documentar tudo, com cuidado redobrado a partir de agora. Não
+podemos dar a ele nenhuma brecha nova.
+
+— Concordo completamente. Te vejo daqui a pouco?
+
+— Estou a caminho.
+
+Desligo, sentindo o peso da conversa se assentar devagar, e volto pro
+computador, determinada a transformar preocupação em preparação
+concreta antes que a próxima crise chegue sem aviso.

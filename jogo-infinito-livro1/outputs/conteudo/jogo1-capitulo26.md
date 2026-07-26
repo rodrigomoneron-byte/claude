@@ -147,3 +147,20 @@ esperar ele passar direito.
 Desligo sentindo o conselho dele se assentar, verdadeiro mas
 insuficiente pra aliviar completamente o peso que carrego dirigindo de
 volta pra casa vazia demais essa noite.
+
+Chego em casa, o apartamento carregando silêncio que reconheço agora
+como diferente de solidão comum — é o silêncio específico de alguém
+que sabe exatamente o próprio erro, e ainda não sabe se merece
+oportunidade de corrigir ele completamente.
+
+Sento na sala escura, sem acender luz nenhuma, e fico ali por um
+tempo, processando cada palavra da conversa com Cami, cada expressão
+de mágoa genuína no rosto dela. Penso em quantas vezes já vi pessoas
+esconderem verdade difícil por medo, e em como sempre jurei que nunca
+seria esse tipo de pessoa — até o momento exato em que fui.
+
+O celular vibra, uma mensagem de Marcus, breve mas carregada de
+apoio: *Ela vai processar no próprio tempo. Você fez a coisa certa,
+mesmo tarde. Isso conta pra alguma coisa.* Releio a mensagem duas
+vezes, sentindo gratidão genuína por ter, mesmo em meio ao próprio
+erro, alguém disposto a oferecer perspectiva sem julgamento fácil.
