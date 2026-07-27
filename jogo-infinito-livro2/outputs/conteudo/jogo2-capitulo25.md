@@ -26,6 +26,9 @@ pendentes pra fechar o quadro inteiro.
 
 — Entendo. Prefiro cautela a alívio precipitado, de qualquer jeito.
 
+Sinto o próprio corpo firme, já organizando mentalmente cada palavra
+que ainda preciso escolher com cuidado antes da conversa que vem.
+
 — Boa escolha. Vou continuar e ligo assim que tiver o quadro
 completo.
 

@@ -15,6 +15,10 @@ tirando o próprio blazer, jogando ele displicente numa cadeira.
 
 — Concordo completamente. Só nós dois, hoje.
 
+Sinto o próprio corpo relaxar ligeiramente, gratidão silenciosa
+crescendo por essa decisão simples de proteger algumas horas só pra
+nós dois.
+
 — Sem celular também — acrescenta, já indo desligar o próprio
 aparelho. — Se alguma coisa urgente acontecer, vai continuar
 esperando até amanhã de manhã.

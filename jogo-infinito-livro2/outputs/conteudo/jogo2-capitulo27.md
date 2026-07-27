@@ -22,6 +22,9 @@ uma linha específica destacada em amarelo.
 — Nada que prove qualquer coisa sozinho. Mas junto com o resto, achei
 que merecia sua atenção antes de eu deixar passar despercebido.
 
+Anoto mentalmente cada detalhe que ele traz, sentindo o próprio corpo
+já se preparar pra reunir tudo com cuidado redobrado.
+
 — Patricia acessa o relatório completo, sempre, dentro de poucas
 horas depois de qualquer atualização nova ser publicada. Mais rápido
 que qualquer outro membro do comitê, inclusive David e Sandra, que

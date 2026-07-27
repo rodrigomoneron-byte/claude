@@ -93,6 +93,9 @@ mais existe lá fora, ligado a mim por sangue, que eu nunca conheci.
 
 — Isso é humano. Só não deixa curiosidade virar ponto cego.
 
+Sinto o próprio corpo relaxar ligeiramente com a própria observação
+dele, grato por essa perspectiva externa que ajuda a equilibrar tudo.
+
 — Não vou deixar. Por isso a due diligence continua, mesmo enquanto
 avançamos com a conversa.
 

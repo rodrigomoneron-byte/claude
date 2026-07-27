@@ -12,6 +12,9 @@ está falida. Está limitada.
 
 — Isso muda a leitura da proposta?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço bem demais.
+
 — Muda o contexto. Ela precisa dessa parceria mais do que deixou
 transparecer na primeira reunião. Isso não a torna golpista
 automaticamente. Só significa que a motivação dela pesa mais pro lado

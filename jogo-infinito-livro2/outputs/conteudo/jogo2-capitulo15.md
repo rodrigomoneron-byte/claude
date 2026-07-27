@@ -79,6 +79,9 @@ Só achei a coincidência interessante.
 diferentes. Pode ser só volume normal de negócio deles. Só queria que
 você soubesse, pra formar o próprio julgamento.
 
+Sinto o próprio corpo tenso, absorvendo mais essa peça pequena antes
+de conseguir formular qualquer resposta completa.
+
 Absorvo a informação, sentindo o próprio peso dela se somar ao resto
 — nenhuma peça individual suficiente, todas juntas ainda formando
 sombra que recuso ignorar completamente.

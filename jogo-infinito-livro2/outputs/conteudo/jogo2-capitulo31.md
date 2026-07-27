@@ -29,6 +29,9 @@ explicação completa, não pra condenação já decidida de antemão.
 
 — Aprecio você dizer isso. Mesmo sabendo que mereço o escrutínio.
 
+Sinto o próprio corpo firme, mantendo o tom justo apesar do peso
+crescente da própria conversa.
+
 — Vamos manter isso justo, dos dois lados — acrescento, sentindo
 necessidade de reforçar o próprio compromisso antes de começar.
 

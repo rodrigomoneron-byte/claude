@@ -17,14 +17,14 @@ cumplicidade. As duas já contrataram advogado próprio.
 Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
 peso de quem espera veredicto formal.
 
-Sinto o próprio corpo tenso, esperando a resposta com o mesmo peso
-de quem espera veredicto.
-
 — Provavelmente não, considerando ausência de antecedente criminal e
 a cooperação total de ambas depois da descoberta. Mais provável é
 multa substancial e algum tipo de liberdade condicional supervisionada.
 
 — Isso parece consequência proporcional, pelo menos.
+
+Sinto o próprio corpo relaxar ligeiramente, apesar de saber que o
+próprio peso emocional ainda está longe de se resolver completamente.
 
 — Concordo. A promotoria também reconheceu que nenhuma das duas
 tentou destruir prova nem fugir da própria responsabilidade.
