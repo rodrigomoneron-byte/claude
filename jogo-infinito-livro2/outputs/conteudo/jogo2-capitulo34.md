@@ -27,6 +27,9 @@ aconteceram. Mas a frequência, sozinha, já é dado relevante.
 — Existe alguma explicação inocente possível, na sua avaliação
 profissional?
 
+Devon pensa por um momento antes de responder, o próprio rosto
+carregando a mesma seriedade cuidadosa de sempre.
+
 — Existe. Supervisão legítima, considerando o cargo dela, poderia
 justificar contato ocasional. Só a frequência específica que foge do
 padrão normal.
@@ -153,3 +156,7 @@ Seguimos pra cozinha juntos, preparando algo simples lado a lado, e
 sinto, apesar de todo o peso ainda pendurado sobre nós dois, gratidão
 silenciosa por essa pausa pequena antes de encarar mais um dia de
 verificação amanhã.
+
+Terminamos de comer em silêncio confortável, e sinto, lavando os
+próprios pratos ao lado dela, o peso da noite finalmente começar a
+ceder espaço pro descanso que os dois tanto precisamos.

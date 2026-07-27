@@ -30,6 +30,9 @@ Aplaudimos, Alex e eu, sentindo o próprio peito se encher de
 felicidade genuína por testemunhar esse momento pequeno, mas
 carregado de significado real.
 
+— Parabéns, vocês dois — comento, sentindo os próprios olhos
+marejarem também, contagiada pela emoção genuína do momento.
+
 Alex aperta minha mão por baixo da mesa, o próprio rosto carregando
 emoção que reconheço como espelho exato do que sinto, os dois
 absorvendo juntos esse momento que carrega, silenciosamente, tanto do
@@ -148,3 +151,8 @@ contra minha nuca, e o último pensamento que carrego antes de
 mergulhar completamente no sono é gratidão simples, silenciosa, por
 essa noite que carregou tanto amor genuíno florescendo ao nosso
 redor.
+
+A madrugada segue tranquila, o quarto silencioso, e durmo sem
+interrupção pela primeira vez em muitas semanas, o corpo inteiro
+finalmente relaxado depois de tanta boa notícia acumulada num só
+dia.

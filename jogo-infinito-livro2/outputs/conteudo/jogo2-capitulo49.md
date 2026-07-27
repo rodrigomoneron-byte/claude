@@ -11,6 +11,10 @@ ligar pra saber como você está.
 
 — Estou bem, Warren. Cansada, mas bem. Obrigada por perguntar.
 
+— Cansada faz sentido, considerando tudo que passou. Só queria
+garantir que você sabe que tem gente torcendo por vocês dois, mesmo
+de longe.
+
 — Imagino que sim. Esse tipo de coisa cansa de um jeito que trabalho
 normal não cansa.
 
@@ -160,3 +164,7 @@ Fico sentada mais um momento, olhando pela janela do escritório, e
 decido que é hora de ir pra casa, encontrar Alex, e começar,
 finalmente, a próxima etapa dessa vida que os dois continuam
 construindo juntos.
+
+Desligo o próprio computador, guardando os últimos papéis na pasta,
+e saio do escritório sentindo, pela primeira vez em semanas, leveza
+genuína substituindo o peso que carreguei por tanto tempo.
