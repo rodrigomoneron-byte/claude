@@ -14,6 +14,9 @@ cumplicidade. As duas já contrataram advogado próprio.
 
 — Isso significa prisão?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+peso de quem espera veredicto formal.
+
 Sinto o próprio corpo tenso, esperando a resposta com o mesmo peso
 de quem espera veredicto.
 
@@ -55,6 +58,9 @@ cooperação e ausência de antecedente. Precisamos decidir, formalmente,
 o que fazer com a parceria.
 
 — O que você está pensando?
+
+Sinto o próprio corpo tenso, tentando organizar mentalmente a
+resposta antes mesmo de conseguir dizer em voz alta.
 
 — Estou pensando que preciso encerrar formalmente, mesmo que isso
 doa. Não posso continuar parceria construída sobre fraude, não

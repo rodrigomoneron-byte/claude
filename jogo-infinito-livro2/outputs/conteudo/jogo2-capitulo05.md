@@ -12,6 +12,9 @@ beijando meu rosto na entrada.
 
 — Vamos. Ainda não decidi se estou nervosa ou só curiosa.
 
+Elena ri baixinho, guardando o próprio vinho na cozinha antes de
+voltar pra sala comigo.
+
 — As duas coisas fazem sentido, considerando tudo que ainda não
 sabemos sobre ela.
 
@@ -25,6 +28,9 @@ isso tão cedo na negociação.
 
 — Não é negociação hoje — Alex responde, sorrindo. — É só jantar.
 Família, se você topar chamar assim ainda.
+
+Alexandra sorri, o próprio olhar suavizando com a própria frase
+dele, e sento observando a reação genuína dela com atenção redobrada.
 
 ---
 

@@ -33,6 +33,9 @@ em diante.
 se firmar. — Só preciso de um momento pra processar antes de decidir
 qualquer coisa.
 
+Denise assente, guardando os próprios documentos com cuidado,
+deixando o espaço existir sem pressa nenhuma.
+
 ---
 
 — Não sei ainda — admito, sentindo o próprio peso da pergunta pesar
@@ -66,6 +69,9 @@ como reserva ainda não completamente resolvida.
 ---
 
 — O que foi? — pergunto, notando a expressão dela.
+
+Cami respira fundo, o próprio corpo ainda tenso pelo peso da manhã
+inteira antes de conseguir formular a própria resposta.
 
 — Só continuo pensando em Patricia. A defesa dela foi intensa demais
 pra ser só preocupação corporativa padrão. Preciso entender melhor o

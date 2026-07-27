@@ -15,6 +15,9 @@ Isso é diferente de tudo que ela já nos disse diretamente.
 — Onde exatamente Richard ouviu isso? — pergunto, tentando manter o
 próprio tom neutro, sem julgamento precipitado.
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço bem demais.
+
 — Numa festa, meses atrás. Alexandra comentou de passagem, segundo
 ele, sem parecer perceber o próprio peso da frase.
 
@@ -25,6 +28,9 @@ que não deu importância na época.
 brincadeira.
 
 — Você tem razão. Só... custa admitir isso em voz alta.
+
+Aperto a mão dele, sentindo o próprio peso da confissão dele se
+somar ao meu, os dois processando devagar a mesma verdade difícil.
 
 — Sei que custa. Só precisamos continuar sendo honestos, mesmo
 quando isso dói.

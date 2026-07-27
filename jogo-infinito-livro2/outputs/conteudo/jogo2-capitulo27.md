@@ -13,6 +13,9 @@ Encontrei padrão de acesso que quero que você veja.
 
 — Que tipo de padrão?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço bem demais.
+
 Devon gira o próprio laptop mais um pouco na minha direção, apontando
 uma linha específica destacada em amarelo.
 
@@ -64,6 +67,9 @@ demais pra ser coincidência simples.
 
 — Isso pode significar que alguém desconfiou de alguma coisa, ou
 apenas mudança normal de portfólio.
+
+Anoto mentalmente cada detalhe que ela traz, sentindo o próprio corpo
+já se preparar pra compartilhar tudo com Alex assim que ele chegar.
 
 — Pode ser as duas coisas. Só achei que devia trazer, considerando
 todo o resto que já estamos rastreando.

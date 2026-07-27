@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 44,
+  "next_chapter": 32,
   "next_pov": "Alex",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -44,7 +44,7 @@
     {
       "n": 5,
       "pov": "Cami",
-      "words": 903,
+      "words": 939,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -107,14 +107,14 @@
     {
       "n": 14,
       "pov": "Alex",
-      "words": 901,
+      "words": 932,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 15,
       "pov": "Cami",
-      "words": 900,
+      "words": 937,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -184,7 +184,7 @@
     {
       "n": 25,
       "pov": "Cami",
-      "words": 902,
+      "words": 939,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -198,7 +198,7 @@
     {
       "n": 27,
       "pov": "Cami",
-      "words": 897,
+      "words": 939,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -212,7 +212,7 @@
     {
       "n": 29,
       "pov": "Cami",
-      "words": 900,
+      "words": 942,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -226,14 +226,14 @@
     {
       "n": 31,
       "pov": "Cami",
-      "words": 905,
+      "words": 939,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 32,
       "pov": "Alex",
-      "words": 897,
+      "words": 932,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -317,7 +317,7 @@
     {
       "n": 44,
       "pov": "Alex",
-      "words": 903,
+      "words": 939,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -401,7 +401,7 @@
     {
       "n": 56,
       "pov": "Alex",
-      "words": 896,
+      "words": 934,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -459,8 +459,8 @@
   ],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 55521,
-    "pages_kdp": 185,
+    "total_words": 55889,
+    "pages_kdp": 186,
     "avg_score": 7.0,
     "pct_to_target": 96
   },
@@ -477,5 +477,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 03:25"
+  "updated": "2026-07-27 03:26"
 }

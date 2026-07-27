@@ -14,6 +14,9 @@ Documento de sucessão limpo, sem qualquer inconsistência.
 
 — Isso é bom sinal, finalmente.
 
+Sinto o próprio corpo relaxar ligeiramente, mesmo sabendo que a
+verificação completa ainda não chegou ao fim.
+
 — É. Só não quero que vocês relaxem antes da hora, considerando tudo
 que ainda está em jogo.
 
@@ -80,6 +83,9 @@ dois.
 
 — O que você precisa fazer diferente, então? — Cami pergunta,
 mantendo o próprio tom firme mas justo.
+
+Observo Alexandra processar a própria pergunta, o rosto carregando
+seriedade que reconheço como genuína, mesmo em meio a tanta cautela.
 
 — Preciso, literalmente, listar tudo que ainda não compartilhei,
 mesmo o que parece irrelevante, e trazer pra vocês antes de qualquer

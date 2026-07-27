@@ -12,6 +12,9 @@ adiciona mais uma camada de ambiguidade ao próprio quebra-cabeça.
 — Isso é medida sensata — ela comenta, depois da votação. — Aprecio
 o cuidado extra.
 
+Observo o próprio rosto dela com atenção redobrada, tentando
+decifrar qualquer sinal por trás da resposta tão rápida.
+
 — Fico feliz que você concorde. Prefiro esse tipo de estrutura formal
 desde o início, evitando qualquer ambiguidade mais tarde.
 
@@ -42,6 +45,9 @@ oficial — anuncia. — Disse que tem peça nova que quer mostrar
 primeiro pra mim.
 
 — Isso é rápido, Elena.
+
+Sinto o próprio corpo tenso, o instinto profissional se firmando
+mesmo em meio à conversa leve com a própria cunhada.
 
 — Sei que você continua cautelosa. Só... ela também parece
 genuinamente sozinha, sabe? Cresceu sem família de verdade. Faz

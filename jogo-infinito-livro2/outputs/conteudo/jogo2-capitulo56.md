@@ -16,6 +16,9 @@ algo pessoal por trás.
 — Está mesmo. Acho que processar tudo com Alexandra, de um jeito
 estranho, alimentou o próprio trabalho dela recente.
 
+Observo Elena à distância, cumprimentando mais um convidado com o
+próprio sorriso genuíno que sinto contagiar todo o espaço.
+
 — Isso é o tipo de coisa que só se percebe olhando pra trás, sabe —
 comento, ainda observando a tela. — Na hora, só parece dor pura.
 
@@ -36,6 +39,9 @@ ainda mais fortes do que da última vez.
 — Obrigada. Processei muita coisa nos últimos meses, através da
 própria pintura. Acabou virando material novo, de um jeito que não
 esperava.
+
+Sinto o próprio peito se aquecer, orgulho genuíno crescendo por essa
+irmã que transformou dor real em algo tão bonito.
 
 — Isso é o que arte real faz, acho — transforma dor real em alguma
 coisa que outras pessoas também conseguem reconhecer em si mesmas.

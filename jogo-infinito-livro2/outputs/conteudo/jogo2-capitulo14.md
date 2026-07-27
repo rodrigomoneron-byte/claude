@@ -20,6 +20,9 @@ Ela sorri, um gesto que parece genuinamente aliviado.
 
 — Isso é tudo que eu queria também.
 
+Peço o próprio café, sentindo o clima entre nós dois mais leve do
+que qualquer conversa recente conseguiu ser.
+
 ---
 
 — Me conta sobre seu pai — peço, depois que os pratos chegam. — O que
@@ -55,6 +58,9 @@ que, agora, estou aqui, tentando construir alguma coisa COM a família
 que negou.
 
 — Isso não é ironia. É evolução.
+
+Ela sorri, o próprio olhar carregando gratidão genuína por essa
+observação simples.
 
 Ela pausa, o próprio olhar carregando algo que reconheço como
 vulnerabilidade genuína, rara o suficiente pra pesar mais do que

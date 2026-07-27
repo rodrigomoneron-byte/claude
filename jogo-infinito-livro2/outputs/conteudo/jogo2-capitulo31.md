@@ -16,6 +16,9 @@ possível.
 
 — Estou pronta.
 
+Observo o próprio rosto dela, tentando decifrar qualquer sinal de
+defensividade por trás da própria calma aparente.
+
 Denise assente, abrindo a própria pasta devagar, e sinto, observando
 o gesto simples, o próprio peso formal do momento se instalar
 completamente na sala.
@@ -57,6 +60,9 @@ admitir claramente nem a mim mesma.
 
 — O que isso significa, exatamente? — Alex pergunta, a voz carregando
 tensão que reconheço como dolorosa pra ele articular.
+
+Aperto a própria caneta com mais força, esperando a resposta dela
+antes de anotar qualquer coisa adicional.
 
 — Significa que, em algum nível, uma parte de mim sempre carregou
 ressentimento real sobre o que minha família perdeu. Não é
