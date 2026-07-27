@@ -32,6 +32,9 @@ mentira nenhuma por baixo.
 
 — Isso é lindo de ouvir, Warren.
 
+— Obrigado. Levei tempo pra chegar nessa clareza, mas valeu cada
+etapa difícil do caminho.
+
 — É bom, sim. Aprendi que riqueza real não precisa ser grande. Só
 precisa ser verdadeira.
 
@@ -152,3 +155,8 @@ Guardo a última página assinada na própria pasta, fechando ela
 devagar, e sinto, pela primeira vez em semanas, que talvez realmente
 estejamos prontos pra deixar esse capítulo específico ficar
 completamente pra trás.
+
+Fico sentada mais um momento, olhando pela janela do escritório, e
+decido que é hora de ir pra casa, encontrar Alex, e começar,
+finalmente, a próxima etapa dessa vida que os dois continuam
+construindo juntos.

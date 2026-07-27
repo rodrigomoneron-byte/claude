@@ -22,6 +22,10 @@ completamente alguém que cometeu um erro específico, mesmo grave.
 
 — O que você propõe? — David pergunta.
 
+— Antes de responder, quero ouvir a opinião de vocês dois primeiro —
+respondo, olhando entre David e Sandra. — Essa decisão precisa
+carregar consenso real, não só minha própria vontade.
+
 — Antes de propor formalmente, quero deixar claro que essa não é
 decisão fácil pra mim, considerando o próprio histórico dela nessa
 empresa. Mas acredito que justiça proporcional serve melhor a essa
@@ -144,3 +148,8 @@ Olho pro relógio, notando que ainda tenho tempo antes de encontrar
 Cami, e decido caminhar um pouco antes, deixando o próprio peso da
 tarde se assentar completamente antes de levar essa paz nova pra
 casa com ela.
+
+Caminho devagar pelas ruas de Manhattan, o próprio ar fresco da
+tarde ajudando a organizar cada pensamento, e chego em casa mais
+leve do que saí, pronto finalmente pra compartilhar essa vitória
+específica com a pessoa que mais me ajudou a conquistá-la.

@@ -12,6 +12,11 @@ Cami.
 
 — Isso é... inesperado.
 
+— Sei que soa rápido demais. Só... queria compartilhar, já que você
+sempre me pede pra contar tudo.
+
+— Aprecio isso, Elena. De verdade.
+
 — É. E bonito, de um jeito estranho — as duas descobrindo interesse
 em comum que nenhuma esperava. Ela disse que nunca mostrou o próprio
 trabalho pra ninguém fora do círculo mais próximo.
@@ -132,3 +137,8 @@ Encosto a cabeça no ombro dele, sentindo o próprio peso da semana
 inteira ceder espaço, devagar, pra alguma coisa mais parecida com
 descanso genuíno, mesmo com tanta incerteza ainda pairando sobre o
 que ainda está por vir.
+
+Ficamos ali mais um tempo, o silêncio confortável preenchendo a
+sala, e sinto, apesar de toda a dúvida ainda sem resposta, gratidão
+profunda por atravessar mais essa incerteza ao lado de alguém que
+escolhe paciência real em vez de conclusão apressada.
