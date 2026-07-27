@@ -6,6 +6,9 @@ o próprio sucesso crescente dela visível em cada detalhe da própria
 produção, e caminho pelo espaço ao lado de Cami, observando minha
 irmã brilhar diante de uma plateia genuinamente interessada.
 
+Entramos na galeria lotada, o próprio zumbido de conversas animadas
+preenchendo o espaço inteiro.
+
 — Ela está radiante — Cami comenta, admirando uma tela específica
 que combina tons quentes e frios numa composição que sinto reconhecer
 algo pessoal por trás.
@@ -146,3 +149,7 @@ Durmo sem sonho nenhum pelo resto da noite, o corpo inteiro
 finalmente relaxado, e acordo horas depois sentindo, pela primeira
 vez em muito tempo, descanso genuíno em vez de exaustão apenas
 temporariamente adiada.
+
+Cami já está acordada quando abro os olhos, preparando café na
+cozinha, e o cheiro leva eu até ela antes mesmo de qualquer palavra
+ser trocada entre nós dois.

@@ -4,6 +4,9 @@
 Elena me liga de manhã, a voz carregando entusiasmo genuíno demais
 pra disfarçar.
 
+Atendo ainda meio sonolenta, o café da manhã esfriando ao lado do
+telefone.
+
 — Alexandra me convidou pra ver o próprio ateliê dela em Londres,
 quando formos pra lá pra formalizar a expansão — anuncia, sem
 preâmbulo. — Ela disse que também pinta, nas horas vagas. Mostrou
@@ -142,3 +145,7 @@ Ficamos ali mais um tempo, o silêncio confortável preenchendo a
 sala, e sinto, apesar de toda a dúvida ainda sem resposta, gratidão
 profunda por atravessar mais essa incerteza ao lado de alguém que
 escolhe paciência real em vez de conclusão apressada.
+
+Levantamos juntos, finalmente, seguindo pro quarto de mãos dadas, o
+próprio cansaço do dia inteiro pesando, mas mais leve agora, dividido
+entre nós dois.

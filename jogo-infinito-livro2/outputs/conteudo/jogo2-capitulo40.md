@@ -6,6 +6,9 @@ carregando pasta grossa de anotações próprias, o rosto sério o
 suficiente pra confirmar que a gravidade da situação ultrapassou
 qualquer expectativa inicial.
 
+Sento ao lado de Cami, sentindo o próprio corpo tenso antes de Dan
+começar a falar.
+
 — Revisei tudo — anuncia, sentando na sala de conferência com Cami e
 eu. — O laudo forense é sólido. A assinatura é falsificação
 comprovada. E a conexão temporal entre o acesso de Patricia e a
@@ -80,6 +83,9 @@ determinação silenciosa.
 — Vamos atravessar isso juntos, do jeito que sempre atravessamos.
 
 — Sempre.
+
+Respiro fundo, sentindo o próprio corpo se preparar pra qualquer
+coisa que ainda esteja por vir nos próximos minutos.
 
 ---
 

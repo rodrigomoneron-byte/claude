@@ -6,6 +6,9 @@ meu lado, Alex do outro, Alexandra sentada diante de nós três com o
 próprio rosto já carregando a compreensão de que essa conversa é
 diferente de qualquer encontro anterior.
 
+Sento diante dela, sentindo o próprio corpo firme, decidido a manter
+o tom justo apesar de todo o peso da conversa que ainda vem.
+
 — Reunimos várias peças de informação nas últimas semanas — abro,
 mantendo o tom profissional que a situação exige. — Gostaríamos que
 você respondesse a cada uma diretamente, com o máximo de detalhe
@@ -139,3 +142,7 @@ o que acabou de ser dito, e o que ainda falta decidir.
 Denise se despede no corredor, deixando eu e Alex sozinhos, e
 caminhamos juntos até o carro, cada passo carregando o peso de uma
 manhã que exigiu mais do que qualquer um de nós esperava suportar.
+
+Entramos no carro em silêncio, e Alex liga o motor devagar, ainda
+processando cada palavra da própria reunião antes de finalmente
+seguir pra casa.

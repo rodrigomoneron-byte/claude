@@ -8,6 +8,9 @@ uma vaga aberta no próprio conselho. Observo a votação da área
 reservada, cada mão erguida carregando peso que, por enquanto, ainda
 parece só burocracia razoável.
 
+Fico observando a própria sala esvaziar aos poucos, ainda processando
+o próprio ritmo rápido da votação inteira.
+
 — Isso foi rápido — comento pra Alex, depois que a reunião encerra. —
 Nenhuma objeção real.
 
@@ -143,3 +146,7 @@ não perguntar cedo o suficiente.
 Alex se aproxima, sentando ao meu lado no sofá, e ficamos ali em
 silêncio por um momento, absorvendo juntos o peso da própria noite
 antes de finalmente seguir pra cama.
+
+Apagamos as luzes juntos, seguindo pro quarto devagar, e adormecemos
+logo depois, o cansaço do próprio dia vencendo qualquer resquício de
+preocupação ainda pendente.
