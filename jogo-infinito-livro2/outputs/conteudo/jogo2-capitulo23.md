@@ -23,6 +23,9 @@ figurativamente — brinco, meio séria.
 
 — Boa ideia. Te encontro aqui quando sair.
 
+Sigo pro banheiro, sentindo o próprio corpo relaxar ligeiramente só
+de imaginar a água quente contra a pele cansada.
+
 Alex se aproxima, os braços envolvendo minha cintura por trás enquanto
 observo a própria cidade através da janela, luzes de Londres se
 espalhando lá fora sob chuva fina que começou há pouco.

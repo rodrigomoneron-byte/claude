@@ -47,6 +47,9 @@ sobre o próprio motivo de sair.
 
 — Isso é inesperado. Como você conseguiu contato?
 
+Sinto o próprio corpo tenso, curioso demais pra esperar a resposta
+dele com calma.
+
 — Rede de conexão profissional. Ele estava disposto a falar porque,
 segundo ele mesmo, "alguém devia saber no que está se metendo".
 

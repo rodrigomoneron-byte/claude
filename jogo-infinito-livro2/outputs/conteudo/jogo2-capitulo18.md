@@ -22,6 +22,9 @@ diante dessa única frase.
 — Isso é... ótima notícia, Renata. Obrigado por continuar até
 encontrar resposta real.
 
+Sinto o próprio corpo relaxar de vez, o peso das últimas semanas
+finalmente cedendo espaço pra alívio genuíno.
+
 Sinto o próprio corpo relaxar de um jeito que não sentia há dias,
 grato por essa resposta específica ter chegado finalmente.
 

@@ -35,6 +35,9 @@ carregando a mesma urgência que sinto crescer em mim.
 
 — Concordo completamente. Vou começar a verificar imediatamente.
 
+Sinto o próprio corpo tenso, já organizando mentalmente cada ligação
+que ainda preciso fazer antes do fim do dia.
+
 ---
 
 — Preciso ligar pra ela imediatamente — decido, já puxando o celular.

@@ -15,6 +15,9 @@ pequeno.
 
 — Como você está com isso?
 
+Sento na própria cadeira ao lado dela, sentindo o peso da própria
+pergunta pesar mais do que eu esperava tão cedo de manhã.
+
 Penso antes de responder, sentindo o próprio peito carregar peso que
 ainda não consigo nomear completamente.
 

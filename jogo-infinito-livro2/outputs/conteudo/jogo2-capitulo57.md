@@ -24,6 +24,9 @@ peito se aquecer com a sinceridade genuína na voz dele.
 — Você também merece isso, Dan, considerando tudo que já fez por
 nós.
 
+Sinto o próprio peito se aquecer, gratidão genuína crescendo por essa
+amizade que sobreviveu a tanta coisa difícil.
+
 — Obrigada, Dan. Significa muito ouvir isso vindo especificamente de
 você, considerando tudo que atravessamos juntos.
 

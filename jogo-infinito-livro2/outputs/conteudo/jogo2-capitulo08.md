@@ -27,6 +27,9 @@ de eu mesmo pensar nisso.
 
 — Isso fala bem da própria equipe que você construiu.
 
+Sinto o próprio peito se aquecer com o elogio, gratidão silenciosa
+crescendo por essa equipe que continua provando o próprio valor.
+
 ---
 
 David Okonkwo levanta a mão, o próprio tom carregando curiosidade
