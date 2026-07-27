@@ -1,0 +1,163 @@
+# Capítulo 38
+
+*POV: Alex*
+
+Cami me chama pra conversa séria na sexta-feira à noite, o próprio
+rosto carregando peso que reconheço imediatamente como notícia grave,
+não mais uma dúvida pequena entre tantas outras.
+
+Sento ao lado dela devagar, sentindo o próprio corpo já tenso,
+reconhecendo pela expressão dela que a conversa não vai ser leve.
+
+— Precisamos conversar sobre uma coisa que descobri essa semana —
+começa, sentando ao meu lado no sofá. — Esperei confirmação antes de
+te contar, pra não te dar suspeita sem prova sólida.
+
+— Isso já soa sério.
+
+Sinto o próprio corpo se firmar contra o sofá, tentando me preparar
+pra receber o que quer que ela ainda vá dizer.
+
+— É, Alex. E preciso que você me escute inteiro antes de reagir,
+porque tem mais de uma camada nisso.
+
+— Estou ouvindo. Prometo.
+
+Sinto o próprio corpo firme, decidido a absorver qualquer coisa que
+ela ainda precise dizer sem desviar o próprio olhar.
+
+Ela respira fundo, os próprios dedos entrelaçados no colo, e sinto,
+observando ela, o próprio corpo inteiro se preparar pra receber
+alguma coisa que sei, instintivamente, vai mudar tudo.
+
+— É sério, Alex. Devon encontrou possível falsificação na assinatura
+do seu bisavô, no documento que Alexandra apresentou como prova de
+reconhecimento de Theodore. Mandamos pra perícia forense essa semana.
+O resultado chegou hoje à tarde.
+
+---
+
+O sangue gela instantaneamente.
+
+Fico parado por um segundo inteiro, tentando processar o próprio
+peso da palavra antes mesmo de ouvir os detalhes completos.
+
+— E o resultado?
+
+Sinto o próprio corpo inteiro congelar, esperando a resposta com o
+mesmo peso de quem espera veredicto.
+
+— Confirmado. A assinatura é falsificação, com noventa e cinco por
+cento de certeza, segundo o perito.
+
+Sinto o próprio chão da própria vida parecer se inclinar, o mesmo
+tipo de sensação que já vivi antes, durante a crise do ano passado —
+só que dessa vez, o peso carrega camada pessoal que nenhuma crise
+corporativa anterior jamais carregou.
+
+— Isso significa que ela mentiu sobre tudo?
+
+Sinto o próprio corpo tenso, cada palavra nova exigindo mais esforço
+pra processar do que a anterior.
+
+— Não necessariamente sobre tudo. A história do Theodore, o
+parentesco em si, provavelmente ainda é real — isso bate com registro
+independente que já verificamos. Mas o documento específico que ela
+usou como prova de reconciliação tardia da família, esse foi
+fabricado.
+
+---
+
+— Por quê? — pergunto, sentindo a própria voz rachar ligeiramente. —
+Se o parentesco é real, por que forjar prova de reconciliação que
+nunca aconteceu?
+
+— Não sei ainda. Talvez pra fortalecer a própria posição moral.
+Talvez pra criar base legal mais sólida pra qualquer reivindicação
+futura. Precisamos perguntar a ela diretamente, mas com muito mais
+cuidado dessa vez, considerando a gravidade real da descoberta.
+
+Fico em silêncio por um momento longo, sentindo o próprio peso da
+traição atingir fundo — não só profissional, também pessoal, a
+esperança de família reencontrada rachando diante dos próprios olhos.
+
+---
+
+— O que fazemos agora? — pergunto, finalmente, a voz ainda carregando
+o próprio choque.
+
+— Precisamos envolver Dan. Documento fraudado usado pra sustentar
+reivindicação de herança pode configurar crime, dependendo de como
+ela pretendia usar ele formalmente. Prefiro que ele avalie antes de
+qualquer confronto direto.
+
+— Concordo. Vou ligar pra ele amanhã de manhã.
+
+— Quer que eu esteja na ligação com você, ou prefere fazer sozinho?
+
+— Prefiro você comigo. Não sei se vou conseguir manter clareza
+completa sozinho, considerando o próprio peso emocional disso tudo.
+
+— Vou estar lá. Sempre vou estar.
+
+Cami segura minha mão, o próprio gesto carregando conforto que sinto
+precisar mais do que qualquer palavra conseguiria oferecer nesse
+momento.
+
+— Sinto muito, Alex. Sei o quanto você queria que isso fosse
+diferente.
+
+— Eu também queria. Mas prefiro verdade dolorosa a mentira confortável,
+sempre. Você me ensinou isso.
+
+Fico em silêncio por um momento, sentindo o próprio peso da revelação
+ainda se assentando, cada implicação exigindo processamento cuidadoso
+antes de qualquer próximo passo.
+
+— Preciso de um minuto — admito, finalmente, encostando na própria
+cadeira. — Só um minuto pra sentir isso completamente, antes de
+voltar a pensar em próximo passo estratégico.
+
+— Leva o tempo que precisar. Estou aqui.
+
+---
+
+Cami segura minha mão em silêncio, sem pressa nenhuma, e sinto,
+apesar de todo o peso da própria descoberta, gratidão profunda por
+ter, ao lado, alguém disposta a simplesmente existir comigo nesse
+momento difícil, sem tentar consertar nada rápido demais.
+
+— Sabe o que mais dói nisso tudo? — comento, depois de um tempo. —
+Não é só a mentira em si. É perceber que, mesmo com toda a
+verificação que fizemos, ela ainda encontrou jeito de esconder algo
+tão grave.
+
+— Isso não significa que a verificação foi inútil, Alex. Significa
+que descobrimos, eventualmente, mesmo que tenha levado tempo.
+Descobrir tarde ainda é melhor que nunca descobrir.
+
+— Isso é verdade. Só gostaria que tivéssemos descoberto antes de
+sentir tanta esperança genuína primeiro.
+
+— Eu sei. Mas essa esperança não foi erro seu, Alex. Foi generosidade
+real, direcionada a alguém que não mereceu ela completamente.
+
+Fico em silêncio, absorvendo a própria frase dela, sentindo o peso da
+noite se assentar devagar — não resolução nenhuma ainda, só o começo
+de um processo que sei vai exigir muito mais de mim antes de chegar
+ao outro lado.
+
+Cami continua ali, quieta, deixando o silêncio existir sem tentar
+preenchê-lo com qualquer palavra apressada, e sinto, mais uma vez,
+gratidão profunda por essa capacidade que ela tem de simplesmente
+estar presente, sem exigir que eu processe tudo mais rápido do que
+consigo.
+
+A noite avança devagar ao nosso redor, o apartamento silencioso, e
+fico ali, sentindo o próprio peso de tudo que ainda preciso decidir
+começar a se assentar, camada por camada, antes que o amanhã exija
+resposta que ainda não sei se consigo oferecer.
+
+Cami continua ao meu lado, a mão ainda entrelaçada na minha, e nos
+dois em silêncio, deixamos a noite inteira passar devagar, sem pressa
+de resolver nada além do próprio momento presente.

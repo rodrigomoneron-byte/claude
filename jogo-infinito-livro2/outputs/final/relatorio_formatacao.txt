@@ -1,0 +1,64 @@
+RELATÓRIO DE FORMATAÇÃO — Jogo Infinito, Livro 2: Alianças e Traições
+Autor: R.B. Guidenelli · Série: Jogo Infinito · series_index: 2
+Data: 2026-07-27
+
+1. CAPÍTULOS INCLUÍDOS
+60 de 60 capítulos, organizados em outputs/final/manuscrito/ como
+01_capitulo.md a 60_capitulo.md. Contagem confirmada batendo com os
+arquivos-fonte de outputs/conteudo/jogo2-capituloNN.md. Cabeçalho
+convertido de "# Jogo Infinito — Livro 2 — Capítulo N" / "### POV: Nome"
+para "# Capítulo N" / "*POV: Nome*" (subtítulo discreto, mesmo padrão
+usado no Livro 1).
+
+2. CONTAGEM DE PALAVRAS
+Manuscrito fonte (outputs/conteudo/): 58.002 palavras — dentro do alvo
+travado de 58.000-67.000.
+Manuscrito organizado (outputs/final/manuscrito/): 57.702 palavras
+(diferença de ~300 palavras vem só do cabeçalho mais curto por
+capítulo, não de corte de conteúdo).
+
+3. EPUB
+Arquivo: outputs/final/aliancas-e-traicoes.epub (192 KB)
+Validado com `ebooklib.epub.read_epub()` — abriu sem erro, 63 itens
+(60 capítulos + nav/toc/estrutura). Sumário clicável (NCX + nav EPUB3)
+e metadados de série presentes.
+
+4. PDF (KDP 6"x9")
+Arquivo: outputs/final/aliancas-e-traicoes_kdp.pdf (480 KB)
+264 páginas, dimensão confirmada 432x648pt = 6"x9" exatos. Página de
+título + 1 capítulo por página nova, corpo Times-Roman 11pt justificado
+com recuo de primeira linha, numeração de rodapé a partir do Capítulo 1.
+Conferido visualmente (render da página de título e da primeira página
+de capítulo) — margens, fonte e numeração corretas.
+
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+Rodada sobre os 60 arquivos organizados em outputs/final/manuscrito/:
+gate mecânico + grep manual padrão + grep de formas obliquas
+("pra/da/na/com a gente"). Único padrão encontrado: "tanta gente"
+(caps. 26, 44, 48, 58) — falso positivo legítimo (significa "tanta
+gente" = muitas pessoas, não o pronome proibido). Régua 100% limpa.
+
+6. PROMPT DE CAPA
+Arquivo: outputs/final/prompt_capa_aliancas-e-traicoes.txt
+Evolução direta da capa do Livro 1: mesmo relógio de bolso e mesma
+caneta, com passaporte + cartão de embarque como terceiro elemento novo
+(expansão internacional), paleta fria "The Old English Gentleman's
+Club" com acento de ouro envelhecido, chiaroscuro, sem casal, sem rosto.
+
+7. METADADOS
+Arquivo: outputs/final/metadados_aliancas-e-traicoes.json (idêntico ao
+outputs/final/manuscrito/metadata.json usado na geração do EPUB).
+title: "Alianças e Traições" · series: "Jogo Infinito" · series_index: 2
+· author: "R.B. Guidenelli" · language: "pt-BR"
+
+8. LEMBRETE — IDENTIFICADOR/ISBN
+O campo "identifier" no metadata.json é um placeholder UUID
+(urn:uuid:7b2f4e91-6a3d-4c8f-a1e2-9d5b3f7c8e04), gerado só pra permitir
+a montagem do EPUB. PRECISA ser substituído pelo ISBN real antes de
+qualquer publicação formal na Amazon KDP.
+
+9. STATUS
+Aprovado pela revisão editorial global (régua, POV, arcos, símbolos,
+fechamentos — nenhum ajuste obrigatório pendente). Pronto para upload
+no KDP após: (a) gerar a imagem de capa a partir do prompt fornecido,
+(b) substituir o identificador placeholder pelo ISBN real.

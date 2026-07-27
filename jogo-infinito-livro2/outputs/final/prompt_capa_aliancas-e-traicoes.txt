@@ -1,0 +1,40 @@
+TÍTULO: Jogo Infinito — Livro 2: Alianças e Traições
+
+DESCRIÇÃO VISUAL:
+O mesmo relógio de bolso antigo e rachado do primeiro livro, tampa
+entreaberta, ainda pousado sobre a superfície de vidro escuro/mármore
+negro polido — só que agora ao lado de um passaporte de couro escuro
+entreaberto, as páginas internas mal visíveis, e um cartão de embarque
+dobrado que escapa de dentro dele, sugerindo a expansão internacional
+sem nomear companhia real nenhuma. A caneta-tinteiro de ouro envelhecido
+do primeiro livro continua no quadro, agora repousando sobre o próprio
+passaporte, como se tivesse acabado de assinar alguma coisa. Os três
+objetos — relógio, caneta, passaporte — formam um triângulo apertado
+dentro de uma poça estreita de luz quente (dourado envelhecido) que
+corta o restante do quadro, dominado por verde floresta noturno e
+reflexos de vidro frio. Ao fundo, desfocado e quase imperceptível, o
+reflexo do skyline de Manhattan se funde com uma segunda silhueta de
+arranha-céu que sugere Londres, as duas cidades se sobrepondo no mesmo
+reflexo de vidro escuro — dois mundos convergindo. Iluminação
+chiaroscuro, luz quente vinda de baixo/lateral, nunca luz branca de
+estúdio. Textura de mármore/vidro escovado e couro envelhecido do
+passaporte. Sem casal, sem rosto em cena. O cartão de embarque parcialmente
+solto do passaporte sugere o convite/a aliança ainda não completamente
+segura — algo prestes a escapar do próprio controle.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis, texto
+incorporado na imagem, fundo branco genérico, luz branca de estúdio,
+fonte serifada dourada de romance histórico, clip-art corporativo,
+gráfico de bolsa de valores, logotipos reais, bandeiras ou brasões de
+país reais, nome de companhia aérea real
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance
+corporativo, chiaroscuro com luz quente (âmbar/ouro envelhecido) sobre
+paleta fria dominante (verde floresta noturno, vidro, mármore negro),
+acabamento "The Old English Gentleman's Club" da casa R.B. Guidenelli —
+evolução direta da capa do Livro 1, mesmos objetos-âncora (relógio,
+caneta) com o passaporte como terceiro elemento novo representando a
+expansão internacional
