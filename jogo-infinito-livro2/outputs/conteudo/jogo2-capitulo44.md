@@ -15,6 +15,11 @@ cumplicidade. As duas já contrataram advogado próprio.
 a cooperação total de ambas depois da descoberta. Mais provável é
 multa substancial e algum tipo de liberdade condicional supervisionada.
 
+— Isso parece consequência proporcional, pelo menos.
+
+— Concordo. A promotoria também reconheceu que nenhuma das duas
+tentou destruir prova nem fugir da própria responsabilidade.
+
 ---
 
 — Isso parece justo — comento, sentindo o próprio peso da decisão
@@ -143,3 +148,8 @@ Ele se levanta, apertando meu ombro antes de sair, e fico sozinho de
 novo, sentindo o próprio peso da conversa que ainda me espera, mas
 também gratidão genuína por ter, ao redor, tanta gente disposta a
 apoiar mesmo nos momentos mais difíceis.
+
+Reúno os próprios papéis, guardando eles na pasta com cuidado, e saio
+do escritório, sentindo o próprio corpo inteiro se preparar pra
+conversa que ainda vai definir como esse capítulo específico da minha
+vida finalmente se encerra.

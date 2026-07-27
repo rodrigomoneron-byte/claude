@@ -17,6 +17,9 @@ O alívio atinge com força que não esperava sentir tão intensamente.
 — Isso é... ótima notícia, Renata. Obrigado por continuar até
 encontrar resposta real.
 
+— De nada, Alex. Sei que essa dúvida específica estava pesando forte.
+Fico feliz em trazer resposta real, não só mais uma suspeita.
+
 — Encontrei documento de seguro de vida antigo do próprio Theodore,
 com a data original, batendo exatamente com o que Alexandra
 apresentou. A inconsistência era só do cartório reconstruído, não do
@@ -133,3 +136,8 @@ Beijo o topo da cabeça dela, sentindo gratidão profunda por essa noite
 específica, leve o suficiente pra lembrar que, mesmo em meio a tanta
 verificação e cautela, ainda existe espaço real pra simplesmente
 existir, feliz, ao lado da pessoa certa.
+
+Ficamos ali mais um tempo, o apartamento silencioso ao redor, e sinto,
+mais uma vez, gratidão profunda por essa vida que os dois construíram
+juntos, uma decisão cuidadosa de cada vez, mesmo em meio a tanta
+incerteza que ainda pode aparecer pela frente.

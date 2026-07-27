@@ -18,6 +18,11 @@ ele, sem parecer perceber o próprio peso da frase.
 — Pode ter sido brincadeira mal interpretada. Richard mesmo admitiu
 que não deu importância na época.
 
+— Talvez. Mas frase assim não costuma sair do nada, mesmo dita de
+brincadeira.
+
+— Você tem razão. Só... custa admitir isso em voz alta.
+
 Sinto o próprio peso do próprio instinto profissional se firmar,
 reconhecendo, ao mesmo tempo, alguma coisa na voz dele que não
 esperava — relutância genuína em aceitar o que os fatos já estão
@@ -128,3 +133,10 @@ sentindo o próprio peso da conversa se assentar devagar entre nós
 dois, mais leve agora, prontos, apesar de tudo, pra continuar
 enfrentando qualquer verdade que ainda esteja esperando pra ser
 descoberta.
+
+— Vamos esquentar isso e comer, então — sugiro, finalmente, levantando
+pra levar os pratos até o micro-ondas. — Antes que fique frio demais
+pra salvar.
+
+— Boa ideia. Preciso de energia real antes de continuar pensando em
+qualquer coisa mais pesada hoje.
