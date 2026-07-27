@@ -11,6 +11,9 @@ Documento de sucessão limpo, sem qualquer inconsistência.
 
 — Isso é bom sinal, finalmente.
 
+— É. Só não quero que vocês relaxem antes da hora, considerando tudo
+que ainda está em jogo.
+
 — É, mas continue esperando mais uma ligação minha antes de comemorar
 completamente — Denise avisa. — Ainda tenho duas verificações
 pendentes pra fechar o quadro inteiro.
@@ -139,3 +142,7 @@ que qualquer um de nós gostaria de admitir em voz alta.
 O avião começa a descer, luzes de Nova York aparecendo devagar lá
 embaixo, e sinto, apesar de todo o cansaço da própria semana, algo
 parecido com alívio genuíno por finalmente voltar pra casa.
+
+Alex aperta minha mão enquanto o avião pousa, o próprio gesto
+carregando promessa silenciosa de continuar atravessando tudo isso
+junto, do jeito que sempre fizemos até agora.

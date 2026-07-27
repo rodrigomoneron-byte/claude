@@ -46,6 +46,8 @@ precisamos de certeza real, não só suspeita.
 — Já contatei um especialista, através de indicação da Denise. Ele
 pode analisar o documento original até sexta-feira.
 
+— Aprecio a agilidade, Devon. Sei que pediu isso rápido demais.
+
 — Perfeito. Quanto mais rápido tivermos certeza, melhor pra decidir
 qualquer próximo passo com clareza.
 
@@ -136,3 +138,8 @@ Guardo os próprios documentos, apagando a luz da mesa, e sigo pra
 casa em silêncio, sentindo o próprio corpo cansado carregar o peso de
 mais uma verdade que ainda precisa terminar de se revelar
 completamente.
+
+Chego em casa encontrando o apartamento vazio, Alex ainda no
+próprio trabalho, e aproveito o silêncio pra organizar mentalmente
+como vou abordar essa conversa com ele, sem alarmar antes da hora
+certa.

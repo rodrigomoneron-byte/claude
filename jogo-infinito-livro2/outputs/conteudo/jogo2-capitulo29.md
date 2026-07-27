@@ -23,6 +23,9 @@ brincadeira.
 
 — Você tem razão. Só... custa admitir isso em voz alta.
 
+— Sei que custa. Só precisamos continuar sendo honestos, mesmo
+quando isso dói.
+
 Sinto o próprio peso do próprio instinto profissional se firmar,
 reconhecendo, ao mesmo tempo, alguma coisa na voz dele que não
 esperava — relutância genuína em aceitar o que os fatos já estão
@@ -140,3 +143,7 @@ pra salvar.
 
 — Boa ideia. Preciso de energia real antes de continuar pensando em
 qualquer coisa mais pesada hoje.
+
+Esquentamos o jantar juntos, o silêncio confortável preenchendo a
+cozinha, e sentamos pra comer, o peso da conversa anterior finalmente
+cedendo espaço pra normalidade simples que os dois tanto precisam.
