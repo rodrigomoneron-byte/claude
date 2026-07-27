@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 11,
+  "next_chapter": 21,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -82,6 +82,76 @@
       "words": 750,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 11,
+      "pov": "Cami",
+      "words": 726,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 12,
+      "pov": "Alex",
+      "words": 748,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 13,
+      "pov": "Cami",
+      "words": 744,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 14,
+      "pov": "Alex",
+      "words": 852,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 15,
+      "pov": "Cami",
+      "words": 683,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 16,
+      "pov": "Alex",
+      "words": 723,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 17,
+      "pov": "Cami",
+      "words": 720,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 18,
+      "pov": "Alex",
+      "words": 773,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 19,
+      "pov": "Cami",
+      "words": 748,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 20,
+      "pov": "Alex",
+      "words": 833,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -92,11 +162,11 @@
     }
   ],
   "scoreboard": {
-    "chapters_done": 10,
-    "total_words": 9015,
-    "pages_kdp": 30,
+    "chapters_done": 20,
+    "total_words": 16565,
+    "pages_kdp": 55,
     "avg_score": 7.0,
-    "pct_to_target": 16
+    "pct_to_target": 29
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -111,5 +181,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 00:54"
+  "updated": "2026-07-27 01:02"
 }
