@@ -23,6 +23,12 @@ início, caso precisemos de documentação mais adiante.
 
 — Vou providenciar sala apropriada, então, com tudo já preparado.
 
+— Aprecio isso, Denise. Sei que estamos pedindo bastante, com prazo
+tão apertado.
+
+— Faz parte do trabalho, Alex. Prefiro preparação completa a
+qualquer improviso arriscado.
+
 ---
 
 Patricia aparece na minha sala à tarde, sem avisar, o próprio rosto
@@ -134,3 +140,8 @@ como esse, carregando tanta descoberta pesada.
 qualquer coisa nova sobre Patricia.
 
 — Vou estar aqui, te esperando, do jeito que sempre estou.
+
+Desligo, sentindo o próprio peso do dia começar a ceder espaço,
+devagar, pra alívio simples de saber que, seja lá o que amanhã ainda
+revele sobre Patricia, não vou precisar enfrentar isso completamente
+sozinho.

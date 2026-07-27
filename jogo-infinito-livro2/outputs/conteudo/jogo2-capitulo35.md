@@ -14,6 +14,10 @@ sustentada.
 próprio ceticismo profissional pela primeira vez começar a ceder
 espaço genuíno.
 
+— As duas coisas são possíveis, honestamente — Devon acrescenta. —
+Vamos continuar observando até o fim do período, sem presumir nenhuma
+das duas ainda.
+
 ---
 
 Elena me liga à tarde, a voz carregando entusiasmo que reconheço como
@@ -127,3 +131,8 @@ Ele beija minha testa, voltando pro próprio ritmo tranquilo de
 preparar o jantar, e sinto, mais uma vez, gratidão silenciosa por
 essa capacidade compartilhada de encontrar paz mesmo no meio de
 incerteza que ainda não terminou de verdade.
+
+Terminamos de preparar o jantar juntos, o silêncio confortável
+preenchendo cada canto da cozinha, e sinto, mais uma vez, que essa
+normalidade pequena vale exatamente tanto quanto qualquer vitória
+grande que já conquistamos juntos.

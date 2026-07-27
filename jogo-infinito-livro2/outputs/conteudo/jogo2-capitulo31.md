@@ -19,6 +19,9 @@ explicação completa, não pra condenação já decidida de antemão.
 
 — Aprecio você dizer isso. Mesmo sabendo que mereço o escrutínio.
 
+— Vamos manter isso justo, dos dois lados — acrescento, sentindo
+necessidade de reforçar o próprio compromisso antes de começar.
+
 Denise lista cada item, um de cada vez — a data de nascimento
 reconstruída, as duas consultas jurídicas, a propriedade em
 Edimburgo, o comentário relatado por Richard Ashford sobre "recuperar
@@ -121,3 +124,10 @@ silêncio entre nós três.
 
 — Preciso de um dia inteiro só pra processar. Depois decidimos juntos
 o próximo passo, com cabeça mais fria do que a que carrego agora.
+
+— Faz sentido. Vou estar aqui, pronta pra continuar essa conversa
+quando você se sentir preparado.
+
+Saímos da sala de conferência juntos, o próprio silêncio carregando
+peso diferente agora, cada um de nós processando à própria maneira
+o que acabou de ser dito, e o que ainda falta decidir.

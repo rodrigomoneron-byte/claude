@@ -32,6 +32,12 @@ O nome não significa nada pra mim, à primeira vista.
 — Não sei ainda. Só achei estranho o suficiente pra mencionar antes
 da reunião.
 
+— Aprecio você trazer isso, mesmo de lua de mel. Vamos verificar com
+calma, sem alarme prematuro.
+
+— Exatamente minha lógica. Só não queria que você fosse pego de
+surpresa na própria reunião.
+
 ---
 
 Desligo e conto pra Cami, os dois sentados no sofá, o resto do
@@ -130,3 +136,8 @@ certeza tranquila de sempre — de que o jogo, seja qual for a forma
 que ele ainda tome, nunca vai encontrar nós dois despreparados
 enquanto continuarmos escolhendo, repetidas vezes, verdade completa um
 com o outro antes de qualquer coisa mais.
+
+O sol termina de se pôr atrás do skyline, a cidade inteira se
+acendendo em resposta, e ficamos ali mais um tempo, quietos, prontos
+pra qualquer capítulo que a Meridian Holdings ainda for revelar,
+juntos, do jeito que sempre atravessamos tudo.
