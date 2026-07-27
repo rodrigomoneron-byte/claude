@@ -51,6 +51,10 @@ porque cada uma me ensinou algo real sobre quem eu quero ser.
 
 — Isso é sabedoria genuína, vinda de você.
 
+Sinto o próprio peito se aquecer, gratidão simples crescendo por essa
+capacidade dele de encontrar lição real mesmo em meio a tanta
+dificuldade recente.
+
 Ele sorri, apertando minha mão de leve, o próprio gesto carregando
 gratidão que sinto refletida no meu peito também.
 

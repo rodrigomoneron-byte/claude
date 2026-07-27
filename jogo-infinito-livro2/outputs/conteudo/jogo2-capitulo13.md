@@ -97,6 +97,10 @@ proativamente, mesmo que pareça irrelevante pra você.
 — Você tem razão, Cami. Vou ser mais cuidadosa com isso daqui em
 diante. Sinto muito pela omissão.
 
+Sinto o próprio corpo tenso, absorvendo a desculpa dela com a mesma
+cautela reservada que já aprendi a manter diante de qualquer
+explicação fácil demais.
+
 A desculpa soa genuína, e ainda assim sinto o próprio peso da
 conversa se acumular, mais uma peça pequena se somando às outras —
 nenhuma delas suficiente sozinha, todas juntas começando a formar

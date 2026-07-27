@@ -79,6 +79,10 @@ saímos do outro lado mais fortes, não mais frágeis.
 
 — Isso é verdade profunda, Cami.
 
+Sinto o próprio peito se aquecer, gratidão simples crescendo por essa
+constatação dita em voz alta, num domingo comum, sem nenhuma crise
+exigindo que ela fosse dita.
+
 — É a verdade mais importante que aprendi nesse último ano e meio
 inteiro.
 

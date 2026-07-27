@@ -84,6 +84,9 @@ mesmos confirmarem através de perícia forense.
 
 — Isso não muda a própria escolha de ficar em silêncio.
 
+Sinto o próprio corpo tenso, esperando a resposta dela com o peso de
+quem já sabe, de antemão, que nenhuma justificativa vai bastar.
+
 — Não muda mesmo. Assumo completamente a responsabilidade por essa
 escolha.
 
