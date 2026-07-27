@@ -5,6 +5,9 @@ O conselho se reúne de novo na semana seguinte, dessa vez pra decidir
 formalmente sobre o próprio futuro de Patricia dentro da empresa,
 mesmo depois da renúncia voluntária dela ao cargo de conselheira.
 
+Sento diante do conselho completo, sentindo o próprio peso da decisão
+que ainda precisamos tomar juntos.
+
 — Ela cometeu erro grave — David Okonkwo abre, resumindo o
 sentimento geral da sala. — Mas também trabalhou décadas construindo
 reputação de integridade real, antes desse episódio específico.
@@ -153,3 +156,7 @@ Caminho devagar pelas ruas de Manhattan, o próprio ar fresco da
 tarde ajudando a organizar cada pensamento, e chego em casa mais
 leve do que saí, pronto finalmente pra compartilhar essa vitória
 específica com a pessoa que mais me ajudou a conquistá-la.
+
+Cami já está em casa quando chego, e observo o próprio rosto dela se
+iluminar assim que percebe, pela minha expressão, que a notícia é
+boa.

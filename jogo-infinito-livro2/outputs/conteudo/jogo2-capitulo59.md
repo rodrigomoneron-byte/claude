@@ -6,6 +6,10 @@ banhado de luz suave, e fico deitada um tempo, observando ele
 dormir, o próprio rosto completamente relaxado de um jeito que
 raramente vejo durante a semana inteira de trabalho.
 
+Fico ali mais um instante, observando o próprio peito dele subir e
+descer devagar, e sinto o coração se aquecer só de testemunhar essa
+paz simples antes de me levantar.
+
 Levanto devagar, sem acordar ele, e vou até a sala, parando diante da
 estante onde o relógio de bolso do meu pai descansa ao lado da caneta
 de Alex — os dois objetos, lado a lado, contando história que
@@ -148,3 +152,7 @@ O sol começa a baixar devagar lá fora, luz dourada se espalhando
 pelo apartamento inteiro, e sinto, fechando os olhos mais uma vez,
 gratidão profunda por essa vida simples que os dois escolheram
 construir, com tanto cuidado, um domingo tranquilo de cada vez.
+
+Alex levanta, finalmente, pra acender a luz da sala, e observo ele se
+mover pelo próprio apartamento com a mesma tranquilidade que sinto
+tomar conta de mim também.

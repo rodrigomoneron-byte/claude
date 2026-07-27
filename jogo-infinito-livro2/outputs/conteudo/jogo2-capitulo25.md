@@ -5,6 +5,9 @@ Denise liga na tarde antes de voltarmos pra Nova York, a voz
 carregando urgência que reconheço como sinal de descoberta relevante,
 não só atualização de rotina.
 
+Atendo já arrumando a própria mala, o celular preso entre o ombro e o
+rosto enquanto termino de dobrar a última peça de roupa.
+
 — Verifiquei o registro completo da propriedade em Edimburgo —
 informa. — A herança bate exatamente com o que Alexandra descreveu.
 Documento de sucessão limpo, sem qualquer inconsistência.
@@ -146,3 +149,7 @@ parecido com alívio genuíno por finalmente voltar pra casa.
 Alex aperta minha mão enquanto o avião pousa, o próprio gesto
 carregando promessa silenciosa de continuar atravessando tudo isso
 junto, do jeito que sempre fizemos até agora.
+
+Desembarcamos de mãos dadas, o próprio terminal familiar recebendo
+nós dois de volta, e sinto, mesmo exausta, alívio genuíno de estar
+finalmente em casa outra vez.

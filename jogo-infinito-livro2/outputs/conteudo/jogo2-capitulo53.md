@@ -5,6 +5,9 @@ Devon apresenta os primeiros resultados da due diligence preliminar
 sobre o novo investidor, o próprio rosto carregando neutralidade
 profissional que já reconheço bem.
 
+Sento diante da própria mesa dele, aceitando o café que me oferece
+antes de começar a revisão.
+
 — Nome dele é Sebastian Kroll — informa, deslizando o relatório na
 mesa. — Fundo europeu sólido, reputação limpa até agora, sem qualquer
 bandeira vermelha óbvia na verificação inicial.
@@ -156,3 +159,7 @@ Fico ali mais um tempo, olhando pra própria mesa cheia de documentos,
 e sinto, apesar de todo o peso do trabalho ainda pendente, gratidão
 genuína por essa vida que os dois construíram, cuidadosamente, sobre
 tanta verificação e tanta verdade compartilhada.
+
+Guardo os últimos papéis antes de encerrar o dia, e desligo a luz do
+escritório, pronta finalmente pra seguir pra casa e descansar um
+pouco.

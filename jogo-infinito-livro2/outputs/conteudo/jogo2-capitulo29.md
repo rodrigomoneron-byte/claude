@@ -5,6 +5,9 @@ Alex me conta sobre a conversa com Richard Ashford assim que chego em
 casa, cada detalhe carregando peso que sinto se acumular junto com
 tudo mais que já reunimos.
 
+Largo a própria bolsa no sofá, sentindo o corpo tenso antes mesmo de
+ele terminar de contar cada detalhe.
+
 — "Recuperar o que a família merecia" — repito, sentindo a própria
 frase pesar mais do que qualquer documento verificado até agora. —
 Isso é diferente de tudo que ela já nos disse diretamente.
@@ -147,3 +150,8 @@ qualquer coisa mais pesada hoje.
 Esquentamos o jantar juntos, o silêncio confortável preenchendo a
 cozinha, e sentamos pra comer, o peso da conversa anterior finalmente
 cedendo espaço pra normalidade simples que os dois tanto precisam.
+
+Terminamos de comer devagar, conversando sobre assunto mais leve, e
+sinto, apesar de tudo, gratidão silenciosa por essa capacidade
+compartilhada de encontrar normalidade mesmo em meio a tanta
+incerteza.
