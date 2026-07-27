@@ -15,6 +15,9 @@ o rigor necessário.
 — Você que merece o crédito, Devon. Sua competência foi o que
 realmente expôs tudo isso.
 
+Sinto o próprio peito se encher de orgulho genuíno, observando ele
+absorver o próprio elogio sem qualquer falsa modéstia desnecessária.
+
 — Aprecio você dizer isso. Vindo de você, considerando tudo que já
 atravessamos juntos nesse último ano, significa muito mais do que
 qualquer elogio formal jamais significaria.

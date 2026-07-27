@@ -44,6 +44,10 @@ patrimônio dela.
 próprio fundo — Cami pondera, mas o tom carrega a mesma cautela de
 sempre.
 
+Sinto o próprio corpo tenso, tentando organizar mentalmente cada
+possibilidade antes de decidir qual delas merece pergunta direta
+primeiro.
+
 — Pode ser. Vou continuar verificando a origem dela. Só queria que
 vocês soubessem antes de qualquer conversa nova com ela hoje.
 

@@ -57,6 +57,10 @@ valorizar o próprio trabalho artístico.
 — Isso é compreensível. Só continua com os olhos abertos, tá? Mesmo
 gostando dela de verdade.
 
+Sinto o próprio corpo tenso, torcendo, apesar de tudo, pra que a
+própria cautela profissional acabe se revelando desnecessária dessa
+vez.
+
 — Prometo. Só não quero deixar cautela apagar chance real de amizade
 genuína, também.
 
