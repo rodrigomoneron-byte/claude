@@ -18,6 +18,8 @@ processar isso com cabeça mais descansada.
 
 — Não. Prefiro enfrentar agora, mesmo cansado.
 
+— Tudo bem. Vou ligar agora, então, antes que eu mude de ideia.
+
 Cami liga, colocando em viva-voz, e a voz de Renata chega carregada
 do próprio cansaço de quem trabalhou noite adentro.
 
@@ -129,3 +131,8 @@ Ficamos ali sentados, em silêncio, o quarto do hotel carregando peso
 diferente agora, mais pesado do que qualquer manhã anterior dessa
 viagem inteira, cada nova pergunta respondida abrindo espaço,
 imediatamente, pra mais uma esperando atrás dela.
+
+Cami se levanta, indo até a janela, observando a cidade cinza lá
+fora, e a sigo com o olhar, sentindo, apesar de tudo, gratidão
+silenciosa por atravessar mais essa manhã difícil ao lado dela, sem
+esconder nada um do outro pelo caminho.

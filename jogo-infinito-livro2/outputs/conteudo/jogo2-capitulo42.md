@@ -14,6 +14,13 @@ ainda carregar mágoa fresca.
 
 — Sei disso. Não espero que desfaça.
 
+— Você já sabia, quando defendeu Alexandra tão intensamente naquele
+dia, que ela usaria documento fraudado?
+
+— Não sabia dos detalhes exatos. Só sabia que estava ajudando ela a
+construir caso mais forte. Escolhi não perguntar demais, pra manter a
+própria consciência mais leve.
+
 — Por que você fez isso, Patricia? Depois de tudo que atravessamos
 juntos, depois de tanto tempo trabalhando lado a lado?
 
@@ -132,3 +139,7 @@ Cami segura minha mão assim que a porta do prédio fecha atrás de nós,
 e caminhamos juntos até o carro em silêncio, cada um processando à
 própria maneira o peso de mais uma verdade dolorosa finalmente
 revelada por completo.
+
+Entramos no carro, e fico ali por um momento, sem ligar o motor
+ainda, deixando o próprio peso do dia inteiro se assentar antes de
+enfrentar a estrada de volta pra casa.

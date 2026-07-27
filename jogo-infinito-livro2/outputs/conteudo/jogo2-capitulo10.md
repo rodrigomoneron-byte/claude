@@ -24,6 +24,12 @@ cuidado.
 — Não é problema nenhum. É exatamente o tipo de estrutura que eu
 mesma exigiria, se os papéis estivessem invertidos.
 
+— Isso é bom de ouvir — Denise comenta, revisando mais uma página. —
+Vamos revisar cada cláusula em detalhe, sem pressa nenhuma.
+
+— Concordo. Prefiro entender completamente, não só assinar por
+confiança cega.
+
 ---
 
 — A cláusula de transparência sobre mudança de capital — Denise
@@ -139,3 +145,8 @@ alguma celebração, mesmo pequena.
 Desligo, sentindo o próprio peso do dia inteiro ceder espaço, devagar,
 pra alguma coisa mais parecida com esperança genuína — cautelosa,
 mas real.
+
+Guardo os próprios documentos assinados na pasta, sentindo, apesar
+de tudo, orgulho silencioso por ter conseguido equilibrar rigor
+profissional com abertura genuína, exatamente do jeito que Cami
+sempre me ensinou a fazer.

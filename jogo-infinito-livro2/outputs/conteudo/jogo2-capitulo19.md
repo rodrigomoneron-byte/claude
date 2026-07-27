@@ -13,6 +13,11 @@ continuar a verificação de rotina, só reduzida.
 
 — Perfeito. Vamos aproveitar essa viagem de verdade, então.
 
+— É a primeira vez em semanas que sinto isso, honestamente — leveza
+real, não só alívio temporário entre uma crise e outra.
+
+— Vamos guardar essa sensação, então, o máximo que conseguirmos.
+
 ---
 
 Renata aparece antes de eu sair pro aeroporto, o próprio rosto
@@ -128,3 +133,8 @@ processando à própria maneira o peso da viagem que ainda está por
 vir, carregada agora de propósito duplo: celebrar família reencontrada,
 e descobrir, de uma vez por todas, se essa família merece a confiança
 que já depositamos nela.
+
+Chegamos ao aeroporto pouco depois, e enquanto esperamos pro embarque,
+sinto, apesar de todo o peso da nova incerteza, uma certeza tranquila
+crescer: seja lá o que Londres revele, vamos atravessar isso juntos,
+do jeito que sempre atravessamos.
