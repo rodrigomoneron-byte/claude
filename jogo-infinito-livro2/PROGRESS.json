@@ -2,15 +2,15 @@
   "book": "Alianças e Traições — Livro 2",
   "series": "Jogo Infinito",
   "author": "R.B. Guidenelli",
-  "status": "Onboarding concluído — escrita não iniciada",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
   "target": 60,
   "word_target": 58000,
   "povs": [
     "Cami",
     "Alex"
   ],
-  "next_chapter": 50,
-  "next_pov": "Alex",
+  "next_chapter": 61,
+  "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
     {
@@ -355,6 +355,83 @@
       "words": 380,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 50,
+      "pov": "Alex",
+      "words": 423,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 51,
+      "pov": "Cami",
+      "words": 371,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 52,
+      "pov": "Alex",
+      "words": 400,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 53,
+      "pov": "Cami",
+      "words": 333,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 54,
+      "pov": "Alex",
+      "words": 358,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 55,
+      "pov": "Cami",
+      "words": 440,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 56,
+      "pov": "Alex",
+      "words": 385,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 57,
+      "pov": "Cami",
+      "words": 395,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 58,
+      "pov": "Alex",
+      "words": 402,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 59,
+      "pov": "Cami",
+      "words": 440,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 60,
+      "pov": "Alex",
+      "words": 513,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -374,14 +451,18 @@
     {
       "n": 47,
       "desc": "4a cena — celebracao apos resolucao formal com Patricia e encerramento da parceria com Alexandra"
+    },
+    {
+      "n": 55,
+      "desc": "5a cena — celebracao do resultado trimestral da expansao europeia reestruturada"
     }
   ],
   "scoreboard": {
-    "chapters_done": 49,
-    "total_words": 30109,
-    "pages_kdp": 100,
+    "chapters_done": 60,
+    "total_words": 34569,
+    "pages_kdp": 115,
     "avg_score": 7.0,
-    "pct_to_target": 52
+    "pct_to_target": 60
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -396,5 +477,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 01:18"
+  "updated": "2026-07-27 01:22"
 }

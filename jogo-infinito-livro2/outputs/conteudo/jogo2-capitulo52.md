@@ -1,0 +1,79 @@
+# Jogo Infinito — Livro 2 — Capítulo 52
+### POV: Alex
+
+O conselho aprova formalmente o novo membro pra substituir Patricia
+— um investidor experiente chamado Thomas Reyes, indicado por David
+Okonkwo com histórico impecável de governança em empresas
+parecidas.
+
+— Isso fecha esse capítulo formalmente — David comenta, depois da
+votação. — Reconstrução completa, sem nenhuma peça pendente.
+
+— Aprecio todo mundo aqui ter atravessado isso com tanta paciência —
+respondo, sentindo o próprio peso da reunião se assentar como
+progresso real.
+
+---
+
+Depois da reunião, Sandra Whitmore me alcança no corredor, o próprio
+rosto carregando expressão pensativa.
+
+— Posso te dizer uma coisa? — pergunta, parando ao meu lado.
+
+— Claro.
+
+— Nos poucos meses que estou nesse conselho, testemunhei você
+atravessar duas crises grandes, das duas vezes escolhendo
+transparência total em vez de proteção calculada. Isso me deixa
+confiante sobre o próprio futuro dessa empresa, de um jeito que
+raramente sinto em qualquer lugar que já trabalhei.
+
+— Isso significa muito, Sandra. Obrigado por dizer.
+
+---
+
+Ela se despede, seguindo pro próprio compromisso, e sigo pro
+escritório, encontrando Marcus já revisando os números da expansão
+europeia, agora reestruturada sem a participação de Alexandra.
+
+— Como está o novo plano? — pergunto, sentando ao lado dele.
+
+— Sólido. Vamos avançar sozinhos, sem parceiro externo dessa vez.
+Mais lento, talvez, mas mais seguro.
+
+— Prefiro lento e seguro a rápido e arriscado, considerando tudo que
+já aprendemos.
+
+---
+
+— Fala nisso — Marcus continua, o tom mudando ligeiramente — recebi
+contato de outro investidor internacional interessado, essa semana.
+Nome que reconheci imediatamente: Alexandra Voss Whitfield mencionou
+ele uma vez, de passagem, como concorrente dela no próprio mercado
+europeu.
+
+O comentário pega de surpresa, uma peça nova se formando no próprio
+horizonte que achei que já tinha se resolvido completamente.
+
+— Isso é coincidência, ou você acha que existe conexão real?
+
+— Não sei ainda. Só achei relevante trazer, considerando tudo que já
+atravessamos com conexão parecida.
+
+---
+
+— Vamos verificar com cuidado redobrado, então, antes de qualquer
+conversa avançar — decido, sentindo o próprio instinto de vigilância
+se firmar de novo, mais rápido do que eu esperava depois de tanta
+calma recente.
+
+— Já pedi pra Devon começar due diligence preliminar.
+
+— Perfeito. Prefiro estar preparado demais do que despreparado, de
+novo.
+
+Marcus assente, voltando pro próprio trabalho, e fico sentado por um
+momento, sentindo o peso estranho de reconhecer que, apesar de toda
+a reconstrução recente, o próprio jogo nunca realmente pausa
+completamente — só espera o próximo movimento, de qualquer direção
+que ele venha.
