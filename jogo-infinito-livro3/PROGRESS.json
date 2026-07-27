@@ -10,9 +10,9 @@
     "Alex"
   ],
   "status": "Em andamento",
-  "next_chapter": 22,
-  "next_pov": "Alex",
-  "updated": "2026-07-27 22:17",
+  "next_chapter": 23,
+  "next_pov": "Cami",
+  "updated": "2026-07-27 22:19",
   "chapters": [
     {
       "n": 1,
@@ -181,16 +181,24 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 22,
+      "pov": "Alex",
+      "words": 840,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 21,
-    "total_words": 19534,
-    "pages_kdp": 65,
+    "chapters_done": 22,
+    "total_words": 20374,
+    "pages_kdp": 68,
     "avg_score": 7.0,
-    "pct_to_target": 33,
-    "heat_scenes_done": 3,
-    "last_heat_chapter": 15
+    "pct_to_target": 34,
+    "heat_scenes_done": 4,
+    "last_heat_chapter": 22
   }
 }
