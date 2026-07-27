@@ -83,3 +83,30 @@ Patricia — decido, depois de um momento. — Só por precaução, antes
 que vire problema maior do que conseguimos gerenciar.
 
 — Boa ideia. Prefiro agir cedo do que reagir tarde demais.
+
+— Sabe o que mais me incomoda nisso tudo? — comento, depois de um
+momento de silêncio. — Não é só a possibilidade de traição em si. É
+perceber quantas pessoas diferentes, ao longo desse último ano,
+esconderam alguma coisa importante de nós, cada uma por motivo
+próprio.
+
+— Isso é verdade desconfortável. Mas também mostra o quanto você
+amadureceu, reconhecendo o padrão em vez de ficar surpreso toda vez
+que ele se repete.
+
+---
+
+— Isso é jeito generoso de encarar, considerando o próprio cansaço
+que sinto.
+
+— Cansaço real não invalida crescimento real, Alex. As duas coisas
+coexistem, sempre.
+
+— Você sempre encontra o jeito certo de dizer isso.
+
+— Aprendi com a prática, cuidando de você nos últimos meses.
+
+Rimos juntos, o som leve cortando através da tensão acumulada, e
+ficamos ali mais um tempo, absorvendo o peso bom de atravessar mais
+essa incerteza lado a lado, gratos, apesar de tudo, por continuar
+escolhendo verdade completa um com o outro.

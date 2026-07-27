@@ -87,3 +87,35 @@ Fico em silêncio, sentindo o peso da própria observação, e me
 aproximo mais dele, absorvendo juntos o peso de mais um dia que
 exigiu verdade completa, mesmo quando ela doeu mais do que qualquer
 mentira confortável jamais doeria.
+
+— Preciso ligar pra Elena — comenta, depois de um tempo. — Avisar
+ela antes que descubra por outra fonte.
+
+— Quer que eu fique aqui enquanto você liga, ou prefere privacidade?
+
+— Fica. Prefiro sua presença, mesmo numa ligação difícil.
+
+Ele liga, e escuto a conversa em silêncio, o próprio Alex explicando
+tudo com a mesma honestidade cuidadosa que já reconheço como marca
+dele — nem minimizando a própria dor, nem exagerando drama
+desnecessário.
+
+---
+
+— Ela ficou chateada, mas entendeu — comenta, desligando finalmente.
+— Disse que vai processar à própria maneira, através da pintura,
+provavelmente.
+
+— Isso é jeito saudável dela lidar com dor real.
+
+— É mesmo. Aprendeu isso comigo, de certo modo, ou talvez eu tenha
+aprendido com ela — nunca sei mais quem ensinou o quê nessa família
+inteira.
+
+Rio, apesar de todo o peso do próprio dia, reconhecendo o humor leve
+dele como mecanismo familiar de processar dificuldade real.
+
+— Vamos dormir cedo hoje — sugiro, levantando. — Amanhã ainda tem
+muito pra resolver, e precisamos descansar antes.
+
+— Concordo completamente.

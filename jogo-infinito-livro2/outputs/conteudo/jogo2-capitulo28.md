@@ -86,3 +86,31 @@ ainda se assentando — gestão de risco agressiva, comentário sobre
 "recuperar o que a família merecia", tudo se somando a um retrato que
 já não consigo ignorar completamente, por mais que ainda queira
 acreditar no melhor.
+
+— Isso é revelação grande — Cami comenta, depois de ouvir o resumo
+completo. — Precisamos documentar tudo formalmente, enquanto ainda
+está fresco na memória do Richard.
+
+— Já pedi pra Marcus preparar declaração formal, caso precisemos
+usar isso depois.
+
+— Boa ideia. Como você está se sentindo com tudo isso?
+
+---
+
+— Dividido, honestamente. Parte de mim ainda quer acreditar que
+existe explicação inocente. Parte de mim já reconhece que a soma
+está ficando pesada demais pra ignorar.
+
+— Isso é humano, Alex. Ninguém espera que você processe tudo isso
+sem sentir conflito real.
+
+— Aprecio você entender isso. Vamos conversar mais quando eu chegar
+em casa?
+
+— Sempre. Estarei aqui.
+
+Desligo, sentindo o próprio peso da conversa se acomodar devagar,
+grato por ter, ao lado, alguém disposta a segurar a própria
+complexidade emocional sem exigir clareza instantânea que ainda não
+consigo oferecer completamente.

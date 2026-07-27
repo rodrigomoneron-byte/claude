@@ -84,3 +84,29 @@ O silêncio que segue carrega peso suficiente pra sentir cada segundo
 esticar, e sei, com certeza absoluta, que o que ela está prestes a
 dizer vai definir completamente o rumo de tudo que ainda está por vir
 nessa guerra que nenhum de nós viu chegando com essa proporção.
+
+David Okonkwo se inclina pra frente, o próprio rosto carregando
+preocupação genuína.
+
+— Patricia, o que está acontecendo?
+
+Ela respira fundo, os olhos percorrendo a sala inteira antes de
+pousar diretamente em mim.
+
+---
+
+— Antes de eu falar — ela continua, a voz ainda controlada — preciso
+que todos entendam que qualquer coisa que eu fiz, fiz acreditando
+genuinamente que protegia o valor real dessa empresa.
+
+— Isso soa como confissão se formando — Sandra comenta, a própria
+voz tensa.
+
+— É exatamente isso.
+
+Sinto o próprio corpo inteiro tenso, cada músculo preparado pra
+absorver o impacto do que quer que venha a seguir, e olho pra Cami,
+encontrando o mesmo estado de alerta espelhado no rosto dela.
+
+— Continue — falo, finalmente, a voz mais firme do que o próprio
+coração acelerado sugeriria.

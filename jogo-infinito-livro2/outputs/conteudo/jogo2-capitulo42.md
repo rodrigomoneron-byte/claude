@@ -86,3 +86,38 @@ Ela chora, o próprio corpo tremendo com a magnitude do próprio erro,
 e fico ali, sentindo o peso de decisão que ainda preciso tomar — não
 mais sobre confiar ou desconfiar, mas sobre que tipo de consequência
 essa traição específica realmente merece.
+
+— O que acontece agora? — ela pergunta, finalmente, a voz ainda
+rachada.
+
+— A parceria está encerrada, formalmente, a partir de hoje. Dan vai
+avaliar se existe crime a processar. Não posso prometer nada além
+disso.
+
+— Entendo. Não espero que prometa. Só... — ela hesita — espero que
+um dia você consiga acreditar que a parte real de mim, a que amava
+genuinamente a possibilidade de família com vocês, também existiu,
+apesar de tudo que estraguei.
+
+---
+
+— Quero acreditar nisso — respondo, sinceramente. — Só ainda não sei
+como separar completamente essa parte da mentira que a envolveu.
+
+— Isso é justo. Levaria tempo, no seu lugar, também.
+
+Cami se aproxima, a mão pousando no meu ombro, sinalizando
+silenciosamente que talvez seja hora de encerrar essa conversa
+específica.
+
+— Vamos deixar você processar tudo isso com o próprio advogado —
+falo, levantando. — Qualquer próximo passo formal virá através dos
+canais legais apropriados.
+
+— Entendo. Obrigada por, pelo menos, me dar chance de explicar
+pessoalmente, mesmo sabendo que isso não desfaz nada.
+
+Saímos do apartamento dela em silêncio pesado, cada passo carregando
+o peso de uma relação que começou com tanta esperança e terminou
+exatamente onde os fatos sempre apontaram, silenciosamente, desde o
+início.
