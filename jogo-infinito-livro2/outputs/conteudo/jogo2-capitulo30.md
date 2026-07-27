@@ -29,6 +29,8 @@ tão apertado.
 — Faz parte do trabalho, Alex. Prefiro preparação completa a
 qualquer improviso arriscado.
 
+— Isso é exatamente por que confio tanto no seu trabalho, Denise.
+
 ---
 
 Patricia aparece na minha sala à tarde, sem avisar, o próprio rosto
@@ -145,3 +147,7 @@ Desligo, sentindo o próprio peso do dia começar a ceder espaço,
 devagar, pra alívio simples de saber que, seja lá o que amanhã ainda
 revele sobre Patricia, não vou precisar enfrentar isso completamente
 sozinho.
+
+Fecho o próprio escritório, apagando as luzes uma a uma, e sigo pra
+casa, o peso do dia inteiro ainda pesando, mas mais leve agora,
+sabendo que Cami já está lá, esperando.

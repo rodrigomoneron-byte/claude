@@ -15,6 +15,9 @@ cumprido tudo, proativamente.
 
 — Isso é ótima notícia.
 
+— É mesmo. Fico feliz em ver vocês dois assim, mais leves — Marcus
+acrescenta, servindo a própria taça.
+
 — É, sim. Ainda com cautela, mas real — acrescento, sentindo o
 próprio corpo relaxar ligeiramente ao dizer isso em voz alta pela
 primeira vez em semanas.
@@ -126,3 +129,7 @@ relaxado, e sinto, mais uma vez, o peso bom de reconhecer quanto
 essa vida específica, construída devagar sobre tanta verdade
 compartilhada, já se tornou exatamente o tipo de lar que nunca
 soube, antes dela, que era possível construir.
+
+Fecho os olhos de novo, deixando o próprio sono voltar devagar,
+grato, mais uma vez, por essa noite simples que carregou tanto peso
+bom, sem exigir nada além de presença genuína.

@@ -17,6 +17,8 @@ esperando até amanhã de manhã.
 
 — Gosto muito dessa regra. Vou seguir o exemplo.
 
+— Combinado, então. Só nós dois, sem interrupção nenhuma.
+
 Desligo meu próprio celular também, sentindo, mesmo nesse gesto
 pequeno, o peso de uma decisão maior — escolher, deliberadamente,
 proteger algumas horas só pra nós dois, sem deixar o mundo lá fora
@@ -122,3 +124,8 @@ Fecho os olhos de novo, tentando aproveitar mais algumas horas dessa
 paz frágil antes que o dia amanheça, trazendo consigo a próxima
 camada dessa história que ainda não terminou de se revelar
 completamente.
+
+O sono volta devagar, e a última coisa que sinto antes de mergulhar
+completamente nele é a própria respiração de Alex, constante,
+lembrando que qualquer coisa que amanhã ainda revele, vamos
+atravessar juntos.
