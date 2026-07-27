@@ -30,6 +30,14 @@ exatamente quem diz ser, Cami, apesar de todo o passado complicado.
 
 — Talvez seja. Vamos continuar observando até o fim do período.
 
+— Você parece mais aliviada do que estava semana passada — comento,
+percebendo a mudança no próprio tom dela.
+
+— Estou, sim. Confesso que gostava genuinamente dela, antes de tudo
+isso, e queria muito estar errada sobre precisar desconfiar.
+
+— Entendo isso completamente. Também queria estar errada.
+
 ---
 
 Renata aparece à noite, o próprio rosto carregando expressão neutra,
@@ -104,3 +112,18 @@ Rio, reconhecendo a própria verdade por trás da brincadeira, e me
 junto a ele, cortando vegetais lado a lado, o silêncio confortável
 preenchendo a cozinha inteira com algo que sinto, finalmente, como
 paz genuína.
+
+— Sabe — comento, depois de um tempo, olhando pros vegetais entre
+nós dois — talvez essa seja a parte que ninguém avisa sobre atravessar
+crise junto. Que o normal, depois, sabe diferente. Mais valioso, de
+um jeito que não sabia nomear antes.
+
+— Concordo completamente. Vou tentar não deixar eu esquecer disso,
+quando a próxima urgência qualquer aparecer.
+
+— Nem eu. Vamos os dois tentar lembrar.
+
+Ele beija minha testa, voltando pro próprio ritmo tranquilo de
+preparar o jantar, e sinto, mais uma vez, gratidão silenciosa por
+essa capacidade compartilhada de encontrar paz mesmo no meio de
+incerteza que ainda não terminou de verdade.

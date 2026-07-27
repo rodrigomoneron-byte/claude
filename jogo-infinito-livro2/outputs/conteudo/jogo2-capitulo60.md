@@ -75,7 +75,27 @@ sozinho.
 
 — Isso eu também prefiro, sempre.
 
+— Sabe, penso muito em quanto essa casa já testemunhou desde que nos
+mudamos — comento, depois de um momento de silêncio. — Cada crise,
+cada reconciliação, cada vitória pequena. Ela carrega nossa própria
+história inteira dentro das próprias paredes.
+
+— É verdade. E vai continuar carregando, capítulo atrás de capítulo,
+seja lá o que ainda vier.
+
 ---
+
+— Isso não te assusta? Saber que sempre vai existir próximo capítulo,
+nunca um ponto final completo?
+
+— Assustava, no início. Agora sinto que é exatamente isso que torna
+essa vida real, sabe. Livro que nunca termina de verdade, só continua
+se escrevendo, capítulo após capítulo, enquanto os dois continuarem
+escolhendo escrever ele juntos.
+
+— Isso é bonito, dito assim.
+
+— É verdade, também, não só bonito.
 
 Levanto, indo até a estante da sala, e pego a caneta ao lado do
 relógio de bolso, sentindo o próprio peso familiar dela na mão —

@@ -13,6 +13,16 @@ isso pelo caminho.
 
 — Gosto muito dessa razão pra comemorar.
 
+— Achei que merecíamos marcar isso de verdade, não só deixar passar
+como mais uma semana difícil superada — explica, seguindo comigo até
+a cozinha pra buscar taças. — Faz tempo que não comemoramos nada, só
+sobrevivemos coisa atrás de coisa.
+
+— É verdade. Esquecemos de parar e reconhecer quando alguma coisa boa
+acontece, no meio de tanta crise.
+
+— Prometo que vou tentar lembrar mais disso, daqui pra frente.
+
 ---
 
 Servimos o vinho, sentando juntos no sofá, conversa fluindo fácil
@@ -91,6 +101,14 @@ vida — a esperança inicial, a verificação constante, a traição dupla,
 a reconstrução. Cada etapa difícil, olhando pra trás agora, parece
 ter valido a pena, construindo, tijolo por tijolo, algo genuinamente
 sólido entre nós dois.
+
+Penso também em como éramos, antes de tudo isso começar — mais
+cautelosos, talvez, menos dispostos a confiar rápido demais em
+alguém novo. Alexandra custou caro, de muitas formas, mas também
+ensinou algo que talvez só uma crise real conseguisse ensinar: que
+verificação cuidadosa e amor genuíno não precisam competir entre si,
+desde que os dois estejam dispostos a fazer o trabalho difícil juntos,
+sem atalho nenhum.
 
 Alex se mexe ao meu lado, ainda meio adormecido, e puxa minha mão de
 volta pro próprio peito, e fico ali, quieta, absorvendo o peso bom

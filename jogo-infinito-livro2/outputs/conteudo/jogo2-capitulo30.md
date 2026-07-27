@@ -14,6 +14,15 @@ explicar de forma satisfatória.
 
 — Concordo. Vou marcar a reunião pra amanhã.
 
+— Prefere que eu esteja presente também, ou é melhor conversa
+diretamente entre vocês três? — Denise pergunta, guardando os
+próprios documentos organizados.
+
+— Prefiro você presente. Quero registro formal de tudo, desde o
+início, caso precisemos de documentação mais adiante.
+
+— Vou providenciar sala apropriada, então, com tudo já preparado.
+
 ---
 
 Patricia aparece na minha sala à tarde, sem avisar, o próprio rosto
@@ -110,3 +119,18 @@ Ele sorri, saindo finalmente, e fico sozinho, sentindo o próprio peso
 da tarde inteira se acumular, cada nova suspeita exigindo energia que
 já começo a sentir escassear, mesmo sabendo que ainda preciso
 continuar até o fundo.
+
+Ligo pra Cami de novo, antes de sair do escritório, precisando ouvir
+a voz dela mais uma vez antes de encerrar o dia.
+
+— Só queria dizer que sinto sua falta, mesmo sabendo que te vejo em
+menos de uma hora — confesso, meio sem graça pela própria
+sinceridade.
+
+— Isso é doce, Alex. Também sinto sua falta, principalmente em dias
+como esse, carregando tanta descoberta pesada.
+
+— Vou pra casa agora. Preciso de você ao lado antes de processar
+qualquer coisa nova sobre Patricia.
+
+— Vou estar aqui, te esperando, do jeito que sempre estou.

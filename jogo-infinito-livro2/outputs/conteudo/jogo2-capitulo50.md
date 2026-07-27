@@ -28,6 +28,14 @@ próprio peso do gesto.
 
 — Isso é... inesperado. O que você vai fazer com ele?
 
+— Ainda não sei. — Fico girando o anel entre os dedos, sentindo o
+próprio peso frio dele contra a pele. — Parte de mim quer jogar longe,
+honestamente. Outra parte reconhece que ele carrega história real,
+independente de tudo que veio depois.
+
+— Isso faz sentido completo. Talvez os dois sentimentos possam
+existir juntos, sem contradição nenhuma.
+
 ---
 
 — Não sei ainda. Parte de mim quer guardar, como lembrete de que a
@@ -103,6 +111,16 @@ Isso conta pra alguma coisa.
 processar isso tudo sozinho, sem você ao lado.
 
 — Nunca vai precisar descobrir isso, porque sempre vou estar aqui.
+
+— Sabe, acho que só agora entendo completamente o que Theodore devia
+sentir, guardando segredo tão pesado por tanto tempo — comento, olhando
+mais uma vez pro anel antes de fechar a caixa. — Não desculpa o que
+ele fez. Mas ajuda a entender o próprio peso disso.
+
+— Compreender não é o mesmo que perdoar completamente. Mas é começo
+real, mesmo assim.
+
+— É. E talvez seja tudo que consigo oferecer, por enquanto.
 
 Guardo a caixa na própria gaveta do escritório, ao lado de outros
 documentos importantes, e sinto, fechando ela, uma sensação estranha
