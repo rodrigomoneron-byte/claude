@@ -13,6 +13,9 @@ com precisão.
 
 — Vou mandar tudo hoje ainda.
 
+— Perfeito. Quanto antes eu tiver isso em mãos, mais rápido consigo
+avaliar com precisão real.
+
 — Aprecio a agilidade. E, Cami — a voz dele suaviza ligeiramente —
 sei que isso está sendo difícil pra vocês dois. Vou tratar com o
 cuidado necessário, mas também com a urgência que a situação exige.
@@ -137,3 +140,9 @@ a voz dele mais uma vez antes de encerrar esse dia pesado.
 
 — Estou aqui. Sempre vou estar, mesmo nos dias mais pesados como
 esse.
+
+Fico ali no carro por um momento, o celular ainda contra o ouvido,
+absorvendo o próprio conforto da voz dele antes de finalmente
+desligar e seguir pra casa, sentindo, apesar de tudo, gratidão
+silenciosa por não precisar processar esse dia inteiro completamente
+sozinha.

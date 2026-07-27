@@ -17,6 +17,9 @@ pendentes pra fechar o quadro inteiro.
 
 — Entendo. Prefiro cautela a alívio precipitado, de qualquer jeito.
 
+— Boa escolha. Vou continuar e ligo assim que tiver o quadro
+completo.
+
 — É. Mas encontrei outra coisa, verificando o histórico de
 transferência: a propriedade foi usada como garantia de empréstimo,
 há dois anos, exatamente na época do revés financeiro do fundo dela.
@@ -132,3 +135,7 @@ Alex se mexe ao meu lado, ainda olhando pra fora, e sinto, observando
 ele, gratidão silenciosa por essa parceria construída sobre tanta
 verificação cuidadosa, mesmo quando o próprio peso dela cansa mais do
 que qualquer um de nós gostaria de admitir em voz alta.
+
+O avião começa a descer, luzes de Nova York aparecendo devagar lá
+embaixo, e sinto, apesar de todo o cansaço da própria semana, algo
+parecido com alívio genuíno por finalmente voltar pra casa.

@@ -19,6 +19,12 @@ você, considerando tudo que atravessamos juntos.
 
 — Aprecio você dizer isso. Sinto o mesmo, honestamente.
 
+— Devíamos marcar um café qualquer dia, só pra conversar sem nenhuma
+pauta formal.
+
+— Adoraria isso, Dan. Faz tempo que não conversamos assim, sem
+nenhum documento envolvido.
+
 ---
 
 — Como está sua própria vida? — pergunto, genuinamente curiosa.
@@ -139,3 +145,8 @@ sem pressa nenhuma, e sinto, mais uma vez, o peso bom de uma vida
 construída, com tanto cuidado deliberado, sobre a base mais sólida
 que já conheci — verdade completa, escolhida repetidas vezes, mesmo
 quando teria sido mais fácil escolher outra coisa.
+
+O sol começa a baixar lá fora, luz dourada entrando pela janela da
+sala, e fico ali, quieta, absorvendo mais essa tarde simples que
+carrega, silenciosamente, todo o peso bom dessa vida reconstruída
+juntos.
