@@ -4,6 +4,8 @@
 Alex chega em casa carregando flores e uma garrafa de vinho bom,
 gesto raro o suficiente pra me fazer sorrir assim que abro a porta.
 
+Abro a porta sorrindo, surpresa com o próprio gesto raro dele.
+
 — Isso é pra comemorar o quê, exatamente? — pergunto, aceitando as
 flores com carinho genuíno.
 
@@ -134,3 +136,7 @@ O sol começa a nascer devagar lá fora, luz fraca entrando pela
 cortina entreaberta, e fecho os olhos de novo, decidida a aproveitar
 mais alguns minutos dessa paz antes que o dia inteiro, com toda a sua
 própria agenda, finalmente comece.
+
+Alex se mexe de novo, acordando devagar, e sorri assim que percebe
+que ainda estou ali, ao lado dele, os dois aproveitando mais alguns
+minutos antes de levantar.

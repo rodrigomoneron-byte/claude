@@ -4,6 +4,9 @@
 Devon me procura de manhã, o próprio laptop carregando gráfico que
 não reconheço imediatamente.
 
+Sento diante dele, curiosa com a própria expressão séria que carrega
+hoje.
+
 — Estou rastreando os acessos ao sistema de relatórios compartilhado
 com o comitê de supervisão — explica, girando a tela pra mim. —
 Encontrei padrão de acesso que quero que você veja.
@@ -147,3 +150,6 @@ mais um dia.
 O sono chega devagar, e o último pensamento que carrego antes de
 adormecer completamente é gratidão simples por atravessar mais essa
 semana pesada sem perder, nem uma vez, a própria conexão com ele.
+
+A madrugada segue tranquila, o quarto silencioso ao redor, e durmo
+sem interrupção pelo resto da noite.

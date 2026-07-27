@@ -5,6 +5,9 @@ Devon monta o cronograma de verificação contínua na segunda-feira
 seguinte, apresentando ele numa reunião rápida antes do expediente
 formal começar.
 
+Sento diante da própria mesa dele, aceitando o café que oferece antes
+de começar a revisão do documento.
+
 — Verificação trimestral do capital sob gestão dela, cruzamento
 contínuo com qualquer registro público novo em Londres, e checagem
 mensal de qualquer processo ou litígio que surja envolvendo o nome
@@ -151,4 +154,7 @@ Recolhemos a mesa juntos, o resto da noite se desenrolando devagar, e
 sinto, apagando as luzes da cozinha, que essa normalidade simples
 vale exatamente tanto quanto qualquer vitória grande que os dois já
 conquistaram juntos.
+
+Seguimos pro quarto pouco depois, o cansaço do próprio dia finalmente
+vencendo qualquer resquício de preocupação ainda pendente.
 

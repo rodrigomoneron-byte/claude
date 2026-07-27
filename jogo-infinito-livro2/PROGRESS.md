@@ -3,14 +3,14 @@
 ## Estado atual
 - Status: Manuscrito completo — revisão/formatação pendentes
 - Capítulos concluídos: 60 / 60
-- Próximo: Capítulo 11 (POV Cami)
-- Última atualização: 2026-07-27 03:19
+- Próximo: Capítulo 13 (POV Cami)
+- Última atualização: 2026-07-27 03:20
 
 ## Placar
-- Palavras: 54088
-- Páginas KDP (~palavras/300): 180
+- Palavras: 54271
+- Páginas KDP (~palavras/300): 181
 - Score médio: 7.0
-- Meta de palavras: 58000 (93%)
+- Meta de palavras: 58000 (94%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

@@ -5,6 +5,9 @@ Warren Higgins me liga numa terça-feira comum, a voz carregando o
 mesmo tom cauteloso de sempre, agora suavizado por meses de vida
 reconstruída longe de qualquer holofote.
 
+Atendo já sorrindo, reconhecendo a própria voz dele antes mesmo de
+ele se identificar.
+
 — Soube pela Denise que vocês estão negociando expansão grande —
 comenta, depois da própria saudação. — Só queria ligar pra desejar
 sorte. E pra lembrar você de continuar de olho aberto. Sei do que
@@ -151,3 +154,7 @@ Fico sentada mais um tempo, o relógio parado do meu pai ainda visível
 na estante, e sinto, olhando pra ele, determinação renovada de nunca
 repetir o próprio erro dele — silêncio disfarçado de proteção,
 guardado até virar catástrofe irreversível.
+
+Guardo o próprio celular, decidindo esperar Alex chegar antes de
+processar qualquer coisa nova, e sigo pra cozinha preparar alguma
+coisa simples pro jantar dos dois.

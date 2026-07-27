@@ -5,6 +5,9 @@
 carregando controle que sinto rachar a cada palavra. — Sabia que era
 fraudado antes de Alexandra apresentar formalmente.
 
+Sinto o próprio corpo inteiro congelar, cada palavra dela demorando
+um instante a mais pra realmente se registrar.
+
 O silêncio que segue atinge a sala inteira com força física quase
 palpável, cada conselheiro presente processando a confissão com
 choque visível.
@@ -45,6 +48,9 @@ alertar vocês porque acreditava, genuinamente, que resultado final
 beneficiaria a empresa.
 
 ---
+
+Sinto o próprio corpo tenso ao lado de Alex, cada palavra nova
+exigindo mais esforço pra processar do que a anterior.
 
 — Você escolheu trair a confiança de todo mundo aqui — Sandra
 Whitmore intervém, a voz carregando indignação real. — Baseada em
