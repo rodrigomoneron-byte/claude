@@ -67,6 +67,10 @@ essa reunião tome.
 sentindo o próprio corpo inteiro se preparar pra confronto que já não
 tem mais como adiar.
 
+— Aviso ela agora mesmo — Marcus confirma, já saindo pra fazer a
+ligação, deixando eu e Cami sozinhos por um instante antes da
+tempestade formal começar.
+
 Cami segura minha mão por um momento, o próprio olhar carregando
 determinação silenciosa.
 
@@ -128,3 +132,7 @@ empresa.
 Cami aperta minha mão discretamente por baixo da mesa, e sinto,
 mesmo em meio ao próprio peso do momento, gratidão silenciosa por
 não precisar enfrentar isso completamente sozinho.
+
+O relógio na parede marca cada segundo com precisão cruel, e sinto o
+próprio coração acompanhar o ritmo dele, esperando a palavra que vai
+mudar completamente o rumo de tudo que ainda está por vir.

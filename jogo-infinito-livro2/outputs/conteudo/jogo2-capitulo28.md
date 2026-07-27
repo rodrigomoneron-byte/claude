@@ -44,6 +44,11 @@ segundo ele mesmo, "alguém devia saber no que está se metendo".
 O comentário pesa mais do que qualquer descoberta documental
 conseguiu até agora.
 
+— Quando ele pode conversar? — pergunto, sentindo o próprio instinto
+profissional se firmar rápido demais pra hesitar.
+
+— Agora, se quiser. Ele está esperando na linha.
+
 ---
 
 Ligamos pro investidor, um homem chamado Richard Ashford, colocando
@@ -140,3 +145,12 @@ carregando o peso da própria conversa recente.
 
 — Vou. Só preciso de uma noite pra processar tudo isso antes de
 decidir qualquer próximo passo.
+
+— Justo. Estou aqui, se precisar de qualquer coisa antes de amanhã.
+
+— Aprecio isso, Marcus. De verdade.
+
+Ele sai, finalmente, e sigo pro carro, o próprio peso da tarde
+inteira ainda pesando nos ombros, sentindo, apesar de tudo, que
+amanhã vai exigir clareza que hoje ainda não consigo reunir
+completamente.

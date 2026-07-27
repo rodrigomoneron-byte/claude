@@ -46,6 +46,9 @@ precisamos de certeza real, não só suspeita.
 — Já contatei um especialista, através de indicação da Denise. Ele
 pode analisar o documento original até sexta-feira.
 
+— Perfeito. Quanto mais rápido tivermos certeza, melhor pra decidir
+qualquer próximo passo com clareza.
+
 — Perfeito. E, Devon — hesito, sentindo o próprio peso da pergunta —
 não conta pra mais ninguém ainda, nem pro Alex, até termos
 confirmação completa. Não quero que ele carregue essa suspeita sem
@@ -128,3 +131,8 @@ Fico sentada no escuro do próprio escritório por mais um tempo,
 deixando a exaustão do dia inteiro finalmente pesar sobre os ombros,
 sabendo que amanhã, com confirmação forense em mãos, tudo vai
 precisar mudar de direção outra vez.
+
+Guardo os próprios documentos, apagando a luz da mesa, e sigo pra
+casa em silêncio, sentindo o próprio corpo cansado carregar o peso de
+mais uma verdade que ainda precisa terminar de se revelar
+completamente.

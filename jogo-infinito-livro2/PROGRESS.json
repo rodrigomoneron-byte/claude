@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 19,
+  "next_chapter": 29,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -205,7 +205,7 @@
     {
       "n": 28,
       "pov": "Alex",
-      "words": 762,
+      "words": 835,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -268,7 +268,7 @@
     {
       "n": 37,
       "pov": "Cami",
-      "words": 760,
+      "words": 809,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -289,7 +289,7 @@
     {
       "n": 40,
       "pov": "Alex",
-      "words": 754,
+      "words": 814,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -459,8 +459,8 @@
   ],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 48590,
-    "pages_kdp": 162,
+    "total_words": 48772,
+    "pages_kdp": 163,
     "avg_score": 7.0,
     "pct_to_target": 84
   },
@@ -477,5 +477,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 01:59"
+  "updated": "2026-07-27 02:00"
 }
