@@ -3,12 +3,12 @@
 ## Estado atual
 - Status: Manuscrito completo — revisão/formatação pendentes
 - Capítulos concluídos: 60 / 60
-- Próximo: Capítulo 49 (POV Cami)
-- Última atualização: 2026-07-27 03:14
+- Próximo: Capítulo 44 (POV Alex)
+- Última atualização: 2026-07-27 03:15
 
 ## Placar
-- Palavras: 52715
-- Páginas KDP (~palavras/300): 176
+- Palavras: 52967
+- Páginas KDP (~palavras/300): 177
 - Score médio: 7.0
 - Meta de palavras: 58000 (91%)
 

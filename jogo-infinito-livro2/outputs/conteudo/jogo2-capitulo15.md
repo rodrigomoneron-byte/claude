@@ -1,6 +1,9 @@
 # Jogo Infinito — Livro 2 — Capítulo 15
 ### POV: Cami
 
+Chego cedo à reunião, revisando mentalmente cada argumento antes de
+apresentar a própria proposta formal ao conselho completo.
+
 Proponho a política de registro formal de contato individual na
 reunião de conselho seguinte, e observo Patricia votar a favor sem
 qualquer hesitação visível — gesto que devia tranquilizar, mas só
@@ -149,3 +152,7 @@ Apagamos as luzes do escritório juntos, seguindo pro quarto em
 silêncio confortável, e sinto, deitando, gratidão profunda por essa
 constância que nenhuma incerteza externa, por maior que seja, jamais
 conseguiu abalar.
+
+Alex apaga o próprio abajur logo depois de mim, e adormecemos quase
+juntos, o cansaço do dia inteiro finalmente vencendo qualquer
+resquício de preocupação ainda pendente.

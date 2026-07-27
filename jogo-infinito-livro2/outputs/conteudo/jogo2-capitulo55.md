@@ -6,6 +6,9 @@ mais largo que vi em semanas, o corpo inteiro irradiando energia que
 reconheço como resultado direto da vitória trimestral que ele
 conquistou hoje.
 
+Largo a própria bolsa perto da porta, sorrindo já com o clima
+contagiante dele antes mesmo de saber o resultado completo.
+
 — Isso merece comemoração de verdade — anuncia, servindo as taças
 assim que entro na sala.
 
@@ -133,3 +136,7 @@ Fico ali um tempo longo, os braços cruzados contra o próprio peito,
 observando a cidade acordar devagar lá embaixo, e sinto, mais uma
 vez, certeza tranquila de que qualquer desafio novo que ainda venha
 vai encontrar nós dois prontos, juntos, do jeito que sempre estivemos.
+
+Volto pra cama antes de Alex acordar completamente, encostando de
+leve nas costas dele, e sinto o próprio corpo dele relaxar, mesmo
+ainda meio adormecido, reconhecendo minha presença de volta.

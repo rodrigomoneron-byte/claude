@@ -5,6 +5,10 @@ Deixamos Alexandra sozinha com o próprio advogado, chamado às
 pressas, e voltamos pro apartamento em silêncio pesado, o peso do dia
 inteiro finalmente se assentando sobre os dois.
 
+Tiro os sapatos devagar, sentindo o próprio corpo pesado de exaustão
+acumulada, e observo Alex fazer o mesmo, o silêncio entre nós dois
+carregando peso que nenhuma palavra ainda consegue nomear.
+
 — Você está bem? — pergunto, assim que a porta fecha atrás de nós.
 
 — Não sei ainda. Sinto raiva, pena, decepção, tudo ao mesmo tempo,
@@ -149,3 +153,7 @@ Alex adormece primeiro, a respiração dele desacelerando contra meu
 ombro, e fico ali mais um tempo, acordada, sentindo gratidão
 silenciosa por atravessar mais esse dia difícil ao lado dele, sem
 esconder nada pelo caminho.
+
+A madrugada segue quieta ao redor, e adormeço, finalmente, também,
+grata por esse descanso que os dois tanto precisávamos depois de um
+dia tão pesado.

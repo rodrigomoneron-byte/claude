@@ -6,6 +6,10 @@ cada compromisso proativamente — relatório semanal detalhado,
 transparência total sobre qualquer movimento financeiro do próprio
 fundo, nenhuma omissão nova descoberta por conta própria.
 
+Reviso os próprios números junto com ele, sentindo, pela primeira vez
+em semanas, que talvez estejamos finalmente vendo padrão positivo de
+verdade.
+
 — Isso é padrão consistente — Devon confirma, na revisão da segunda
 semana. — Se ela está performando, é performance impressionantemente
 sustentada.
@@ -144,3 +148,7 @@ Sentamos pra comer, o resto da noite se desenrolando devagar, e
 sinto, apesar de tudo que ainda possa vir, gratidão genuína por essa
 pausa pequena antes de qualquer nova incerteza exigir atenção outra
 vez.
+
+Lavamos a louça juntos depois, o próprio ritmo tranquilo esticando a
+noite um pouco mais, e vamos pra cama satisfeitos, sentindo que esse
+dia específico mereceu ser vivido devagar.

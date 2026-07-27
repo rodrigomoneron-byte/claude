@@ -4,6 +4,9 @@
 Denise liga na manhã seguinte, a voz carregando o próprio contato
 profissional que conseguiu ativar rápido em Londres.
 
+Sento na beirada da cama, esperando o próprio café esfriar enquanto
+escuto, o corpo já tenso antes de qualquer detalhe concreto.
+
 — Meu contato conseguiu confirmar, informalmente, o teor da segunda
 consulta — informa, sem rodeio. — Ela perguntou, especificamente,
 sobre o que aconteceria com a própria participação na entidade
@@ -146,3 +149,7 @@ Apago a luz do próprio abajur, deitando devagar, e sinto, mesmo em
 meio a tanta incerteza ainda sem resposta, o próprio corpo cansado
 finalmente ceder espaço pro sono que precisa recuperar antes de
 enfrentar mais um dia inteiro de verificação.
+
+O quarto do hotel fica silencioso ao redor, só o som distante do
+próprio trânsito londrino lá embaixo, e adormeço devagar, ainda
+pensando em cada peça solta desse dia inteiro.
