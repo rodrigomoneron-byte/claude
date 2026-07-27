@@ -101,3 +101,32 @@ atravessamos.
 — Combinado. Me avisa assim que Devon trouxer qualquer atualização.
 
 — Prometo.
+
+Desligo e fico sentado por mais um tempo, olhando pros próprios
+números da expansão espalhados na mesa, pensando em quanto a vida
+inteira parece ter virado um ciclo constante de reconstrução e nova
+verificação — nunca completamente resolvida, sempre exigindo o
+próximo grau de atenção.
+
+Marcus reaparece na porta, o próprio laptop já fechado.
+
+---
+
+— Sabe, às vezes penso que talvez isso nunca realmente pare — comento,
+quando ele senta de novo. — Sempre vai existir próximo investidor,
+próxima parceria, próxima verificação necessária.
+
+— Isso é o próprio jogo, Alex. O nome da série inteira, de certo
+modo — Jogo Infinito. Nunca termina completamente, só muda de forma.
+
+— Isso devia ser exaustivo, dito assim. Mas, de um jeito estranho,
+não é.
+
+— Porque você aprendeu a jogar ele direito, agora. Com rigor, mas
+também com integridade. Isso muda tudo.
+
+Ele sai, deixando eu sozinho de novo, e sinto, apesar do próprio peso
+da nova incerteza que Sebastian Kroll representa, uma calma
+inesperada — não ausência de desafio, mas confiança genuína na
+própria capacidade de atravessar qualquer desafio novo sem perder o
+próprio rumo.

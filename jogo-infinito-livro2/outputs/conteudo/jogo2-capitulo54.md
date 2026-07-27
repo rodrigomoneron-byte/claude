@@ -95,3 +95,29 @@ Desligo, sentindo gratidão renovada por ter, ao redor, gente disposta
 a comemorar cada vitória junto comigo, e volto pra Cami, ainda parada
 diante da janela, observando o skyline que já testemunhou tanto da
 nossa própria história.
+
+— Marcus está feliz por nós — comento, me juntando a ela na janela.
+
+— Ele sempre fica. É um dos motivos que eu mais aprecio nele — a
+capacidade de comemorar vitória alheia sem nenhum traço de inveja.
+
+— É verdade. Ele mudou muito, também, desde que o conheci.
+
+— Todos nós mudamos, Alex. Cada um à própria maneira, através de
+cada dificuldade que insistiu em nos ensinar alguma coisa nova.
+
+---
+
+— Você mudou mais do que qualquer um, honestamente — comento, virando
+pra encará-la. — De consultora cautelosa demais pra confiar em
+qualquer coisa, pra alguém que sabe exatamente quando confiar e
+quando questionar.
+
+— Isso é generoso da sua parte. Mas você também mudou, Alex. De
+executivo calculista pra líder que escolhe transparência mesmo
+quando ela custa caro.
+
+— Aprendemos juntos, então.
+
+— Aprendemos mesmo. E vamos continuar aprendendo, considerando tudo
+que ainda pode aparecer pela frente.

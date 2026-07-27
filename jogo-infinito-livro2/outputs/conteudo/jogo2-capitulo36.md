@@ -87,3 +87,20 @@ Puxo ela mais perto, sentindo o próprio peito se aquecer com a
 própria confissão, e ficamos ali, abraçados, absorvendo o peso bom
 de mais uma noite que reforça, silenciosamente, tudo que já sabemos
 sobre o valor real dessa parceria que construímos juntos.
+
+— Sabe, penso muito ultimamente em como Marcus e Naomi encontraram
+o próprio caminho — comento, depois de um tempo. — De colegas de
+trabalho pra parceiros de vida real, mesmo com tanta coisa acontecendo
+ao redor.
+
+— É bonito de testemunhar. E fico feliz que nós tenhamos conseguido
+contribuir, mesmo que pequeno, pra esse tipo de conexão florescer ao
+redor.
+
+— Contribuímos, sim. E continuamos contribuindo, cada vez que
+escolhemos verdade em vez de conveniência.
+
+Adormecemos pouco depois, gratos, os dois, por essa rede de pessoas
+genuínas crescendo ao redor, cada uma encontrando o próprio caminho
+pra felicidade real, inspirada, de alguma forma, pelo exemplo que
+tentamos oferecer.

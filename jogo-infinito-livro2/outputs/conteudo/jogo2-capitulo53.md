@@ -100,3 +100,30 @@ Sorrio, sentindo gratidão genuína por essa parceria profissional que
 já virou amizade real, construída sobre tanta experiência
 compartilhada, boa e difícil, ao longo de tanto tempo trabalhando
 lado a lado.
+
+— Preciso te contar uma coisa também — Renata continua, o tom
+mudando ligeiramente. — Estou pensando em expandir a consultoria.
+Contratar mais uma pessoa, focar em casos parecidos com o que
+atravessamos.
+
+— Isso é notícia empolgante, Renata. Quem você está considerando?
+
+---
+
+— Ainda não decidi. Queria sua opinião antes de avançar com qualquer
+entrevista formal.
+
+— Vou pensar com cuidado. Talvez alguém com experiência em
+verificação financeira, considerando quantas vezes precisamos desse
+tipo de expertise ultimamente.
+
+— Boa sugestão. Vou incluir isso no próprio perfil que estou
+montando.
+
+Ela se levanta pra sair, mas para na porta, virando de volta.
+
+— Obrigada por confiar em mim pra crescer isso junto, Cami. Nunca
+imaginei que a consultoria pequena que começamos viraria isso tudo.
+
+— Nem eu, honestamente. Mas fico grata por cada etapa dessa jornada,
+mesmo as difíceis.

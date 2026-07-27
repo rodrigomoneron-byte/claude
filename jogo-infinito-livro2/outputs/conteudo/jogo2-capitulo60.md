@@ -38,6 +38,18 @@ Desligo e conto pra Cami, os dois sentados no sofá, o resto do
 domingo tranquilo cedendo espaço, devagar, pra atenção profissional
 renovada.
 
+— Você está bem? — ela pergunta, notando provavelmente a própria
+mudança na minha expressão.
+
+— Estou. Só... reconheço a própria sensação. Aquela de quando alguma
+coisa pequena, quase invisível, ainda pode virar problema grande.
+Já aprendi a não ignorar esse instinto.
+
+— Isso é sabedoria bem conquistada, considerando tudo que já
+atravessamos.
+
+---
+
 — Meridian Holdings — ela repete, pensativa. — Nunca ouvi esse nome
 antes também. Vamos pedir pra Renata e Devon verificarem juntos,
 antes da reunião.
