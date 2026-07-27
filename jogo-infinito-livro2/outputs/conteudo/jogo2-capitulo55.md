@@ -78,3 +78,14 @@ Adormecemos abraçados, gratos, os dois, por essa vida construída com
 tanto esforço deliberado, sabendo, com certeza cada vez mais firme,
 que qualquer dificuldade futura vai encontrar nós dois prontos pra
 atravessar ela juntos, do mesmo jeito que sempre fizemos.
+
+Acordo de madrugada, o quarto silencioso ao redor de nós dois, e fico
+ali um tempo, observando Alex dormir, pensando em quanto essa
+vitória específica representa mais do que só sucesso financeiro —
+representa prova concreta de que reconstrução real, feita com
+paciência e integridade, sempre rende mais do que atalho arriscado.
+
+Ele se mexe ao meu lado, ainda dormindo, e puxa eu de volta pra
+perto sem acordar completamente, e fico ali, quieta, absorvendo o
+peso bom desse momento simples antes que o dia inteiro, com toda a
+expectativa boa que ele carrega, finalmente comece.

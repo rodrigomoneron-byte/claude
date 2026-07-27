@@ -80,3 +80,33 @@ na minha vida, depois de tudo — Cami, Elena, você, Devon.
 Ele sai pouco depois, ainda sorrindo, e fico sozinho um momento,
 sentindo gratidão profunda por essa rede de pessoas genuínas que
 construí, devagar, ao longo de tanta dificuldade atravessada junto.
+
+Ligo pra Cami, precisando compartilhar as duas notícias do dia antes
+de qualquer outra coisa.
+
+— Formalizei o novo cargo do Devon — conto. — E Marcus vai pedir
+Naomi em casamento semana que vem.
+
+— Isso é maravilhoso, Alex! As duas notícias.
+
+---
+
+— É mesmo. Sinto que, depois de tanto tempo carregando peso pesado,
+finalmente temos coisa boa acontecendo, sem sombra nenhuma por trás.
+
+— Você merece isso, depois de tudo. Todos nós merecemos.
+
+— Como está seu dia?
+
+— Produtivo. Revisando os últimos detalhes com Renata, garantindo
+que tudo fique documentado corretamente pra qualquer eventualidade
+futura.
+
+— Sempre cuidadosa.
+
+— Sempre. Aprendi que vale a pena, mesmo quando parece excessivo no
+momento.
+
+Desligo, sentindo o próprio peito se encher de gratidão simples por
+essa vida que construímos, devagar, ao redor de gente genuína
+disposta a crescer junto, não só lucrar da própria proximidade.

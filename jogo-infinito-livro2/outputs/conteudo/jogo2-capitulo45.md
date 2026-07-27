@@ -84,3 +84,30 @@ Puxo ele pra perto, sentindo o próprio peso do dia inteiro se
 assentar entre nós dois, grata, apesar de tudo, por atravessar mais
 essa dificuldade lado a lado, sem esconder nada um do outro pelo
 caminho.
+
+— Ela disse alguma coisa que te deu clareza? — pergunto, depois de
+um momento de silêncio.
+
+— Disse que sente vergonha real, não só medo de ser pega. Não sei se
+acredito completamente, mas escolhi tratar ela com dignidade mesmo
+assim, na despedida.
+
+— Isso fala bem de quem você é, Alex. Mesmo depois de tudo.
+
+— Espero que sim. Não quero que essa experiência inteira transforme
+eu em alguém mais duro do que já sou naturalmente.
+
+---
+
+— Não vai transformar, se você continuar escolhendo verdade e
+dignidade, do jeito que escolheu hoje.
+
+— Obrigado por dizer isso. Preciso ouvir, principalmente hoje.
+
+— Sempre que precisar.
+
+Ficamos ali, abraçados no sofá, o resto da noite se desenrolando
+devagar, silêncio confortável substituindo aos poucos o próprio peso
+do dia, e sinto, apesar de tudo, gratidão profunda por essa
+capacidade compartilhada de processar dor real sem deixar ela
+endurecer nenhum dos dois.

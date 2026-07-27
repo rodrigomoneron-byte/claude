@@ -84,3 +84,31 @@ Ela me beija de leve, o gesto carregando confiança silenciosa, e
 sinto, apesar de todo o peso da própria decisão, gratidão renovada
 por ter, ao lado, alguém disposta a me dar espaço pra processar
 sozinho quando isso é exatamente o que preciso.
+
+Ligo pra Elena antes de sair, precisando avisar ela antes que
+descubra por outra fonte.
+
+— Vou encerrar a parceria formalmente hoje — conto, assim que ela
+atende. — Achei que devia saber antes de qualquer coisa se tornar
+pública.
+
+— Obrigada por avisar, Alex. Como você está?
+
+---
+
+— Dividido. Sei que é decisão certa. Ainda dói, mesmo assim.
+
+— Isso é normal. Você não precisa fingir que não dói só porque é
+necessário.
+
+— Aprecio você dizer isso.
+
+— Sempre. E, Alex — ela hesita — não deixa isso fechar seu coração
+pra próxima pessoa que realmente merecer confiança. Ela existe, em
+algum lugar da sua família extensa ou não, mesmo que Alexandra não
+tenha sido ela.
+
+— Vou tentar lembrar disso.
+
+Desligo, sentindo gratidão por ter, na própria família, gente disposta
+a oferecer perspectiva honesta mesmo em meio a tanta dor recente.

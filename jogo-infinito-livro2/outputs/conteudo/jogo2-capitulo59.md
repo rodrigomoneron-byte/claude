@@ -76,3 +76,30 @@ abrindo diante de nós dois, sem pressa nenhuma, sem crise nenhuma
 competindo pela nossa atenção — só duas pessoas, gratas, construindo
 juntas uma vida que vale cada dificuldade que ela já exigiu pra
 existir.
+
+— O que você quer fazer hoje? — pergunto, depois de um tempo,
+lavando as próprias xícaras na pia.
+
+— Nada, honestamente. Só ficar aqui, com você, sem plano nenhum
+formal.
+
+— Isso soa perfeito.
+
+Passamos o resto da manhã sem pressa, lendo em silêncio confortável
+no sofá, ele com a cabeça no meu colo, o próprio domingo se
+desenrolando devagar, cada minuto carregando o tipo de paz que só
+existe depois de tanta tempestade atravessada junto.
+
+---
+
+— Sabe o que eu mais aprecio nesses domingos tranquilos? — comento,
+passando os dedos pelo cabelo dele. — Que eles significam mais agora
+do que significavam antes de tudo que atravessamos.
+
+— Porque aprendemos a não dar eles como garantidos.
+
+— Exatamente isso.
+
+Ele vira, encarando meus olhos, e ficamos ali, em silêncio, absorvendo
+juntos essa manhã simples que carrega, silenciosamente, todo o peso
+bom de uma vida construída com tanto cuidado deliberado.
