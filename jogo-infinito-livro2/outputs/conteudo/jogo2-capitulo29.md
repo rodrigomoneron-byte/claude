@@ -59,6 +59,11 @@ pra doer.
 que sempre prometi fazer. Isso inclui não descartar prova só porque
 ela é desconfortável.
 
+— Desculpa. Isso não foi justo da minha parte.
+
+— Não precisa se desculpar por sentir isso, Alex. Só precisa
+continuar disposto a olhar pros fatos mesmo quando eles doem.
+
 ---
 
 Ele fica em silêncio por um momento longo, o próprio peso da própria
@@ -117,3 +122,9 @@ os fatos, não em vez deles.
 Ele sorri, apesar do próprio peso da conversa, e sinto gratidão
 renovada por essa capacidade compartilhada de nomear a própria
 fraqueza sem deixar ela decidir o rumo final de nada importante.
+
+Ficamos ali mais um tempo, o jantar esfriando esquecido na mesa,
+sentindo o próprio peso da conversa se assentar devagar entre nós
+dois, mais leve agora, prontos, apesar de tudo, pra continuar
+enfrentando qualquer verdade que ainda esteja esperando pra ser
+descoberta.

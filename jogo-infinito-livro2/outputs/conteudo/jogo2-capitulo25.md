@@ -33,6 +33,12 @@ nenhum proativamente.
 
 — Talvez seja só reserva pessoal, não estratégia calculada.
 
+— Talvez. Mas mesmo reserva pessoal genuína tem limite, principalmente
+numa relação que exige confiança mútua real.
+
+— Concordo. Só continuo tentando entender qual é o próprio limite
+justo aqui.
+
 — Talvez. Mas reserva pessoal demais, numa parceria que exige
 transparência total, também é problema, independente da intenção por
 trás.
@@ -121,3 +127,8 @@ lista de Alexandra, a própria expressão dela ao admitir o padrão de
 omissão. Espero, sinceramente, que essa seja a virada real que
 estivemos esperando, e não só mais uma pausa antes da próxima
 descoberta difícil.
+
+Alex se mexe ao meu lado, ainda olhando pra fora, e sinto, observando
+ele, gratidão silenciosa por essa parceria construída sobre tanta
+verificação cuidadosa, mesmo quando o próprio peso dela cansa mais do
+que qualquer um de nós gostaria de admitir em voz alta.

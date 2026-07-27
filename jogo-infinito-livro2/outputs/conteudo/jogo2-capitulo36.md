@@ -34,6 +34,13 @@ saindo do outro lado dessa incerteza inteira.
 tempo carregando peso maior do que qualquer um devia carregar
 sozinho.
 
+— Sabe o que eu mais aprecio nessa noite? — continua, apertando
+minha mão embaixo da mesa. — Nenhum de nós teve que fingir que está
+tudo perfeito. Só estamos, genuinamente, num lugar melhor do que
+estávamos há algumas semanas.
+
+— Isso é exatamente o tipo de progresso real que eu também sinto.
+
 ---
 
 Marcus muda de assunto logo depois, contando sobre a própria
@@ -113,3 +120,9 @@ Acordo de madrugada por um instante, o quarto silencioso ao nosso
 redor, e fico ali, deitado, sentindo gratidão simples por essa noite
 que carregou, sem nenhum esforço forçado, exatamente o tipo de paz
 que passamos meses inteiros tentando reconstruir devagar.
+
+Observo Cami dormir por um momento, o próprio rosto completamente
+relaxado, e sinto, mais uma vez, o peso bom de reconhecer quanto
+essa vida específica, construída devagar sobre tanta verdade
+compartilhada, já se tornou exatamente o tipo de lar que nunca
+soube, antes dela, que era possível construir.

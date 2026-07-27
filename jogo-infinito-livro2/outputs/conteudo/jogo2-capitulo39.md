@@ -19,6 +19,12 @@ cuidado necessário, mas também com a urgência que a situação exige.
 
 — Aprecio isso, Dan. Muito.
 
+— Vou revisar tudo essa noite ainda, e ligo assim que tiver avaliação
+formal.
+
+— Fico grata por isso. Sei que estamos pedindo muito, com prazo tão
+curto.
+
 — E, Cami — ele hesita — tomem cuidado com como confrontam ela. Se
 existe intenção criminal real, qualquer confronto direto sem
 preparação legal pode comprometer investigação futura, se for
@@ -123,3 +129,11 @@ fria de que ela tenha ajudado a construir uma fraude contra a própria
 empresa que jurou proteger. As duas versões recusam se encaixar
 completamente, e reconheço, com desconforto real, que talvez a
 resposta esteja em algum lugar incômodo entre as duas.
+
+Ligo pra Alex de novo, antes de sair do escritório, precisando ouvir
+a voz dele mais uma vez antes de encerrar esse dia pesado.
+
+— Só queria ouvir sua voz — confesso, quando ele atende.
+
+— Estou aqui. Sempre vou estar, mesmo nos dias mais pesados como
+esse.

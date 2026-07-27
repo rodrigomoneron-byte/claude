@@ -16,6 +16,12 @@ mesmo pequeno. Padrão só fica visível quando somamos peça suficiente.
 
 — Vou continuar. Prometo relatório atualizado toda semana.
 
+— Aprecio isso, Denise. Sei que é trabalho tedioso, verificar tanto
+sem encontrar nada conclusivo.
+
+— Faz parte do trabalho. Prefiro tedioso e completo a rápido e
+incompleto, qualquer dia.
+
 — Não ainda. Recomendo continuar observando, sem alarmar ela
 diretamente. Qualquer ação prematura, sem prova real, pode prejudicar
 a própria credibilidade de vocês se ela realmente for só minuciosa
@@ -126,3 +132,11 @@ isolada, prova nada definitivo. Juntas, formam sombra grande demais
 pra continuar ignorando, e reconheço, com desconforto real, que
 talvez a próxima etapa dessa verificação exija confronto que ainda
 não me sinto completamente pronto pra enfrentar.
+
+Marcus reaparece na porta antes de eu sair, o próprio rosto ainda
+carregando o peso da própria conversa recente.
+
+— Você vai ficar bem? — pergunta, parando ali.
+
+— Vou. Só preciso de uma noite pra processar tudo isso antes de
+decidir qualquer próximo passo.
