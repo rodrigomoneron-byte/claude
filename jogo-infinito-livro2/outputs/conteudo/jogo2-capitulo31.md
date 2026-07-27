@@ -13,6 +13,10 @@ possível.
 
 — Estou pronta.
 
+Denise assente, abrindo a própria pasta devagar, e sinto, observando
+o gesto simples, o próprio peso formal do momento se instalar
+completamente na sala.
+
 — Antes de começarmos — acrescento, mantendo o próprio tom firme mas
 justo — quero deixar claro que essa reunião existe pra dar chance de
 explicação completa, não pra condenação já decidida de antemão.
@@ -131,3 +135,7 @@ quando você se sentir preparado.
 Saímos da sala de conferência juntos, o próprio silêncio carregando
 peso diferente agora, cada um de nós processando à própria maneira
 o que acabou de ser dito, e o que ainda falta decidir.
+
+Denise se despede no corredor, deixando eu e Alex sozinhos, e
+caminhamos juntos até o carro, cada passo carregando o peso de uma
+manhã que exigiu mais do que qualquer um de nós esperava suportar.

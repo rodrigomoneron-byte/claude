@@ -35,6 +35,8 @@ café.
 
 — Isso é bom sinal. Você merece esse tipo de descanso.
 
+— Não me lembro da última vez que dormi tão bem, honestamente.
+
 — Você também merece, sabia? Vejo você trabalhando duro em tudo,
 sempre.
 
@@ -141,3 +143,8 @@ carregando conforto que nenhuma palavra sozinha conseguiria expressar
 completamente, e ficamos ali, os dois, absorvendo mais um domingo que
 carrega, silenciosamente, todo o peso bom dessa vida construída
 juntos.
+
+O sol começa a baixar devagar lá fora, luz dourada se espalhando
+pelo apartamento inteiro, e sinto, fechando os olhos mais uma vez,
+gratidão profunda por essa vida simples que os dois escolheram
+construir, com tanto cuidado, um domingo tranquilo de cada vez.

@@ -26,6 +26,10 @@ danificou a confiança demais pra reconstruir?
 depender de quanto risco vocês dois estão dispostos a aceitar, daqui
 em diante.
 
+— Isso é justo — concordo, sentindo o próprio peso da responsabilidade
+se firmar. — Só preciso de um momento pra processar antes de decidir
+qualquer coisa.
+
 ---
 
 — Não sei ainda — admito, sentindo o próprio peso da pergunta pesar
@@ -142,3 +146,7 @@ O elevador desce devagar, cada andar passando em silêncio, e sinto,
 apertando a mão dela mais uma vez, gratidão profunda por atravessar
 mais essa incerteza ao lado de alguém que nunca me deixa enfrentar
 nada completamente sozinho.
+
+As portas se abrem no térreo, e saímos juntos pro estacionamento,
+cada passo carregando o peso de uma manhã inteira que ainda vai
+levar dias pra terminar de se assentar completamente.
