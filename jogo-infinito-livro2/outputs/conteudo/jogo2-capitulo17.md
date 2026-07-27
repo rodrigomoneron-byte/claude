@@ -14,6 +14,9 @@ catástrofe.
 — Isso nos dá espaço pra controlar a narrativa quando anunciarmos
 formalmente?
 
+— Dá, sim, se agirmos rápido. Prefiro assumir a própria narrativa
+antes que alguém mais faça isso por nós.
+
 — Dá, sim. Recomendo acelerar o cronograma de anúncio oficial,
 enquanto ainda controlamos boa parte da história.
 
@@ -142,3 +145,9 @@ Ficamos ali, abraçados no meio da própria bagunça de documentos, e
 sinto, apesar de todo o peso ainda pendente, gratidão silenciosa por
 atravessar mais essa espera ao lado de alguém disposto a permanecer,
 mesmo quando a resposta final continua fora de alcance.
+
+Começamos a organizar os papéis juntos, devagar, cada folha
+encontrando o próprio lugar certo, e sinto, apesar de tudo, uma calma
+inesperada crescer — prova pequena de que mesmo incerteza prolongada
+pode ser atravessada com alguma paz, quando dividida com a pessoa
+certa.

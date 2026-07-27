@@ -12,6 +12,12 @@ falo.
 
 — Aprecio a ligação, Warren. E o lembrete.
 
+— Sei que já ouviu isso mil vezes de gente mais qualificada. Só
+queria garantir que ainda está ecoando, considerando o tamanho dessa
+parceria nova.
+
+— Está ecoando, prometo. Aprendi com você a não relaxar cedo demais.
+
 — Gente grande demais atrai gente disposta a aproveitar o próprio
 tamanho pra esconder coisa errada. Aprendi isso do jeito mais caro
 possível.
@@ -140,3 +146,8 @@ errado.
 Desligo, sentindo o próprio peso da conversa se assentar, um pouco
 mais leve agora, grata por ter, ao redor, gente disposta a validar a
 própria dúvida sem transformar ela em pânico desnecessário.
+
+Fico sentada mais um tempo, o relógio parado do meu pai ainda visível
+na estante, e sinto, olhando pra ele, determinação renovada de nunca
+repetir o próprio erro dele — silêncio disfarçado de proteção,
+guardado até virar catástrofe irreversível.

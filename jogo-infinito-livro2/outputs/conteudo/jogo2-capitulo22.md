@@ -20,6 +20,9 @@ Alexandra ofereceu ontem — mais específico, mais estratégico do que
 de investidora que já foi prejudicada antes. Mas é mais específico do
 que "proteção pessoal genérica".
 
+— Aprecio você trazer isso rápido, Denise. Vou avaliar como abordar
+com Alexandra ainda hoje.
+
 ---
 
 Ligo pra Cami imediatamente, compartilhando o desenvolvimento antes
@@ -138,3 +141,8 @@ Fico sentado na cama do hotel por um momento, tentando organizar
 mentalmente cada fio solto dessa manhã inteira, antes de decidir que
 o próprio corpo cansado precisa de descanso real antes de qualquer
 próxima decisão importante.
+
+Apago a luz do próprio abajur, deitando devagar, e sinto, mesmo em
+meio a tanta incerteza ainda sem resposta, o próprio corpo cansado
+finalmente ceder espaço pro sono que precisa recuperar antes de
+enfrentar mais um dia inteiro de verificação.
