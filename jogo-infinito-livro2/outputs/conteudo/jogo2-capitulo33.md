@@ -1,0 +1,70 @@
+# Jogo Infinito — Livro 2 — Capítulo 33
+### POV: Cami
+
+Chegamos em casa exaustos, o peso do dia inteiro — a confrontação, o
+período de observação proposto, a reserva não resolvida sobre
+Patricia — pesando mais forte agora que a própria adrenalina
+profissional cede espaço pro cansaço genuíno.
+
+— Preciso de uma noite sem pensar em nenhum documento — Alex comenta,
+tirando o próprio blazer, jogando ele displicente numa cadeira.
+
+— Concordo completamente. Só nós dois, hoje.
+
+Ele se aproxima, os braços envolvendo minha cintura, a testa
+encostando na minha por um momento longo, absorvendo silenciosamente
+o próprio peso do dia sem precisar de palavra nenhuma.
+
+---
+
+— Obrigado por continuar segurando minha mão nisso tudo — murmura,
+finalmente. — Mesmo quando eu resisto a ouvir o que você já enxerga
+antes de mim.
+
+— Sempre vou continuar. Prometemos isso um ao outro, lembra?
+
+— Lembro. E fico grato, cada dia mais, por ter feito essa promessa
+com você especificamente.
+
+O beijo começa devagar, carregado do peso acumulado de semanas
+inteiras de tensão dividida entre esperança e cautela, e sinto o
+próprio corpo relaxar contra o dele, precisando, depois de tanto
+rigor profissional, simplesmente existir como duas pessoas que se
+amam, sem nenhuma verificação pairando por cima.
+
+---
+
+— Preciso de você essa noite — murmuro, contra os lábios dele. —
+Longe de qualquer documento, qualquer dúvida.
+
+— Estou aqui. Inteiro, só pra você.
+
+Ele me guia até o quarto, cada gesto carregado de ternura que nunca
+diminuiu, apesar de tudo — e tiramos a roupa um do outro devagar,
+aprendendo de novo o corpo um do outro com a mesma atenção cuidadosa
+de sempre, urgência crescendo junto com gratidão por essa constância
+que nenhuma crise externa jamais conseguiu abalar completamente.
+
+Fazemos amor devagar, cada movimento carregando reafirmação silenciosa
+de tudo que construímos juntos — não só o amor em si, mas a confiança
+mútua que sobrevive, repetidamente, a cada nova onda de incerteza que
+tenta ameaçar ela.
+
+---
+
+Depois, deitados juntos, a respiração desacelerando, ficamos em
+silêncio por um tempo, só absorvendo a presença um do outro.
+
+— Sabe o que eu penso? — murmuro, finalmente. — Que talvez a força
+real dessa relação não esteja em nunca duvidar, mas em nunca deixar
+a dúvida nos separar um do outro.
+
+— Isso é verdade profunda, vinda de você, principalmente depois de
+dia tão pesado.
+
+— Aprendi observando você atravessar coisa pior, no ano passado.
+
+Ele beija o topo da minha cabeça, o gesto simples carregando ternura
+que sinto no peito inteiro, e adormecemos pouco depois, gratos, os
+dois, por essa constância em meio a tanta incerteza externa ainda não
+resolvida.

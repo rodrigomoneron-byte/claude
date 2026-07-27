@@ -1,0 +1,62 @@
+# Jogo Infinito — Livro 2 — Capítulo 36
+### POV: Alex
+
+Marcus e Naomi organizam jantar duplo de novo, dessa vez incluindo
+Elena, num gesto que reconheço como tentativa deliberada de reunir a
+própria família crescente em ambiente informal, longe de qualquer
+tensão corporativa.
+
+— Vocês parecem mais leves hoje — Naomi observa, servindo vinho pra
+todos. — Faz tempo que não vejo os dois assim.
+
+— O período de observação está indo bem — respondo, sentindo
+gratidão genuína por poder dizer isso em voz alta. — Alexandra tem
+cumprido tudo, proativamente.
+
+— Isso é ótima notícia.
+
+---
+
+Elena conta sobre a própria exposição de arte recente, risada genuína
+preenchendo a mesa, e observo Cami relaxar de um jeito que não via há
+semanas, o próprio corpo cedendo, devagar, a tensão acumulada de
+tanta vigilância constante.
+
+— Sabe o que eu penso? — ela comenta, depois de um tempo, a mão
+pousando na minha por cima da mesa. — Que talvez estejamos finalmente
+saindo do outro lado dessa incerteza inteira.
+
+— Espero que você tenha razão. Merecemos essa calma, depois de tanto
+tempo carregando peso maior do que qualquer um devia carregar
+sozinho.
+
+---
+
+Marcus muda de assunto logo depois, contando sobre a própria
+formação continuada em ética corporativa, e a noite segue leve,
+conversa fluindo fácil entre memória recente e plano futuro, cada
+pessoa na mesa contribuindo com a própria versão de esperança
+genuína sobre o que ainda está por vir.
+
+— Precisamos fazer isso mais vezes — Cami comenta, já no fim da
+noite, abraçando Naomi na despedida. — Esqueci como é bom ter noite
+assim, sem nenhuma crise competindo pela atenção.
+
+— Sempre que quiserem. A porta está sempre aberta.
+
+---
+
+No carro de volta pra casa, Cami fica em silêncio por um momento,
+olhando pela janela.
+
+— Foi bom, essa noite — comenta, finalmente. — Senti, pela primeira
+vez em semanas, que talvez consigamos mesmo relaxar, aos poucos.
+
+— Eu senti isso também. Ainda com cautela, mas real.
+
+— Isso é progresso genuíno, considerando de onde partimos.
+
+Aperto a mão dela, sentindo o próprio peito se encher de gratidão por
+essa noite pequena, leve, exatamente o tipo de normalidade que os
+dois merecemos depois de tanto tempo carregando peso maior do que
+qualquer um devia carregar sozinho.
