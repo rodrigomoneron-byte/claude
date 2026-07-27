@@ -77,6 +77,9 @@ padrão de transparência total que vocês dois parecem já ter dominado.
 Não é fácil, depois de anos protegendo cada movimento próprio por
 hábito profissional.
 
+Sinto o próprio corpo tenso, absorvendo a explicação dela com a mesma
+cautela reservada que já se tornou automática nesses últimos meses.
+
 A explicação soa plausível, genuína o suficiente pra aliviar boa
 parte do próprio peso que carrego desde ontem — e ainda assim, sinto,
 guardado num canto que recuso silenciar completamente, a mesma

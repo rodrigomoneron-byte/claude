@@ -54,6 +54,10 @@ que relação real parece.
 
 — Isso significa muito ouvir.
 
+Sinto o próprio peito se aquecer, gratidão simples crescendo por essa
+amizade que continua se aprofundando muito além do que qualquer
+contrato profissional original algum dia previu.
+
 Marcus se aproxima, abraçando Alex com força.
 
 ---

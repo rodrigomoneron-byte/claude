@@ -118,6 +118,9 @@ atrás de sinal apontando pra direção oposta.
 — Isso é humano, Alex. Ninguém quer perder família recém-encontrada,
 mesmo quando os fatos sugerem que precisa.
 
+Sinto o próprio peito apertar, reconhecendo nele a mesma mistura de
+esperança e medo que já carreguei, meses atrás, sobre o próprio pai.
+
 Ele fica em silêncio por um momento, os olhos fixos em algum ponto
 distante da sala, e reconheço, observando ele, a mesma luta silenciosa
 que eu mesma travei meses atrás, tentando reconciliar esperança

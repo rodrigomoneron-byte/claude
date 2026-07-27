@@ -33,6 +33,10 @@ mesma exigiria, se os papéis estivessem invertidos.
 — Isso é bom de ouvir — Denise comenta, revisando mais uma página. —
 Vamos revisar cada cláusula em detalhe, sem pressa nenhuma.
 
+Observo Alexandra assentir a cada explicação, sem qualquer sinal de
+impaciência genuína, e sinto o próprio instinto profissional registrar
+isso como mais um ponto a favor, ainda que pequeno.
+
 — Concordo. Prefiro entender completamente, não só assinar por
 confiança cega.
 
