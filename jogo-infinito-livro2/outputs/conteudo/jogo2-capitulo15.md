@@ -11,6 +11,9 @@ o cuidado extra.
 
 — Obrigada por apoiar. Sei que pode parecer excesso de burocracia.
 
+— Não parece excesso, considerando o histórico recente. Parece
+prudência bem aplicada.
+
 — Prefiro burocracia excessiva a lacuna perigosa. Aprendi isso do
 jeito difícil, em outra empresa, há anos.
 
@@ -124,3 +127,8 @@ demais.
 — Te ajudo, se quiser companhia.
 
 — Sempre quero sua companhia.
+
+Seguimos juntos até o escritório, os dois debruçados sobre o mesmo
+relatório à luz baixa da mesa, e sinto, apesar de todo o peso da
+própria dúvida ainda sem resposta, gratidão silenciosa por não
+precisar carregar nenhuma dessas incertezas completamente sozinha.

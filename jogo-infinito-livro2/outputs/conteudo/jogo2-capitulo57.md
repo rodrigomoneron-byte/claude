@@ -14,6 +14,11 @@ tempo.
 
 — Fico feliz em ouvir isso. Vocês dois merecem essa paz.
 
+— Obrigada, Dan. Significa muito ouvir isso vindo especificamente de
+você, considerando tudo que atravessamos juntos.
+
+— Aprecio você dizer isso. Sinto o mesmo, honestamente.
+
 ---
 
 — Como está sua própria vida? — pergunto, genuinamente curiosa.
@@ -128,3 +133,9 @@ constantemente escolhendo o caminho mais difícil, mas mais certo.
 Aperto a mão dele, sentindo gratidão renovada por essa rede de
 pessoas genuínas que continua crescendo ao nosso redor, cada uma
 contribuindo à própria maneira pra vida que construímos juntos.
+
+Ficamos ali mais um tempo, o resto da tarde se desenrolando devagar,
+sem pressa nenhuma, e sinto, mais uma vez, o peso bom de uma vida
+construída, com tanto cuidado deliberado, sobre a base mais sólida
+que já conheci — verdade completa, escolhida repetidas vezes, mesmo
+quando teria sido mais fácil escolher outra coisa.

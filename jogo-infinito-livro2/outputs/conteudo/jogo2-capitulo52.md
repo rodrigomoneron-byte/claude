@@ -30,6 +30,9 @@ raramente sinto em qualquer lugar que já trabalhei.
 
 — Isso significa muito, Sandra. Obrigado por dizer.
 
+— É a verdade, simplesmente. Fico ansiosa pra ver o que vocês
+constroem daqui em diante, com essa mesma abordagem.
+
 ---
 
 Ela se despede, seguindo pro próprio compromisso, e sigo pro
@@ -130,3 +133,8 @@ da nova incerteza que Sebastian Kroll representa, uma calma
 inesperada — não ausência de desafio, mas confiança genuína na
 própria capacidade de atravessar qualquer desafio novo sem perder o
 próprio rumo.
+
+Fico ali mais um tempo, olhando pro skyline através da janela,
+deixando a frase de Marcus se assentar completamente — jogo infinito,
+de fato, mas jogo que finalmente aprendi a jogar sem perder, nunca
+mais, quem realmente sou no processo.

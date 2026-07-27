@@ -31,6 +31,10 @@ café.
 
 — Bom dia. Dormiu bem?
 
+— Dormi ótimo, sinceramente. Melhor do que em meses, acho.
+
+— Isso é bom sinal. Você merece esse tipo de descanso.
+
 — Dormi ótimo. Sonhei com você, na verdade.
 
 — Isso é adorável ou preocupante, dependendo do sonho?
@@ -123,3 +127,8 @@ real pra planejar isso direito.
 Ficamos ali mais um tempo, o domingo inteiro se desenrolando devagar,
 cada minuto carregando o peso bom de uma vida que os dois escolheram
 construir, juntos, com tanto cuidado.
+
+Fecho os olhos por um instante, deixando o próprio sol da tarde
+aquecer meu rosto através da janela, sentindo, mais uma vez, gratidão
+profunda por essa paz simples que já não tomo mais como garantida,
+depois de tudo que já atravessamos pra chegar até aqui.

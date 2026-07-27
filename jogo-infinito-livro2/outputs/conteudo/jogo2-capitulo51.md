@@ -26,6 +26,11 @@ Aplaudimos, Alex e eu, sentindo o próprio peito se encher de
 felicidade genuína por testemunhar esse momento pequeno, mas
 carregado de significado real.
 
+Alex aperta minha mão por baixo da mesa, o próprio rosto carregando
+emoção que reconheço como espelho exato do que sinto, os dois
+absorvendo juntos esse momento que carrega, silenciosamente, tanto do
+que já atravessamos ao lado de Marcus ao longo desse último ano.
+
 ---
 
 — Isso é lindo — comento, abraçando Naomi assim que ela se solta de
@@ -128,3 +133,8 @@ naquele primeiro dia tenso.
 Ele me puxa pra perto, beijando o topo da minha cabeça, e ficamos
 ali, absorvendo juntos o peso bom dessa noite repleta de amor
 genuíno se espalhando ao redor de nós dois.
+
+Adormeço pouco depois, ainda sorrindo, pensando em quanto essa vida
+inteira mudou desde aquele primeiro contrato tenso, cada pessoa nova
+que entrou nela adicionando mais uma camada de sentido que eu jamais
+teria imaginado possível naquela época.
