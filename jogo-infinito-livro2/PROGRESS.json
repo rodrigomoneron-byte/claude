@@ -9,18 +9,94 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 1,
+  "next_chapter": 11,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
-  "chapters": [],
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Cami",
+      "words": 1173,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 2,
+      "pov": "Alex",
+      "words": 916,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 3,
+      "pov": "Cami",
+      "words": 936,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 4,
+      "pov": "Alex",
+      "words": 928,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 5,
+      "pov": "Cami",
+      "words": 903,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 6,
+      "pov": "Alex",
+      "words": 939,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 7,
+      "pov": "Cami",
+      "words": 798,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 8,
+      "pov": "Alex",
+      "words": 877,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 9,
+      "pov": "Cami",
+      "words": 795,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 10,
+      "pov": "Alex",
+      "words": 750,
+      "score": 7.0,
+      "status": "aprovado"
+    }
+  ],
   "blocks": [],
-  "heat_log": [],
+  "heat_log": [
+    {
+      "n": 5,
+      "desc": "1a cena — jantar de familia com Alexandra, noite depois, primeira cena consolidada do L2"
+    }
+  ],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0
+    "chapters_done": 10,
+    "total_words": 9015,
+    "pages_kdp": 30,
+    "avg_score": 7.0,
+    "pct_to_target": 16
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -35,5 +111,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27"
+  "updated": "2026-07-27 00:54"
 }

@@ -42,6 +42,15 @@
 - TODO capítulo passa pelo gate + varredura manual `grep -n "a gente"`
   ANTES de ser registrado. Sem exceção. Zero brasileirismo (Nova
   York/Europa continental como cenário).
+- **NOVO ACHADO NESTE LIVRO (cap. 2)**: o gate (`\ba gente\b` com
+  fronteira de palavra) NÃO captura formas obliquas coladas, tipo
+  "pra gente" (= "para nós"), "da gente", "na gente", "com a gente" —
+  porque o "a" de "pra" gruda no "r" sem fronteira de palavra antes do
+  "a gente" embutido. Essas formas são a MESMA contração proibida
+  (usando "gente" como pronome no lugar de "nós"/"nosso"). Rodar
+  SEMPRE `grep -n "pra gente\|da gente\|na gente\|com a gente\|dessa gente\|desta gente"`
+  manualmente além do `grep -n "a gente"` padrão, em todo capítulo
+  deste livro.
 - **LIÇÃO DO LIVRO 1**: escrever cada capítulo já na extensão-alvo
   (~950-1100 palavras) desde a primeira versão — o Livro 1 fechou
   50.813 palavras nas 60 capítulos originais e precisou de um passe de
