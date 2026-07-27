@@ -17,6 +17,11 @@ formalmente?
 — Dá, sim. Recomendo acelerar o cronograma de anúncio oficial,
 enquanto ainda controlamos boa parte da história.
 
+— Quanto tempo você precisa pra preparar isso formalmente?
+
+— Uma semana, talvez menos, se priorizarmos. Vou começar a
+rascunhar o comunicado ainda hoje.
+
 ---
 
 Alex liga pouco depois, contando sobre a conversa reservada com
@@ -132,3 +137,8 @@ meu cabelo.
 
 — Sempre. Isso é o que verdade completa exige, às vezes: paciência
 maior do que nós dois gostaríamos de ter.
+
+Ficamos ali, abraçados no meio da própria bagunça de documentos, e
+sinto, apesar de todo o peso ainda pendente, gratidão silenciosa por
+atravessar mais essa espera ao lado de alguém disposto a permanecer,
+mesmo quando a resposta final continua fora de alcance.

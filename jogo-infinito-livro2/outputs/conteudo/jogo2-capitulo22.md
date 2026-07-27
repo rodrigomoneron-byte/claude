@@ -31,6 +31,11 @@ admitindo a existência da consulta.
 
 — Concordo. Vou confrontar ela de novo, hoje.
 
+— Vamos com calma, mesmo assim. Não queremos que pareça interrogatório,
+considerando que ela acabou de sair do próprio túmulo do pai.
+
+— Tem razão. Vou escolher palavras com cuidado.
+
 — Quer que eu esteja presente dessa vez?
 
 — Prefiro que sim. Acho que duas perspectivas conseguem ler a reação
@@ -128,3 +133,8 @@ Desligo, sentindo o próprio peso do dia inteiro se acumular ainda
 mais — Alexandra, Patricia, cada peça nova exigindo atenção que já
 começa a parecer maior do que a própria capacidade de processar tudo
 ao mesmo tempo.
+
+Fico sentado na cama do hotel por um momento, tentando organizar
+mentalmente cada fio solto dessa manhã inteira, antes de decidir que
+o próprio corpo cansado precisa de descanso real antes de qualquer
+próxima decisão importante.

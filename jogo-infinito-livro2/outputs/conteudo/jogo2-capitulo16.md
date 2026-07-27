@@ -18,6 +18,11 @@ Alexandra comentando informalmente com alguém que não devia. Podia
 até ser simples especulação de mercado, considerando o movimento de
 capital que já registramos pra expansão.
 
+— Precisamos descobrir rápido, antes que qualquer versão distorcida
+ganhe vida própria na imprensa.
+
+— Concordo completamente. Vou começar a verificar imediatamente.
+
 ---
 
 — Preciso ligar pra ela imediatamente — decido, já puxando o celular.
@@ -127,3 +132,8 @@ Ficamos em silêncio por um momento, o peso da própria semana se
 assentando devagar entre nós, e sinto, apesar de tudo, determinação
 renovada de chegar ao fundo dessa questão antes que qualquer coisa
 maior aconteça sem aviso nenhum.
+
+Cami se levanta pra preparar chá pros dois, e observo ela na
+cozinha, sentindo gratidão silenciosa por essa parceria que continua
+sólida mesmo em meio a tanta incerteza externa ainda sem resposta
+clara.

@@ -11,6 +11,13 @@ fala tanto de vocês dois que já sinto que conheço a história inteira.
 
 — Espero que só a versão boa — respondo, rindo.
 
+— As duas versões, honestamente — Marcus corrige, sentando ao lado de
+Naomi. — Não escondo muita coisa dela, considerando quanto tempo já
+estamos juntos.
+
+— Isso é bom sinal, considerando que ainda estamos aqui — Naomi
+completa, sorrindo.
+
 — A versão completa, o que inclui algumas partes questionáveis dele
 — ela retruca, lançando olhar brincalhão pro próprio namorado.
 
@@ -125,3 +132,8 @@ de ninguém.
 Chegamos em casa pouco depois, o apartamento silencioso nos recebendo
 com o mesmo conforto de sempre, e adormecemos cedo, gratos pela pausa
 breve antes que a próxima semana volte a exigir vigilância redobrada.
+
+Antes de fechar os olhos completamente, penso mais uma vez na
+observação de Naomi sobre litígio ainda não formalizado, guardando a
+própria preocupação como lembrete silencioso pra revisar com Devon
+assim que a semana recomeçar.

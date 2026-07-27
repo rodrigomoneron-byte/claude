@@ -12,6 +12,11 @@ existia. Isso é bom sinal, Alex.
 — Sinto isso também. Talvez estejamos finalmente chegando no fundo de
 tudo.
 
+— Quer que eu prepare um resumo formal, pra facilitar quando você
+apresentar isso ao conselho?
+
+— Seria útil, sim. Aprecio a iniciativa.
+
 ---
 
 Patricia pede reunião individual comigo à tarde, o próprio tom
@@ -138,3 +143,7 @@ Ele sorri, saindo finalmente, e fico sozinho de novo, sentindo
 gratidão renovada por ter, ao redor, equipe disposta a compartilhar
 o próprio peso dessa verificação constante, mesmo quando ela exige
 tanto de todo mundo envolvido.
+
+Fico ali mais um tempo, olhando pro próprio relatório que ainda
+preciso preparar, deixando a pergunta de Patricia se assentar
+completamente antes de voltar ao trabalho com cabeça mais clara.
