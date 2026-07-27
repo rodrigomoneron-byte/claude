@@ -13,6 +13,12 @@ com precisão.
 
 — Vou mandar tudo hoje ainda.
 
+— Aprecio a agilidade. E, Cami — a voz dele suaviza ligeiramente —
+sei que isso está sendo difícil pra vocês dois. Vou tratar com o
+cuidado necessário, mas também com a urgência que a situação exige.
+
+— Aprecio isso, Dan. Muito.
+
 — E, Cami — ele hesita — tomem cuidado com como confrontam ela. Se
 existe intenção criminal real, qualquer confronto direto sem
 preparação legal pode comprometer investigação futura, se for
@@ -110,3 +116,10 @@ Ele sai, e fico sozinha por um momento, sentindo o próprio peso da
 tarde inteira se acumular, cada nova descoberta exigindo energia que
 já sinto quase esgotada, mas que recuso deixar faltar antes de
 chegar ao fundo completo dessa história.
+
+Penso em Patricia, tentando reconciliar a mulher que conheço — rígida,
+mas leal, sempre presente nas crises anteriores — com a possibilidade
+fria de que ela tenha ajudado a construir uma fraude contra a própria
+empresa que jurou proteger. As duas versões recusam se encaixar
+completamente, e reconheço, com desconforto real, que talvez a
+resposta esteja em algum lugar incômodo entre as duas.

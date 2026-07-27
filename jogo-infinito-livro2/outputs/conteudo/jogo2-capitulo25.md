@@ -11,6 +11,12 @@ Documento de sucessão limpo, sem qualquer inconsistência.
 
 — Isso é bom sinal, finalmente.
 
+— É, mas continue esperando mais uma ligação minha antes de comemorar
+completamente — Denise avisa. — Ainda tenho duas verificações
+pendentes pra fechar o quadro inteiro.
+
+— Entendo. Prefiro cautela a alívio precipitado, de qualquer jeito.
+
 — É. Mas encontrei outra coisa, verificando o histórico de
 transferência: a propriedade foi usada como garantia de empréstimo,
 há dois anos, exatamente na época do revés financeiro do fundo dela.
@@ -108,3 +114,10 @@ maneira o peso da própria semana em Londres, e sinto, olhando pra
 ele, gratidão renovada por atravessar mais essa incerteza lado a
 lado, sem deixar esperança nem cautela dominarem completamente sobre
 a outra.
+
+Fecho os olhos, tentando descansar um pouco antes de pousarmos, mas a
+mente continua repassando cada detalhe da semana — o cemitério, a
+lista de Alexandra, a própria expressão dela ao admitir o padrão de
+omissão. Espero, sinceramente, que essa seja a virada real que
+estivemos esperando, e não só mais uma pausa antes da próxima
+descoberta difícil.

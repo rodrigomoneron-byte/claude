@@ -11,6 +11,12 @@ tirando o próprio blazer, jogando ele displicente numa cadeira.
 
 — Concordo completamente. Só nós dois, hoje.
 
+— Sem celular também — acrescenta, já indo desligar o próprio
+aparelho. — Se alguma coisa urgente acontecer, vai continuar
+esperando até amanhã de manhã.
+
+— Gosto muito dessa regra. Vou seguir o exemplo.
+
 Ele se aproxima, os braços envolvendo minha cintura, a testa
 encostando na minha por um momento longo, absorvendo silenciosamente
 o próprio peso do dia sem precisar de palavra nenhuma.
@@ -93,3 +99,9 @@ Guardo o celular, deitando de volta, encostando perto do corpo quente
 dele, tentando roubar mais algumas horas de paz antes que o dia
 seguinte, inevitavelmente, traga consigo mais uma camada da verdade
 que ainda precisamos descobrir completamente.
+
+Fico ali, olhando pro teto no escuro, pensando em como essa noite,
+apesar de tudo, ainda conseguiu carregar algo genuinamente bom —
+prova de que mesmo no meio da incerteza mais pesada, ainda existe
+espaço real pra ternura, pra descanso, pra simplesmente existir juntos
+sem exigir resposta imediata pra cada pergunta ainda em aberto.

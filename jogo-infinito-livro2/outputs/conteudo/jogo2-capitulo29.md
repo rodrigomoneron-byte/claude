@@ -9,6 +9,12 @@ tudo mais que já reunimos.
 frase pesar mais do que qualquer documento verificado até agora. —
 Isso é diferente de tudo que ela já nos disse diretamente.
 
+— Onde exatamente Richard ouviu isso? — pergunto, tentando manter o
+próprio tom neutro, sem julgamento precipitado.
+
+— Numa festa, meses atrás. Alexandra comentou de passagem, segundo
+ele, sem parecer perceber o próprio peso da frase.
+
 — Pode ter sido brincadeira mal interpretada. Richard mesmo admitiu
 que não deu importância na época.
 
@@ -89,6 +95,11 @@ atrás de sinal apontando pra direção oposta.
 
 — Isso é humano, Alex. Ninguém quer perder família recém-encontrada,
 mesmo quando os fatos sugerem que precisa.
+
+Ele fica em silêncio por um momento, os olhos fixos em algum ponto
+distante da sala, e reconheço, observando ele, a mesma luta silenciosa
+que eu mesma travei meses atrás, tentando reconciliar esperança
+genuína com evidência que aponta pra direção oposta.
 
 ---
 

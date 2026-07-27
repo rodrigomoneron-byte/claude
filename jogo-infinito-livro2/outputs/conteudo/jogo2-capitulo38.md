@@ -11,6 +11,11 @@ te contar, pra não te dar suspeita sem prova sólida.
 
 — Isso já soa sério.
 
+— É, Alex. E preciso que você me escute inteiro antes de reagir,
+porque tem mais de uma camada nisso.
+
+— Estou ouvindo. Prometo.
+
 — É sério, Alex. Devon encontrou possível falsificação na assinatura
 do seu bisavô, no documento que Alexandra apresentou como prova de
 reconhecimento de Theodore. Mandamos pra perícia forense essa semana.
@@ -106,3 +111,8 @@ sentir tanta esperança genuína primeiro.
 
 — Eu sei. Mas essa esperança não foi erro seu, Alex. Foi generosidade
 real, direcionada a alguém que não mereceu ela completamente.
+
+Fico em silêncio, absorvendo a própria frase dela, sentindo o peso da
+noite se assentar devagar — não resolução nenhuma ainda, só o começo
+de um processo que sei vai exigir muito mais de mim antes de chegar
+ao outro lado.
