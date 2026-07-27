@@ -23,6 +23,10 @@ real de acompanhar isso de perto.
 
 — Espero que sim.
 
+— Ele falava de família como coisa que se constrói, não só que se
+herda — acrescenta, olhando pra própria lápide. — Acho que ele
+aprovaria como você construiu a sua.
+
 — Ele teria gostado de você, acho. Gostava de gente que trabalhava
 duro sem precisar anunciar isso o tempo inteiro.
 
@@ -124,3 +128,8 @@ da própria manhã — a lágrima diante do túmulo, a confissão sobre a
 segunda consulta, a facilidade com que ela alterna entre vulnerável e
 calculista sem parecer, nem por um momento, contradição visível pra
 ela mesma.
+
+Alex se aproxima, sentando ao meu lado na cama, e ficamos ali em
+silêncio por um momento, cada um processando à própria maneira o
+peso dessa manhã que carregou tanto luto genuíno quanto dúvida
+renovada, lado a lado, sem se cancelarem completamente.

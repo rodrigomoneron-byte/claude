@@ -17,6 +17,9 @@ prudência bem aplicada.
 — Prefiro burocracia excessiva a lacuna perigosa. Aprendi isso do
 jeito difícil, em outra empresa, há anos.
 
+— Isso é boa filosofia, honestamente. Vou levar isso comigo também,
+daqui pra frente.
+
 A resposta soa genuína, e ainda assim registro, silenciosamente, que
 alguém realmente disposta a esconder contato informal dificilmente
 votaria contra a própria transparência de forma tão visível — ou
@@ -132,3 +135,9 @@ Seguimos juntos até o escritório, os dois debruçados sobre o mesmo
 relatório à luz baixa da mesa, e sinto, apesar de todo o peso da
 própria dúvida ainda sem resposta, gratidão silenciosa por não
 precisar carregar nenhuma dessas incertezas completamente sozinha.
+
+Trabalhamos juntos até tarde, cada linha revisada com atenção
+redobrada, e quando finalmente fechamos o relatório, sinto o próprio
+corpo cansado, mas também mais leve, por ter atravessado mais essa
+noite de vigilância ao lado de alguém disposto a continuar até o
+fim comigo.

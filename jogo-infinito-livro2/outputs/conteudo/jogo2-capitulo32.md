@@ -22,6 +22,10 @@ gerenciada.
 isso é suficiente pra continuar a parceria, ou o próprio padrão já
 danificou a confiança demais pra reconstruir?
 
+— Não existe resposta fácil pra essa pergunta — Denise admite. — Vai
+depender de quanto risco vocês dois estão dispostos a aceitar, daqui
+em diante.
+
 ---
 
 — Não sei ainda — admito, sentindo o próprio peso da pergunta pesar
@@ -133,3 +137,8 @@ As portas se fecham completamente, e ficamos ali, em silêncio, cada
 um segurando a mão do outro com a mesma firmeza silenciosa que já se
 tornou hábito nosso, prontos, apesar de tudo, pra qualquer verdade
 que ainda esteja esperando pra ser descoberta.
+
+O elevador desce devagar, cada andar passando em silêncio, e sinto,
+apertando a mão dela mais uma vez, gratidão profunda por atravessar
+mais essa incerteza ao lado de alguém que nunca me deixa enfrentar
+nada completamente sozinho.

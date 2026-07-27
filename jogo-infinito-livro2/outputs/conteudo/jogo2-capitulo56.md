@@ -31,6 +31,9 @@ ainda mais fortes do que da última vez.
 própria pintura. Acabou virando material novo, de um jeito que não
 esperava.
 
+— Isso é o que arte real faz, acho — transforma dor real em alguma
+coisa que outras pessoas também conseguem reconhecer em si mesmas.
+
 ---
 
 — Essa peça específica — aponto pra tela que combina tons quentes e
@@ -131,3 +134,7 @@ O último pensamento antes de adormecer de novo é simples, quase
 por cada pessoa nessa família estranha e reconstruída que escolhemos,
 juntos, continuar cultivando, mesmo depois de tudo que tentou nos
 convencer de que talvez não valesse o esforço.
+
+Adormeço de novo, dessa vez completamente, o quarto silencioso ao
+redor, e a última imagem que carrego é a da tela de Elena — duas
+cores que nunca deviam se misturar, encontrando jeito de coexistir.
