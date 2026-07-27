@@ -9,6 +9,10 @@ O silêncio que segue atinge a sala inteira com força física quase
 palpável, cada conselheiro presente processando a confissão com
 choque visível.
 
+Sinto meu próprio corpo gelar por completo, cada palavra dela
+demorando um segundo a mais pra realmente se registrar, como se a
+mente inteira resistisse a aceitar o que os ouvidos já captaram.
+
 — Por que você faria isso? — David Okonkwo pergunta, finalmente,
 quebrando o próprio silêncio chocado.
 
@@ -122,3 +126,8 @@ Ela para na porta, virando de volta por um momento, como se quisesse
 dizer mais alguma coisa, mas decide não dizer nada, e sai, deixando
 a sala inteira em silêncio pesado, cada um de nós processando à
 própria maneira o peso do que acabou de ser revelado.
+
+David encerra a reunião pouco depois, sem cerimônia nenhuma, e cada
+conselheiro se levanta devagar, ainda absorvendo o próprio impacto, e
+sinto, olhando pra Cami, que a manhã inteira ainda vai levar dias pra
+terminar de se assentar completamente.

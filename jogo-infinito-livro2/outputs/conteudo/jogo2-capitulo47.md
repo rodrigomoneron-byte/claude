@@ -29,6 +29,10 @@ de crise.
 
 — Combinado. Isso soa como promessa que vale a pena manter.
 
+Ele estende a mão, um gesto quase cerimonial, e aperto ela, rindo do
+próprio exagero, mas sentindo, por trás da brincadeira, o peso real
+da promessa que os dois acabaram de fazer.
+
 ---
 
 Servimos o vinho, sentando juntos no sofá, conversa fluindo fácil
@@ -125,3 +129,8 @@ Fico ali mais um tempo, ouvindo a própria respiração dele desacelerar
 de volta ao sono, e sinto, mais uma vez, gratidão profunda por essa
 vida construída, devagar, sobre tanta verdade compartilhada, mesmo
 quando ela custou mais do que qualquer um de nós esperava suportar.
+
+O sol começa a nascer devagar lá fora, luz fraca entrando pela
+cortina entreaberta, e fecho os olhos de novo, decidida a aproveitar
+mais alguns minutos dessa paz antes que o dia inteiro, com toda a sua
+própria agenda, finalmente comece.

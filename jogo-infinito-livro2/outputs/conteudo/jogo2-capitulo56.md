@@ -13,6 +13,9 @@ algo pessoal por trás.
 — Está mesmo. Acho que processar tudo com Alexandra, de um jeito
 estranho, alimentou o próprio trabalho dela recente.
 
+— Isso é o tipo de coisa que só se percebe olhando pra trás, sabe —
+comento, ainda observando a tela. — Na hora, só parece dor pura.
+
 — Dor processada direito costuma virar isso — Cami observa,
 segurando minha mão enquanto avançamos mais um pouco pela galeria. —
 Algo que vale a pena olhar de frente, em vez de esconder.
@@ -138,3 +141,8 @@ convencer de que talvez não valesse o esforço.
 Adormeço de novo, dessa vez completamente, o quarto silencioso ao
 redor, e a última imagem que carrego é a da tela de Elena — duas
 cores que nunca deviam se misturar, encontrando jeito de coexistir.
+
+Durmo sem sonho nenhum pelo resto da noite, o corpo inteiro
+finalmente relaxado, e acordo horas depois sentindo, pela primeira
+vez em muito tempo, descanso genuíno em vez de exaustão apenas
+temporariamente adiada.
