@@ -14,6 +14,9 @@ tempo.
 
 — Fico feliz em ouvir isso. Vocês dois merecem essa paz.
 
+— Você também merece isso, Dan, considerando tudo que já fez por
+nós.
+
 — Obrigada, Dan. Significa muito ouvir isso vindo especificamente de
 você, considerando tudo que atravessamos juntos.
 

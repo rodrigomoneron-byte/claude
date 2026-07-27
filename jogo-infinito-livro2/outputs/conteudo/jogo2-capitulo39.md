@@ -13,6 +13,10 @@ com precisão.
 
 — Vou mandar tudo hoje ainda.
 
+Sinto o próprio corpo tenso, cada palavra dele carregando peso que
+já reconheço bem demais depois de meses atravessando situação
+parecida.
+
 — Perfeito. Quanto antes eu tiver isso em mãos, mais rápido consigo
 avaliar com precisão real.
 

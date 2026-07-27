@@ -11,6 +11,10 @@ completa sobre Sebastian Kroll.
 
 — E então?
 
+Fico segurando o próprio celular com mais firmeza, esperando a
+resposta com o mesmo instinto alerta que já aprendi a reconhecer
+como segunda natureza.
+
 — Limpo. Genuinamente limpo, sem qualquer conexão suspeita com
 Alexandra além de serem concorrentes no mesmo mercado. Ele quer
 marcar reunião formal semana que vem.
