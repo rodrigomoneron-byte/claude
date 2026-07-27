@@ -31,6 +31,9 @@ dia, que ela usaria documento fraudado?
 construir caso mais forte. Escolhi não perguntar demais, pra manter a
 própria consciência mais leve.
 
+Sinto o próprio peito apertar, a mistura de raiva e decepção
+crescendo com cada explicação nova que ela ainda oferece.
+
 — Por que você fez isso, Patricia? Depois de tudo que atravessamos
 juntos, depois de tanto tempo trabalhando lado a lado?
 

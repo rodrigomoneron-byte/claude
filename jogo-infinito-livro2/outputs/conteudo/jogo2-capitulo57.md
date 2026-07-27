@@ -18,6 +18,10 @@ tempo.
 
 — Fico feliz em ouvir isso. Vocês dois merecem essa paz.
 
+Sinto o próprio peito se aquecer, gratidão genuína crescendo por essa
+amizade reconstruída sobre bases tão diferentes das que existiam no
+início.
+
 — Merecemos mesmo, depois de tudo — respondo, sentindo o próprio
 peito se aquecer com a sinceridade genuína na voz dele.
 

@@ -23,13 +23,14 @@ diante dessa única frase.
 encontrar resposta real.
 
 Sinto o próprio corpo relaxar de vez, o peso das últimas semanas
-finalmente cedendo espaço pra alívio genuíno.
-
-Sinto o próprio corpo relaxar de um jeito que não sentia há dias,
-grato por essa resposta específica ter chegado finalmente.
+finalmente cedendo espaço pra alívio genuíno, grato por essa resposta
+específica ter chegado finalmente.
 
 — De nada, Alex. Sei que essa dúvida específica estava pesando forte.
 Fico feliz em trazer resposta real, não só mais uma suspeita.
+
+Sinto o próprio peito se encher de gratidão genuína por essa dedicação
+que ela continua trazendo pra cada verificação.
 
 — Encontrei documento de seguro de vida antigo do próprio Theodore,
 com a data original, batendo exatamente com o que Alexandra

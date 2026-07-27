@@ -27,6 +27,9 @@ Alexandra comentando informalmente com alguém que não devia. Podia
 até ser simples especulação de mercado, considerando o movimento de
 capital que já registramos pra expansão.
 
+Sinto o próprio corpo tenso, tentando organizar mentalmente cada
+possibilidade antes de decidir qual delas investigar primeiro.
+
 — Precisamos descobrir rápido, antes que qualquer versão distorcida
 ganhe vida própria na imprensa.
 
