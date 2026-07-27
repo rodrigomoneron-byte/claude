@@ -31,6 +31,9 @@ qualquer improviso arriscado.
 
 — Isso é exatamente por que confio tanto no seu trabalho, Denise.
 
+— Vou ligar assim que tudo estiver pronto — confirma, já se levantando
+pra organizar a própria agenda do dia.
+
 ---
 
 Patricia aparece na minha sala à tarde, sem avisar, o próprio rosto
@@ -151,3 +154,7 @@ sozinho.
 Fecho o próprio escritório, apagando as luzes uma a uma, e sigo pra
 casa, o peso do dia inteiro ainda pesando, mas mais leve agora,
 sabendo que Cami já está lá, esperando.
+
+Chego em casa poucos minutos depois, encontrando ela já com o jantar
+quase pronto, e sinto, cruzando a porta, o próprio corpo relaxar de
+um jeito que só acontece quando estou finalmente em casa, com ela.

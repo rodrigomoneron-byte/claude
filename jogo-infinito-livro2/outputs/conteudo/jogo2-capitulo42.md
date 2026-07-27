@@ -12,6 +12,10 @@ nem tentar minimizar o próprio papel nisso tudo.
 — Isso não desfaz o dano causado — respondo, sentindo a própria voz
 ainda carregar mágoa fresca.
 
+Ela assente, aceitando a própria acusação sem discordar, o silêncio
+entre nós carregando peso que nenhuma palavra sozinha conseguiria
+capturar completamente.
+
 — Sei disso. Não espero que desfaça.
 
 — Você já sabia, quando defendeu Alexandra tão intensamente naquele
@@ -143,3 +147,8 @@ revelada por completo.
 Entramos no carro, e fico ali por um momento, sem ligar o motor
 ainda, deixando o próprio peso do dia inteiro se assentar antes de
 enfrentar a estrada de volta pra casa.
+
+Cami segura minha mão em silêncio, sem pressa nenhuma, e sinto,
+finalmente ligando o motor, gratidão profunda por atravessar mais
+essa verdade dolorosa ao lado dela, sem precisar carregar nada
+completamente sozinho.

@@ -19,6 +19,9 @@ esperando até amanhã de manhã.
 
 — Combinado, então. Só nós dois, sem interrupção nenhuma.
 
+— Que bom que concordamos nisso — sorri, já guiando eu pro sofá,
+deixando pra trás qualquer resquício da própria tensão do dia.
+
 Desligo meu próprio celular também, sentindo, mesmo nesse gesto
 pequeno, o peso de uma decisão maior — escolher, deliberadamente,
 proteger algumas horas só pra nós dois, sem deixar o mundo lá fora
@@ -129,3 +132,8 @@ O sono volta devagar, e a última coisa que sinto antes de mergulhar
 completamente nele é a própria respiração de Alex, constante,
 lembrando que qualquer coisa que amanhã ainda revele, vamos
 atravessar juntos.
+
+A madrugada segue tranquila depois disso, o próprio quarto envolto
+em silêncio, e adormeço de novo, dessa vez completamente, grata por
+essa noite que conseguiu carregar tanto conforto real em meio a
+tanta incerteza ainda pendente.
