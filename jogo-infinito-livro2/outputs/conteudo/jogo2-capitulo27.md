@@ -10,6 +10,9 @@ Encontrei padrão de acesso que quero que você veja.
 
 — Que tipo de padrão?
 
+Devon gira o próprio laptop mais um pouco na minha direção, apontando
+uma linha específica destacada em amarelo.
+
 — Nada que prove qualquer coisa sozinho. Mas junto com o resto, achei
 que merecia sua atenção antes de eu deixar passar despercebido.
 
@@ -140,3 +143,7 @@ Deitamos juntos, o quarto escuro ao redor, e sinto, fechando os
 olhos, o próprio peso da semana inteira finalmente começar a ceder
 espaço pro descanso que os dois tanto precisamos antes de encarar
 mais um dia.
+
+O sono chega devagar, e o último pensamento que carrego antes de
+adormecer completamente é gratidão simples por atravessar mais essa
+semana pesada sem perder, nem uma vez, a própria conexão com ele.

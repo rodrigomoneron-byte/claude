@@ -12,6 +12,9 @@ quero mostrar o escritório que estamos preparando pra sede europeia.
 — Adoraríamos — respondo, sentindo o próprio peso da conversa que
 ainda preciso ter pairando por baixo da própria cordialidade.
 
+— Estamos ansiosos pra ver tudo — Cami acrescenta, o próprio sorriso
+genuíno mesmo em meio à cautela que sei que ela também carrega.
+
 ---
 
 O escritório fica num prédio histórico reformado, vidro moderno
@@ -134,3 +137,8 @@ mulher real que conheci essa semana — tentando decidir, sem
 conseguir ainda, se as duas coisas realmente são a mesma verdade, ou
 se alguma parte crucial ainda está sendo cuidadosamente escondida de
 nós dois.
+
+Fecho os olhos, finalmente, decidido a enfrentar amanhã com a mesma
+clareza que Cami sempre traz pra cada decisão difícil, mesmo sem
+saber ainda o que o próprio cemitério ainda vai revelar sobre a
+verdade completa dessa família recém-encontrada.

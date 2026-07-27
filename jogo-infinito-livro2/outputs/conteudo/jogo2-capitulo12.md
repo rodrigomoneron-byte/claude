@@ -35,6 +35,9 @@ Revisei tudo esse fim de semana. Quero elogiar o rigor da verificação.
 
 — Aprecio isso, Patricia.
 
+— Você merece ouvir isso, considerando o próprio rigor que já
+demonstrou desde o início dessa parceria toda.
+
 — Tenho uma sugestão, se você estiver disposto a ouvir.
 
 — Sempre.
@@ -143,4 +146,9 @@ substituindo, aos poucos, o peso da própria semana, e sinto, mais uma
 vez, gratidão profunda por ter, ao lado, alguém capaz de segurar
 tanto rigor profissional quanto esperança genuína ao mesmo tempo, sem
 deixar nenhuma das duas coisas sufocar a outra.
+
+Recolhemos a mesa juntos, o resto da noite se desenrolando devagar, e
+sinto, apagando as luzes da cozinha, que essa normalidade simples
+vale exatamente tanto quanto qualquer vitória grande que os dois já
+conquistaram juntos.
 
