@@ -23,6 +23,9 @@ mais profundidade antes de qualquer reunião formal acontecer.
 
 — Aprecio isso, Devon. Prefiro atraso pequeno a lacuna grande.
 
+Sinto o próprio corpo relaxar ligeiramente, grato por essa mesma
+diligência cuidadosa que já provou valer a pena tantas vezes antes.
+
 — Quanto tempo você precisa antes de sentir confiança real na própria
 verificação?
 

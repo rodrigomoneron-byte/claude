@@ -57,6 +57,10 @@ resolução que talvez nunca chegue.
 
 — Isso é sabedoria madura, Elena.
 
+Sinto o próprio peito se aquecer, orgulho genuíno crescendo por essa
+irmã que continua encontrando o próprio caminho, devagar, mas com
+firmeza real.
+
 — Aprendi com vocês dois, de certo modo. A importância de continuar
 seguindo em frente, mesmo sem todas as respostas resolvidas
 completamente.

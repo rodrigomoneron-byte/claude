@@ -23,6 +23,9 @@ sempre me pede pra contar tudo.
 
 — Aprecio isso, Elena. De verdade.
 
+Sinto o próprio corpo relaxar ligeiramente, apesar de saber que a
+cautela ainda precisa continuar presente.
+
 — É. E bonito, de um jeito estranho — as duas descobrindo interesse
 em comum que nenhuma esperava. Ela disse que nunca mostrou o próprio
 trabalho pra ninguém fora do círculo mais próximo.

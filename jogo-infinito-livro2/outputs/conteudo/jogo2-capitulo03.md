@@ -14,6 +14,9 @@ pedindo nada que soe golpe óbvio.
 
 — Golpe óbvio nunca soa golpe óbvio. Por isso funciona.
 
+Sinto o próprio corpo tenso, reconhecendo na própria frase dela um
+alerta que recuso ignorar completamente.
+
 Rio, apesar de mim mesma, reconhecendo o próprio ceticismo dela como
 espelho exato do meu.
 

@@ -57,6 +57,9 @@ pode analisar o documento original até sexta-feira.
 
 — Aprecio a agilidade, Devon. Sei que pediu isso rápido demais.
 
+Sinto o próprio corpo tenso, aguardando o resultado forense com o
+mesmo peso de quem espera veredicto.
+
 — Perfeito. Quanto mais rápido tivermos certeza, melhor pra decidir
 qualquer próximo passo com clareza.
 

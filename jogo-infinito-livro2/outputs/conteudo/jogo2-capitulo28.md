@@ -61,6 +61,9 @@ profissional se firmar rápido demais pra hesitar.
 
 — Agora, se quiser. Ele está esperando na linha.
 
+Sinto o próprio corpo se firmar, respirando fundo antes de qualquer
+ligação que ainda vá revelar mais uma camada dessa história inteira.
+
 ---
 
 Ligamos pro investidor, um homem chamado Richard Ashford, colocando

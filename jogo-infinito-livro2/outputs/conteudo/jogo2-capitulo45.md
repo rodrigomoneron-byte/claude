@@ -59,6 +59,10 @@ Só explica por que doeu tanto descobrir.
 
 — Isso ajuda, de um jeito estranho. Obrigada por dizer isso.
 
+Sinto o próprio peito se aquecer, gratidão silenciosa crescendo por
+conseguir oferecer algum conforto genuíno mesmo em meio a tanta dor
+compartilhada.
+
 ---
 
 Desligo e fico sentada, esperando Alex voltar, o próprio apartamento

@@ -17,6 +17,9 @@ explicar de forma satisfatória.
 
 — Concordo. Vou marcar a reunião pra amanhã.
 
+Sinto o próprio corpo firme, já organizando mentalmente cada palavra
+que ainda preciso escolher com cuidado antes de amanhã.
+
 — Prefere que eu esteja presente também, ou é melhor conversa
 diretamente entre vocês três? — Denise pergunta, guardando os
 próprios documentos organizados.
