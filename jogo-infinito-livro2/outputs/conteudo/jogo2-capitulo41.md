@@ -12,6 +12,10 @@ choque visível.
 — Por que você faria isso? — David Okonkwo pergunta, finalmente,
 quebrando o próprio silêncio chocado.
 
+Patricia respira fundo antes de responder, os olhos percorrendo cada
+rosto na sala como se buscasse, em algum lugar, compreensão que sabe
+não vai encontrar completamente.
+
 ---
 
 — Porque acredito genuinamente que Alexandra representa governança
@@ -103,3 +107,9 @@ A sala permanece em silêncio pesado, cada pessoa presente absorvendo
 o peso completo de uma manhã que começou como reunião de rotina e
 terminou revelando traição que nenhum de nós viu chegando com essa
 proporção.
+
+Patricia se levanta, devagar, começando a reunir os próprios
+documentos, e observo ela, sentindo mistura estranha de raiva e pena
+— a mesma mulher que defendeu Alex publicamente durante a crise mais
+grave da própria carreira dele, escolhendo agora sair pela porta que
+ela mesma ajudou a fechar sobre a confiança de todos ali.

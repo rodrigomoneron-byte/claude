@@ -14,6 +14,11 @@ Thomas Reyes, o novo conselheiro, assente com aprovação visível.
 
 — Isso confirma que a decisão de reestruturar sozinho foi correta.
 
+— Aprecio isso, Thomas. Foi decisão difícil na época, considerando
+quanto tempo já tínhamos investido na parceria original.
+
+— Difícil, mas certa. Números não mentem, e esses são excepcionais.
+
 ---
 
 Depois da reunião, fico sozinho no próprio escritório, olhando pro
@@ -121,3 +126,8 @@ quando ela custa caro.
 
 — Aprendemos mesmo. E vamos continuar aprendendo, considerando tudo
 que ainda pode aparecer pela frente.
+
+Ficamos ali mais um tempo, observando juntos a cidade se acender
+devagar lá fora, cada luz nova marcando mais um fim de tarde que os
+dois escolhemos atravessar como equipe, não mais como dois indivíduos
+tentando sobreviver sozinhos cada dificuldade separada.

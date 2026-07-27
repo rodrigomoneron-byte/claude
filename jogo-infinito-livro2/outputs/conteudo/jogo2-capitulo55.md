@@ -12,6 +12,12 @@ assim que entro na sala.
 — Concordo completamente. Você trabalhou duro demais por esse
 resultado.
 
+— Nós dois trabalhamos duro — corrige, servindo a segunda taça. —
+Cada decisão que tomei nos últimos meses carregou sua marca também,
+mesmo quando você não estava na sala.
+
+— Gosto de pensar que sim.
+
 Ele me puxa pra abraço apertado, girando os dois na sala pequena,
 risada compartilhada preenchendo o espaço que já carrega tanto
 significado construído juntos ao longo desses últimos meses.
@@ -103,3 +109,8 @@ qualquer atalho arriscado jamais conseguiria produzir.
 Alex murmura alguma coisa ininteligível, ainda dormindo, e sorrio,
 sentindo gratidão silenciosa por essa manhã específica, antes que
 qualquer nova complicação decida exigir atenção outra vez.
+
+Fico ali mais um tempo, quieta, absorvendo cada detalhe pequeno desse
+quarto que já testemunhou tanto — as brigas, as reconciliações, as
+madrugadas de dúvida, e agora essa paz simples que sinto, finalmente,
+como conquista genuína, não sorte passageira.

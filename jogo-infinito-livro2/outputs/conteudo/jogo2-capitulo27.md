@@ -10,6 +10,9 @@ Encontrei padrão de acesso que quero que você veja.
 
 — Que tipo de padrão?
 
+— Nada que prove qualquer coisa sozinho. Mas junto com o resto, achei
+que merecia sua atenção antes de eu deixar passar despercebido.
+
 — Patricia acessa o relatório completo, sempre, dentro de poucas
 horas depois de qualquer atualização nova ser publicada. Mais rápido
 que qualquer outro membro do comitê, inclusive David e Sandra, que
@@ -110,3 +113,10 @@ Rimos juntos, o som leve cortando através da tensão acumulada, e
 ficamos ali mais um tempo, absorvendo o peso bom de atravessar mais
 essa incerteza lado a lado, gratos, apesar de tudo, por continuar
 escolhendo verdade completa um com o outro.
+
+— Amanhã eu ligo pra Denise cedo — comento, já quase adormecendo
+contra o ombro dele. — Prefiro resolver isso rápido, antes que vire
+mais uma coisa pendurada sobre nós dois por semanas.
+
+— Concordo completamente. Vamos dormir agora, enquanto ainda
+conseguimos.

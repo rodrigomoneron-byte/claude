@@ -12,6 +12,11 @@ sem conseguir separar uma coisa da outra.
 
 — Isso é compreensível. Foi dia pesado demais pra processar rápido.
 
+— Obrigado por ficar comigo em cada minuto disso, mesmo sabendo o
+quanto era difícil de assistir.
+
+— Sempre. Nunca ia deixar você atravessar isso sozinho.
+
 Ele se senta no sofá, o próprio corpo carregando exaustão que
 reconheço como emocional, muito mais do que física.
 
@@ -119,3 +124,9 @@ dele como mecanismo familiar de processar dificuldade real.
 muito pra resolver, e precisamos descansar antes.
 
 — Concordo completamente.
+
+Ele se levanta, apagando as luzes da sala uma a uma, e sigo atrás
+dele até o quarto, sentindo, apesar de todo o peso do próprio dia,
+gratidão silenciosa por atravessar mais essa dificuldade lado a lado,
+sem deixar nenhuma verdade importante escondida entre nós dois pelo
+caminho.
