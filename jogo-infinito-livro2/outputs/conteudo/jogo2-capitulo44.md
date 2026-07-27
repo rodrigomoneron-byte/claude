@@ -11,6 +11,9 @@ cumplicidade. As duas já contrataram advogado próprio.
 
 — Isso significa prisão?
 
+Sinto o próprio corpo tenso, esperando a resposta com o mesmo peso
+de quem espera veredicto.
+
 — Provavelmente não, considerando ausência de antecedente criminal e
 a cooperação total de ambas depois da descoberta. Mais provável é
 multa substancial e algum tipo de liberdade condicional supervisionada.
@@ -153,3 +156,8 @@ Reúno os próprios papéis, guardando eles na pasta com cuidado, e saio
 do escritório, sentindo o próprio corpo inteiro se preparar pra
 conversa que ainda vai definir como esse capítulo específico da minha
 vida finalmente se encerra.
+
+O elevador desce devagar, cada andar passando em silêncio, e sinto,
+respirando fundo, que essa é exatamente o tipo de conversa que
+precisa ser enfrentada de frente, sem atalho nenhum, por mais que
+tudo em mim quisesse adiar.

@@ -18,6 +18,11 @@ real, não só alívio temporário entre uma crise e outra.
 
 — Vamos guardar essa sensação, então, o máximo que conseguirmos.
 
+Ele fecha a própria mala com um sorriso leve, e sinto, observando
+ele, gratidão silenciosa por essa versão dele, mais tranquila, mais
+disposta a simplesmente aproveitar o momento bom sem procurar
+problema escondido em cada canto.
+
 ---
 
 Renata aparece antes de eu sair pro aeroporto, o próprio rosto
@@ -138,3 +143,8 @@ Chegamos ao aeroporto pouco depois, e enquanto esperamos pro embarque,
 sinto, apesar de todo o peso da nova incerteza, uma certeza tranquila
 crescer: seja lá o que Londres revele, vamos atravessar isso juntos,
 do jeito que sempre atravessamos.
+
+Embarcamos pouco depois, encontrando nossos assentos lado a lado, e
+sinto, acomodando a própria bagagem de mão, determinação renovada de
+enfrentar essa viagem exatamente como ela merece ser enfrentada —
+com os olhos completamente abertos.

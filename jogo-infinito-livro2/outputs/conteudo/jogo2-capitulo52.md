@@ -38,6 +38,8 @@ raramente sinto em qualquer lugar que já trabalhei.
 — É a verdade, simplesmente. Fico ansiosa pra ver o que vocês
 constroem daqui em diante, com essa mesma abordagem.
 
+— Vou fazer questão de honrar essa confiança, Sandra. Prometo.
+
 ---
 
 Ela se despede, seguindo pro próprio compromisso, e sigo pro
@@ -148,3 +150,8 @@ Guardo o próprio celular, decidindo voltar ao trabalho por enquanto,
 e sinto, apesar de tudo, confiança renovada em minha própria
 capacidade de navegar o que quer que ainda esteja por vir, com Cami
 ao lado, do jeito que sempre esteve.
+
+Retomo os próprios números da expansão, cada linha exigindo atenção
+redobrada, e sinto, mergulhando de volta no trabalho, que essa
+rotina específica, mesmo exigente, carrega conforto real depois de
+tanta turbulência recente.
