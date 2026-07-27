@@ -20,6 +20,10 @@ Ela sorri, um gesto que parece genuinamente aliviado.
 
 — Isso é tudo que eu queria também.
 
+Observo a expressão dela relaxar aos poucos, sentindo o próprio peso
+da conversa formal das últimas semanas ceder espaço, devagar, pra
+alguma coisa mais parecida com proximidade real.
+
 Peço o próprio café, sentindo o clima entre nós dois mais leve do
 que qualquer conversa recente conseguiu ser.
 

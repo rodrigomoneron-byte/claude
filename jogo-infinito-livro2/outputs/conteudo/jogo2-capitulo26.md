@@ -82,6 +82,9 @@ rigor redobrado.
 — Isso é sensato. Só continue vigiando o próprio viés, mesmo quando
 parecer excessivo.
 
+Sinto o próprio corpo tenso, absorvendo o conselho dela com a mesma
+seriedade que reservo pra qualquer alerta profissional legítimo.
+
 Ela sai, e fico sozinho um momento, sentindo o peso da própria
 pergunta pairar mais do que qualquer resposta que consegui oferecer.
 Ligo pra Cami, precisando compartilhar antes de qualquer outra coisa.

@@ -85,6 +85,9 @@ conto, ainda sentindo o próprio peso da informação.
 — Isso é grave, Cami. Se confirmado, muda completamente a natureza
 da situação inteira.
 
+Sinto o próprio corpo gelar de novo, cada palavra dela confirmando o
+peso que já sentia crescer desde que Devon abriu o próprio laptop.
+
 — Eu sei. Vou esperar confirmação forense antes de agir. Mas já sinto
 que estamos chegando perto de alguma coisa muito maior do que
 qualquer omissão pessoal que já descobrimos até agora.

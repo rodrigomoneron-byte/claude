@@ -47,6 +47,9 @@ de Londres que consultei.
 
 — Que tipo de diferença?
 
+Largo a própria caneta na mesa, sentindo o corpo inteiro se preparar
+pra ouvir qualquer resposta que ele ainda vá dar.
+
 Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
 instinto alerta que já reconheço bem demais.
 

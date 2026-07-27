@@ -54,6 +54,9 @@ brigar por herança, escolhendo construir em vez de litigar. Ou pode
 ser estratégia mais paciente — construir confiança antes de fazer
 qualquer movimento que realmente importa.
 
+Sinto o próprio corpo tenso, absorvendo a resposta dele com a mesma
+cautela redobrada que já se tornou automática nas últimas semanas.
+
 — Isso não ajuda muito a decidir.
 
 — Não ajuda mesmo. Mas te ajuda a saber o que observar: se ela nunca
