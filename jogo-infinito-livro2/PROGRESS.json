@@ -9,8 +9,8 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 41,
-  "next_pov": "Cami",
+  "next_chapter": 50,
+  "next_pov": "Alex",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
     {
@@ -292,6 +292,69 @@
       "words": 501,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 41,
+      "pov": "Cami",
+      "words": 418,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 42,
+      "pov": "Alex",
+      "words": 482,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 43,
+      "pov": "Cami",
+      "words": 483,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 44,
+      "pov": "Alex",
+      "words": 445,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 45,
+      "pov": "Cami",
+      "words": 443,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 46,
+      "pov": "Alex",
+      "words": 427,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 47,
+      "pov": "Cami",
+      "words": 467,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 48,
+      "pov": "Alex",
+      "words": 435,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 49,
+      "pov": "Cami",
+      "words": 380,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -307,14 +370,18 @@
     {
       "n": 33,
       "desc": "3a cena — noite apos a reuniao formal de confronto com Alexandra, reafirmacao do casal"
+    },
+    {
+      "n": 47,
+      "desc": "4a cena — celebracao apos resolucao formal com Patricia e encerramento da parceria com Alexandra"
     }
   ],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 26129,
-    "pages_kdp": 87,
+    "chapters_done": 49,
+    "total_words": 30109,
+    "pages_kdp": 100,
     "avg_score": 7.0,
-    "pct_to_target": 45
+    "pct_to_target": 52
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -329,5 +396,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 01:13"
+  "updated": "2026-07-27 01:18"
 }

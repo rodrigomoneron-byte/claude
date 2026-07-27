@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Onboarding concluído — escrita não iniciada
-- Capítulos concluídos: 40 / 60
-- Próximo: Capítulo 41 (POV Cami)
-- Última atualização: 2026-07-27 01:13
+- Capítulos concluídos: 49 / 60
+- Próximo: Capítulo 50 (POV Alex)
+- Última atualização: 2026-07-27 01:18
 
 ## Placar
-- Palavras: 26129
-- Páginas KDP (~palavras/300): 87
+- Palavras: 30109
+- Páginas KDP (~palavras/300): 100
 - Score médio: 7.0
-- Meta de palavras: 58000 (45%)
+- Meta de palavras: 58000 (52%)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
