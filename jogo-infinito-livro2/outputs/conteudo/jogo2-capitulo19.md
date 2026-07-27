@@ -7,6 +7,9 @@ grande dúvida parece finalmente resolvida. Alex entra, ajudando a
 dobrar uma última camisa, o próprio sorriso ainda carregando o alívio
 de ontem à noite.
 
+Dobro mais uma peça de roupa, sentindo o próprio corpo mais leve do
+que sentia há dias.
+
 — Marcus confirmou que vai cobrir tudo por aqui enquanto estivermos
 fora — comenta, guardando o próprio passaporte na mala. — Devon vai
 continuar a verificação de rotina, só reduzida.
@@ -148,3 +151,7 @@ Embarcamos pouco depois, encontrando nossos assentos lado a lado, e
 sinto, acomodando a própria bagagem de mão, determinação renovada de
 enfrentar essa viagem exatamente como ela merece ser enfrentada —
 com os olhos completamente abertos.
+
+O avião decola pouco depois, e observo Nova York encolher lá embaixo
+através da janela, sentindo, apesar de tudo, alguma esperança
+genuína crescer sobre o que ainda vamos descobrir juntos.

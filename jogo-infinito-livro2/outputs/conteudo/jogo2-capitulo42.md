@@ -5,6 +5,9 @@ Patricia se retira do próprio cargo formalmente antes mesmo do
 conselho decidir qualquer punição, o gesto carregando peso de
 responsabilidade que reconheço, apesar de tudo, como genuíno.
 
+Observo ela reunir os próprios documentos devagar, sentindo o próprio
+corpo tenso demais pra sentar apesar de tudo.
+
 — Vou aceitar qualquer consequência legal que resultar disso — anuncia,
 já reunindo os próprios documentos. — Não vou lutar contra investigação,
 nem tentar minimizar o próprio papel nisso tudo.
@@ -152,3 +155,7 @@ Cami segura minha mão em silêncio, sem pressa nenhuma, e sinto,
 finalmente ligando o motor, gratidão profunda por atravessar mais
 essa verdade dolorosa ao lado dela, sem precisar carregar nada
 completamente sozinho.
+
+Dirigimos em silêncio pelo próprio trânsito da tarde, cada um
+processando à própria maneira o peso de tudo que ainda vai precisar
+ser resolvido nos próximos dias.

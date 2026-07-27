@@ -156,3 +156,6 @@ conseguiu abalar.
 Alex apaga o próprio abajur logo depois de mim, e adormecemos quase
 juntos, o cansaço do dia inteiro finalmente vencendo qualquer
 resquício de preocupação ainda pendente.
+
+A madrugada segue tranquila ao redor, o quarto silencioso, e durmo
+sem interrupção pelo resto da noite.

@@ -9,6 +9,9 @@ verdade parcial atrás de verdade parcial.
 Largo a própria bolsa na poltrona ao lado da porta, sentindo o corpo
 inteiro pesar de exaustão acumulada.
 
+Ligo a luminária de canto, deixando o próprio quarto banhado numa luz
+mais suave que o teto forte de antes.
+
 — Preciso de uma pausa — admito, tirando os sapatos assim que a porta
 do quarto fecha. — Só por essa noite. Amanhã voltamos a verificar
 tudo com cabeça fresca.
@@ -127,3 +130,7 @@ por essa noite que conseguiu ser, apesar de tudo, genuinamente boa.
 A chuva continua caindo lá fora, baixinho, quando finalmente perco a
 consciência de vez, o som constante embalando o sono dos dois até a
 manhã seguinte.
+
+Acordamos tarde no dia seguinte, o próprio quarto ainda envolto em
+luz cinzenta, e ficamos ali mais alguns minutos, sem pressa nenhuma
+de levantar.

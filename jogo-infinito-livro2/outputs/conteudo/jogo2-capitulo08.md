@@ -7,6 +7,9 @@ passado terminou — não tensão de sobrevivência, mas o tipo de
 expectativa cautelosa que só existe quando oportunidade real está na
 mesa.
 
+Sento à cabeceira da mesa, sentindo o próprio peso da apresentação
+ainda por vir.
+
 — Vamos apresentar os termos preliminares da parceria com Alexandra
 Voss Whitfield — abro, distribuindo o próprio material impresso. —
 Incluindo as cláusulas de proteção adicionais que negociamos essa
@@ -153,3 +156,7 @@ inteira já exigiu de mim — verificação constante, cautela redobrada,
 e ainda assim aquela vontade teimosa de acreditar que talvez,
 finalmente, exista família nova disposta a construir em vez de
 destruir.
+
+Guardo os próprios documentos, apagando a luz da mesa, e sigo pra
+casa, sentindo o corpo cansado, mas o próprio ânimo mais leve do que
+estava pela manhã.
