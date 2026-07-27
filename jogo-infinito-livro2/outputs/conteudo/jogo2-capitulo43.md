@@ -14,6 +14,9 @@ carregando peso que nenhuma palavra ainda consegue nomear.
 — Não sei ainda. Sinto raiva, pena, decepção, tudo ao mesmo tempo,
 sem conseguir separar uma coisa da outra.
 
+Sento ao lado dele, deixando o próprio silêncio existir sem pressa
+nenhuma de preenchê-lo com qualquer palavra apressada.
+
 — Isso é compreensível. Foi dia pesado demais pra processar rápido.
 
 — Obrigado por ficar comigo em cada minuto disso, mesmo sabendo o
@@ -58,6 +61,9 @@ emocional.
 destruir ela completamente, mesmo depois de tudo isso.
 
 — Isso é generoso da sua parte, considerando quanto ela mentiu.
+
+Ele respira fundo, o próprio corpo ainda tenso, mas a voz mais
+firme do que estava minutos atrás.
 
 — Não é generosidade pura. É reconhecer que ela é minha família de
 sangue, mesmo tendo escolhido errado. Quero justiça, não vingança.

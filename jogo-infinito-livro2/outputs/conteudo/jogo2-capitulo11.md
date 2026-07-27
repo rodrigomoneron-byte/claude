@@ -14,6 +14,9 @@ fala tanto de vocês dois que já sinto que conheço a história inteira.
 
 — Espero que só a versão boa — respondo, rindo.
 
+Naomi ri também, guiando nós dois até a mesa já posta com cuidado
+evidente.
+
 — Ambas, temo — Marcus corrige, entregando um copo d'água pra Naomi
 antes de sentar. — Não escondo muita coisa dela.
 
@@ -42,6 +45,9 @@ cuidado. — Assinamos os termos preliminares essa semana.
 — Isso é ótimo! — Naomi comemora, genuinamente animada. — Devo
 conhecer ela em algum momento? Trabalho com finanças internacionais,
 posso ter perspectiva útil.
+
+Marcus assente, servindo mais vinho pra própria namorada, o rosto
+carregando orgulho evidente pela oferta genuína dela.
 
 — Seria bom, sim — concordo, considerando a oferta com seriedade
 real. — Quanto mais gente qualificada avaliando, melhor.

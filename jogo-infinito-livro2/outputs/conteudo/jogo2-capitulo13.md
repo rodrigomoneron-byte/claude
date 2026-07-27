@@ -18,6 +18,9 @@ Nenhuma objeção real.
 parceria. Só espero que não vire estrutura pesada demais pra decisão
 que precisa ser rápida, quando for rápida.
 
+Assinto, reconhecendo a própria preocupação dele como legítima,
+mesmo sem conseguir imaginar ainda o quanto ela vai importar depois.
+
 — Patricia disse alguma coisa sobre cronograma de reunião do comitê?
 
 — Mensal, com relatório pro conselho pleno a cada trimestre.
@@ -47,6 +50,9 @@ advocacia em Londres, há dois meses — informa, mostrando documento
 público de registro corporativo. — Antes de ela nos procurar.
 
 — Isso é suspeito?
+
+Sinto o próprio corpo tenso, cada palavra dele carregando peso que
+já reconheço bem demais de outras descobertas parecidas.
 
 — Não necessariamente. Pode ser due diligence normal, dela verificando
 a própria posição legal antes de propor parceria. Só achei relevante

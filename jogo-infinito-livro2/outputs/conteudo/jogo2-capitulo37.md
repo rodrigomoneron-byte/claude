@@ -16,6 +16,9 @@ recente que consegui através de contato em Londres.
 
 — O que você encontrou?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço como segunda natureza.
+
 — Prepare-se, porque isso muda o quadro inteiro que construímos até
 agora — avisa, antes de continuar.
 
@@ -29,6 +32,9 @@ da época.
 O peso da revelação atinge com força que sinto gelar por completo.
 
 — Isso significa que o documento é falso?
+
+Sinto o próprio estômago revirar, cada segundo de espera pela
+resposta esticando mais do que qualquer outro momento recente.
 
 — Significa que essa assinatura específica é, no mínimo, altamente
 suspeita. Posso estar errado — assinatura muda ao longo da vida, e

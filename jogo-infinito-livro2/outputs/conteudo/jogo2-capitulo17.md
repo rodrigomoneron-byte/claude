@@ -17,6 +17,9 @@ catástrofe.
 — Isso nos dá espaço pra controlar a narrativa quando anunciarmos
 formalmente?
 
+Sinto o próprio corpo tenso, esperando a resposta dela com o mesmo
+instinto alerta que já reconheço bem demais.
+
 — Dá, sim, se agirmos rápido. Prefiro assumir a própria narrativa
 antes que alguém mais faça isso por nós.
 
@@ -59,6 +62,9 @@ representa "reconciliação" — duas cores que nunca deviam se misturar,
 encontrando jeito de coexistir na mesma tela.
 
 — Isso soa bonito.
+
+Sinto o próprio peito se aquecer, gratidão silenciosa crescendo por
+essa amizade genuína que Elena continua construindo.
 
 — É bonito. E ela mencionou uma coisa interessante — que está
 pensando em doar parte da própria coleção pra leilão beneficente,

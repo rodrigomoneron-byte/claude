@@ -15,6 +15,9 @@ bandeira vermelha óbvia na verificação inicial.
 — Alguma conexão direta com Alexandra, além de serem concorrentes no
 mesmo mercado?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já se tornou segunda natureza.
+
 — Nada que eu tenha encontrado ainda. Vou continuar verificando com
 mais profundidade antes de qualquer reunião formal acontecer.
 
@@ -121,6 +124,9 @@ Contratar mais uma pessoa, focar em casos parecidos com o que
 atravessamos.
 
 — Isso é notícia empolgante, Renata. Quem você está considerando?
+
+Sinto o próprio peito se encher de orgulho genuíno, vendo essa
+consultoria pequena crescer tanto desde que tudo começou.
 
 ---
 

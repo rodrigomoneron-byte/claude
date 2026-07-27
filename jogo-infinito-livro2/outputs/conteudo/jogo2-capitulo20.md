@@ -12,6 +12,9 @@ quero mostrar o escritório que estamos preparando pra sede europeia.
 — Adoraríamos — respondo, sentindo o próprio peso da conversa que
 ainda preciso ter pairando por baixo da própria cordialidade.
 
+Cami aperta minha mão de leve, o próprio gesto silencioso lembrando
+que ela também carrega o mesmo peso duplo dessa viagem inteira.
+
 — Estamos ansiosos pra ver tudo — Cami acrescenta, o próprio sorriso
 genuíno mesmo em meio à cautela que sei que ela também carrega.
 
@@ -24,6 +27,9 @@ demonstra investimento genuíno de tempo e atenção.
 
 — Isso é impressionante, Alexandra — Cami comenta, observando o
 espaço inteiro. — Você já colocou trabalho real nisso.
+
+Alexandra sorri, o próprio orgulho evidente em cada gesto enquanto
+mostra mais um canto do espaço reformado.
 
 — Quero que dê certo. Mais do que qualquer negócio anterior que já
 construí.

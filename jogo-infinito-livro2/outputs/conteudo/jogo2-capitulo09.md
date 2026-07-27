@@ -15,6 +15,9 @@ Cami.
 
 — Isso é... inesperado.
 
+Sinto o próprio corpo se firmar contra a cadeira, tentando processar
+a notícia sem deixar transparecer a própria cautela imediatamente.
+
 — Sei que soa rápido demais. Só... queria compartilhar, já que você
 sempre me pede pra contar tudo.
 
@@ -56,6 +59,9 @@ de negócios, se bem estruturada, pode entregar mais valor prático do
 que qualquer disputa judicial conseguiria, com fração do risco.
 
 — Isso é reconfortante.
+
+Denise assente, revisando mentalmente a própria resposta antes de
+continuar, o rosto carregando a mesma seriedade cuidadosa de sempre.
 
 — Também pode ser estratégia de quem sabe que a própria reivindicação
 legal é fraca, e prefere ganhar através de influência informal o que

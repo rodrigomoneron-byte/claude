@@ -20,11 +20,17 @@ processando o próprio peso do momento.
 — Gostaria de ter conhecido ele — murmura, a voz carregando emoção
 genuína.
 
+Aperto a mão dele discretamente, sentindo o próprio peso do momento
+se acumular também no meu peito.
+
 — Ele teria ficado orgulhoso do que você construiu — Alexandra
 comenta, observando ele de perto. — Mesmo sem nunca ter tido a chance
 real de acompanhar isso de perto.
 
 — Espero que sim.
+
+Alexandra sorri de leve, o próprio olhar ainda fixo na lápide simples
+diante de nós três.
 
 — Ele falava de família como coisa que se constrói, não só que se
 herda — acrescenta, olhando pra própria lápide. — Acho que ele

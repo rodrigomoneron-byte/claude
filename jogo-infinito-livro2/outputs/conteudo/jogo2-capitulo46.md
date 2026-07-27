@@ -16,6 +16,9 @@ reputação de integridade real, antes desse episódio específico.
 carregando firmeza. — Ela ajudou fraude documental acontecer,
 conscientemente.
 
+David assente devagar, reconhecendo a própria força do argumento
+dela mesmo sem discordar completamente.
+
 ---
 
 — Concordo que a consequência precisa ser real — respondo, sentindo
@@ -24,6 +27,9 @@ acredito que consequência real não significa necessariamente destruir
 completamente alguém que cometeu um erro específico, mesmo grave.
 
 — O que você propõe? — David pergunta.
+
+Sinto o próprio corpo firme, tendo já pensado nessa própria resposta
+com cuidado antes mesmo da reunião começar.
 
 — Antes de responder, quero ouvir a opinião de vocês dois primeiro —
 respondo, olhando entre David e Sandra. — Essa decisão precisa
