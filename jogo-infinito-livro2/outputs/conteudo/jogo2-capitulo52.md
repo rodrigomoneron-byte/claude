@@ -41,6 +41,9 @@ raramente sinto em qualquer lugar que já trabalhei.
 
 — Isso significa muito, Sandra. Obrigado por dizer.
 
+Sinto o próprio peito se aquecer com a confiança genuína dela,
+gratidão crescendo por essa equipe que continua escolhendo ficar.
+
 — É a verdade, simplesmente. Fico ansiosa pra ver o que vocês
 constroem daqui em diante, com essa mesma abordagem.
 

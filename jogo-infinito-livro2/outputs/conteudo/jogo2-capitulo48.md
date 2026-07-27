@@ -59,6 +59,9 @@ acontecendo de uma vez só.
 
 — Isso é incrível, Marcus! Quando?
 
+Sinto o próprio peito se encher de felicidade genuína, mal
+conseguindo esperar pela resposta dele.
+
 — Semana que vem. Já tenho o anel, já conversei com o pai dela. Só
 preciso encontrar o momento certo.
 

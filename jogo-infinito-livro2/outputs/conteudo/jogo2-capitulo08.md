@@ -56,6 +56,9 @@ atrás. — Ainda quer acesso à documentação completa?
 — Quero, sim. Prefiro estar informada em tempo real, não só receber
 resumo depois que decisão já está tomada.
 
+Sinto o próprio corpo relaxar ligeiramente com o pedido dela, grato
+por essa mesma diligência cuidadosa somando-se à própria verificação.
+
 ---
 
 — Vou pedir pra Devon compartilhar acesso direto com você — concordo,

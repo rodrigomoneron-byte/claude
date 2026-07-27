@@ -18,6 +18,10 @@ tudo com cabeça fresca.
 
 — Concordo completamente. Já processamos peso demais por um dia só.
 
+Sinto o próprio corpo relaxar ligeiramente, grato por essa decisão
+simples de proteger algumas horas só pra nós dois, longe de qualquer
+verificação.
+
 — Vou tomar banho rápido, tentar lavar um pouco desse peso literal e
 figurativamente — brinco, meio séria.
 

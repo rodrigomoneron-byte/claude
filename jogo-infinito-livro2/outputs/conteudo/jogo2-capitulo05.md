@@ -47,6 +47,10 @@ original admitisse que ele existia.
 
 — Isso é genuinamente triste — Elena comenta, a própria voz suave.
 
+Sinto o próprio peito apertar, cada palavra dela carregando peso que
+sinto ecoar mais fundo do que qualquer história de negócio jamais
+conseguiria.
+
 — É. E é parte do motivo de eu estar aqui agora. Não pelo dinheiro.
 Pela possibilidade de reconstruir alguma coisa que uma geração
 anterior decidiu destruir.

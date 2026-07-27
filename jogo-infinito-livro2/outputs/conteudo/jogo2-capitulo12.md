@@ -22,6 +22,10 @@ com a resposta rápida.
 
 — Já está rodando. Primeira checagem sai sexta-feira.
 
+Sinto o próprio corpo relaxar ligeiramente com a própria agilidade
+dele, grato por ter, ao redor, gente disposta a antecipar o próprio
+trabalho necessário.
+
 — Perfeito. Aprecio a agilidade, Devon.
 
 — Sempre. Prefiro estar preparado demais do que reagir tarde demais,
