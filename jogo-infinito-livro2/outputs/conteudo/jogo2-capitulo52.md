@@ -6,6 +6,9 @@ O conselho aprova formalmente o novo membro pra substituir Patricia
 Okonkwo com histórico impecável de governança em empresas
 parecidas.
 
+Observo a votação se encerrar, sentindo o próprio peso da reunião
+finalmente ceder espaço pra algo mais leve.
+
 — Isso fecha esse capítulo formalmente — David comenta, depois da
 votação. — Reconstrução completa, sem nenhuma peça pendente.
 
@@ -155,3 +158,7 @@ Retomo os próprios números da expansão, cada linha exigindo atenção
 redobrada, e sinto, mergulhando de volta no trabalho, que essa
 rotina específica, mesmo exigente, carrega conforto real depois de
 tanta turbulência recente.
+
+Trabalho até o fim da tarde, cada planilha revisada com o mesmo
+cuidado de sempre, e guardo os próprios papéis já satisfeito com o
+progresso real do dia inteiro.

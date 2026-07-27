@@ -6,6 +6,9 @@ carregando a mesma confiança tranquila de sempre, e sento diante dela
 na sala de reunião, Denise ao meu lado com os documentos organizados
 em pilha precisa.
 
+Observo a própria expressão dela enquanto Denise organiza os
+documentos, tentando ler qualquer sinal antes mesmo de começar.
+
 — Trouxemos algumas cláusulas adicionais — abro, deslizando o
 material na direção dela. — Proteção contra concentração de voto,
 transparência total sobre qualquer mudança relevante de capital do
@@ -159,3 +162,7 @@ Fico ali mais um tempo, olhando pro próprio escritório vazio,
 deixando o peso da manhã inteira se assentar antes de seguir pra
 casa, pronto pra comemorar essa vitória pequena, mas real, ao lado
 dela.
+
+Apago as luzes do escritório, finalmente, e sigo pro carro, sentindo
+o próprio corpo mais leve do que estava pela manhã, ansioso pra
+chegar em casa.

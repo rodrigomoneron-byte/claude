@@ -5,6 +5,9 @@ Acordo encontrando Cami já vestida, o próprio celular na mão, o rosto
 carregando concentração que reconheço como sinal de trabalho já em
 andamento.
 
+Esfrego os próprios olhos, ainda meio sonolento, tentando registrar
+completamente a própria notícia antes mesmo de sair da cama.
+
 — Renata mandou mensagem de madrugada — informa, assim que percebe
 que acordei. — Encontrou mais alguma coisa. Disse que podia esperar
 até voltarmos, mas confesso que não consigo simplesmente ignorar até
@@ -144,3 +147,7 @@ Me aproximo, ficando ao lado dela junto à janela, e ficamos ali
 juntos, em silêncio, observando a manhã cinza de Londres se
 desenrolar devagar lá fora, cada um absorvendo à própria maneira o
 peso de mais uma verdade parcial revelada.
+
+Depois de um tempo, sugiro tomarmos café da manhã, e descemos juntos
+até o próprio restaurante do hotel, precisando de alguma normalidade
+antes de encarar o resto do dia.

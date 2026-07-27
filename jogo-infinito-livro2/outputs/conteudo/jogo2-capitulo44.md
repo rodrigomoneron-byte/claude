@@ -5,6 +5,9 @@ Dan liga na manhã seguinte, a voz carregando o próprio tom
 profissional, mas suavizado o suficiente pra sugerir notícia
 complicada, não catastrófica.
 
+Atendo já sentado à própria mesa do escritório, o café esquecido
+esfriando ao lado.
+
 — Revisei tudo com a promotoria — informa. — Alexandra vai enfrentar
 acusação formal de fraude documental. Patricia também, por
 cumplicidade. As duas já contrataram advogado próprio.
@@ -161,3 +164,6 @@ O elevador desce devagar, cada andar passando em silêncio, e sinto,
 respirando fundo, que essa é exatamente o tipo de conversa que
 precisa ser enfrentada de frente, sem atalho nenhum, por mais que
 tudo em mim quisesse adiar.
+
+As portas se abrem no térreo, e sigo pro carro, sentindo o próprio
+corpo inteiro se firmar pra conversa que ainda me espera.

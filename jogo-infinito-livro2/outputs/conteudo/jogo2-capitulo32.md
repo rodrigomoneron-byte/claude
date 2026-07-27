@@ -5,6 +5,9 @@ Depois que Alexandra sai, fico sozinho na sala de conferência com
 Cami e Denise, o peso da própria confissão ainda pairando entre nós
 três.
 
+Fico olhando entre as duas, sentindo o próprio corpo ainda tenso pelo
+peso da confissão recente.
+
 — O que vocês acham? — pergunto, precisando de perspectiva antes de
 qualquer decisão.
 
@@ -150,3 +153,7 @@ nada completamente sozinho.
 As portas se abrem no térreo, e saímos juntos pro estacionamento,
 cada passo carregando o peso de uma manhã inteira que ainda vai
 levar dias pra terminar de se assentar completamente.
+
+Entramos no carro em silêncio, e Cami liga o motor devagar, ainda
+processando cada palavra da própria manhã antes de finalmente
+seguirmos embora.
