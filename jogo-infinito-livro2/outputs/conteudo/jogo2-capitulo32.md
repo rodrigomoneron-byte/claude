@@ -99,3 +99,28 @@ crescer dentro de mim.
 — Vamos atravessar isso juntos, seja qual for o resultado final.
 
 — Sempre.
+
+Caminhamos juntos até o elevador, o próprio silêncio confortável
+substituindo aos poucos o peso da própria manhã difícil.
+
+— O que você acha que Devon vai encontrar sobre Patricia? — pergunto,
+enquanto esperamos o elevador chegar.
+
+— Não sei. Espero que seja só coincidência de conversa entre colegas
+preocupados. Mas meu instinto continua dizendo outra coisa.
+
+---
+
+— O seu instinto raramente erra, sabe. Mesmo quando eu queria que
+errasse.
+
+— Aprendi a confiar nele, com o tempo. Mesmo quando o resultado dói.
+
+As portas do elevador abrem, e entramos juntos, o próprio silêncio
+carregando peso diferente agora — não mais só sobre Alexandra, mas
+sobre tudo que ainda pode estar escondido, esperando ser descoberto.
+
+— Vamos conseguir atravessar isso também — Alex murmura, apertando
+minha mão. — Do jeito que sempre conseguimos.
+
+— Sempre juntos.

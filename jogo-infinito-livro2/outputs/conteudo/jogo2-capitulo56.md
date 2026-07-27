@@ -104,3 +104,20 @@ Chegamos em casa pouco depois, o próprio silêncio do apartamento
 carregando conforto familiar, e adormecemos cedo, gratos pela noite
 boa, pela exposição de Elena, e por essa vida construída, devagar,
 sobre tanta verdade compartilhada.
+
+Acordo de madrugada, incapaz de voltar a dormir completamente, e fico
+ali, olhando pro teto escuro, pensando em quanto essa noite
+representou mais do que só uma exposição de arte bem-sucedida — foi
+prova viva de que cada pessoa envolvida nessa jornada inteira
+encontrou, à própria maneira, jeito de transformar dor real em algo
+que vale a pena construir.
+
+Cami se mexe ao meu lado, ainda dormindo, e observo ela por um
+momento, gratidão profunda crescendo por ter, ao lado, alguém que me
+ensina, constantemente, que verdade completa vale mais do que
+qualquer conforto temporário de fingir que tudo está bem quando não
+está completamente.
+
+Fecho os olhos de novo, decidido a enfrentar o próprio dia seguinte
+com a mesma clareza que ela sempre traz pra cada decisão difícil que
+enfrentamos juntos.

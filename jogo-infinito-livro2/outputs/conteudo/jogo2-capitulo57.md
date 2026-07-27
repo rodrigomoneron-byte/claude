@@ -101,3 +101,30 @@ Ficamos em silêncio confortável por um tempo, cada um absorvendo o
 próprio peso bom da reflexão, e sinto, mais uma vez, gratidão
 profunda por essa capacidade compartilhada de encontrar sentido real
 mesmo em meio a tanta dificuldade atravessada ao longo do caminho.
+
+— Precisamos marcar jantar com o Dan, algum dia em breve — sugiro,
+depois de um momento. — Comemorar a promoção dele direito, não só
+por telefone.
+
+— Boa ideia. Vamos convidar Marcus e Naomi também, fazer noite
+completa.
+
+— Isso soa perfeito. Vou organizar essa semana ainda.
+
+---
+
+— Sabe, penso muito em como Dan se tornou parte importante da nossa
+vida, mesmo depois de tudo que aconteceu no início — comento, depois
+de um tempo.
+
+— É verdade. Ele podia ter escolhido guardar rancor, considerando
+tudo. Escolheu amizade real em vez disso.
+
+— Isso fala muito sobre o caráter dele.
+
+— Fala mesmo. Temos sorte de ter gente assim ao nosso redor,
+constantemente escolhendo o caminho mais difícil, mas mais certo.
+
+Aperto a mão dele, sentindo gratidão renovada por essa rede de
+pessoas genuínas que continua crescendo ao nosso redor, cada uma
+contribuindo à própria maneira pra vida que construímos juntos.

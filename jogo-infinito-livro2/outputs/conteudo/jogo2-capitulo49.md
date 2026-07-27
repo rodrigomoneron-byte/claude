@@ -110,3 +110,34 @@ Desligamos pouco depois, e fico sentada, sentindo o próprio peso da
 tarde inteira se assentar, devagar, como gratidão simples por essa
 rede de pessoas dispostas a processar dor real junto, sem pressa de
 fingir que tudo já está completamente resolvido.
+
+Renata volta pouco depois, trazendo mais um documento pra revisar
+juntas.
+
+— Última peça da documentação — informa, entregando o papel. — Só
+falta sua assinatura final, confirmando que revisou tudo.
+
+Assino devagar, sentindo o próprio peso simbólico do gesto — não só
+formalidade legal, mas fechamento real de um capítulo que exigiu
+tanto de mim e de Alex ao longo dos últimos meses.
+
+---
+
+— Como você está se sentindo, vendo isso terminar oficialmente? —
+Renata pergunta, guardando o próprio documento assinado.
+
+— Estranha mistura de alívio e cansaço. Como se tivesse acabado de
+correr maratona que eu nem sabia que tinha entrado.
+
+— Essa é descrição precisa, honestamente. Vocês dois atravessaram
+muito, num período curto de tempo.
+
+— Atravessamos mesmo. E, apesar de tudo, saímos do outro lado mais
+fortes.
+
+— Isso é o que mais importa, no fim das contas.
+
+Ela se despede, e fico sozinha por um momento, sentindo o próprio
+peso do dia inteiro se assentar como gratidão simples, misturada com
+exaustão genuína, mas também esperança real sobre o que ainda está
+por vir.

@@ -102,3 +102,29 @@ Alex sorri, puxando eu pra perto.
 frequentemente, não só nos momentos grandes como hoje.
 
 — Gosto muito dessa promessa.
+
+Sento no sofá, ainda processando o próprio peso bom da noite, e Alex
+se junta a mim, os dois em silêncio confortável por um momento.
+
+— Sabe, nunca imaginei que minha própria vida profissional viraria
+palco pra tantos relacionamentos genuínos florescerem ao redor —
+comento, finalmente. — Comecei essa jornada só tentando fazer meu
+trabalho direito.
+
+---
+
+— E acabou construindo família inteira no processo — Alex completa,
+sorrindo. — Isso é raro, Cami. A maioria das pessoas passa a vida
+inteira sem encontrar isso.
+
+— Isso é verdade. E fico grata, todo santo dia, por ter encontrado
+tudo isso justamente na sua vida.
+
+— Eu que fico grato por você ter aceitado esse contrato específico,
+naquele primeiro dia tenso.
+
+— Melhor decisão profissional que já tomei, honestamente.
+
+Ele me puxa pra perto, beijando o topo da minha cabeça, e ficamos
+ali, absorvendo juntos o peso bom dessa noite repleta de amor
+genuíno se espalhando ao redor de nós dois.
