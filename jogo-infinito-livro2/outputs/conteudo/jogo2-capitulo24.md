@@ -13,6 +13,11 @@ lá.
 — Liga pra ela agora. Prefiro saber logo do que carregar isso o resto
 do dia sem saber.
 
+— Tem certeza? Podemos esperar até depois do café, se preferir
+processar isso com cabeça mais descansada.
+
+— Não. Prefiro enfrentar agora, mesmo cansado.
+
 Cami liga, colocando em viva-voz, e a voz de Renata chega carregada
 do próprio cansaço de quem trabalhou noite adentro.
 
@@ -119,3 +124,8 @@ completa dessa vez.
 nisso, mesmo cansado.
 
 — Prefiro cansaço agora a arrependimento depois.
+
+Ficamos ali sentados, em silêncio, o quarto do hotel carregando peso
+diferente agora, mais pesado do que qualquer manhã anterior dessa
+viagem inteira, cada nova pergunta respondida abrindo espaço,
+imediatamente, pra mais uma esperando atrás dela.

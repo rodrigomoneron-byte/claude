@@ -24,6 +24,13 @@ firmar.
 — Concordo. Não tenho conteúdo das ligações, só registro de que
 aconteceram. Mas a frequência, sozinha, já é dado relevante.
 
+— Existe alguma explicação inocente possível, na sua avaliação
+profissional?
+
+— Existe. Supervisão legítima, considerando o cargo dela, poderia
+justificar contato ocasional. Só a frequência específica que foge do
+padrão normal.
+
 — Vou levar isso pra Cami. Precisamos decidir como confrontar isso,
 sem alertar nenhuma das duas antes da hora certa.
 
@@ -126,6 +133,13 @@ completamente. Precisamos de energia pra continuar amanhã também.
 — Boa decisão. Vamos comer alguma coisa simples e descansar cedo.
 
 — Isso soa exatamente certo.
+
+— Sabe — comenta, já se levantando pra buscar alguma coisa na
+cozinha — vamos resolver isso também, do jeito que resolvemos tudo
+mais até agora. Um passo de cada vez, sem deixar o peso todo cair de
+uma vez só.
+
+— Aprecio você me lembrar disso, principalmente hoje.
 
 Guardo os documentos, sentindo o próprio corpo finalmente relaxar um
 pouco, grato por ter, ao lado, alguém disposta a lembrar que mesmo

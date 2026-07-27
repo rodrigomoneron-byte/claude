@@ -38,6 +38,12 @@ pela primeira vez como marido e mulher.
 
 — Isso é adorável, Alex.
 
+— Não consegui evitar. Vendo os dois assim, tão completamente
+felizes, lembrei de cada momento difícil que já atravessamos juntos
+também.
+
+— Momentos difíceis que nos trouxeram até aqui, de qualquer jeito.
+
 Rio, limpando discretamente o canto dos olhos, e aplaudimos junto com
 o resto dos convidados, sentindo o próprio peito se encher de
 felicidade genuína por testemunhar essa vitória específica, tão
@@ -135,3 +141,9 @@ Ela sorri, beijando meu rosto de leve, e voltamos pra pista de dança
 juntos, o resto da festa se desenrolando devagar ao redor, cada
 momento carregando o peso bom de uma noite genuinamente feliz, sem
 sombra nenhuma pairando por cima.
+
+Dançamos até tarde, cada música nova adicionando mais uma camada de
+leveza que sinto no peito inteiro, e quando finalmente saímos, de
+mãos dadas, o próprio céu noturno estrelado sobre nós dois, penso em
+quanto essa noite específica vai ficar guardada como lembrança boa,
+por muito tempo ainda.

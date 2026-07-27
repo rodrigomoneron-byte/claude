@@ -12,6 +12,10 @@ o rigor necessário.
 — Você que merece o crédito, Devon. Sua competência foi o que
 realmente expôs tudo isso.
 
+— Aprecio você dizer isso. Vindo de você, considerando tudo que já
+atravessamos juntos nesse último ano, significa muito mais do que
+qualquer elogio formal jamais significaria.
+
 — Trabalho em equipe, considerando quanto Cami e Renata também
 contribuíram. Mas aprecio ouvir isso, mesmo assim.
 
@@ -134,3 +138,9 @@ Ele sai, e fico ali mais um momento, sentindo o próprio peito cheio
 de gratidão renovada — não só pelas duas notícias boas do dia, mas
 por toda a rede de pessoas competentes e genuínas que escolheram
 construir essa jornada ao meu lado.
+
+Olho pela janela do escritório, pro próprio skyline de Manhattan se
+estendendo lá fora, pensando em quanto Theodore jamais poderia
+imaginar que a própria história dolorosa ajudaria, décadas depois, a
+construir empresa inteira sustentada sobre exatamente o oposto do
+próprio segredo que ele guardou por tanto tempo.

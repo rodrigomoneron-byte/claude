@@ -24,6 +24,13 @@ de incerteza sozinha.
 
 — Nunca precisaria descobrir isso sozinha. Estou aqui, sempre.
 
+— Sei disso, racionalmente. Só é diferente sentir isso de verdade,
+principalmente num dia como hoje, com tanta coisa ainda sem resposta
+clara.
+
+— Isso é justo. Racional e emocional nem sempre se movem no mesmo
+ritmo, mesmo quando os dois sabem a mesma verdade.
+
 Viro nos braços dele, o próprio corpo relaxando pela primeira vez
 desde a manhã no cemitério, e o beijo começa devagar, carregado do
 peso específico de um dia inteiro de tensão acumulada finalmente
@@ -99,3 +106,8 @@ Guardo o celular, decidindo não acordar Alex ainda, e deito de volta,
 encostando perto do corpo quente dele, tentando roubar mais algumas
 horas de paz antes que o dia seguinte exija, de novo, toda a
 vigilância que ainda parece longe de terminar completamente.
+
+Fico ali, ouvindo a própria respiração dele, tentando fixar esse
+momento simples na memória antes que qualquer nova descoberta exija
+atenção — prova pequena, mas real, de que mesmo em meio a tanta
+incerteza, ainda existe espaço genuíno pra paz, mesmo que breve.
