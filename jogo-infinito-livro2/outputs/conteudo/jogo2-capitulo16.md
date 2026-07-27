@@ -4,6 +4,10 @@
 Marcus me procura de manhã, o próprio rosto carregando urgência que
 reconheço imediatamente como notícia relevante.
 
+Largo o próprio café ainda quente na mesa, reconhecendo de imediato
+que qualquer notícia que exija essa expressão específica não vai ser
+pequena.
+
 — Recebi contato de um repórter financeiro — anuncia, sem preâmbulo.
 — Perguntando sobre "rumor" de que a Voss Capital estaria formando
 parceria com herdeira "desconhecida" da própria família fundadora.
@@ -145,3 +149,7 @@ Ela volta pouco depois, entregando minha própria xícara, e sento ali
 com ela em silêncio confortável, deixando o peso da semana finalmente
 começar a ceder espaço pro descanso que os dois precisamos antes de
 enfrentar mais um dia de verificação.
+
+Terminamos o chá em silêncio, e quando finalmente vamos pra cama,
+sinto que consigo, apesar de tudo, desligar a mente o suficiente pra
+dormir sem revisar cada detalhe mais uma vez.

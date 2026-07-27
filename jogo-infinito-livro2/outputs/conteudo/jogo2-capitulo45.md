@@ -4,6 +4,10 @@
 Elena me liga enquanto Alex ainda está com Alexandra, a própria voz
 carregando mistura de tristeza e raiva que reconheço como genuína.
 
+Reconheço o próprio tom antes mesmo de ela dizer qualquer palavra
+completa, e sinto o peito apertar, antecipando a dor que já sei que
+vem a seguir.
+
 — Não consigo acreditar que ela mentiu pra esse ponto — desabafa,
 assim que atendo. — Gostava genuinamente dela, Cami. Achei que
 tínhamos amizade real.
@@ -148,6 +152,9 @@ Ficamos ali mais um tempo, o apartamento silencioso ao redor,
 absorvendo juntos o peso de um dia que exigiu tanto de nós dois, e
 sinto, apesar de tudo, certeza tranquila de que vamos atravessar
 também essa etapa final, do jeito que sempre atravessamos.
+
+Apago as luzes da sala aos poucos, deixando só o abajur do quarto
+aceso, e me deito ao lado dele, puxando o cobertor sobre os dois.
 
 Alex adormece primeiro, a própria respiração desacelerando contra
 meu ombro, e fico ali mais um tempo, acordada, sentindo gratidão

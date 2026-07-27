@@ -5,6 +5,9 @@ Denise revisa o padrão de acesso de Patricia com o próprio rigor
 técnico de sempre, apresentando os resultados numa reunião reservada
 na minha sala.
 
+Sento diante da própria mesa, esperando a análise completa, sentindo
+o corpo tenso mesmo antes de qualquer palavra ser dita.
+
 — Tecnicamente, não há nada irregular — informa. — Ela tem
 autorização completa pra acessar tudo que está acessando. Velocidade
 de acesso não é, sozinha, evidência de má-fé.
@@ -154,3 +157,7 @@ Ele sai, finalmente, e sigo pro carro, o próprio peso da tarde
 inteira ainda pesando nos ombros, sentindo, apesar de tudo, que
 amanhã vai exigir clareza que hoje ainda não consigo reunir
 completamente.
+
+O trânsito de volta pra casa segue lento, e aproveito o próprio
+silêncio do carro pra respirar fundo, tentando organizar mentalmente
+o que ainda preciso dizer pra Cami assim que chegar.

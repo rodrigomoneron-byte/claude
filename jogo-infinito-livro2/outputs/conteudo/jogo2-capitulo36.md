@@ -6,6 +6,10 @@ Elena, num gesto que reconheço como tentativa deliberada de reunir a
 própria família crescente em ambiente informal, longe de qualquer
 tensão corporativa.
 
+Sentamos à mesa já posta com cuidado evidente, e observo Cami relaxar
+os ombros pela primeira vez em dias, o próprio corpo respondendo ao
+ambiente leve antes mesmo de qualquer palavra ser trocada.
+
 — Vocês parecem mais leves hoje — Naomi observa, servindo vinho pra
 todos. — Faz tempo que não vejo os dois assim.
 
@@ -133,3 +137,7 @@ soube, antes dela, que era possível construir.
 Fecho os olhos de novo, deixando o próprio sono voltar devagar,
 grato, mais uma vez, por essa noite simples que carregou tanto peso
 bom, sem exigir nada além de presença genuína.
+
+Pela manhã, ainda deitados, comentamos sobre marcar outro jantar em
+breve, os dois concordando que noites assim merecem virar hábito, não
+exceção rara.

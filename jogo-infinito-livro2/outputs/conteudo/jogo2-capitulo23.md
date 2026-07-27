@@ -6,6 +6,9 @@ carregando peso diferente do resto do dia — não mais só cautela
 profissional, também exaustão emocional acumulada de horas processando
 verdade parcial atrás de verdade parcial.
 
+Largo a própria bolsa na poltrona ao lado da porta, sentindo o corpo
+inteiro pesar de exaustão acumulada.
+
 — Preciso de uma pausa — admito, tirando os sapatos assim que a porta
 do quarto fecha. — Só por essa noite. Amanhã voltamos a verificar
 tudo com cabeça fresca.
@@ -120,3 +123,7 @@ incerteza, ainda existe espaço genuíno pra paz, mesmo que breve.
 Adormeço de novo, devagar, o próprio corpo cansado finalmente cedendo
 espaço pro sono, e o último pensamento que carrego é gratidão simples
 por essa noite que conseguiu ser, apesar de tudo, genuinamente boa.
+
+A chuva continua caindo lá fora, baixinho, quando finalmente perco a
+consciência de vez, o som constante embalando o sono dos dois até a
+manhã seguinte.
