@@ -112,3 +112,34 @@ tenha sido ela.
 
 Desligo, sentindo gratidão por ter, na própria família, gente disposta
 a oferecer perspectiva honesta mesmo em meio a tanta dor recente.
+
+Fico parado no próprio escritório por mais um tempo, olhando pro
+skyline através da janela, tentando organizar mentalmente cada
+palavra que ainda preciso dizer pra Alexandra na conversa final que
+ainda vou ter com ela.
+
+Marcus bate na porta, entrando devagar.
+
+---
+
+— Sei que hoje vai ser difícil — comenta, sentando na cadeira diante
+da minha mesa. — Só queria dizer que estou aqui, se precisar de
+qualquer coisa antes ou depois.
+
+— Aprecio isso, Marcus. De verdade.
+
+— Você fez tudo certo nessa situação inteira, sabe. Verificou com
+rigor, deu chance justa, e agora está encerrando com dignidade, não
+com raiva pura.
+
+— Espero que sim. Ainda sinto que podia ter feito diferente, em
+algum ponto.
+
+— Todo mundo sente isso, olhando pra trás. Mas você navegou isso
+melhor do que qualquer um teria conseguido, considerando quanto
+estava em jogo emocionalmente.
+
+Ele se levanta, apertando meu ombro antes de sair, e fico sozinho de
+novo, sentindo o próprio peso da conversa que ainda me espera, mas
+também gratidão genuína por ter, ao redor, tanta gente disposta a
+apoiar mesmo nos momentos mais difíceis.

@@ -93,3 +93,29 @@ e ainda assim, sinto, junto com Cami, a mesma pergunta silenciosa
 pairando entre nós dois: quantas outras coisas pequenas, sentimentais
 demais pra mencionar, ainda esperam pra serem descobertas por conta
 própria?
+
+— Vou pedir formalmente pra você compartilhar qualquer propriedade
+ou ativo pessoal, mesmo os sentimentais — falo, sentindo necessidade
+de fechar essa lacuna de vez. — Prefiro excesso de informação a
+qualquer surpresa nova.
+
+— Entendo completamente. Vou preparar lista detalhada ainda hoje.
+
+---
+
+Desligamos pouco depois, e Cami fica em silêncio por um momento,
+processando.
+
+— O que você acha? — pergunto, precisando da própria leitura dela.
+
+— Acho que a explicação bate com tudo que já verificamos sobre a
+própria avó dela. Mas continuo achando estranho que ela mesma nunca
+tenha oferecido esse tipo de transparência proativamente.
+
+— Concordo. Vamos ver se a lista que ela prometer realmente vem
+completa dessa vez.
+
+— Vamos. E, Alex — ela aperta minha mão — obrigada por insistir
+nisso, mesmo cansado.
+
+— Prefiro cansaço agora a arrependimento depois.

@@ -110,3 +110,27 @@ momento.
 Desligo, sentindo o próprio peito se encher de gratidão simples por
 essa vida que construímos, devagar, ao redor de gente genuína
 disposta a crescer junto, não só lucrar da própria proximidade.
+
+Devon reaparece na porta, o próprio laptop ainda na mão.
+
+— Uma última coisa, antes de eu ir — comenta. — Obrigado por
+confiar em mim desde o início, mesmo quando eu ainda era só o
+"chefe de dados" que ninguém conhecia direito.
+
+— Você provou seu valor rápido demais pra continuar sendo
+desconhecido, Devon.
+
+---
+
+— Ainda assim, significa muito. Poucos líderes dão esse tipo de
+espaço genuíno pra alguém crescer no próprio ritmo.
+
+— Você merece esse espaço, e muito mais. Continue trazendo o mesmo
+rigor de sempre, e essa empresa só vai continuar melhorando.
+
+— Prometo continuar.
+
+Ele sai, e fico ali mais um momento, sentindo o próprio peito cheio
+de gratidão renovada — não só pelas duas notícias boas do dia, mas
+por toda a rede de pessoas competentes e genuínas que escolheram
+construir essa jornada ao meu lado.

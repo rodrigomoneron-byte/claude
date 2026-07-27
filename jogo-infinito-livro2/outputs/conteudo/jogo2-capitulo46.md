@@ -106,3 +106,31 @@ eu sozinho por um momento, sentindo o peso completo dessa jornada
 inteira — desde a chegada de Alexandra até essa resolução final com
 Patricia — se assentar como capítulo genuinamente encerrado, pronto
 pra dar espaço ao que ainda vem pela frente.
+
+Devon aparece na porta pouco depois, o próprio rosto carregando
+satisfação contida.
+
+— Soube da decisão sobre Patricia — comenta, entrando. — Acho que
+foi exatamente a medida certa. Nem punição vazia, nem perdão fácil
+demais.
+
+— Aprecio ouvir isso, vindo de você especificamente, considerando
+quanto trabalho você colocou pra chegar até essa verdade.
+
+---
+
+— Faz parte do trabalho, Alex. Mas confesso que também senti alívio
+pessoal, vendo o processo terminar de forma justa, não vingativa.
+
+— Isso importava pra mim também. Já vi demais o que vingança
+disfarçada de justiça pode fazer com relação que ainda vale alguma
+coisa.
+
+— Isso é sabedoria rara, considerando quanto ela te machucou.
+
+— Aprendi com exemplos bons ao redor, incluindo você.
+
+Ele sorri, saindo finalmente, e fico sozinho de novo, sentindo o
+próprio peso da tarde se assentar como algo raramente sentido nos
+últimos meses: paz genuína, não ausência de desafio, mas confiança
+real de tê-lo atravessado com integridade intacta.

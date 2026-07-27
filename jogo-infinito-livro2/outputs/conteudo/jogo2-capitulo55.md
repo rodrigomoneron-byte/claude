@@ -89,3 +89,17 @@ Ele se mexe ao meu lado, ainda dormindo, e puxa eu de volta pra
 perto sem acordar completamente, e fico ali, quieta, absorvendo o
 peso bom desse momento simples antes que o dia inteiro, com toda a
 expectativa boa que ele carrega, finalmente comece.
+
+O sol começa a nascer devagar, luz fraca entrando pela cortina
+entreaberta, e observo o próprio quarto ganhar contorno aos poucos —
+as mesmas paredes de sempre, agora carregando peso diferente, mais
+leve, depois de tanto tempo carregando tensão constante.
+
+Penso em quanto essa manhã específica representa — não só vitória
+profissional, mas prova viva de que reconstrução genuína, feita
+devagar e com cuidado real, sempre rende fruto mais sólido do que
+qualquer atalho arriscado jamais conseguiria produzir.
+
+Alex murmura alguma coisa ininteligível, ainda dormindo, e sorrio,
+sentindo gratidão silenciosa por essa manhã específica, antes que
+qualquer nova complicação decida exigir atenção outra vez.
