@@ -73,3 +73,40 @@ uma camada se somar ao quebra-cabeça inteiro — não só Alexandra, mas
 agora Patricia também, carregando motivação que ainda não consigo
 nomear completamente, mas que já reconheço como relevante demais pra
 ignorar.
+
+Marcus entra pouco depois, encontrando eu ainda processando a própria
+conversa com Patricia.
+
+— Você parece preocupado — comenta, sentando na cadeira diante da
+minha mesa.
+
+— Estou. Patricia defendeu Alexandra com intensidade que nunca vi
+antes. Alguma coisa ali não bateu com preocupação corporativa normal.
+
+— Quer que eu verifique alguma coisa específica?
+
+---
+
+— Pede pro Devon cruzar qualquer contato recente entre elas duas com
+o cronograma da nossa própria investigação. Quero saber se existe
+padrão temporal que explique essa defesa repentina.
+
+— Vou providenciar ainda hoje.
+
+Ele se levanta pra sair, mas para antes de atravessar a porta.
+
+— Alex, sei que isso está sendo pesado. Descobrir que talvez precise
+desconfiar até de gente que sempre pareceu leal.
+
+— É pesado mesmo. Mas prefiro isso a continuar ingênuo sobre alguma
+coisa que pode importar de verdade.
+
+— Isso é crescimento real, considerando de onde você partiu ano
+passado.
+
+— Aprendi com bons exemplos ao redor, você incluído.
+
+Ele sorri, saindo finalmente, e fico sozinho, sentindo o próprio peso
+da tarde inteira se acumular, cada nova suspeita exigindo energia que
+já começo a sentir escassear, mesmo sabendo que ainda preciso
+continuar até o fundo.

@@ -74,3 +74,35 @@ diferente.
 
 — Eu também queria. Mas prefiro verdade dolorosa a mentira confortável,
 sempre. Você me ensinou isso.
+
+Fico em silêncio por um momento, sentindo o próprio peso da revelação
+ainda se assentando, cada implicação exigindo processamento cuidadoso
+antes de qualquer próximo passo.
+
+— Preciso de um minuto — admito, finalmente, encostando na própria
+cadeira. — Só um minuto pra sentir isso completamente, antes de
+voltar a pensar em próximo passo estratégico.
+
+— Leva o tempo que precisar. Estou aqui.
+
+---
+
+Cami segura minha mão em silêncio, sem pressa nenhuma, e sinto,
+apesar de todo o peso da própria descoberta, gratidão profunda por
+ter, ao lado, alguém disposta a simplesmente existir comigo nesse
+momento difícil, sem tentar consertar nada rápido demais.
+
+— Sabe o que mais dói nisso tudo? — comento, depois de um tempo. —
+Não é só a mentira em si. É perceber que, mesmo com toda a
+verificação que fizemos, ela ainda encontrou jeito de esconder algo
+tão grave.
+
+— Isso não significa que a verificação foi inútil, Alex. Significa
+que descobrimos, eventualmente, mesmo que tenha levado tempo.
+Descobrir tarde ainda é melhor que nunca descobrir.
+
+— Isso é verdade. Só gostaria que tivéssemos descoberto antes de
+sentir tanta esperança genuína primeiro.
+
+— Eu sei. Mas essa esperança não foi erro seu, Alex. Foi generosidade
+real, direcionada a alguém que não mereceu ela completamente.

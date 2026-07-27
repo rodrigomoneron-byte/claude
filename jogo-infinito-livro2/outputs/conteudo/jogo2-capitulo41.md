@@ -68,3 +68,38 @@ completo da própria confissão, e sei, com certeza absoluta, que essa
 reunião específica vai marcar virada definitiva — não só na relação
 com Alexandra, mas na própria estrutura de confiança que sustenta
 toda a empresa que Alex passou anos construindo.
+
+— O que você propõe que aconteça agora? — David pergunta, quebrando
+finalmente o próprio silêncio pesado.
+
+— Proponho renunciar formalmente ao próprio cargo, com efeito
+imediato — Patricia responde, sem hesitar. — E me colocar à
+disposição de qualquer investigação que resultar disso, sem resistir
+nem minimizar o próprio papel.
+
+— Isso é passo importante — Sandra comenta, ainda visivelmente
+abalada. — Mas não desfaz o dano já causado.
+
+---
+
+— Sei que não desfaz — Patricia confirma, a voz mantendo o próprio
+controle mesmo em meio à confissão. — Só é o que posso oferecer
+agora, além de desculpa que sei que não é suficiente.
+
+Observo Alex processar tudo em silêncio, o rosto carregando mistura
+complexa de raiva, mágoa e algo que reconheço como tristeza genuína
+— não pela própria empresa, mas pela relação pessoal que essa
+traição acabou de destruir completamente.
+
+— Vou levar sua proposta ao restante do conselho pra decisão formal
+— ele diz, finalmente, a voz controlada apesar de tudo. — Mas
+preciso que você saiba, antes de mais nada, o quanto isso me machucou
+pessoalmente, além de qualquer prejuízo profissional.
+
+— Eu sei, Alex. E sinto muito, genuinamente, mesmo sabendo que isso
+não muda nada do que já fiz.
+
+A sala permanece em silêncio pesado, cada pessoa presente absorvendo
+o peso completo de uma manhã que começou como reunião de rotina e
+terminou revelando traição que nenhum de nós viu chegando com essa
+proporção.

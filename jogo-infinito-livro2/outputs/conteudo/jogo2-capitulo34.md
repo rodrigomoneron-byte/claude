@@ -74,3 +74,35 @@ conversa se acumular — gratidão renovada por ter, ao lado, alguém
 disposta a questionar até as lealdades mais antigas, quando a
 situação exige rigor completo, mesmo quando isso dói mais do que
 qualquer descoberta sobre estranho desconhecido jamais doeria.
+
+Fico sozinho no escritório por mais um tempo, repassando mentalmente
+cada interação recente com Patricia, tentando encontrar qualquer
+sinal que devia ter notado antes. Nada específico surge — só a
+mesma rigidez profissional de sempre, agora carregando peso novo,
+sinistro, que não existia antes dessa descoberta.
+
+Ligo pra Marcus, precisando de mais uma perspectiva antes de decidir
+qualquer próximo passo.
+
+---
+
+— Devon encontrou quatro ligações entre Patricia e Alexandra — conto,
+resumindo a própria descoberta.
+
+— Isso é sério, Alex. Quer que eu comece a documentar formalmente,
+caso precisemos apresentar isso ao resto do conselho depois?
+
+— Ainda não. Prefiro ter certeza completa antes de qualquer
+acusação formal. Só continua de olho, discretamente.
+
+— Vou continuar. E, Alex — ele hesita — sinto muito que você
+precise passar por isso, logo depois de tudo que já atravessou com
+Alexandra.
+
+— Aprecio isso, Marcus. Só preciso continuar até o fundo, mesmo
+quando dói mais do que eu esperava.
+
+Desligo, sentindo o próprio peso da noite se acumular, cada camada
+nova de suspeita exigindo energia que já sinto escassear, mas que
+recuso deixar esgotar completamente antes de chegar à verdade
+inteira.

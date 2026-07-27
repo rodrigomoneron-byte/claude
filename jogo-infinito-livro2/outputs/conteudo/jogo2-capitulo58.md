@@ -77,3 +77,35 @@ Beijo o topo da cabeça dela, sentindo o próprio coração cheio,
 grato por essa vida que construímos juntos — não perfeita, não sem
 cicatriz nenhuma, mas real, sólida, construída sobre verdade completa
 repetidas vezes escolhida, mesmo quando doeu.
+
+Marcus se aproxima pouco depois, já sem a própria gravata, o colarinho
+aberto, o sorriso ainda largo o suficiente pra contar a própria noite
+inteira.
+
+— Obrigado por estarem aqui — comenta, abraçando os dois ao mesmo
+tempo. — Vocês dois são parte importante demais dessa história pra
+não estarem presentes hoje.
+
+— Não perderíamos por nada — respondo, sentindo o próprio peito se
+aquecer com a confissão dele.
+
+---
+
+— Sabe o que eu penso, olhando pra vocês dois dançando? — Naomi
+comenta, se juntando a nós. — Que talvez seja assim que relação real
+deveria sempre parecer — não perfeita, mas genuína o suficiente pra
+sobreviver qualquer tempestade.
+
+— Isso é observação bonita, Naomi. E verdadeira, considerando tudo
+que já atravessamos.
+
+— Aprendi observando vocês dois, honestamente. Antes de conhecer
+Marcus, não sabia se relação assim era realmente possível, ou só
+história bonita demais pra ser real.
+
+— É possível. Exige esforço real, mas é possível.
+
+Ela sorri, voltando pra dançar com o próprio marido recém-casado, e
+fico observando os dois, sentindo gratidão profunda por testemunhar
+tanta felicidade genuína crescendo ao redor, depois de tanta
+dificuldade atravessada junto.
