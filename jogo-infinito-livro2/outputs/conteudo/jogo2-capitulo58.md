@@ -6,6 +6,9 @@ cidade, cerimônia simples o suficiente pra carregar intimidade real
 em vez de qualquer espetáculo corporativo que alguém poderia esperar,
 considerando quem estava presente.
 
+Ajeito a própria lapela, observando Marcus se olhar no espelho mais
+uma vez, o próprio nervosismo evidente em cada gesto pequeno.
+
 — Você está nervoso? — pergunto, ajustando a própria gravata dele
 antes da cerimônia começar.
 
@@ -157,3 +160,7 @@ No carro de volta pra casa, Cami encosta a cabeça no meu ombro,
 exausta mas feliz, e sinto, dirigindo devagar pela cidade
 adormecida, gratidão profunda por essa vida inteira que construímos,
 juntos, ao redor de tanta gente genuína.
+
+Chegamos em casa já de madrugada, e subimos direto pro quarto, ainda
+com os sapatos de festa na mão, rindo baixinho pra não acordar os
+vizinhos.

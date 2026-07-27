@@ -5,6 +5,9 @@ Voltamos a Nova York carregando a lista de Alexandra como pequena
 vitória, e passo a primeira manhã de volta revisando cada item com
 Devon, cruzando informação nova contra o que já sabíamos.
 
+Reviso os próprios itens junto com ele, cruzando cada nome contra o
+que já tínhamos documentado antes.
+
 — Nada aqui contradiz o que já tínhamos — Devon confirma, depois de
 horas de verificação. — Só preenche lacuna que já suspeitávamos que
 existia. Isso é bom sinal, Alex.
@@ -158,3 +161,7 @@ Retomo o próprio documento devagar, cada linha exigindo mais foco do
 que o normal, e sinto, apesar de tudo, determinação renovada de
 terminar antes do fim do dia, sem deixar a própria dúvida atrasar o
 trabalho que ainda precisa ser feito.
+
+Termino o relatório já quase de noite, salvando o próprio arquivo com
+alívio simples de ter conseguido concluir apesar de tudo mais que
+pesou sobre o dia inteiro.

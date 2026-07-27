@@ -5,6 +5,9 @@ Dan liga de manhã, a voz carregando seriedade profissional que
 reconheço como diferente de qualquer conversa anterior sobre esse
 assunto.
 
+Atendo já sentada à própria mesa, o café esquecido esfriando ao lado,
+esperando o resultado da análise dele.
+
 — Documento fraudado usado pra sustentar reivindicação, mesmo
 informal, de herança pode configurar crime real, dependendo da
 intenção comprovada — explica, depois de ouvir o resumo completo. —
@@ -150,3 +153,7 @@ absorvendo o próprio conforto da voz dele antes de finalmente
 desligar e seguir pra casa, sentindo, apesar de tudo, gratidão
 silenciosa por não precisar processar esse dia inteiro completamente
 sozinha.
+
+Ligo o carro, seguindo devagar pelo próprio trânsito da noite, e
+chego em casa poucos minutos depois, pronta pra finalmente descansar
+o corpo cansado ao lado dele.

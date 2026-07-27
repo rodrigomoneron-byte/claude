@@ -4,6 +4,9 @@
 Um pacote pequeno chega no escritório, sem remetente formal, e
 reconheço a letra na etiqueta antes mesmo de abrir — Alexandra.
 
+Abro o pacote devagar, na própria mesa do escritório, sentindo o
+coração acelerar antes mesmo de ver o conteúdo completo.
+
 Dentro, encontro o próprio anel de sinete da família Voss, o mesmo
 que ela usava como prova de pertencimento, junto com um bilhete curto
 escrito à mão.
@@ -148,3 +151,7 @@ Viramos juntos, saindo do escritório de mãos dadas, deixando a caixa
 e tudo que ela carrega guardado por enquanto, prontos pra continuar
 o resto da noite sem deixar esse peso específico dominar tudo mais
 que ainda é bom.
+
+Apagamos a luz do escritório juntos, seguindo pra cozinha preparar
+alguma coisa simples, e sinto, apesar de tudo, que essa noite ainda
+guarda espaço real pra normalidade boa.

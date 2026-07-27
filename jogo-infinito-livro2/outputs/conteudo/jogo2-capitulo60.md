@@ -11,6 +11,9 @@ completa sobre Sebastian Kroll.
 
 — E então?
 
+Endireito a própria postura no sofá, sentindo o corpo inteiro se
+preparar pra qualquer notícia que ainda venha a seguir.
+
 Fico segurando o próprio celular com mais firmeza, esperando a
 resposta com o mesmo instinto alerta que já aprendi a reconhecer
 como segunda natureza.
@@ -71,7 +74,9 @@ antes da reunião.
 — Concordo. Prefiro entrar preparado, depois de tudo que já
 aprendemos.
 
-Ela sorri, apesar da própria seriedade do assunto.
+Ela sorri, apesar da própria seriedade do assunto, e sinto o próprio
+corpo relaxar um pouco, reconhecendo, mais uma vez, que qualquer
+desafio novo parece menor quando enfrentado ao lado dela.
 
 ---
 
