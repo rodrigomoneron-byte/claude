@@ -5,6 +5,9 @@ Cami me chama pra conversa séria na sexta-feira à noite, o próprio
 rosto carregando peso que reconheço imediatamente como notícia grave,
 não mais uma dúvida pequena entre tantas outras.
 
+Sento ao lado dela devagar, sentindo o próprio corpo já tenso,
+reconhecendo pela expressão dela que a conversa não vai ser leve.
+
 — Precisamos conversar sobre uma coisa que descobri essa semana —
 começa, sentando ao meu lado no sofá. — Esperei confirmação antes de
 te contar, pra não te dar suspeita sem prova sólida.
@@ -141,3 +144,7 @@ A noite avança devagar ao nosso redor, o apartamento silencioso, e
 fico ali, sentindo o próprio peso de tudo que ainda preciso decidir
 começar a se assentar, camada por camada, antes que o amanhã exija
 resposta que ainda não sei se consigo oferecer.
+
+Cami continua ao meu lado, a mão ainda entrelaçada na minha, e nos
+dois em silêncio, deixamos a noite inteira passar devagar, sem pressa
+de resolver nada além do próprio momento presente.

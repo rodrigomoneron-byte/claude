@@ -5,6 +5,10 @@ Dan me liga numa tarde tranquila, a voz carregando o próprio tom
 casual que já reconheço como amizade genuína, não mais tensão
 processual antiga.
 
+Atendo, reconhecendo o próprio número na tela antes mesmo de ele
+falar, e já sorrio antecipando conversa leve, sem peso legal
+nenhum.
+
 — Só queria saber como vocês estão, depois de tudo — comenta, sem
 formalidade nenhuma. — Faz um tempo que não conversamos sem ser
 sobre documento fraudado ou consequência legal.
@@ -153,3 +157,7 @@ O sol começa a baixar lá fora, luz dourada entrando pela janela da
 sala, e fico ali, quieta, absorvendo mais essa tarde simples que
 carrega, silenciosamente, todo o peso bom dessa vida reconstruída
 juntos.
+
+Alex se levanta pra acender as luzes aos poucos, e observo ele se
+mover pela própria sala com a mesma tranquilidade que sinto tomar
+conta de mim também.

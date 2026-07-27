@@ -5,6 +5,9 @@ Renata liga diretamente pra mim numa quarta-feira de manhã, a voz
 carregando descoberta que sinto pesar antes mesmo dela explicar
 completamente.
 
+Aperto o celular com mais força do que pretendia, sentindo o próprio
+corpo se preparar pra ouvir qualquer coisa que ela ainda vá dizer.
+
 — Encontrei a explicação pra data de nascimento — anuncia. — O
 cartório original de Londres sofreu incêndio parcial nos anos
 oitenta. Muitos registros antigos foram reconstruídos a partir de
@@ -141,3 +144,7 @@ Ficamos ali mais um tempo, o apartamento silencioso ao redor, e sinto,
 mais uma vez, gratidão profunda por essa vida que os dois construíram
 juntos, uma decisão cuidadosa de cada vez, mesmo em meio a tanta
 incerteza que ainda pode aparecer pela frente.
+
+Apago as luzes da sala antes de seguirmos pro quarto, e sinto, no
+próprio caminho até a cama, leveza genuína que não sentia há
+semanas.

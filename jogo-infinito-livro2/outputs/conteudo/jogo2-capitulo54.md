@@ -6,6 +6,9 @@ Alexandra, fecha com resultado melhor do que qualquer projeção
 original previa, e apresento os números pro conselho completo numa
 manhã carregada de satisfação genuína.
 
+Sinto o próprio nervosismo de apresentação ceder espaço, aos poucos,
+pra confiança tranquila que só resultado real consegue trazer.
+
 — Crescimento de doze por cento acima do esperado — informo,
 concluindo a apresentação. — Sem parceiro externo, só execução
 sólida da própria equipe interna.
@@ -152,3 +155,7 @@ Ficamos ali mais esse último minuto, em silêncio, e sinto, apesar de
 tudo que ainda pode vir pela frente, gratidão profunda por essa vista
 específica continuar testemunhando cada nova etapa boa dessa jornada
 inteira.
+
+Saímos finalmente, de mãos dadas rumo ao elevador, e sinto, apertando
+a mão dela, que essa noite específica vai ficar guardada como uma das
+boas, entre tantas outras que os dois já acumulamos juntos.

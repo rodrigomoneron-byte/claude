@@ -4,6 +4,9 @@
 Devon me procura de manhã, o próprio rosto carregando expressão que
 já reconheço como orgulho contido, diferente da seriedade habitual.
 
+Aceno pra ele sentar, curioso com a própria expressão diferente que
+carrega hoje.
+
 — Queria agradecer pessoalmente — comenta, sentando na minha sala. —
 Por confiar no meu trabalho durante toda essa investigação. Sem a
 autonomia que você garantiu, nunca teria conseguido rastrear tudo com
@@ -154,3 +157,7 @@ Fico ali mais um tempo, o próprio peso do dia se transformando,
 devagar, em gratidão simples, e decido guardar os documentos, pronto
 finalmente pra voltar pra casa e compartilhar esse dia bom com Cami
 pessoalmente.
+
+Chamo o elevador, ainda sorrindo sozinho, e desço até a garagem,
+sentindo que essa notícia dupla merece ser contada com calma, olho no
+olho, assim que eu chegar em casa.
