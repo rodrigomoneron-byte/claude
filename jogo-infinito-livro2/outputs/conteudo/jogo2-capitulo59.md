@@ -35,6 +35,9 @@ café.
 
 — Isso é bom sinal. Você merece esse tipo de descanso.
 
+— Você também merece, sabia? Vejo você trabalhando duro em tudo,
+sempre.
+
 — Dormi ótimo. Sonhei com você, na verdade.
 
 — Isso é adorável ou preocupante, dependendo do sonho?
@@ -132,3 +135,9 @@ Fecho os olhos por um instante, deixando o próprio sol da tarde
 aquecer meu rosto através da janela, sentindo, mais uma vez, gratidão
 profunda por essa paz simples que já não tomo mais como garantida,
 depois de tudo que já atravessamos pra chegar até aqui.
+
+Alex passa os dedos pelo meu cabelo, devagar, o próprio silêncio
+carregando conforto que nenhuma palavra sozinha conseguiria expressar
+completamente, e ficamos ali, os dois, absorvendo mais um domingo que
+carrega, silenciosamente, todo o peso bom dessa vida construída
+juntos.

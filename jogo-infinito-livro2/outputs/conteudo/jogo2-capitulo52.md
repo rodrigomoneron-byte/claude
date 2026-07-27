@@ -13,6 +13,11 @@ votação. — Reconstrução completa, sem nenhuma peça pendente.
 respondo, sentindo o próprio peso da reunião se assentar como
 progresso real.
 
+Thomas assente, reconhecendo o próprio peso da própria posição nova,
+e sinto, observando o resto do conselho, gratidão silenciosa por
+essa equipe que escolheu permanecer, mesmo em meio a tanta
+turbulência recente.
+
 ---
 
 Depois da reunião, Sandra Whitmore me alcança no corredor, o próprio
@@ -138,3 +143,8 @@ Fico ali mais um tempo, olhando pro skyline através da janela,
 deixando a frase de Marcus se assentar completamente — jogo infinito,
 de fato, mas jogo que finalmente aprendi a jogar sem perder, nunca
 mais, quem realmente sou no processo.
+
+Guardo o próprio celular, decidindo voltar ao trabalho por enquanto,
+e sinto, apesar de tudo, confiança renovada em minha própria
+capacidade de navegar o que quer que ainda esteja por vir, com Cami
+ao lado, do jeito que sempre esteve.

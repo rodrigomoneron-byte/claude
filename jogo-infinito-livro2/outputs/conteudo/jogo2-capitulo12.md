@@ -16,6 +16,11 @@ formal novo.
 
 — Já está rodando. Primeira checagem sai sexta-feira.
 
+— Perfeito. Aprecio a agilidade, Devon.
+
+— Sempre. Prefiro estar preparado demais do que reagir tarde demais,
+considerando tudo que já vimos até agora.
+
 Assinto, sentindo gratidão renovada por ter, ao redor, gente disposta
 a levar cautela tão a sério quanto eu mesmo levo, mesmo quando a
 própria vontade de acreditar continua puxando pro lado oposto.
@@ -132,4 +137,10 @@ de um tempo. — Nunca fui a Londres.
 tempo real só pra nós dois lá.
 
 — Gosto muito dessa promessa.
+
+Terminamos o jantar conversando sobre planos de viagem, leveza real
+substituindo, aos poucos, o peso da própria semana, e sinto, mais uma
+vez, gratidão profunda por ter, ao lado, alguém capaz de segurar
+tanto rigor profissional quanto esperança genuína ao mesmo tempo, sem
+deixar nenhuma das duas coisas sufocar a outra.
 

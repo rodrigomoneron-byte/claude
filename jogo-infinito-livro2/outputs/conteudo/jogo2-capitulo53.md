@@ -48,6 +48,9 @@ dois pra inauguração, mês que vem.
 — Vamos com certeza. Como você está, depois de tudo com a
 Alexandra?
 
+— Melhorando, aos poucos. A nova exposição está ajudando bastante,
+honestamente.
+
 — Melhor. Ainda dói um pouco, pensando na amizade que achei que
 tínhamos. Mas estou processando, devagar.
 
@@ -140,3 +143,9 @@ leais que se formou, aos poucos, ao redor de tudo que Alex e eu
 construímos juntos — prova viva de que confiança bem investida sempre
 rende retorno real, mesmo quando o caminho até lá exige tanta
 paciência.
+
+Guardo o relatório sobre Sebastian Kroll na própria pasta, decidindo
+revisar ele mais uma vez antes do fim do dia, e sinto, apesar de
+tudo, a mesma determinação tranquila de sempre: seguir verificando,
+com o mesmo rigor de sempre, sem deixar nenhuma pressa comprometer a
+própria clareza necessária.
