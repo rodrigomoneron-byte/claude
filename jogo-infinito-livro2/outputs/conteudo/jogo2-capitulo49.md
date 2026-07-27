@@ -78,3 +78,35 @@ atende. — Formalmente livres de qualquer obrigação com Alexandra.
 Desligo, sentindo o próprio peito se encher de gratidão silenciosa
 por essa jornada inteira, mesmo com todo o custo que ela exigiu pelo
 caminho.
+
+Elena me liga poucos minutos depois, a voz carregando alívio próprio.
+
+— Soube que a documentação foi finalizada — comenta. — Como você
+está se sentindo?
+
+— Aliviada. E um pouco triste ainda, honestamente. Mesmo sabendo que
+era necessário, encerrar completamente dói, de um jeito estranho.
+
+— Isso é normal, Cami. Perder alguém que achávamos que conhecíamos
+sempre dói, mesmo quando a perda é justificada.
+
+---
+
+— Como você está processando tudo isso, considerando a própria
+amizade que tinha com ela?
+
+— Melhor a cada semana. Ainda sinto falta da versão dela que eu
+achava real. Mas aprendi a separar isso da raiva que sinto pela
+mentira em si.
+
+— Isso é maturidade real, Elena.
+
+— Aprendi observando vocês dois atravessarem coisa parecida, de um
+jeito ou de outro, repetidas vezes. Vocês fazem parecer possível.
+
+— Isso significa muito ouvir.
+
+Desligamos pouco depois, e fico sentada, sentindo o próprio peso da
+tarde inteira se assentar, devagar, como gratidão simples por essa
+rede de pessoas dispostas a processar dor real junto, sem pressa de
+fingir que tudo já está completamente resolvido.

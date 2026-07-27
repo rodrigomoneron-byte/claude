@@ -64,3 +64,34 @@ sem perder, nem uma vez, a própria integridade que mais importa.
 — Vamos comemorar hoje à noite? — pergunto, virando pra encará-la.
 
 — Sempre. Cada vitória real merece comemoração.
+
+Marcus liga antes de sairmos, a voz carregando o próprio entusiasmo
+contagiante de sempre.
+
+— Soube dos números! Isso é enorme, Alex.
+
+— Foi trabalho de equipe inteira, principalmente sua parte com a
+reestruturação da logística europeia.
+
+— Aprecio o crédito, mas essa vitória é sua também, considerando
+quanto você insistiu em fazer certo, mesmo quando teria sido mais
+fácil aceitar qualquer parceiro disposto a investir rápido.
+
+— Aprendi, do jeito mais difícil possível, que rápido nem sempre
+significa certo.
+
+---
+
+— Vocês dois vão comemorar hoje? — Marcus pergunta, curioso.
+
+— Vamos, sim. Jantar tranquilo, só nós dois.
+
+— Merecem completamente. Diverte-se, Alex. Descansa um pouco desse
+próprio triunfo antes de já pensar no próximo desafio.
+
+— Vou tentar, prometo.
+
+Desligo, sentindo gratidão renovada por ter, ao redor, gente disposta
+a comemorar cada vitória junto comigo, e volto pra Cami, ainda parada
+diante da janela, observando o skyline que já testemunhou tanto da
+nossa própria história.

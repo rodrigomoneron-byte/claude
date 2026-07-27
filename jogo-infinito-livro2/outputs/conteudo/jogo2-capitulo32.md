@@ -67,3 +67,35 @@ se assentando, e sinto, apesar de tudo, gratidão renovada por ter, ao
 lado, gente disposta a continuar questionando mesmo depois de
 confissão que parecia, superficialmente, suficiente pra encerrar toda
 dúvida.
+
+No corredor, Cami para por um momento, virando pra me encarar
+diretamente.
+
+— Preciso te perguntar uma coisa, Alex. Você está pronto pra
+descobrir que talvez precisemos encerrar a parceria completamente,
+mesmo depois de tudo que ela representa pra você emocionalmente?
+
+A pergunta pesa, exigindo honestidade que não é fácil de reunir na
+hora.
+
+---
+
+— Estou tentando estar pronto. Não sei se consigo dizer que já
+estou, completamente. Mas prometo que, se os fatos exigirem isso,
+não vou deixar esperança pessoal atrapalhar a decisão certa.
+
+— Isso é tudo que posso pedir, honestamente.
+
+— Você também está carregando peso nisso, sabe. Não só eu.
+
+— Estou. Mas o meu peso é diferente — profissional, principalmente,
+misturado com cuidado real por você, não expectativa pessoal de
+família reencontrada.
+
+Aperto a mão dela, sentindo gratidão por essa clareza que ela sempre
+consegue trazer, mesmo em meio a tanta confusão emocional que sinto
+crescer dentro de mim.
+
+— Vamos atravessar isso juntos, seja qual for o resultado final.
+
+— Sempre.

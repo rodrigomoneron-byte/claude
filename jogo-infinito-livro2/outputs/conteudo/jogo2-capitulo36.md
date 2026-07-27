@@ -60,3 +60,30 @@ Aperto a mão dela, sentindo o próprio peito se encher de gratidão por
 essa noite pequena, leve, exatamente o tipo de normalidade que os
 dois merecemos depois de tanto tempo carregando peso maior do que
 qualquer um devia carregar sozinho.
+
+Chegamos em casa pouco depois, o apartamento silencioso nos recebendo,
+e Cami tira os sapatos assim que a porta fecha, o próprio corpo
+relaxando visivelmente.
+
+— Foi exatamente o tipo de noite que eu precisava — comenta,
+encostando na parede da entrada. — Sem nenhuma verificação, sem
+nenhum documento pra revisar. Só gente que gostamos, rindo junto.
+
+— Concordo completamente. Precisamos priorizar mais noites assim,
+independente do que ainda estiver acontecendo profissionalmente.
+
+---
+
+— Sabe o que eu percebi hoje, observando Marcus e Naomi? — ela
+continua, seguindo comigo até o quarto. — Que relação boa não é
+ausência de dificuldade. É ter alguém disposto a atravessar a
+dificuldade ao seu lado, sem fugir.
+
+— Isso descreve exatamente o que temos, também.
+
+— Descreve mesmo. E fico grata por isso, todo santo dia.
+
+Puxo ela mais perto, sentindo o próprio peito se aquecer com a
+própria confissão, e ficamos ali, abraçados, absorvendo o peso bom
+de mais uma noite que reforça, silenciosamente, tudo que já sabemos
+sobre o valor real dessa parceria que construímos juntos.

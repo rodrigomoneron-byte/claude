@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 61,
+  "next_chapter": 53,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -233,7 +233,7 @@
     {
       "n": 32,
       "pov": "Alex",
-      "words": 392,
+      "words": 549,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -254,14 +254,14 @@
     {
       "n": 35,
       "pov": "Cami",
-      "words": 355,
+      "words": 589,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 36,
       "pov": "Alex",
-      "words": 357,
+      "words": 521,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -352,7 +352,7 @@
     {
       "n": 49,
       "pov": "Cami",
-      "words": 380,
+      "words": 547,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -366,28 +366,28 @@
     {
       "n": 51,
       "pov": "Cami",
-      "words": 371,
+      "words": 534,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 52,
       "pov": "Alex",
-      "words": 400,
+      "words": 513,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 53,
       "pov": "Cami",
-      "words": 333,
+      "words": 530,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 54,
       "pov": "Alex",
-      "words": 358,
+      "words": 504,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -401,14 +401,14 @@
     {
       "n": 56,
       "pov": "Alex",
-      "words": 385,
+      "words": 533,
       "score": 7.0,
       "status": "aprovado"
     },
     {
       "n": 57,
       "pov": "Cami",
-      "words": 395,
+      "words": 546,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -459,10 +459,10 @@
   ],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 34569,
-    "pages_kdp": 115,
+    "total_words": 36209,
+    "pages_kdp": 121,
     "avg_score": 7.0,
-    "pct_to_target": 60
+    "pct_to_target": 62
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -477,5 +477,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 01:22"
+  "updated": "2026-07-27 01:26"
 }

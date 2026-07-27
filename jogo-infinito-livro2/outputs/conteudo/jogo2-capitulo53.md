@@ -61,3 +61,42 @@ pro próprio trabalho, revisando mais uma vez o relatório sobre
 Sebastian Kroll, sentindo, apesar de tudo, uma calma relativa
 crescer — não ingenuidade, mas confiança real na própria capacidade
 de reconhecer padrão perigoso antes que ele cresça demais pra conter.
+
+Renata aparece na porta do escritório, o próprio rosto carregando
+curiosidade.
+
+— Como está a verificação sobre o novo investidor?
+
+— Limpa até agora. Mas vou continuar de olho, do mesmo jeito que
+aprendemos a fazer com tudo, ultimamente.
+
+— Isso é sensato. Considerando quanto já atravessamos, faz sentido
+manter o próprio rigor, mesmo quando tudo parece tranquilo.
+
+— Exatamente minha lógica. Prefiro parecer excessivamente cautelosa a
+descobrir tarde demais que devia ter perguntado mais.
+
+Ela sorri, reconhecendo a própria frase como eco de conversa antiga
+entre nós duas.
+
+---
+
+— Você mudou muito, sabe — comenta, sentando na cadeira diante da
+minha mesa. — Desde que essa consultoria começou, até agora.
+
+— Mudei como, especificamente?
+
+— Ficou mais disposta a confiar, mesmo mantendo cautela. Antes, acho
+que você só enxergava ameaça em cada situação nova. Agora consegue
+segurar as duas possibilidades ao mesmo tempo — esperança e cautela,
+sem deixar nenhuma das duas dominar completamente.
+
+— Isso é observação generosa, Renata.
+
+— É observação verdadeira. Aprendi observando você atravessar tanta
+coisa nos últimos anos, e principalmente nesse último ano e meio.
+
+Sorrio, sentindo gratidão genuína por essa parceria profissional que
+já virou amizade real, construída sobre tanta experiência
+compartilhada, boa e difícil, ao longo de tanto tempo trabalhando
+lado a lado.

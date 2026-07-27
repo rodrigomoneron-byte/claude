@@ -70,3 +70,35 @@ Aperto a mão dele, sentindo gratidão profunda por essa rede de
 pessoas construída, devagar, ao longo de tanta dificuldade
 atravessada junto — família escolhida, tão real quanto qualquer laço
 de sangue jamais poderia ser.
+
+— Vamos ajudar eles a planejar o casamento? — pergunto, depois de um
+momento de silêncio confortável.
+
+— Com certeza. O que você acha que eles vão querer? Cerimônia
+grande, ou algo mais íntimo, do jeito que o próprio pedido foi?
+
+— Aposto em íntimo. Os dois nunca foram de espetáculo grande. Preferem
+gente que realmente importa, num espaço que pareça genuíno.
+
+— Concordo com essa aposta. Vamos oferecer ajuda, sem impor nada.
+
+---
+
+Chegamos em casa pouco depois, o próprio clima ainda leve da noite
+carregando esperança boa que sinto o peito inteiro absorver.
+
+— Sabe o que essa noite me fez pensar? — comento, tirando os sapatos
+na entrada.
+
+— O quê?
+
+— Que talvez estejamos rodeados de mais gente boa do que percebemos
+no dia a dia corrido. Marcus, Naomi, Elena, Devon, Renata. Cada um
+contribuindo pra essa vida que construímos juntos.
+
+Alex sorri, puxando eu pra perto.
+
+— Isso é verdade bonita. Vamos lembrar de agradecer isso mais
+frequentemente, não só nos momentos grandes como hoje.
+
+— Gosto muito dessa promessa.

@@ -77,3 +77,30 @@ exausta mas satisfeita.
 — Foi mesmo. Merecemos mais noites assim.
 
 — Vamos ter mais, com certeza.
+
+— Sabe o que mais gostei? — continuo, depois de um momento. — Ver
+Elena transformar dor real em trabalho genuíno. Ela sempre teve
+talento, mas essa exposição específica parece carregar profundidade
+nova.
+
+— Concordo completamente. Acho que ela finalmente encontrou o próprio
+jeito de processar tudo que aconteceu, sem deixar isso definir ela
+completamente.
+
+---
+
+— Isso é lição valiosa, honestamente. Pra todos nós.
+
+— É mesmo. Cada um de nós encontrou o próprio jeito de processar essa
+crise inteira — você com trabalho, Elena com arte, eu com... — ela
+pausa, pensativa — acho que meu jeito ainda está em formação.
+
+— Seu jeito é continuar escolhendo confiar, mesmo depois de tanta
+razão pra não confiar mais. Isso também é processo real.
+
+— Gosto de pensar assim.
+
+Chegamos em casa pouco depois, o próprio silêncio do apartamento
+carregando conforto familiar, e adormecemos cedo, gratos pela noite
+boa, pela exposição de Elena, e por essa vida construída, devagar,
+sobre tanta verdade compartilhada.

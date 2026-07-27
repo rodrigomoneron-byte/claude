@@ -77,3 +77,27 @@ Encosto a cabeça no ombro dele, sentindo o próprio peso da tarde
 inteira se assentar como gratidão simples — por essa vida construída,
 devagar, sobre verdade completa e relação genuína, em cada canto que
 ela alcança.
+
+— Sabe o que eu penso, ouvindo sobre a promoção do Dan? — comento,
+depois de um momento. — Que talvez seja exatamente assim que
+histórias difíceis deviam terminar. Não com final perfeito, mas com
+cada pessoa envolvida encontrando o próprio caminho pra frente,
+mesmo que diferente do que qualquer um esperava originalmente.
+
+— Isso é observação bonita. E verdadeira, considerando tudo que já
+vimos acontecer com cada pessoa dessa história inteira.
+
+---
+
+— Warren reconstruiu a própria vida. Marcus encontrou Naomi. Devon
+ganhou reconhecimento merecido. Dan foi promovido. Até Patricia,
+apesar de tudo, está enfrentando a própria consequência com dignidade.
+
+— E nós dois continuamos aqui, mais fortes do que quando começamos.
+
+— Isso também, sim.
+
+Ficamos em silêncio confortável por um tempo, cada um absorvendo o
+próprio peso bom da reflexão, e sinto, mais uma vez, gratidão
+profunda por essa capacidade compartilhada de encontrar sentido real
+mesmo em meio a tanta dificuldade atravessada ao longo do caminho.

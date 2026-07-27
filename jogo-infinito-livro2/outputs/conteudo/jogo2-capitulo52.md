@@ -77,3 +77,27 @@ momento, sentindo o peso estranho de reconhecer que, apesar de toda
 a reconstrução recente, o próprio jogo nunca realmente pausa
 completamente — só espera o próximo movimento, de qualquer direção
 que ele venha.
+
+Ligo pra Cami, precisando compartilhar o desenvolvimento antes de
+qualquer outra coisa.
+
+— Marcus recebeu contato de outro investidor internacional — conto,
+assim que ela atende. — Concorrente de Alexandra no mercado europeu.
+
+— Isso é coincidência, ou padrão que devíamos nos preocupar?
+
+— Não sei ainda. Vamos verificar com todo o cuidado que já
+aprendemos a aplicar, antes de qualquer reunião avançar.
+
+---
+
+— Concordo completamente. E, Alex — ela hesita — talvez seja bom
+sinal, de um jeito estranho, que consigamos reagir com calma agora,
+em vez de pânico. Isso mostra o quanto já amadurecemos com tudo que
+atravessamos.
+
+— Você tem razão. Vamos encarar isso com a mesma calma, então.
+
+— Combinado. Me avisa assim que Devon trouxer qualquer atualização.
+
+— Prometo.

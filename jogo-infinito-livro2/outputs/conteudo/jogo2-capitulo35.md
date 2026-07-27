@@ -68,3 +68,39 @@ Ele assente, puxando eu pra perto, e ficamos ali, absorvendo juntos
 essa sensação nova de calma relativa — frágil ainda, mas real o
 suficiente pra sentir, pela primeira vez em semanas, que talvez
 estejamos genuinamente chegando no outro lado dessa incerteza inteira.
+
+— Sabe o que eu penso? — comento, depois de um tempo, a cabeça
+descansando no ombro dele. — Que talvez o mais difícil nessa jornada
+inteira não tenha sido descobrir se Alexandra era genuína ou não. Foi
+aprender a viver com a própria incerteza sem deixar ela apagar tudo
+mais que é bom na nossa vida.
+
+— Isso é verdade profunda. E acho que você me ensinou isso melhor do
+que qualquer outra pessoa jamais conseguiria.
+
+— Aprendemos juntos, acho. Nenhum dos dois sabia lidar com esse tipo
+de incerteza prolongada antes disso tudo.
+
+— É verdade. Mas sinto que saímos mais fortes, cada semana que
+atravessamos sem perder o próprio rumo.
+
+---
+
+Alex se levanta pra preparar o jantar, e observo ele na cozinha, os
+movimentos leves de alguém genuinamente aliviado, e sinto o próprio
+peito se encher de esperança cautelosa — não certeza completa ainda,
+mas confiança real de que, seja qual for o resultado final dessa
+verificação, atravessamos ela sem perder quem realmente somos, juntos,
+um do lado do outro.
+
+— Precisa de ajuda com o jantar? — pergunto, levantando pra me juntar
+a ele.
+
+— Sempre. Mas principalmente hoje, porque quero aproveitar cada
+minuto normal que ainda temos antes do próximo capítulo dessa
+história decidir se revelar completamente.
+
+Rio, reconhecendo a própria verdade por trás da brincadeira, e me
+junto a ele, cortando vegetais lado a lado, o silêncio confortável
+preenchendo a cozinha inteira com algo que sinto, finalmente, como
+paz genuína.
