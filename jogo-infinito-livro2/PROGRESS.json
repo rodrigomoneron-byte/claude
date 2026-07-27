@@ -1,0 +1,39 @@
+{
+  "book": "Alianças e Traições — Livro 2",
+  "series": "Jogo Infinito",
+  "author": "R.B. Guidenelli",
+  "status": "Onboarding concluído — escrita não iniciada",
+  "target": 60,
+  "word_target": 58000,
+  "povs": [
+    "Cami",
+    "Alex"
+  ],
+  "next_chapter": 1,
+  "next_pov": "Cami",
+  "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
+  "chapters": [],
+  "blocks": [],
+  "heat_log": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0
+  },
+  "decisoes_travadas": {
+    "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
+    "pov": "Dual — Cami (ímpar) + Alex (par); Dan nunca tem POV (herdado do Livro 1)",
+    "tamanho_serie": "5 livros — Livro 2 de 5 (herdado do Livro 1)",
+    "heat": "Explícito-elegante, cadência 80/20 (~12 cenas), gap max 5-6 caps, primeira cena mais cedo (relação já consolidada) (herdado + ajustado, TRAVADO via project_dna.md 2026-07-27)",
+    "papel_alexandra": "Antagonista disfarçada de aliada — parceria real, agenda oculta ligada ao passado da família Voss (TRAVADO via AskUserQuestion 2026-07-27)",
+    "traicao_interna": "Sim — Patricia repassa informação a Alexandra por convicção genuína, não ganância (TRAVADO via AskUserQuestion 2026-07-27; elenco PROPOSTO)",
+    "salto_tempo": "Poucas semanas desde o fim do Livro 1 (TRAVADO via AskUserQuestion 2026-07-27)",
+    "titulo_livro2": "Alianças e Traições (do planejamento original do dono, série de 5 títulos)",
+    "extensao_capitulo": "950-1100 palavras — escrever JÁ na extensão-alvo, sem passe de reforço (lição do Livro 1)",
+    "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
+  },
+  "created": "2026-07-27",
+  "updated": "2026-07-27"
+}
