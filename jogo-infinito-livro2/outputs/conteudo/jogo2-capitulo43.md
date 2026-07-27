@@ -23,6 +23,9 @@ que sinto com certeza absoluta agora — que não estou sozinho nisso.
 — Nunca vai estar. Isso não muda, não importa o que ainda venha
 pela frente.
 
+— Prometo lembrar disso, mesmo nos dias em que parece mais difícil
+de acreditar.
+
 Ele se senta no sofá, o próprio corpo carregando exaustão que
 reconheço como emocional, muito mais do que física.
 
@@ -141,3 +144,8 @@ Deitamos juntos, o quarto escuro ao redor, e sinto, mesmo em meio a
 tanto cansaço, o próprio peso do dia começar a ceder espaço, devagar,
 pra descanso real que os dois precisamos antes de enfrentar o que
 ainda vem amanhã.
+
+Alex adormece primeiro, a respiração dele desacelerando contra meu
+ombro, e fico ali mais um tempo, acordada, sentindo gratidão
+silenciosa por atravessar mais esse dia difícil ao lado dele, sem
+esconder nada pelo caminho.

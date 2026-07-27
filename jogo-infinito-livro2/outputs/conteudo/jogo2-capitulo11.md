@@ -11,6 +11,9 @@ fala tanto de vocês dois que já sinto que conheço a história inteira.
 
 — Espero que só a versão boa — respondo, rindo.
 
+— Ambas, temo — Marcus corrige, entregando um copo d'água pra Naomi
+antes de sentar. — Não escondo muita coisa dela.
+
 — As duas versões, honestamente — Marcus corrige, sentando ao lado de
 Naomi. — Não escondo muita coisa dela, considerando quanto tempo já
 estamos juntos.
@@ -137,3 +140,8 @@ Antes de fechar os olhos completamente, penso mais uma vez na
 observação de Naomi sobre litígio ainda não formalizado, guardando a
 própria preocupação como lembrete silencioso pra revisar com Devon
 assim que a semana recomeçar.
+
+O sono chega devagar, e o último pensamento que carrego é gratidão
+simples por essa rede de amigos disposta a proteger a própria
+felicidade dos dois, mesmo quando isso significa fazer pergunta
+difícil no meio de um jantar leve.

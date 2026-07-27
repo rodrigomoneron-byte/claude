@@ -54,6 +54,10 @@ Já aprendi a não ignorar esse instinto.
 — Isso é sabedoria bem conquistada, considerando tudo que já
 atravessamos.
 
+— Bem cara, também — brinco, tentando aliviar o próprio peso da
+notícia. — Mas prefiro pagar esse preço a ser pego de surpresa de
+novo.
+
 ---
 
 — Meridian Holdings — ela repete, pensativa. — Nunca ouvi esse nome
