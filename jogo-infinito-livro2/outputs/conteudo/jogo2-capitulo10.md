@@ -30,6 +30,10 @@ Vamos revisar cada cláusula em detalhe, sem pressa nenhuma.
 — Concordo. Prefiro entender completamente, não só assinar por
 confiança cega.
 
+— Isso é exatamente a atitude que eu esperaria de alguém sério —
+comento, sentindo o próprio instinto profissional relaxar
+ligeiramente diante da própria resposta dela.
+
 ---
 
 — A cláusula de transparência sobre mudança de capital — Denise
@@ -150,3 +154,8 @@ Guardo os próprios documentos assinados na pasta, sentindo, apesar
 de tudo, orgulho silencioso por ter conseguido equilibrar rigor
 profissional com abertura genuína, exatamente do jeito que Cami
 sempre me ensinou a fazer.
+
+Fico ali mais um tempo, olhando pro próprio escritório vazio,
+deixando o peso da manhã inteira se assentar antes de seguir pra
+casa, pronto pra comemorar essa vitória pequena, mas real, ao lado
+dela.

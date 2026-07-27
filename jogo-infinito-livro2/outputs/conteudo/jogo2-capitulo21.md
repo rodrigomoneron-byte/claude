@@ -30,6 +30,9 @@ aprovaria como você construiu a sua.
 — Ele teria gostado de você, acho. Gostava de gente que trabalhava
 duro sem precisar anunciar isso o tempo inteiro.
 
+— Isso significa muito ouvir, mesmo vindo de história que nunca
+consegui viver diretamente.
+
 ---
 
 Ficamos ali por um tempo longo, cada um absorvendo o próprio peso do
@@ -133,3 +136,8 @@ Alex se aproxima, sentando ao meu lado na cama, e ficamos ali em
 silêncio por um momento, cada um processando à própria maneira o
 peso dessa manhã que carregou tanto luto genuíno quanto dúvida
 renovada, lado a lado, sem se cancelarem completamente.
+
+— Vamos descansar um pouco antes do jantar — sugiro, finalmente,
+encostando a cabeça no ombro dele. — Acho que os dois precisamos.
+
+— Concordo completamente.

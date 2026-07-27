@@ -20,6 +20,9 @@ crise inteira começou.
 confrontadas — Dan esclarece, o próprio tom cuidadosamente neutro. —
 Prefiro não presumir resultado antes de dar chance de explicação.
 
+— Isso é sensato, mesmo sendo difícil de ouvir agora — comento,
+sentindo o próprio corpo tenso demais pra relaxar completamente.
+
 ---
 
 — Preciso conversar com as duas separadamente antes de decidir isso
@@ -136,3 +139,7 @@ não precisar enfrentar isso completamente sozinho.
 O relógio na parede marca cada segundo com precisão cruel, e sinto o
 próprio coração acompanhar o ritmo dele, esperando a palavra que vai
 mudar completamente o rumo de tudo que ainda está por vir.
+
+David se inclina mais pra frente, cada conselheiro presente
+completamente imóvel, esperando com o mesmo silêncio pesado que sinto
+sufocar a sala inteira.
