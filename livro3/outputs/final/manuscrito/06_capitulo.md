@@ -36,7 +36,7 @@ Ao meio-dia, sentamos em blocos de concreto empilhados, dividindo um prato de ar
 
 Ele para de mastigar, me olha como quem recalcula alguma coisa.
 
-— A minha mãe fazia unha em salão de bairro. Não tinha ditado nenhum. Só dizia "aguenta, Daniel", em cada situação que a vida jogava na gente.
+— A minha mãe fazia unha em salão de bairro. Não tinha ditado nenhum. Só dizia "aguenta, Daniel", em cada situação que a vida jogava em nós.
 
 — E você aguentou?
 

@@ -14,7 +14,7 @@ A votação informal que segue divide o salão quase ao meio — não em gritari
 
 Seu Osvaldo me segura pelo braço na saída, a bengala parada pela primeira vez desde que o conheço.
 
-— A moça do tailleur trouxe esse contrato pra gente ver. — Ele não faz pergunta, só constata, testando a informação em voz alta. — Isso é golpe dela pra parecer boazinha, ou é golpe de verdade contra a própria fundação?
+— A moça do tailleur trouxe esse contrato pra nós ver. — Ele não faz pergunta, só constata, testando a informação em voz alta. — Isso é golpe dela pra parecer boazinha, ou é golpe de verdade contra a própria fundação?
 
 — Acho que é golpe de verdade. — E digo isso sabendo que a resposta me custa alguma coisa, um pedaço de desconfiança que carreguei durante semanas e que agora não sei mais onde guardar. — Ela não precisava mostrar. Ninguém ia descobrir se ela tivesse escondido.
 
