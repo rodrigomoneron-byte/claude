@@ -9,8 +9,8 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 21,
-  "next_pov": "Cami",
+  "next_chapter": 32,
+  "next_pov": "Alex",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
     {
@@ -152,6 +152,83 @@
       "words": 833,
       "score": 7.0,
       "status": "aprovado"
+    },
+    {
+      "n": 21,
+      "pov": "Cami",
+      "words": 669,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 22,
+      "pov": "Alex",
+      "words": 721,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 23,
+      "pov": "Cami",
+      "words": 695,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 24,
+      "pov": "Alex",
+      "words": 570,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 25,
+      "pov": "Cami",
+      "words": 465,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 26,
+      "pov": "Alex",
+      "words": 424,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 27,
+      "pov": "Cami",
+      "words": 490,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 28,
+      "pov": "Alex",
+      "words": 477,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 29,
+      "pov": "Cami",
+      "words": 462,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 30,
+      "pov": "Alex",
+      "words": 407,
+      "score": 7.0,
+      "status": "aprovado"
+    },
+    {
+      "n": 31,
+      "pov": "Cami",
+      "words": 448,
+      "score": 7.0,
+      "status": "aprovado"
     }
   ],
   "blocks": [],
@@ -159,14 +236,18 @@
     {
       "n": 5,
       "desc": "1a cena — jantar de familia com Alexandra, noite depois, primeira cena consolidada do L2"
+    },
+    {
+      "n": 23,
+      "desc": "2a cena — noite em Londres, apos dia pesado no cemiterio e confronto sobre a segunda consulta juridica"
     }
   ],
   "scoreboard": {
-    "chapters_done": 20,
-    "total_words": 16565,
-    "pages_kdp": 55,
+    "chapters_done": 31,
+    "total_words": 22393,
+    "pages_kdp": 75,
     "avg_score": 7.0,
-    "pct_to_target": 29
+    "pct_to_target": 39
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -181,5 +262,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 01:02"
+  "updated": "2026-07-27 01:09"
 }

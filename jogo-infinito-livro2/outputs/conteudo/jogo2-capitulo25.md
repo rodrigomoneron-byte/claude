@@ -1,0 +1,85 @@
+# Jogo Infinito — Livro 2 — Capítulo 25
+### POV: Cami
+
+Denise liga na tarde antes de voltarmos pra Nova York, a voz
+carregando urgência que reconheço como sinal de descoberta relevante,
+não só atualização de rotina.
+
+— Verifiquei o registro completo da propriedade em Edimburgo —
+informa. — A herança bate exatamente com o que Alexandra descreveu.
+Documento de sucessão limpo, sem qualquer inconsistência.
+
+— Isso é bom sinal, finalmente.
+
+— É. Mas encontrei outra coisa, verificando o histórico de
+transferência: a propriedade foi usada como garantia de empréstimo,
+há dois anos, exatamente na época do revés financeiro do fundo dela.
+
+O peso da informação se assenta devagar — não mentira, mas mais uma
+camada que ela escolheu não mencionar.
+
+---
+
+— Isso confirma o padrão que venho notando — comento pra Alex, depois
+de desligar. — Cada fato individual, verificado isoladamente, parece
+inocente. Mas ela sistematicamente escolhe não mencionar detalhe
+nenhum proativamente.
+
+— Talvez seja só reserva pessoal, não estratégia calculada.
+
+— Talvez. Mas reserva pessoal demais, numa parceria que exige
+transparência total, também é problema, independente da intenção por
+trás.
+
+Alex fica em silêncio por um momento, processando.
+
+— Vou conversar com ela de novo, antes de embarcarmos. Preciso deixar
+claro que esse padrão específico de omissão, mesmo sem má intenção,
+precisa mudar completamente daqui em diante.
+
+---
+
+Encontramos Alexandra no próprio apartamento dela, a conversa
+carregando seriedade diferente de qualquer encontro anterior.
+
+— Preciso ser direto — Alex abre, sem rodeio. — Cada peça de
+informação que descobrimos por conta própria, em vez de você
+compartilhar primeiro, mina a confiança que estamos tentando
+construir. Isso precisa parar.
+
+Alexandra escuta em silêncio, o próprio rosto processando a
+seriedade da observação sem defensividade imediata.
+
+— Você tem razão completa — admite, finalmente. — Passei a vida
+inteira aprendendo a guardar informação como proteção. Reconheço que
+isso está sabotando exatamente o que mais quero construir com vocês
+dois.
+
+---
+
+— O que você precisa fazer diferente, então? — Cami pergunta,
+mantendo o próprio tom firme mas justo.
+
+— Preciso, literalmente, listar tudo que ainda não compartilhei,
+mesmo o que parece irrelevante, e trazer pra vocês antes de qualquer
+próxima etapa da parceria avançar. Prometo fazer isso antes de vocês
+embarcarem hoje à noite.
+
+A promessa soa genuína, carregada de determinação real, e sinto,
+apesar de todo o cansaço acumulado da própria vigilância, uma
+esperança cautelosa de que talvez essa conversa específica marque
+virada real.
+
+Alexandra cumpre a promessa horas depois, enviando lista detalhada por
+e-mail — pequenos investimentos esquecidos, uma conta bancária
+antiga, um empréstimo pessoal de um amigo há anos, nada que pareça
+grave individualmente, mas cada item somando pra formar retrato mais
+completo do que qualquer conversa anterior conseguiu revelar.
+
+— Isso é progresso real — Alex comenta, revisando a lista comigo no
+avião de volta.
+
+— É. Vamos ver se ela mantém esse padrão novo, ou se volta ao
+antigo assim que a pressão diminuir.
+
+— Só o tempo vai confirmar isso.
