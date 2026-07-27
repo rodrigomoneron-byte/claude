@@ -19,6 +19,13 @@ quanto tempo já tínhamos investido na parceria original.
 
 — Difícil, mas certa. Números não mentem, e esses são excepcionais.
 
+— Aprecio você reconhecer isso, Thomas. Considerando que você entrou
+no conselho bem no meio dessa reconstrução inteira, sem contexto
+completo do que veio antes.
+
+— Contexto suficiente eu tenho, através dos relatórios. E o que vejo
+é liderança que escolhe o caminho certo, mesmo quando é mais difícil.
+
 ---
 
 Depois da reunião, fico sozinho no próprio escritório, olhando pro
@@ -131,3 +138,9 @@ Ficamos ali mais um tempo, observando juntos a cidade se acender
 devagar lá fora, cada luz nova marcando mais um fim de tarde que os
 dois escolhemos atravessar como equipe, não mais como dois indivíduos
 tentando sobreviver sozinhos cada dificuldade separada.
+
+— Devíamos ir andando, se ainda quisermos aquele jantar tranquilo —
+comento, finalmente, virando pra ela.
+
+— Vamos. Mas antes, mais um minuto assim, só olhando pra essa vista
+que já viu tanto de nós dois.

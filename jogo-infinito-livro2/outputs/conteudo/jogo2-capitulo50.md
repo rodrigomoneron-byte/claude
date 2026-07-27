@@ -36,6 +36,12 @@ independente de tudo que veio depois.
 — Isso faz sentido completo. Talvez os dois sentimentos possam
 existir juntos, sem contradição nenhuma.
 
+— É estranho, né? Sentir raiva e gratidão pela mesma pessoa, ao mesmo
+tempo, sem uma cancelar a outra.
+
+— Não é estranho, Alex. É só o que família complicada de verdade
+sempre parece.
+
 ---
 
 — Não sei ainda. Parte de mim quer guardar, como lembrete de que a
@@ -127,3 +133,8 @@ documentos importantes, e sinto, fechando ela, uma sensação estranha
 de paz — não porque tudo está resolvido, mas porque aprendi,
 finalmente, que nem tudo precisa estar completamente resolvido pra
 seguirmos em frente.
+
+Cami se aproxima, abraçando eu por trás, e ficamos ali um momento,
+em silêncio, absorvendo juntos o peso estranho, mas também bom, de
+aprender a conviver com verdade que nunca vai ter final limpo
+completo.

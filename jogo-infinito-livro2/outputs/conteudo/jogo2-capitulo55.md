@@ -18,6 +18,10 @@ mesmo quando você não estava na sala.
 
 — Gosto de pensar que sim.
 
+— Não é pensamento, é fato — insiste, beijando minha testa de leve. —
+Cada decisão importante que tomei, pensei em como você reagiria antes
+de decidir.
+
 Ele me puxa pra abraço apertado, girando os dois na sala pequena,
 risada compartilhada preenchendo o espaço que já carrega tanto
 significado construído juntos ao longo desses últimos meses.
@@ -114,3 +118,8 @@ Fico ali mais um tempo, quieta, absorvendo cada detalhe pequeno desse
 quarto que já testemunhou tanto — as brigas, as reconciliações, as
 madrugadas de dúvida, e agora essa paz simples que sinto, finalmente,
 como conquista genuína, não sorte passageira.
+
+Levanto devagar, sem acordar Alex completamente, e vou até a janela,
+observando o próprio sol nascer sobre Manhattan, sentindo, mais uma
+vez, gratidão profunda por essa vida que os dois construíram, juntos,
+com tanto cuidado deliberado.

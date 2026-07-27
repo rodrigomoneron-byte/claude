@@ -17,6 +17,12 @@ quanto era difícil de assistir.
 
 — Sempre. Nunca ia deixar você atravessar isso sozinho.
 
+— Sei disso. E, mesmo com todo o peso do dia, isso é a única coisa
+que sinto com certeza absoluta agora — que não estou sozinho nisso.
+
+— Nunca vai estar. Isso não muda, não importa o que ainda venha
+pela frente.
+
 Ele se senta no sofá, o próprio corpo carregando exaustão que
 reconheço como emocional, muito mais do que física.
 
@@ -130,3 +136,8 @@ dele até o quarto, sentindo, apesar de todo o peso do próprio dia,
 gratidão silenciosa por atravessar mais essa dificuldade lado a lado,
 sem deixar nenhuma verdade importante escondida entre nós dois pelo
 caminho.
+
+Deitamos juntos, o quarto escuro ao redor, e sinto, mesmo em meio a
+tanto cansaço, o próprio peso do dia começar a ceder espaço, devagar,
+pra descanso real que os dois precisamos antes de enfrentar o que
+ainda vem amanhã.

@@ -3,12 +3,12 @@
 ## Estado atual
 - Status: Manuscrito completo — revisão/formatação pendentes
 - Capítulos concluídos: 60 / 60
-- Próximo: Capítulo 12 (POV Alex)
-- Última atualização: 2026-07-27 01:53
+- Próximo: Capítulo 44 (POV Alex)
+- Última atualização: 2026-07-27 01:54
 
 ## Placar
-- Palavras: 46775
-- Páginas KDP (~palavras/300): 156
+- Palavras: 47117
+- Páginas KDP (~palavras/300): 157
 - Score médio: 7.0
 - Meta de palavras: 58000 (81%)
 

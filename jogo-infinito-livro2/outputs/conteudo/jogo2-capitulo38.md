@@ -25,6 +25,9 @@ O resultado chegou hoje à tarde.
 
 O sangue gela instantaneamente.
 
+Fico parado por um segundo inteiro, tentando processar o próprio
+peso da palavra antes mesmo de ouvir os detalhes completos.
+
 — E o resultado?
 
 — Confirmado. A assinatura é falsificação, com noventa e cinco por
@@ -123,3 +126,9 @@ Fico em silêncio, absorvendo a própria frase dela, sentindo o peso da
 noite se assentar devagar — não resolução nenhuma ainda, só o começo
 de um processo que sei vai exigir muito mais de mim antes de chegar
 ao outro lado.
+
+Cami continua ali, quieta, deixando o silêncio existir sem tentar
+preenchê-lo com qualquer palavra apressada, e sinto, mais uma vez,
+gratidão profunda por essa capacidade que ela tem de simplesmente
+estar presente, sem exigir que eu processe tudo mais rápido do que
+consigo.
