@@ -78,3 +78,34 @@ Guardo o anel de volta na caixa, sentindo o próprio peso da jornada
 inteira se assentar — não resolução completa, mas aceitação real de
 que família, às vezes, carrega peso complicado demais pra qualquer
 final limpo, e que tudo bem seguir em frente mesmo assim.
+
+— Sabe o que eu penso, olhando pra essa caixa? — comento, depois de
+um momento de silêncio. — Que talvez ela represente exatamente o
+tipo de verdade que aprendi esse ano inteiro: nem toda história tem
+final feliz completo, mas isso não invalida o que foi genuíno dentro
+dela.
+
+— Isso é sabedoria real, Alex. Aprendida do jeito mais difícil
+possível.
+
+— Sempre do jeito mais difícil, parece ser o padrão da nossa vida
+ultimamente.
+
+---
+
+Cami ri, um som leve que sinto aliviar parte do próprio peso da
+noite.
+
+— Pelo menos atravessamos cada padrão difícil juntos, sem desviar.
+Isso conta pra alguma coisa.
+
+— Conta pra tudo, honestamente. Não sei se teria conseguido
+processar isso tudo sozinho, sem você ao lado.
+
+— Nunca vai precisar descobrir isso, porque sempre vou estar aqui.
+
+Guardo a caixa na própria gaveta do escritório, ao lado de outros
+documentos importantes, e sinto, fechando ela, uma sensação estranha
+de paz — não porque tudo está resolvido, mas porque aprendi,
+finalmente, que nem tudo precisa estar completamente resolvido pra
+seguirmos em frente.

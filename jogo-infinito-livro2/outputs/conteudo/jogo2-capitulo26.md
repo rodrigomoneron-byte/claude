@@ -79,3 +79,36 @@ Desligamos pouco depois, e fico ali, olhando pro skyline através da
 janela, sentindo o próprio peso da pergunta de Patricia continuar
 ecoando, mesmo sem conseguir identificar exatamente por que ela
 escolheu trazer essa dúvida específica justo agora.
+
+Marcus entra pouco depois, encontrando eu ainda absorto na própria
+vista.
+
+— Você parece pensativo — comenta, sentando na cadeira diante da
+minha mesa.
+
+— Patricia me perguntou se estou emocionalmente investido demais na
+parceria com Alexandra pra avaliar ela com objetividade.
+
+— Isso é pergunta justa, considerando tudo. O que você respondeu?
+
+---
+
+— Que considero isso constantemente, e que por isso trago Cami pra
+cada decisão importante.
+
+— Isso é resposta honesta. Mas confesso que a pergunta dela me
+deixou curioso também. Ela normalmente não faz esse tipo de
+observação pessoal.
+
+— Reparei nisso também. Foi diferente de qualquer conversa anterior
+que já tivemos.
+
+— Talvez seja só ela se importando genuinamente. Ou talvez seja
+alguma coisa mais. Vou continuar de olho, discretamente.
+
+— Aprecio isso, Marcus. Às vezes sinto que preciso de mais olhos ao
+redor do que os meus próprios, considerando quanto emoção pode
+distorcer julgamento.
+
+— É pra isso que serve equipe de confiança, Alex. Pra cobrir o que
+qualquer um sozinho não consegue enxergar completamente.

@@ -79,3 +79,30 @@ Desligo, sentindo o próprio peso das últimas semanas finalmente
 começar a ceder espaço pra alguma coisa mais parecida com paz
 genuína, gratidão profunda crescendo por ter, ao lado, alguém capaz
 de transformar até a pior crise em oportunidade de crescimento real.
+
+Marcus aparece na porta, o próprio rosto carregando curiosidade.
+
+— Como foi a votação?
+
+— Aprovada por unanimidade. Consequência real, sem destruição
+desnecessária.
+
+— Isso é exatamente o tipo de liderança que essa empresa precisava,
+Alex. Justiça sem vingança.
+
+---
+
+— Aprendi isso com Cami, principalmente. E com você, de um jeito
+estranho — você me ensinou que segunda chance real exige
+responsabilidade genuína, não só perdão vazio.
+
+— Fico feliz que meu próprio erro tenha ensinado alguma coisa útil,
+pelo menos.
+
+— Ensinou muito, Marcus. Mais do que você imagina.
+
+Ele sorri, um gesto que carrega gratidão silenciosa, e sai, deixando
+eu sozinho por um momento, sentindo o peso completo dessa jornada
+inteira — desde a chegada de Alexandra até essa resolução final com
+Patricia — se assentar como capítulo genuinamente encerrado, pronto
+pra dar espaço ao que ainda vem pela frente.

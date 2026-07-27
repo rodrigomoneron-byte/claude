@@ -68,3 +68,28 @@ Ele beija o topo da minha cabeça, o gesto simples carregando ternura
 que sinto no peito inteiro, e adormecemos pouco depois, gratos, os
 dois, por essa constância em meio a tanta incerteza externa ainda não
 resolvida.
+
+Acordo de madrugada, o quarto silencioso ao redor de nós dois, e fico
+ali um tempo, observando Alex dormir, o próprio rosto relaxado de um
+jeito que raramente vejo durante o dia inteiro de verificação e
+dúvida. Penso em quanto essa relação já provou capaz de absorver —
+crise corporativa, segredo descoberto, agora possível traição dupla —
+e ainda assim continuar de pé, mais forte a cada obstáculo superado
+juntos.
+
+O celular vibra baixinho na mesa de cabeceira — mensagem de Devon,
+enviada de madrugada, provavelmente ainda trabalhando tarde na
+própria verificação.
+
+*Encontrei mais uma inconsistência pequena no documento. Nada
+urgente, mas precisamos conversar amanhã de manhã.*
+
+Leio a mensagem duas vezes, sentindo o próprio estômago apertar
+ligeiramente, mas decido não acordar Alex ainda — ele merece essa
+noite de descanso completo, antes que qualquer nova complicação exija
+atenção de novo.
+
+Guardo o celular, deitando de volta, encostando perto do corpo quente
+dele, tentando roubar mais algumas horas de paz antes que o dia
+seguinte, inevitavelmente, traga consigo mais uma camada da verdade
+que ainda precisamos descobrir completamente.

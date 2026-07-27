@@ -72,3 +72,36 @@ qualquer omissão pessoal que já descobrimos até agora.
 Desligo, sentindo o próprio peso da semana inteira se acumular de
 novo, mais pesado do que qualquer momento de calma recente conseguiu
 compensar.
+
+Fico sentada no próprio escritório por mais um tempo, revisando
+mentalmente cada interação recente com Alexandra, tentando identificar
+qualquer sinal que devia ter notado antes. A memória do cemitério em
+Londres volta com força inesperada — a própria emoção genuína que
+vi ali, misturada agora com essa possibilidade nova de fraude
+documental deliberada.
+
+Renata liga de novo, poucos minutos depois.
+
+---
+
+— Você está bem? — pergunta, notando provavelmente o próprio silêncio
+prolongado da minha parte.
+
+— Estou processando. É difícil separar a Alexandra que chorou no
+túmulo do próprio pai da possível Alexandra que fraudou documento pra
+fortalecer a própria posição.
+
+— As duas podem ser a mesma pessoa, Cami. Gente machucada às vezes
+faz escolha terrível, mesmo carregando emoção genuína ao lado dela.
+
+— Isso é exatamente o que continuo repetindo pra mim mesma. Só ainda
+dói aceitar completamente.
+
+— É normal doer. Você não escolheu ficar cética por prazer. Escolheu
+porque precisava proteger alguém que ama.
+
+— Obrigada por lembrar isso, Renata.
+
+Desligo, sentindo o próprio peso da conversa se assentar, um pouco
+mais leve agora, grata por ter, ao redor, gente disposta a validar a
+própria dúvida sem transformar ela em julgamento precipitado.
