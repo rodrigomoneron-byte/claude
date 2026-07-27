@@ -6,6 +6,9 @@ Alexandra numa reunião reservada, o rosto carregando a seriedade
 habitual de quem só traz informação depois de verificar tudo com
 rigor completo.
 
+Espero, sentindo o próprio corpo tenso antes mesmo de ele começar a
+falar, já antecipando que a notícia não vai ser leve.
+
 — Encontrei mais contato do que o registrado formalmente — informa,
 deslizando um relatório impresso na mesa. — Além da conversa
 informal que Alexandra já admitiu, existem pelo menos quatro
@@ -160,3 +163,7 @@ verificação amanhã.
 Terminamos de comer em silêncio confortável, e sinto, lavando os
 próprios pratos ao lado dela, o peso da noite finalmente começar a
 ceder espaço pro descanso que os dois tanto precisamos.
+
+Vamos pra cama logo depois, e mesmo com a mente ainda girando ao redor
+de Patricia, sinto, deitado ao lado de Cami, que consigo finalmente
+desacelerar o suficiente pra dormir.

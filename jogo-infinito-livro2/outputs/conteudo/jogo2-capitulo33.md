@@ -6,6 +6,10 @@ período de observação proposto, a reserva não resolvida sobre
 Patricia — pesando mais forte agora que a própria adrenalina
 profissional cede espaço pro cansaço genuíno.
 
+Largo a própria bolsa perto da porta, sentindo o peso do dia inteiro
+finalmente começar a ceder espaço pra alívio simples de estar em
+casa.
+
 — Preciso de uma noite sem pensar em nenhum documento — Alex comenta,
 tirando o próprio blazer, jogando ele displicente numa cadeira.
 
@@ -127,6 +131,10 @@ Fecho os olhos de novo, tentando aproveitar mais algumas horas dessa
 paz frágil antes que o dia amanheça, trazendo consigo a próxima
 camada dessa história que ainda não terminou de se revelar
 completamente.
+
+Aperto de leve a mão de Alex, sentindo ele reagir mesmo dormindo, e
+esse gesto pequeno basta pra devolver um pouco mais de calma antes de
+mergulhar de volta no sono.
 
 O sono volta devagar, e a última coisa que sinto antes de mergulhar
 completamente nele é a própria respiração de Alex, constante,

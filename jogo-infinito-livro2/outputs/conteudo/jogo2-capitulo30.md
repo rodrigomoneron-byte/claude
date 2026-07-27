@@ -7,6 +7,9 @@ jurídicas, a propriedade em Edimburgo usada como garantia, o
 comentário de Richard Ashford sobre "recuperar o que a família
 merecia".
 
+Olho pra própria pilha de documentos espalhada na mesa, sentindo o
+peso de cada peça reunida ao longo de meses de verificação cuidadosa.
+
 — Individualmente, nada disso prova fraude — Denise resume, depois
 da revisão completa. — Juntos, formam padrão suficiente pra justificar
 conversa formal e direta, com consequência real se ela não conseguir
@@ -158,3 +161,7 @@ sabendo que Cami já está lá, esperando.
 Chego em casa poucos minutos depois, encontrando ela já com o jantar
 quase pronto, e sinto, cruzando a porta, o próprio corpo relaxar de
 um jeito que só acontece quando estou finalmente em casa, com ela.
+
+Abraço Cami por trás, encostando o rosto no ombro dela, e ficamos
+assim por um momento longo, antes de eu conseguir sequer contar como
+foi o resto do dia.

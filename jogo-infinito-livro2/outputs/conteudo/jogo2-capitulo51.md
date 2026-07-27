@@ -6,6 +6,11 @@ apartamento deles, convidando só Alex e eu como testemunhas, gesto
 que carrega intimidade genuína em vez de qualquer performance
 grandiosa.
 
+Observo Marcus organizar tudo com cuidado quase excessivo, cada
+detalhe da própria mesa alinhado com atenção que nunca vi nele antes,
+e sinto o peito se aquecer, sabendo que estamos prestes a testemunhar
+algo genuíno.
+
 — Preparei alguma coisa — ele anuncia, depois da sobremesa, a própria
 voz tremendo ligeiramente. — Naomi, você entrou na minha vida bem no
 meio da pior crise profissional que já enfrentei, e ficou, mesmo
@@ -156,3 +161,7 @@ A madrugada segue tranquila, o quarto silencioso, e durmo sem
 interrupção pela primeira vez em muitas semanas, o corpo inteiro
 finalmente relaxado depois de tanta boa notícia acumulada num só
 dia.
+
+Quando acordo, bem mais tarde do que o costume, Alex já preparou café
+pra nós dois, e ficamos ali, sentados na cozinha, revivendo cada
+detalhe pequeno da noite anterior antes mesmo de sair da cama de vez.

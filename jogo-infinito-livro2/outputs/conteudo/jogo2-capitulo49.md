@@ -5,6 +5,9 @@ Warren Higgins me liga numa tarde tranquila, a voz carregando o
 próprio tom cauteloso de sempre, suavizado agora por meses de vida
 reconstruída.
 
+Atendo sem reconhecer o número de imediato, e a própria voz dele leva
+um instante pra registrar completamente na minha memória.
+
 — Soube, através de Denise, sobre a parceria complicada que vocês
 atravessaram — comenta, depois da própria saudação. — Só queria
 ligar pra saber como você está.
@@ -168,3 +171,7 @@ construindo juntos.
 Desligo o próprio computador, guardando os últimos papéis na pasta,
 e saio do escritório sentindo, pela primeira vez em semanas, leveza
 genuína substituindo o peso que carreguei por tanto tempo.
+
+O elevador desce devagar, e aproveito o próprio silêncio pra respirar
+fundo, sentindo o corpo inteiro se preparar pra deixar, finalmente,
+esse capítulo específico pra trás.
