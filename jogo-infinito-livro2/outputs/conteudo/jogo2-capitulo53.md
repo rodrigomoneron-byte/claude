@@ -15,6 +15,12 @@ mesmo mercado?
 — Nada que eu tenha encontrado ainda. Vou continuar verificando com
 mais profundidade antes de qualquer reunião formal acontecer.
 
+— Quanto tempo você precisa antes de sentir confiança real na própria
+verificação?
+
+— Uma semana, talvez duas. Prefiro não apressar isso, considerando
+tudo que já aprendemos sobre os custos de pressa.
+
 ---
 
 — Aprecio o cuidado, Devon. Depois de tudo que já atravessamos,
@@ -127,3 +133,10 @@ imaginei que a consultoria pequena que começamos viraria isso tudo.
 
 — Nem eu, honestamente. Mas fico grata por cada etapa dessa jornada,
 mesmo as difíceis.
+
+Ela sai, finalmente, e fico sozinha por um momento, sentindo
+gratidão silenciosa crescer por essa rede de pessoas competentes e
+leais que se formou, aos poucos, ao redor de tudo que Alex e eu
+construímos juntos — prova viva de que confiança bem investida sempre
+rende retorno real, mesmo quando o caminho até lá exige tanta
+paciência.

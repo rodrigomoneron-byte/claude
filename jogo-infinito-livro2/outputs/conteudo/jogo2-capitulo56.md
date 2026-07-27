@@ -13,6 +13,10 @@ algo pessoal por trás.
 — Está mesmo. Acho que processar tudo com Alexandra, de um jeito
 estranho, alimentou o próprio trabalho dela recente.
 
+— Dor processada direito costuma virar isso — Cami observa,
+segurando minha mão enquanto avançamos mais um pouco pela galeria. —
+Algo que vale a pena olhar de frente, em vez de esconder.
+
 ---
 
 Elena nos encontra no meio da exposição, o rosto radiante de orgulho
@@ -121,3 +125,9 @@ está completamente.
 Fecho os olhos de novo, decidido a enfrentar o próprio dia seguinte
 com a mesma clareza que ela sempre traz pra cada decisão difícil que
 enfrentamos juntos.
+
+O último pensamento antes de adormecer de novo é simples, quase
+óbvio, mas ainda assim carrega peso real: sou grato, profundamente,
+por cada pessoa nessa família estranha e reconstruída que escolhemos,
+juntos, continuar cultivando, mesmo depois de tudo que tentou nos
+convencer de que talvez não valesse o esforço.

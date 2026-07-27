@@ -17,6 +17,12 @@ processando o próprio peso do momento.
 — Gostaria de ter conhecido ele — murmura, a voz carregando emoção
 genuína.
 
+— Ele teria ficado orgulhoso do que você construiu — Alexandra
+comenta, observando ele de perto. — Mesmo sem nunca ter tido a chance
+real de acompanhar isso de perto.
+
+— Espero que sim.
+
 — Ele teria gostado de você, acho. Gostava de gente que trabalhava
 duro sem precisar anunciar isso o tempo inteiro.
 
@@ -112,3 +118,9 @@ Chegamos ao hotel em silêncio pensativo, o peso da manhã inteira —
 luto real, confissão parcial, dúvida renovada — se acumulando devagar
 entre nós dois, cada camada nova tornando mais difícil separar o que
 é genuíno do que ainda pode estar cuidadosamente construído.
+
+Fico sentada na cama do quarto, revisando mentalmente cada momento
+da própria manhã — a lágrima diante do túmulo, a confissão sobre a
+segunda consulta, a facilidade com que ela alterna entre vulnerável e
+calculista sem parecer, nem por um momento, contradição visível pra
+ela mesma.

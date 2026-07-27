@@ -8,6 +8,10 @@ três.
 — O que vocês acham? — pergunto, precisando de perspectiva antes de
 qualquer decisão.
 
+Denise e Cami trocam um olhar rápido antes de qualquer uma delas
+responder, o próprio silêncio momentâneo já sinalizando que nenhuma
+das duas tem resposta simples pronta.
+
 — Acho que ela finalmente disse verdade completa, ou pelo menos mais
 completa do que qualquer coisa anterior — Denise responde,
 profissional como sempre. — Isso não apaga o padrão de omissão. Mas
@@ -124,3 +128,8 @@ sobre tudo que ainda pode estar escondido, esperando ser descoberto.
 minha mão. — Do jeito que sempre conseguimos.
 
 — Sempre juntos.
+
+As portas se fecham completamente, e ficamos ali, em silêncio, cada
+um segurando a mão do outro com a mesma firmeza silenciosa que já se
+tornou hábito nosso, prontos, apesar de tudo, pra qualquer verdade
+que ainda esteja esperando pra ser descoberta.

@@ -14,6 +14,12 @@ ainda carregar mágoa fresca.
 
 — Sei disso. Não espero que desfaça.
 
+— Por que você fez isso, Patricia? Depois de tudo que atravessamos
+juntos, depois de tanto tempo trabalhando lado a lado?
+
+— Porque acreditei, genuinamente, mesmo estando errada, que era o
+caminho certo. Sei que isso não muda nada agora.
+
 ---
 
 Ela sai, e o conselho se dissolve pouco depois, cada conselheiro
@@ -121,3 +127,8 @@ Saímos do apartamento dela em silêncio pesado, cada passo carregando
 o peso de uma relação que começou com tanta esperança e terminou
 exatamente onde os fatos sempre apontaram, silenciosamente, desde o
 início.
+
+Cami segura minha mão assim que a porta do prédio fecha atrás de nós,
+e caminhamos juntos até o carro em silêncio, cada um processando à
+própria maneira o peso de mais uma verdade dolorosa finalmente
+revelada por completo.
