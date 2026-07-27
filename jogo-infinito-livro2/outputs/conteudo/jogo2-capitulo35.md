@@ -18,6 +18,9 @@ sustentada.
 próprio ceticismo profissional pela primeira vez começar a ceder
 espaço genuíno.
 
+Devon assente, fechando o próprio relatório com cuidado, satisfeito
+com o próprio progresso da revisão inteira.
+
 — As duas coisas são possíveis, honestamente — Devon acrescenta. —
 Vamos continuar observando até o fim do período, sem presumir nenhuma
 das duas ainda.
@@ -32,6 +35,9 @@ conta. — Já confirmei que o dinheiro está indo direto pra instituição,
 sem intermediário nenhum suspeito.
 
 — Isso é generoso da parte dela.
+
+Sinto o próprio peito se aquecer com a notícia, gratidão silenciosa
+crescendo por essa versão mais leve de Elena que reconheço de volta.
 
 — É, né? Fico feliz em ver esse lado dela também, não só o lado que
 negocia contrato.

@@ -15,6 +15,9 @@ tínhamos amizade real.
 — Eu sei, Elena. Sinto muito que você tenha sido machucada nisso
 também.
 
+Aperto o próprio celular contra o ouvido, sentindo a dor dela quase
+tão viva quanto a minha própria.
+
 — Não é culpa sua, sabe. Nem do Alex. Ela que escolheu mentir pra
 todo mundo que confiou nela.
 
@@ -93,6 +96,10 @@ sentando ao meu lado sem dizer nada por um momento longo.
 vezes. Mas assinei o encerramento formal mesmo assim.
 
 — Você fez a coisa certa, Alex.
+
+Ele assente devagar, ainda processando o próprio peso da tarde
+inteira, e sinto, observando ele, gratidão renovada por ele ter
+escolhido dignidade mesmo em meio a tanta dor.
 
 — Sei que fiz. Só ainda dói, mesmo sabendo que era necessário.
 

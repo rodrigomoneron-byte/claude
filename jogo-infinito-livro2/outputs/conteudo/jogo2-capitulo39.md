@@ -16,6 +16,9 @@ com precisão.
 
 — Vou mandar tudo hoje ainda.
 
+Anoto mentalmente cada detalhe que ele pede, sentindo o próprio corpo
+já se preparar pra reunir tudo assim que a ligação terminar.
+
 Sinto o próprio corpo tenso, cada palavra dele carregando peso que
 já reconheço bem demais depois de meses atravessando situação
 parecida.
@@ -122,6 +125,9 @@ completo antes de qualquer confronto formal.
 — Vou providenciar isso. E, Cami — ele hesita — sinto muito que essa
 descoberta tenha vindo justo agora, depois de tudo que vocês já
 atravessaram recentemente.
+
+Agradeço a ele, sentindo o próprio corpo cansado demais pra formular
+resposta mais longa que isso.
 
 — Aprecio a solidariedade, Devon. Mas prefiro descobrir agora do que
 deixar isso continuar crescendo sem controle.

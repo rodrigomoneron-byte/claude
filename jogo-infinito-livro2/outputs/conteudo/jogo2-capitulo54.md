@@ -13,7 +13,9 @@ pra confiança tranquila que só resultado real consegue trazer.
 concluindo a apresentação. — Sem parceiro externo, só execução
 sólida da própria equipe interna.
 
-Thomas Reyes, o novo conselheiro, assente com aprovação visível.
+Thomas Reyes, o novo conselheiro, assente com aprovação visível,
+observando os próprios números com atenção redobrada antes de
+comentar qualquer coisa.
 
 — Isso confirma que a decisão de reestruturar sozinho foi correta.
 
@@ -56,6 +58,9 @@ vista.
 — Muito boa. Números excelentes, conselho satisfeito.
 
 — Isso é ótimo, Alex. Você merece essa vitória, depois de tudo.
+
+Ela sorri, o próprio rosto carregando orgulho genuíno que sinto
+aquecer o peito inteiro.
 
 — Nós dois merecemos. Você fez tanto quanto eu pra chegar até aqui.
 

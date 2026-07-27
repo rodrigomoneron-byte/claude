@@ -14,6 +14,9 @@ te contar, pra não te dar suspeita sem prova sólida.
 
 — Isso já soa sério.
 
+Sinto o próprio corpo se firmar contra o sofá, tentando me preparar
+pra receber o que quer que ela ainda vá dizer.
+
 — É, Alex. E preciso que você me escute inteiro antes de reagir,
 porque tem mais de uma camada nisso.
 
@@ -36,6 +39,9 @@ Fico parado por um segundo inteiro, tentando processar o próprio
 peso da palavra antes mesmo de ouvir os detalhes completos.
 
 — E o resultado?
+
+Sinto o próprio corpo inteiro congelar, esperando a resposta com o
+mesmo peso de quem espera veredicto.
 
 — Confirmado. A assinatura é falsificação, com noventa e cinco por
 cento de certeza, segundo o perito.

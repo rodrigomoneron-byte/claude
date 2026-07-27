@@ -19,6 +19,9 @@ Alexandra ofereceu ontem — mais específico, mais estratégico do que
 
 — Isso é mais detalhado do que ela admitiu.
 
+Sinto o próprio corpo tenso, a informação ainda se assentando devagar
+antes de conseguir formular qualquer próximo passo.
+
 — É. Não significa necessariamente má-fé. Pode ser cautela legítima
 de investidora que já foi prejudicada antes. Mas é mais específico do
 que "proteção pessoal genérica".
@@ -41,6 +44,9 @@ admitindo a existência da consulta.
 considerando que ela acabou de sair do próprio túmulo do pai.
 
 — Tem razão. Vou escolher palavras com cuidado.
+
+Desligo o celular, sentindo o próprio corpo já se preparar pra mais
+uma conversa difícil antes do fim do dia.
 
 — Quer que eu esteja presente dessa vez?
 

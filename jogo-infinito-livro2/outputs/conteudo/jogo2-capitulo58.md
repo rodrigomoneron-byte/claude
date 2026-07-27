@@ -17,6 +17,9 @@ não porque duvido da própria decisão.
 
 — Isso é exatamente como devia ser.
 
+Ele respira fundo, o próprio sorriso vacilando por um instante antes
+de se firmar de novo, mais tranquilo.
+
 — Obrigado por estar aqui, ajudando com essa gravata teimosa —
 brinca, ainda tentando ajustar o próprio nó.
 
@@ -43,6 +46,9 @@ juntos nos últimos meses se cristalizar em gratidão profunda.
 pela primeira vez como marido e mulher.
 
 — Um pouco, admito.
+
+Ela ri baixinho, apertando minha mão com carinho evidente, o próprio
+gesto carregando ternura que sinto no peito inteiro.
 
 — Isso é adorável, Alex.
 

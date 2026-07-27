@@ -15,6 +15,9 @@ assim que entro na sala.
 — Concordo completamente. Você trabalhou duro demais por esse
 resultado.
 
+Ele sorri, servindo mais um pouco de champanhe pros dois, o próprio
+gesto carregando leveza que sinto contagiar o resto da noite.
+
 — Nós dois trabalhamos duro — corrige, servindo a segunda taça. —
 Cada decisão que tomei nos últimos meses carregou sua marca também,
 mesmo quando você não estava na sala.
@@ -41,6 +44,9 @@ delas nos ensinou lição que agora carrega valor real, aplicável em
 tudo que ainda construímos daqui em diante.
 
 — Isso é sabedoria genuína, vinda de você.
+
+Ele sorri, apertando minha mão de leve, o próprio gesto carregando
+gratidão que sinto refletida no meu próprio peito também.
 
 — Aprendi com a melhor professora possível.
 

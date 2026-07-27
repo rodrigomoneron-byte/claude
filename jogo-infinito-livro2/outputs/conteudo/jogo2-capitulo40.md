@@ -19,6 +19,9 @@ aleatória.
 peso da pergunta pesar mais do que qualquer outra desde que essa
 crise inteira começou.
 
+Cami segura minha mão por baixo da mesa, o próprio gesto silencioso
+carregando apoio que sinto precisar mais do que qualquer palavra.
+
 — Pode significar isso, dependendo de como as duas respondem quando
 confrontadas — Dan esclarece, o próprio tom cuidadosamente neutro. —
 Prefiro não presumir resultado antes de dar chance de explicação.
@@ -33,6 +36,9 @@ formalmente — ele responde. — Prefiro dar oportunidade de explicação
 completa antes de qualquer acusação oficial.
 
 — Quando você pretende fazer isso?
+
+Sinto o próprio corpo tenso, cada segundo de espera pela resposta
+esticando mais do que qualquer outro momento recente.
 
 — Hoje, se possível. Quanto mais tempo passa, mais chance existe de
 qualquer uma delas destruir prova ou coordenar história em conjunto.

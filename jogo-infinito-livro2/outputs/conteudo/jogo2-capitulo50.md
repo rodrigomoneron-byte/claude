@@ -31,6 +31,9 @@ próprio peso do gesto.
 
 — Isso é... inesperado. O que você vai fazer com ele?
 
+Fico em silêncio por um instante, sentindo o próprio peso do anel
+ainda entre os dedos antes de conseguir formular qualquer resposta.
+
 — Ainda estou processando o próprio choque de ter recebido isso.
 Preciso de um minuto antes de decidir qualquer coisa.
 
@@ -81,6 +84,9 @@ sobre isso tudo.
 continuam existindo, complicadas, sem solução limpa.
 
 — Isso é sabedoria real.
+
+Cami se aproxima mais, a mão pousando na minha, o próprio gesto
+carregando conforto silencioso que sinto precisar bastante agora.
 
 ---
 
