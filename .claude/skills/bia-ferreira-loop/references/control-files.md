@@ -50,7 +50,15 @@ cada capítulo e continuar automaticamente. Refinamento fino fica para o final.
 3. VALIDAR   → bia-ferreira-voice-validator (score /7 + relatório)
 4. FALHA     → auto-revisar pontos apontados; máx. 2 revisões; se persistir e
                não for quebra estrutural → "aprovado com ressalva" e CONTINUA
-5. ESTADO    → scripts/loop_state.py record ...
+5. ESTADO    → scripts/loop_state.py record ... --heat yes|no (SEMPRE marcar
+               se o capítulo tem cena de heat — o checkpoint do passo 5b
+               depende disso)
+5b. CADÊNCIA → o `record` já roda o checkpoint automaticamente (extensão +
+               heat vs. meta travada). Se aparecer aviso, os PRÓXIMOS
+               capítulos precisam corrigir o ritmo (extensão maior, cena de
+               heat planejada) — trava tão dura quanto a régua, só que
+               verificada capítulo a capítulo em vez de dentro de um único
+               capítulo. NUNCA adiar isso pra um "reforço" no final.
 6. APRESENTAR + CONTINUAR (sem pedir aprovação)
 
 ## Limiares
@@ -77,8 +85,14 @@ cada capítulo e continuar automaticamente. Refinamento fino fica para o final.
 ```bash
 python scripts/loop_state.py init <proj> \
   --book "A Mão na Alavanca — Livro 2" --target 67 --word-target 90000 \
+  --heat-target 12 --max-heat-gap 6 --first-heat-by 6 \
   --povs "Cassius,Wren" --first-pov Wren
 ```
+
+`--heat-target`, `--max-heat-gap` e `--first-heat-by` vêm do project_dna.md
+do livro atual (seção de cadência de heat) — nunca de um valor genérico.
+Sem eles o checkpoint de cadência de heat simplesmente não roda (word
+target sozinho ainda funciona).
 
 Consultar próxima ação:
 ```bash
@@ -88,14 +102,24 @@ python scripts/loop_state.py next <proj>
 Registrar capítulo concluído:
 ```bash
 python scripts/loop_state.py record <proj> --n 1 --pov Wren --words 1180 \
-  --score 7 --status aprovado
+  --score 7 --status aprovado --heat no
+# capítulo com cena de heat:
+python scripts/loop_state.py record <proj> --n 6 --pov Cassius --words 1320 \
+  --score 7 --status aprovado --heat yes
 # com ressalva:
 python scripts/loop_state.py record <proj> --n 3 --pov Cassius --words 1240 \
   --score 5 --status "aprovado com ressalva" --ressalva "pacing do meio arrasta"
 ```
 
-O `record` atualiza o placar (palavras, ~págs, média de score, % da meta) e
-define o próximo capítulo + POV (alternância automática) sozinho.
+O `record` atualiza o placar (palavras, ~págs, média de score, % da meta,
+cenas de heat feitas) e define o próximo capítulo + POV (alternância
+automática) sozinho — e roda o checkpoint de cadência automaticamente,
+imprimindo avisos acionáveis quando o ritmo real (extensão ou heat) fica
+abaixo do esperado pra aquele ponto do livro. Pra reconferir sem registrar
+capítulo novo:
+```bash
+python scripts/loop_state.py check <proj>
+```
 
 ---
 

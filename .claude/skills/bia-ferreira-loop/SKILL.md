@@ -64,15 +64,39 @@ Para cada capítulo N (POV vindo de PROGRESS.json, alternando):
    "aprovado com ressalva", registre para o refinamento final e **CONTINUE**
    (não trave o livro por um desvio fino). Quebra estrutural real (POV
    errado, tempo verbal, contradição de trama) → registre BLOQUEIO e pare.
-5. **ATUALIZAR ESTADO** — `scripts/loop_state.py record ...`: registra
-   capítulo (n, pov, palavras, score, status), atualiza placar (total de
-   palavras, ~págs KDP = palavras/300, média de score, capítulos feitos) e
-   define próximo capítulo + POV.
+5. **ATUALIZAR ESTADO** — `scripts/loop_state.py record ... [--heat yes|no]`:
+   registra capítulo (n, pov, palavras, score, status, **se o capítulo
+   contém cena de heat**), atualiza placar (total de palavras, ~págs KDP =
+   palavras/300, média de score, capítulos feitos, cenas de heat feitas) e
+   define próximo capítulo + POV. **Sempre passe `--heat yes` quando o
+   capítulo tiver cena** — sem isso o checkpoint do passo 5b fica cego.
+5b. **CHECKPOINT DE CADÊNCIA (trava dura, mecânica) — NÃO pular.**
+   `record` já roda esse checkpoint automaticamente e imprime avisos. Leia
+   a saída. Se aparecer `⚠️ CHECKPOINT DE CADÊNCIA`, isso é bloqueante pro
+   PRÓXIMO capítulo, do mesmo jeito que a régua é bloqueante pro capítulo
+   atual:
+   - **Atraso de extensão** → o(s) próximo(s) capítulo(s) precisam sair
+     MAIORES que o normal (o próprio aviso já calcula a média necessária).
+     NÃO adie isso pra um "passe de reforço" no final — esse é exatamente
+     o padrão que já se repetiu em todo livro anterior do catálogo e que
+     esse checkpoint existe pra quebrar.
+   - **Atraso de cadência de heat / gap excedido / primeira cena atrasada**
+     → avalie ativamente, capítulo a capítulo a partir daqui, se o próximo
+     beat da trama comporta uma cena. Se comportar, planeje ela nos
+     próximos 1-3 capítulos. Se genuinamente não comportar (ex.: capítulo
+     de clímax, ruptura ativa — respeitando "nunca gratuito"), registre
+     isso como decisão consciente (ex.: `--ressalva "heat adiado: cap. em
+     confronto direto, sem espaço pra cena"` no record), não como omissão
+     silenciosa. O aviso reaparece a cada capítulo até ser resolvido —
+     ele não some sozinho.
+   Rode `scripts/loop_state.py check <proj>` a qualquer momento pra
+   reconferir sem registrar capítulo novo (ex.: no meio de uma sessão longa).
 6. **APRESENTAR + CONTINUAR** — `present_files` do capítulo + 1 linha de
-   placar, e **siga imediatamente para o próximo capítulo**, sem pedir
-   aprovação. Respeite `tamanho_do_lote` do LOOP_INSTRUCTIONS (ex.: quantos
-   capítulos por turno antes de continuar no turno seguinte — também sem pedir
-   aprovação; o usuário pode interromper quando quiser).
+   placar (incluindo o resultado do checkpoint de cadência), e **siga
+   imediatamente para o próximo capítulo**, sem pedir aprovação. Respeite
+   `tamanho_do_lote` do LOOP_INSTRUCTIONS (ex.: quantos capítulos por turno
+   antes de continuar no turno seguinte — também sem pedir aprovação; o
+   usuário pode interromper quando quiser).
 
 ## Ao atingir o critério de parada (todos os N capítulos)
 
@@ -98,6 +122,13 @@ Para cada capítulo N (POV vindo de PROGRESS.json, alternando):
 ## Regras que o loop nunca viola
 
 - NUNCA avançar com "a gente" na página ou com o device da régua.
+- NUNCA deixar o checkpoint de cadência (passo 5b) acumular aviso sobre
+  aviso sem agir — extensão e heat são travas tão obrigatórias quanto a
+  régua, só que verificadas a cada capítulo em vez de dentro de um único
+  capítulo. Descobrir no editor-global, no fim do livro, que faltam 40%
+  das cenas de heat ou 8.000 palavras é o próprio bug que este checkpoint
+  existe pra eliminar — se isso ainda acontecer, o checkpoint não foi
+  rodado ou foi ignorado.
 - NUNCA usar o generic-validator (ele não conhece as marcas/POV/heat).
 - NUNCA usar nomes de personagens, símbolos ou fatos de mundo de outro
   livro/série da casa no projeto atual — cada série tem seu próprio
