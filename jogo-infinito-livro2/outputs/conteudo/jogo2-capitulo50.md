@@ -24,7 +24,8 @@ justamente por alguém que escolheu mentira em vez de confiar que a
 verdade sozinha seria suficiente.
 
 Ligo pra Elena, precisando compartilhar antes de qualquer outra
-coisa.
+coisa, sentindo o próprio corpo ainda tenso pelo peso do gesto
+inesperado.
 
 — Alexandra mandou o anel de volta — conto, ainda processando o
 próprio peso do gesto.
@@ -84,6 +85,10 @@ sobre isso tudo.
 continuam existindo, complicadas, sem solução limpa.
 
 — Isso é sabedoria real.
+
+Sinto o próprio corpo relaxar ligeiramente com a própria sabedoria
+simples dela, grato por essa clareza tranquila que só ela consegue
+trazer.
 
 Cami se aproxima mais, a mão pousando na minha, o próprio gesto
 carregando conforto silencioso que sinto precisar bastante agora.

@@ -30,6 +30,9 @@ aconteceram. Mas a frequência, sozinha, já é dado relevante.
 — Existe alguma explicação inocente possível, na sua avaliação
 profissional?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+peso de quem espera veredicto.
+
 Devon pensa por um momento antes de responder, o próprio rosto
 carregando a mesma seriedade cuidadosa de sempre.
 
@@ -65,6 +68,9 @@ conluio de verdade.
 
 — Isso é sensato. Vou pedir pra Devon continuar rastreando,
 discretamente.
+
+Sinto o próprio corpo tenso, cada palavra nova exigindo mais esforço
+pra processar do que a anterior.
 
 ---
 

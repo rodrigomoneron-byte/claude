@@ -29,6 +29,9 @@ Prefiro não presumir resultado antes de dar chance de explicação.
 — Isso é sensato, mesmo sendo difícil de ouvir agora — comento,
 sentindo o próprio corpo tenso demais pra relaxar completamente.
 
+Dan assente devagar, reunindo os próprios papéis antes de continuar
+explicando o próprio processo com calma.
+
 ---
 
 — Preciso conversar com as duas separadamente antes de decidir isso
@@ -116,6 +119,9 @@ David Okonkwo se inclina pra frente, o próprio rosto carregando
 preocupação genuína.
 
 — Patricia, o que está acontecendo?
+
+Sinto o próprio corpo inteiro tenso, esperando a resposta dela com o
+mesmo peso de quem espera veredicto.
 
 Ela respira fundo, os olhos percorrendo a sala inteira antes de
 pousar diretamente em mim.

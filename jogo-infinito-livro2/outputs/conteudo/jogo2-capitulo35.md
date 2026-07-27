@@ -25,6 +25,9 @@ com o próprio progresso da revisão inteira.
 Vamos continuar observando até o fim do período, sem presumir nenhuma
 das duas ainda.
 
+Sinto o próprio corpo relaxar ligeiramente, apesar de saber que a
+resposta final ainda está longe de chegar.
+
 ---
 
 Elena me liga à tarde, a voz carregando entusiasmo que reconheço como
@@ -64,6 +67,9 @@ diferente da tensão costumeira das últimas semanas.
 Primeira vez em meses que digo isso.
 
 — Isso é bom sinal, ou estamos ficando complacentes demais?
+
+Renata pensa antes de responder, o próprio rosto carregando a mesma
+seriedade cuidadosa de sempre.
 
 — As duas coisas podem ser verdade ao mesmo tempo. Prefiro continuar
 verificando com o mesmo rigor, mesmo sem descoberta nova recente.

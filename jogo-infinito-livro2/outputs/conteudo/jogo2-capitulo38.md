@@ -22,6 +22,9 @@ porque tem mais de uma camada nisso.
 
 — Estou ouvindo. Prometo.
 
+Sinto o próprio corpo firme, decidido a absorver qualquer coisa que
+ela ainda precise dizer sem desviar o próprio olhar.
+
 Ela respira fundo, os próprios dedos entrelaçados no colo, e sinto,
 observando ela, o próprio corpo inteiro se preparar pra receber
 alguma coisa que sei, instintivamente, vai mudar tudo.
@@ -52,6 +55,9 @@ só que dessa vez, o peso carrega camada pessoal que nenhuma crise
 corporativa anterior jamais carregou.
 
 — Isso significa que ela mentiu sobre tudo?
+
+Sinto o próprio corpo tenso, cada palavra nova exigindo mais esforço
+pra processar do que a anterior.
 
 — Não necessariamente sobre tudo. A história do Theodore, o
 parentesco em si, provavelmente ainda é real — isso bate com registro

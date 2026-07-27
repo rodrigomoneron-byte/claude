@@ -42,6 +42,10 @@ duro sem precisar anunciar isso o tempo inteiro.
 — Isso significa muito ouvir, mesmo vindo de história que nunca
 consegui viver diretamente.
 
+Observo os dois em silêncio, sentindo o próprio peso do momento se
+acumular também no meu peito, testemunha silenciosa dessa própria
+reconciliação improvável.
+
 ---
 
 Ficamos ali por um tempo longo, cada um absorvendo o próprio peso do
@@ -70,6 +74,9 @@ eles.
 — Isso fala muito sobre o caráter dela — comento, sentindo o próprio
 peso emocional da manhã se acumular junto com a cautela profissional
 que nunca desliga completamente.
+
+Alexandra sorri de leve, seguindo adiante entre as próprias lápides
+com o mesmo cuidado reverente de antes.
 
 Terminamos a visita em silêncio contemplativo, e quando voltamos pro
 carro, Alexandra vira pra nós dois, o próprio rosto carregando

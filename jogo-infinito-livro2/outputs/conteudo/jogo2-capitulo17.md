@@ -14,6 +14,9 @@ rápido pela matéria antes mesmo de ela terminar de explicar.
 nomes específicos nem valores. Não é ideal, mas também não é
 catástrofe.
 
+Sinto o próprio corpo relaxar ligeiramente, apesar de saber que o
+próprio alívio ainda não é completo.
+
 — Isso nos dá espaço pra controlar a narrativa quando anunciarmos
 formalmente?
 
@@ -106,6 +109,9 @@ não tem relação nenhuma com Alexandra, além de compartilhar o mesmo
 escritório grande. Coincidência real, não estratégia coordenada.
 
 — Isso é bom sinal.
+
+Sinto o próprio corpo relaxar ligeiramente, grata por mais essa peça
+verificada e afastada do próprio quebra-cabeça inteiro.
 
 — É. Só... ainda não encontrei explicação completa pra data de
 nascimento inconsistente do pai dela. Continuo verificando, mas os

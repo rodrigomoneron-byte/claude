@@ -10,6 +10,9 @@ Ela lembra do escândalo. Ou pelo menos de parte dele.
 
 — Conta tudo.
 
+Sento na própria cadeira, sentindo o corpo tenso, esperando qualquer
+coisa que ela ainda vá revelar.
+
 — O irmão do vovô, Theodore, se envolveu com uma mulher que a família
 considerava "inadequada" — sem dinheiro, sem sobrenome que
 importasse. Ele escolheu ela mesmo assim. O bisavô deserdou ele
@@ -71,6 +74,9 @@ verdade, merece conhecer o resto de nós, não só negociar contrato numa
 sala de reunião fria.
 
 — Isso é boa ideia.
+
+Sinto o próprio peito se aquecer com a própria sugestão dela, gratidão
+crescendo por essa irmã sempre disposta a pensar no que importa.
 
 Ela sai, e viro pra Marcus, notando a própria tensão na postura dele.
 
