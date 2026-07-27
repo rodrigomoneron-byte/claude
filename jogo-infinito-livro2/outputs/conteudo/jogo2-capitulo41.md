@@ -16,6 +16,10 @@ Patricia respira fundo antes de responder, os olhos percorrendo cada
 rosto na sala como se buscasse, em algum lugar, compreensão que sabe
 não vai encontrar completamente.
 
+Aperto a mão de Alex por baixo da mesa, sentindo o próprio corpo
+dele tenso ao meu lado, cada segundo de silêncio esticando mais do
+que qualquer reunião de conselho anterior já esticou.
+
 ---
 
 — Porque acredito genuinamente que Alexandra representa governança
@@ -113,3 +117,8 @@ documentos, e observo ela, sentindo mistura estranha de raiva e pena
 — a mesma mulher que defendeu Alex publicamente durante a crise mais
 grave da própria carreira dele, escolhendo agora sair pela porta que
 ela mesma ajudou a fechar sobre a confiança de todos ali.
+
+Ela para na porta, virando de volta por um momento, como se quisesse
+dizer mais alguma coisa, mas decide não dizer nada, e sai, deixando
+a sala inteira em silêncio pesado, cada um de nós processando à
+própria maneira o peso do que acabou de ser revelado.

@@ -23,6 +23,12 @@ acontece, no meio de tanta crise.
 
 — Prometo que vou tentar lembrar mais disso, daqui pra frente.
 
+— Eu também vou tentar. Vamos os dois prometer isso um ao outro,
+então — pausar mais, comemorar mais, não só sobreviver crise atrás
+de crise.
+
+— Combinado. Isso soa como promessa que vale a pena manter.
+
 ---
 
 Servimos o vinho, sentando juntos no sofá, conversa fluindo fácil
@@ -114,3 +120,8 @@ Alex se mexe ao meu lado, ainda meio adormecido, e puxa minha mão de
 volta pro próprio peito, e fico ali, quieta, absorvendo o peso bom
 desse momento simples antes que o dia inteiro, com toda a liberdade
 nova que ele carrega, finalmente comece.
+
+Fico ali mais um tempo, ouvindo a própria respiração dele desacelerar
+de volta ao sono, e sinto, mais uma vez, gratidão profunda por essa
+vida construída, devagar, sobre tanta verdade compartilhada, mesmo
+quando ela custou mais do que qualquer um de nós esperava suportar.

@@ -19,6 +19,11 @@ que precisa ser rápida, quando for rápida.
 
 — Mensal, com relatório pro conselho pleno a cada trimestre.
 
+— Isso parece razoável, considerando o volume normal de atividade.
+
+— Parece, sim. Só vamos continuar de olho, independente da própria
+estrutura formal.
+
 Isso soa razoável, penso, embora alguma parte de mim já registre a
 frequência como possível ponto cego — muito tempo entre um relatório
 formal e outro, tempo suficiente pra qualquer coisa se desenvolver
@@ -124,3 +129,8 @@ Desligamos pouco depois, e fico sentada, sentindo o próprio peso da
 noite se acumular devagar — não pânico, ainda, só a certeza cada vez
 mais firme de que essa parceria vai exigir muito mais vigilância do
 que qualquer um de nós dois esperava no início.
+
+Guardo o próprio celular, olhando pro relógio de bolso do meu pai na
+estante, pensando em quanto essa vigilância específica já se tornou
+segunda natureza, depois de tudo que aprendi sobre o custo real de
+não perguntar cedo o suficiente.

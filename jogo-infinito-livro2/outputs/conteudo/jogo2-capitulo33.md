@@ -17,6 +17,11 @@ esperando até amanhã de manhã.
 
 — Gosto muito dessa regra. Vou seguir o exemplo.
 
+Desligo meu próprio celular também, sentindo, mesmo nesse gesto
+pequeno, o peso de uma decisão maior — escolher, deliberadamente,
+proteger algumas horas só pra nós dois, sem deixar o mundo lá fora
+invadir esse espaço.
+
 Ele se aproxima, os braços envolvendo minha cintura, a testa
 encostando na minha por um momento longo, absorvendo silenciosamente
 o próprio peso do dia sem precisar de palavra nenhuma.
@@ -112,3 +117,8 @@ apesar de tudo, ainda conseguiu carregar algo genuinamente bom —
 prova de que mesmo no meio da incerteza mais pesada, ainda existe
 espaço real pra ternura, pra descanso, pra simplesmente existir juntos
 sem exigir resposta imediata pra cada pergunta ainda em aberto.
+
+Fecho os olhos de novo, tentando aproveitar mais algumas horas dessa
+paz frágil antes que o dia amanheça, trazendo consigo a próxima
+camada dessa história que ainda não terminou de se revelar
+completamente.
