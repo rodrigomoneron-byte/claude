@@ -70,6 +70,13 @@ qualquer confronto direto.
 
 — Concordo. Vou ligar pra ele amanhã de manhã.
 
+— Quer que eu esteja na ligação com você, ou prefere fazer sozinho?
+
+— Prefiro você comigo. Não sei se vou conseguir manter clareza
+completa sozinho, considerando o próprio peso emocional disso tudo.
+
+— Vou estar lá. Sempre vou estar.
+
 Cami segura minha mão, o próprio gesto carregando conforto que sinto
 precisar mais do que qualquer palavra conseguiria oferecer nesse
 momento.

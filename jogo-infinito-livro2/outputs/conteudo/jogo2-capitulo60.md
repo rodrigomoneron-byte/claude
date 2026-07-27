@@ -83,6 +83,13 @@ história inteira dentro das próprias paredes.
 — É verdade. E vai continuar carregando, capítulo atrás de capítulo,
 seja lá o que ainda vier.
 
+— Sabe o que eu espero, sinceramente? — continuo, olhando pra ela. —
+Que daqui a vinte anos, ainda estejamos aqui, olhando pra trás pra
+essa conversa exata, rindo de quanto achávamos que já tínhamos
+atravessado tudo que precisávamos atravessar.
+
+— Isso soa exatamente como o tipo de futuro que eu também quero.
+
 ---
 
 — Isso não te assusta? Saber que sempre vai existir próximo capítulo,

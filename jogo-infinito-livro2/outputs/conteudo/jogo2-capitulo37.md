@@ -100,6 +100,21 @@ faz escolha terrível, mesmo carregando emoção genuína ao lado dela.
 — Isso é exatamente o que continuo repetindo pra mim mesma. Só ainda
 dói aceitar completamente.
 
+— Quer que eu vá aí? Não preciso ficar sozinha nisso, sabe — Renata
+oferece, a voz suavizando.
+
+— Aprecio a oferta. Mas preciso processar isso sozinha por hoje. Vou
+ficar bem, prometo.
+
+— Tudo bem. Só me liga se mudar de ideia, a qualquer hora.
+
+Desligamos por um momento, e uso o silêncio pra andar até a janela,
+observando o próprio movimento da cidade lá embaixo, tentando
+organizar mentalmente cada peça reunida ao longo dessas últimas
+semanas — nenhuma delas, sozinha, suficiente pra condenar. Juntas,
+formando quadro que já não consigo mais ignorar, por mais que ainda
+queira.
+
 — É normal doer. Você não escolheu ficar cética por prazer. Escolheu
 porque precisava proteger alguém que ama.
 

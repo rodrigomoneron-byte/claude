@@ -32,6 +32,13 @@ antes de mim.
 — Lembro. E fico grato, cada dia mais, por ter feito essa promessa
 com você especificamente.
 
+— Eu também. Mesmo nos dias mais pesados, sabe que sempre vou estar
+aqui, do seu lado, mesmo quando a verdade dói mais do que qualquer um
+de nós gostaria.
+
+— Sei disso. E é exatamente isso que torna tudo suportável, mesmo
+quando parece demais.
+
 O beijo começa devagar, carregado do peso acumulado de semanas
 inteiras de tensão dividida entre esperança e cautela, e sinto o
 próprio corpo relaxar contra o dele, precisando, depois de tanto
