@@ -59,6 +59,9 @@ que negou.
 
 — Isso não é ironia. É evolução.
 
+Sinto o próprio corpo relaxar ligeiramente, grato por essa conversa
+específica fluir com uma facilidade que raramente sentimos juntos.
+
 Ela sorri, o próprio olhar carregando gratidão genuína por essa
 observação simples.
 

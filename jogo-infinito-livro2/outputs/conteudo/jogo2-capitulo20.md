@@ -9,6 +9,9 @@ aeroporto, um sorriso genuíno iluminando o rosto dela quando nos vê.
 visitamos o cemitério onde meu pai está enterrado. Hoje, se topam,
 quero mostrar o escritório que estamos preparando pra sede europeia.
 
+Sinto o próprio corpo cansado da viagem relaxar ligeiramente com a
+própria recepção calorosa dela.
+
 — Adoraríamos — respondo, sentindo o próprio peso da conversa que
 ainda preciso ter pairando por baixo da própria cordialidade.
 

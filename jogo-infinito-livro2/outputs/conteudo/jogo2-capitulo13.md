@@ -23,6 +23,9 @@ mesmo sem conseguir imaginar ainda o quanto ela vai importar depois.
 
 — Patricia disse alguma coisa sobre cronograma de reunião do comitê?
 
+Sinto o próprio corpo tenso, curiosa demais pra esperar a resposta
+dele com calma completa.
+
 — Mensal, com relatório pro conselho pleno a cada trimestre.
 
 — Isso soa razoável, considerando a escala envolvida.

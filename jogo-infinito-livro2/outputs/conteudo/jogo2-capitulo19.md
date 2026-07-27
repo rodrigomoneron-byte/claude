@@ -16,6 +16,10 @@ continuar a verificação de rotina, só reduzida.
 
 — Perfeito. Vamos aproveitar essa viagem de verdade, então.
 
+Sinto o próprio peito se aquecer, gratidão silenciosa crescendo por
+essa versão leve da manhã, antes que qualquer nova complicação exija
+atenção outra vez.
+
 — É a primeira vez em semanas que sinto isso, honestamente — leveza
 real, não só alívio temporário entre uma crise e outra.
 

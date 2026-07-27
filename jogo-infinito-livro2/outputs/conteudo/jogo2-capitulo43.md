@@ -24,6 +24,10 @@ quanto era difícil de assistir.
 
 — Sempre. Nunca ia deixar você atravessar isso sozinho.
 
+Aperto a mão dele, sentindo o próprio peso do dia inteiro se somar ao
+meu também, gratidão silenciosa crescendo por atravessar isso lado a
+lado.
+
 — Sei disso. E, mesmo com todo o peso do dia, isso é a única coisa
 que sinto com certeza absoluta agora — que não estou sozinho nisso.
 

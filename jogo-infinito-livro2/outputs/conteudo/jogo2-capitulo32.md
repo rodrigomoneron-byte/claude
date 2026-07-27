@@ -63,6 +63,10 @@ parceria.
 
 — Isso parece justo — concordo. — Justo pra ela, justo pra nós.
 
+Sinto o próprio corpo relaxar ligeiramente com essa proposta
+equilibrada, grato por ter, ao lado, alguém capaz de sugerir caminho
+justo mesmo em meio a tanta incerteza.
+
 Cami assente, mas o próprio rosto carrega alguma coisa que reconheço
 como reserva ainda não completamente resolvida.
 

@@ -15,6 +15,9 @@ assim que entro na sala.
 — Concordo completamente. Você trabalhou duro demais por esse
 resultado.
 
+Sinto o próprio peito se encher de orgulho genuíno, gratidão
+crescendo por testemunhar essa vitória específica ao lado dele.
+
 Ele sorri, servindo mais um pouco de champanhe pros dois, o próprio
 gesto carregando leveza que sinto contagiar o resto da noite.
 

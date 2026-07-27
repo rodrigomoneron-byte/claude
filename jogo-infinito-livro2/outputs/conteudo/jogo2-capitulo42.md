@@ -15,14 +15,14 @@ nem tentar minimizar o próprio papel nisso tudo.
 — Isso não desfaz o dano causado — respondo, sentindo a própria voz
 ainda carregar mágoa fresca.
 
-Ela assente devagar, absorvendo a própria acusação sem tentar
-suavizar nada.
-
-Ela assente, aceitando a própria acusação sem discordar, o silêncio
-entre nós carregando peso que nenhuma palavra sozinha conseguiria
-capturar completamente.
+Ela assente devagar, aceitando a própria acusação sem discordar, o
+silêncio entre nós carregando peso que nenhuma palavra sozinha
+conseguiria capturar completamente.
 
 — Sei disso. Não espero que desfaça.
+
+Sinto o próprio corpo tenso, absorvendo cada palavra nova com o mesmo
+choque que sinto refletido no rosto dela.
 
 — Você já sabia, quando defendeu Alexandra tão intensamente naquele
 dia, que ela usaria documento fraudado?
