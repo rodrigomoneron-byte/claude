@@ -9,8 +9,8 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 40,
-  "next_pov": "Alex",
+  "next_chapter": 39,
+  "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
     {
@@ -275,7 +275,7 @@
     {
       "n": 38,
       "pov": "Alex",
-      "words": 766,
+      "words": 838,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -366,7 +366,7 @@
     {
       "n": 51,
       "pov": "Cami",
-      "words": 764,
+      "words": 830,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -394,7 +394,7 @@
     {
       "n": 55,
       "pov": "Cami",
-      "words": 765,
+      "words": 839,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -459,10 +459,10 @@
   ],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 48935,
-    "pages_kdp": 163,
+    "total_words": 49147,
+    "pages_kdp": 164,
     "avg_score": 7.0,
-    "pct_to_target": 84
+    "pct_to_target": 85
   },
   "decisoes_travadas": {
     "nucleo_romantico": "Herdado do Livro 1 — Cami/Alex casal estabelecido, sem triângulo neste livro",
@@ -477,5 +477,5 @@
     "extensao_total": "58000-67000 palavras, 60 capítulos, SEM epílogo neste volume"
   },
   "created": "2026-07-27",
-  "updated": "2026-07-27 02:01"
+  "updated": "2026-07-27 02:02"
 }

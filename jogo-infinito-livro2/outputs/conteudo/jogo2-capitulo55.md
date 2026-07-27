@@ -41,6 +41,11 @@ tudo que ainda construímos daqui em diante.
 
 — Aprendi com a melhor professora possível.
 
+— Você continua me dando crédito demais, sabe — brinco, apertando a
+mão dele. — Cresceu bastante sozinho também, nesse último ano.
+
+— Talvez. Mas cresci mais rápido tendo você como exemplo constante.
+
 ---
 
 Sorrio, sentindo o próprio peito se aquecer com a confissão dele, e
@@ -123,3 +128,8 @@ Levanto devagar, sem acordar Alex completamente, e vou até a janela,
 observando o próprio sol nascer sobre Manhattan, sentindo, mais uma
 vez, gratidão profunda por essa vida que os dois construíram, juntos,
 com tanto cuidado deliberado.
+
+Fico ali um tempo longo, os braços cruzados contra o próprio peito,
+observando a cidade acordar devagar lá embaixo, e sinto, mais uma
+vez, certeza tranquila de que qualquer desafio novo que ainda venha
+vai encontrar nós dois prontos, juntos, do jeito que sempre estivemos.

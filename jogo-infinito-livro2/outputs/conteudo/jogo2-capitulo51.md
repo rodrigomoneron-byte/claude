@@ -22,6 +22,10 @@ possível. Casa comigo?
 — Sim — ela responde, sem hesitar, puxando ele pra abraço apertado
 antes mesmo dele terminar de se levantar.
 
+— Sim, mil vezes sim — repete, rindo em meio às próprias lágrimas,
+enquanto ele finalmente consegue colocar o anel no dedo dela, as mãos
+tremendo de leve.
+
 Aplaudimos, Alex e eu, sentindo o próprio peito se encher de
 felicidade genuína por testemunhar esse momento pequeno, mas
 carregado de significado real.
@@ -138,3 +142,9 @@ Adormeço pouco depois, ainda sorrindo, pensando em quanto essa vida
 inteira mudou desde aquele primeiro contrato tenso, cada pessoa nova
 que entrou nela adicionando mais uma camada de sentido que eu jamais
 teria imaginado possível naquela época.
+
+Alex adormece logo depois de mim, a própria respiração desacelerando
+contra minha nuca, e o último pensamento que carrego antes de
+mergulhar completamente no sono é gratidão simples, silenciosa, por
+essa noite que carregou tanto amor genuíno florescendo ao nosso
+redor.

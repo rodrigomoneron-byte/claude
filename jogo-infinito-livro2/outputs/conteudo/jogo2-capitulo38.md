@@ -16,6 +16,10 @@ porque tem mais de uma camada nisso.
 
 — Estou ouvindo. Prometo.
 
+Ela respira fundo, os próprios dedos entrelaçados no colo, e sinto,
+observando ela, o próprio corpo inteiro se preparar pra receber
+alguma coisa que sei, instintivamente, vai mudar tudo.
+
 — É sério, Alex. Devon encontrou possível falsificação na assinatura
 do seu bisavô, no documento que Alexandra apresentou como prova de
 reconhecimento de Theodore. Mandamos pra perícia forense essa semana.
@@ -132,3 +136,8 @@ preenchê-lo com qualquer palavra apressada, e sinto, mais uma vez,
 gratidão profunda por essa capacidade que ela tem de simplesmente
 estar presente, sem exigir que eu processe tudo mais rápido do que
 consigo.
+
+A noite avança devagar ao nosso redor, o apartamento silencioso, e
+fico ali, sentindo o próprio peso de tudo que ainda preciso decidir
+começar a se assentar, camada por camada, antes que o amanhã exija
+resposta que ainda não sei se consigo oferecer.
