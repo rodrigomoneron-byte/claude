@@ -33,6 +33,9 @@ notamos sobre o comportamento dela.
 
 — Vou continuar de olho. Obrigada por trazer isso, Devon.
 
+— Sempre. Fico ao lado, avisa se precisar de mais alguma verificação
+específica.
+
 — Sempre. Prefiro trazer coisa pequena demais do que deixar passar
 coisa grande demais.
 
@@ -132,3 +135,8 @@ apesar de todo o peso acumulado dessa semana inteira, gratidão
 silenciosa por atravessar cada nova descoberta ao lado de alguém
 disposto a continuar, mesmo cansado, mesmo quando seria mais fácil
 simplesmente parar de perguntar.
+
+Deitamos juntos, o quarto escuro ao redor, e sinto, fechando os
+olhos, o próprio peso da semana inteira finalmente começar a ceder
+espaço pro descanso que os dois tanto precisamos antes de encarar
+mais um dia.

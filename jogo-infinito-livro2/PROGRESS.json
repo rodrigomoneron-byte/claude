@@ -9,7 +9,7 @@
     "Cami",
     "Alex"
   ],
-  "next_chapter": 39,
+  "next_chapter": 17,
   "next_pov": "Cami",
   "pov_rule": "Cami=ímpar, Alex=par, Dan nunca tem POV",
   "chapters": [
@@ -121,7 +121,7 @@
     {
       "n": 16,
       "pov": "Alex",
-      "words": 776,
+      "words": 831,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -198,7 +198,7 @@
     {
       "n": 27,
       "pov": "Cami",
-      "words": 770,
+      "words": 818,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -324,7 +324,7 @@
     {
       "n": 45,
       "pov": "Cami",
-      "words": 768,
+      "words": 835,
       "score": 7.0,
       "status": "aprovado"
     },
@@ -459,7 +459,7 @@
   ],
   "scoreboard": {
     "chapters_done": 60,
-    "total_words": 49147,
+    "total_words": 49317,
     "pages_kdp": 164,
     "avg_score": 7.0,
     "pct_to_target": 85

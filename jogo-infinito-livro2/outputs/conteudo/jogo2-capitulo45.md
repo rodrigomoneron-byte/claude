@@ -19,6 +19,12 @@ causa disso.
 
 — Como o Alex está lidando com tudo isso?
 
+— Do jeito que ele sempre lida com coisa difícil — processando
+devagar, sem deixar transparecer o tamanho real do próprio peso.
+
+— Isso soa exatamente como ele. Me avisa se precisar de qualquer
+coisa, tá?
+
 ---
 
 — Está processando. Foi conversar com ela agora, sozinho, pra encerrar
@@ -142,3 +148,8 @@ Ficamos ali mais um tempo, o apartamento silencioso ao redor,
 absorvendo juntos o peso de um dia que exigiu tanto de nós dois, e
 sinto, apesar de tudo, certeza tranquila de que vamos atravessar
 também essa etapa final, do jeito que sempre atravessamos.
+
+Alex adormece primeiro, a própria respiração desacelerando contra
+meu ombro, e fico ali mais um tempo, acordada, sentindo gratidão
+silenciosa por essa constância que nenhuma traição, por maior que
+seja, jamais conseguiu abalar completamente.

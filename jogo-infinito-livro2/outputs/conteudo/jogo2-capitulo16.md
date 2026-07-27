@@ -11,6 +11,9 @@ Queria confirmação antes de publicar.
 
 O sangue gela por um segundo inteiro.
 
+Fico parado, processando o próprio peso da notícia antes de conseguir
+formular qualquer resposta coerente.
+
 — Como isso vazou? Só um grupo pequeno sabe dos detalhes completos.
 
 — Não sei ainda. Podia ser vazamento interno, podia ser a própria
@@ -137,3 +140,8 @@ Cami se levanta pra preparar chá pros dois, e observo ela na
 cozinha, sentindo gratidão silenciosa por essa parceria que continua
 sólida mesmo em meio a tanta incerteza externa ainda sem resposta
 clara.
+
+Ela volta pouco depois, entregando minha própria xícara, e sento ali
+com ela em silêncio confortável, deixando o peso da semana finalmente
+começar a ceder espaço pro descanso que os dois precisamos antes de
+enfrentar mais um dia de verificação.
