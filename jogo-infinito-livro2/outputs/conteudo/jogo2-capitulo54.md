@@ -26,6 +26,9 @@ completo do que veio antes.
 — Contexto suficiente eu tenho, através dos relatórios. E o que vejo
 é liderança que escolhe o caminho certo, mesmo quando é mais difícil.
 
+— Aprecio isso, Thomas. Vindo de alguém com seu próprio histórico,
+significa mais do que qualquer elogio genérico.
+
 ---
 
 Depois da reunião, fico sozinho no próprio escritório, olhando pro
@@ -144,3 +147,8 @@ comento, finalmente, virando pra ela.
 
 — Vamos. Mas antes, mais um minuto assim, só olhando pra essa vista
 que já viu tanto de nós dois.
+
+Ficamos ali mais esse último minuto, em silêncio, e sinto, apesar de
+tudo que ainda pode vir pela frente, gratidão profunda por essa vista
+específica continuar testemunhando cada nova etapa boa dessa jornada
+inteira.

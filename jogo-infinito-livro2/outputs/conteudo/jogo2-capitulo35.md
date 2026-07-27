@@ -29,6 +29,9 @@ sem intermediário nenhum suspeito.
 
 — Isso é generoso da parte dela.
 
+— É, né? Fico feliz em ver esse lado dela também, não só o lado que
+negocia contrato.
+
 — É. Estou começando a acreditar que talvez ela realmente seja
 exatamente quem diz ser, Cami, apesar de todo o passado complicado.
 
@@ -136,3 +139,8 @@ Terminamos de preparar o jantar juntos, o silêncio confortável
 preenchendo cada canto da cozinha, e sinto, mais uma vez, que essa
 normalidade pequena vale exatamente tanto quanto qualquer vitória
 grande que já conquistamos juntos.
+
+Sentamos pra comer, o resto da noite se desenrolando devagar, e
+sinto, apesar de tudo que ainda possa vir, gratidão genuína por essa
+pausa pequena antes de qualquer nova incerteza exigir atenção outra
+vez.

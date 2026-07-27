@@ -9,6 +9,9 @@ adiciona mais uma camada de ambiguidade ao próprio quebra-cabeça.
 — Isso é medida sensata — ela comenta, depois da votação. — Aprecio
 o cuidado extra.
 
+— Fico feliz que você concorde. Prefiro esse tipo de estrutura formal
+desde o início, evitando qualquer ambiguidade mais tarde.
+
 — Obrigada por apoiar. Sei que pode parecer excesso de burocracia.
 
 — Não parece excesso, considerando o histórico recente. Parece
@@ -141,3 +144,8 @@ redobrada, e quando finalmente fechamos o relatório, sinto o próprio
 corpo cansado, mas também mais leve, por ter atravessado mais essa
 noite de vigilância ao lado de alguém disposto a continuar até o
 fim comigo.
+
+Apagamos as luzes do escritório juntos, seguindo pro quarto em
+silêncio confortável, e sinto, deitando, gratidão profunda por essa
+constância que nenhuma incerteza externa, por maior que seja, jamais
+conseguiu abalar.
