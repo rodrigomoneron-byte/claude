@@ -11,6 +11,12 @@ tínhamos amizade real.
 — Eu sei, Elena. Sinto muito que você tenha sido machucada nisso
 também.
 
+— Não é culpa sua, sabe. Nem do Alex. Ela que escolheu mentir pra
+todo mundo que confiou nela.
+
+— Sei disso, racionalmente. Ainda assim, dói ver você machucada por
+causa disso.
+
 — Como o Alex está lidando com tudo isso?
 
 ---
@@ -131,3 +137,8 @@ completamente hoje.
 Beijo o topo da cabeça dele, sentindo o próprio peso do dia inteiro
 se assentar entre nós dois, grata por essa constância que nenhuma
 crise, por maior que seja, jamais conseguiu abalar completamente.
+
+Ficamos ali mais um tempo, o apartamento silencioso ao redor,
+absorvendo juntos o peso de um dia que exigiu tanto de nós dois, e
+sinto, apesar de tudo, certeza tranquila de que vamos atravessar
+também essa etapa final, do jeito que sempre atravessamos.

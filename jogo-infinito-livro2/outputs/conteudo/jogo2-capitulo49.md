@@ -11,6 +11,12 @@ ligar pra saber como você está.
 
 — Estou bem, Warren. Cansada, mas bem. Obrigada por perguntar.
 
+— Imagino que sim. Esse tipo de coisa cansa de um jeito que trabalho
+normal não cansa.
+
+— Cansa mesmo. Mas prefiro esse cansaço a viver ignorando o que
+estava acontecendo bem debaixo do nosso nariz.
+
 — Gente grande sempre atrai complicação grande. Aprendi isso do jeito
 mais caro possível. Fico feliz que vocês conseguiram atravessar sem
 perder o próprio rumo.
@@ -141,3 +147,8 @@ Ela se despede, e fico sozinha por um momento, sentindo o próprio
 peso do dia inteiro se assentar como gratidão simples, misturada com
 exaustão genuína, mas também esperança real sobre o que ainda está
 por vir.
+
+Guardo a última página assinada na própria pasta, fechando ela
+devagar, e sinto, pela primeira vez em semanas, que talvez realmente
+estejamos prontos pra deixar esse capítulo específico ficar
+completamente pra trás.

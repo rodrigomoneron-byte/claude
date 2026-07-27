@@ -33,6 +33,12 @@ notamos sobre o comportamento dela.
 
 — Vou continuar de olho. Obrigada por trazer isso, Devon.
 
+— Sempre. Prefiro trazer coisa pequena demais do que deixar passar
+coisa grande demais.
+
+— Essa é exatamente a atitude certa, considerando tudo que já
+atravessamos.
+
 Ele sai, e fico sentada, sentindo o próprio instinto profissional se
 firmar de novo — o mesmo tipo de alerta silencioso que nunca me
 enganou antes, mesmo quando eu mesma preferia que estivesse errado.
@@ -120,3 +126,9 @@ mais uma coisa pendurada sobre nós dois por semanas.
 
 — Concordo completamente. Vamos dormir agora, enquanto ainda
 conseguimos.
+
+Apago as luzes da sala, seguindo atrás dele até o quarto, sentindo,
+apesar de todo o peso acumulado dessa semana inteira, gratidão
+silenciosa por atravessar cada nova descoberta ao lado de alguém
+disposto a continuar, mesmo cansado, mesmo quando seria mais fácil
+simplesmente parar de perguntar.

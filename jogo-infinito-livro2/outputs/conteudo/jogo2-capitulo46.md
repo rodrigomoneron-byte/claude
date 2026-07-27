@@ -22,6 +22,11 @@ completamente alguém que cometeu um erro específico, mesmo grave.
 
 — O que você propõe? — David pergunta.
 
+— Antes de propor formalmente, quero deixar claro que essa não é
+decisão fácil pra mim, considerando o próprio histórico dela nessa
+empresa. Mas acredito que justiça proporcional serve melhor a essa
+organização do que qualquer punição excessiva.
+
 — Proponho que ela enfrente qualquer consequência legal que resultar
 da investigação, e que a própria empresa formalize afastamento
 permanente de qualquer cargo de liderança ou conselho. Mas não vou
@@ -134,3 +139,8 @@ Ele sorri, saindo finalmente, e fico sozinho de novo, sentindo o
 próprio peso da tarde se assentar como algo raramente sentido nos
 últimos meses: paz genuína, não ausência de desafio, mas confiança
 real de tê-lo atravessado com integridade intacta.
+
+Olho pro relógio, notando que ainda tenho tempo antes de encontrar
+Cami, e decido caminhar um pouco antes, deixando o próprio peso da
+tarde se assentar completamente antes de levar essa paz nova pra
+casa com ela.

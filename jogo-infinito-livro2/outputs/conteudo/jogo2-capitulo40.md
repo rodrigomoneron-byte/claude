@@ -52,6 +52,10 @@ sugere, no mínimo, que ela já percebeu que algo mudou.
 — Ela pode saber que estamos perto de descobrir — Cami comenta, a
 voz carregando a mesma tensão que sinto crescer em mim.
 
+— Ou ela pode estar preparando defesa preventiva, tentando controlar
+a própria narrativa antes que percamos completamente o controle da
+situação — Dan acrescenta, o próprio tom analítico se firmando.
+
 ---
 
 — Precisamos decidir rápido como proceder — Dan interrompe, o próprio
@@ -120,3 +124,7 @@ própria mesa, e sinto o resto da sala inteira prender a respiração
 junto comigo, esperando a confissão que já sabemos, de algum jeito,
 vai redefinir tudo que pensávamos entender sobre lealdade nessa
 empresa.
+
+Cami aperta minha mão discretamente por baixo da mesa, e sinto,
+mesmo em meio ao próprio peso do momento, gratidão silenciosa por
+não precisar enfrentar isso completamente sozinho.
