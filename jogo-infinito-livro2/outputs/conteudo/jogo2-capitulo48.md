@@ -33,6 +33,11 @@ Devon fica em silêncio por um momento, processando a própria proposta.
 
 — Você que merece, plenamente.
 
+— Vou honrar essa confiança, prometo. Cada auditoria futura vai
+carregar o mesmo rigor que já apliquei desde o início.
+
+— Não espero nada menos que isso, Devon.
+
 ---
 
 Marcus aparece na porta pouco depois, o próprio rosto carregando
@@ -144,3 +149,8 @@ estendendo lá fora, pensando em quanto Theodore jamais poderia
 imaginar que a própria história dolorosa ajudaria, décadas depois, a
 construir empresa inteira sustentada sobre exatamente o oposto do
 próprio segredo que ele guardou por tanto tempo.
+
+Fico ali mais um tempo, o próprio peso do dia se transformando,
+devagar, em gratidão simples, e decido guardar os documentos, pronto
+finalmente pra voltar pra casa e compartilhar esse dia bom com Cami
+pessoalmente.

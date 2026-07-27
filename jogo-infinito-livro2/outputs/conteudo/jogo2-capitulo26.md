@@ -17,6 +17,12 @@ apresentar isso ao conselho?
 
 — Seria útil, sim. Aprecio a iniciativa.
 
+— Vou ter pronto até amanhã de manhã, pra você revisar antes da
+reunião.
+
+— Perfeito. Isso me dá tempo real pra ajustar qualquer coisa
+necessária.
+
 ---
 
 Patricia pede reunião individual comigo à tarde, o próprio tom
@@ -147,3 +153,8 @@ tanto de todo mundo envolvido.
 Fico ali mais um tempo, olhando pro próprio relatório que ainda
 preciso preparar, deixando a pergunta de Patricia se assentar
 completamente antes de voltar ao trabalho com cabeça mais clara.
+
+Retomo o próprio documento devagar, cada linha exigindo mais foco do
+que o normal, e sinto, apesar de tudo, determinação renovada de
+terminar antes do fim do dia, sem deixar a própria dúvida atrasar o
+trabalho que ainda precisa ser feito.

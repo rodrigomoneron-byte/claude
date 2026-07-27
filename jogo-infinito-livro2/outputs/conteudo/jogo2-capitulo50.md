@@ -28,6 +28,11 @@ próprio peso do gesto.
 
 — Isso é... inesperado. O que você vai fazer com ele?
 
+— Ainda estou processando o próprio choque de ter recebido isso.
+Preciso de um minuto antes de decidir qualquer coisa.
+
+— Leva o tempo que precisar. Estou aqui, ouvindo.
+
 — Ainda não sei. — Fico girando o anel entre os dedos, sentindo o
 próprio peso frio dele contra a pele. — Parte de mim quer jogar longe,
 honestamente. Outra parte reconhece que ele carrega história real,
@@ -138,3 +143,8 @@ Cami se aproxima, abraçando eu por trás, e ficamos ali um momento,
 em silêncio, absorvendo juntos o peso estranho, mas também bom, de
 aprender a conviver com verdade que nunca vai ter final limpo
 completo.
+
+Viramos juntos, saindo do escritório de mãos dadas, deixando a caixa
+e tudo que ela carrega guardado por enquanto, prontos pra continuar
+o resto da noite sem deixar esse peso específico dominar tudo mais
+que ainda é bom.
