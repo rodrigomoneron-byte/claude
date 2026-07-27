@@ -16,6 +16,9 @@ lá.
 — Liga pra ela agora. Prefiro saber logo do que carregar isso o resto
 do dia sem saber.
 
+Cami assente, já discando o número de Renata, o próprio rosto
+carregando a mesma urgência que sinto crescer em mim.
+
 — Tem certeza? Podemos esperar até depois do café, se preferir
 processar isso com cabeça mais descansada.
 
@@ -66,6 +69,9 @@ ombro com o mesmo cuidado de sempre.
 ---
 
 — Você não precisa carregar isso sozinho. Estamos nisso juntos.
+
+Aperto a mão dela, sentindo o próprio peso das últimas semanas se
+firmar de novo, mais leve por não precisar carregar sozinho.
 
 — Sei disso. Só queria, só uma vez, que a verdade completa aparecesse
 de uma vez só, sem precisar arrancar peça por peça.

@@ -19,6 +19,9 @@ mente inteira resistisse a aceitar o que os ouvidos já captaram.
 — Por que você faria isso? — David Okonkwo pergunta, finalmente,
 quebrando o próprio silêncio chocado.
 
+Sinto o próprio corpo inteiro tenso, esperando a resposta dela com o
+mesmo peso de quem espera veredicto.
+
 Patricia respira fundo antes de responder, os olhos percorrendo cada
 rosto na sala como se buscasse, em algum lugar, compreensão que sabe
 não vai encontrar completamente.
@@ -39,6 +42,9 @@ guiada mais por esperança do que por rigor.
 
 — Isso não justifica ajudar a fraudar documento — Alex interrompe, a
 voz carregando raiva contida.
+
+Sinto o próprio corpo tenso ao lado dele, absorvendo cada palavra
+nova com o mesmo choque que sinto refletido no rosto dele.
 
 — Não ajudei a fraudar nada — ela corrige, rápida. — Alexandra me
 procurou, meses atrás, perguntando sobre estrutura de governança da

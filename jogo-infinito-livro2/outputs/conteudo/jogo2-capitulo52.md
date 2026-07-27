@@ -30,6 +30,9 @@ rosto carregando expressão pensativa.
 
 — Claro.
 
+Sinto o próprio corpo curioso, tentando adivinhar o que ela ainda vai
+dizer antes mesmo de ela continuar.
+
 — Nos poucos meses que estou nesse conselho, testemunhei você
 atravessar duas crises grandes, das duas vezes escolhendo
 transparência total em vez de proteção calculada. Isso me deixa
@@ -56,6 +59,9 @@ Mais lento, talvez, mas mais seguro.
 
 — Prefiro lento e seguro a rápido e arriscado, considerando tudo que
 já aprendemos.
+
+Marcus assente, revisando mais uma linha da própria planilha antes de
+virar de volta pra mim.
 
 ---
 

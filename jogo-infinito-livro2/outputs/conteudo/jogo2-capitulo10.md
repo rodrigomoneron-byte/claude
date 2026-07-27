@@ -24,6 +24,9 @@ rigoroso do que eu esperava, honestamente.
 — Isso é problema? — pergunto, tentando ler a própria reação dela com
 cuidado.
 
+Denise observa em silêncio, o próprio rosto profissional revelando
+nada além de atenção cuidadosa.
+
 — Não é problema nenhum. É exatamente o tipo de estrutura que eu
 mesma exigiria, se os papéis estivessem invertidos.
 
@@ -66,6 +69,9 @@ genuína aceita limite sem resistência excessiva.
 o outro? — ela continua, o tom mudando ligeiramente.
 
 — Pode.
+
+Sinto o próprio corpo tenso, esperando a pergunta dela com o mesmo
+instinto alerta que nunca desliga completamente.
 
 — Vocês verificaram meu histórico financeiro com cuidado, não é?
 Percebo isso pelas cláusulas específicas que vocês trouxeram hoje.

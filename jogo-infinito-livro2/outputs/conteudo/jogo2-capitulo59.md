@@ -35,6 +35,9 @@ café.
 
 — Bom dia. Dormiu bem?
 
+Ele sorri, ainda meio sonolento, o próprio rosto carregando aquela
+paz que sinto tão bom testemunhar de manhã.
+
 — Dormi ótimo, sinceramente. Melhor do que em meses, acho.
 
 — Isso é bom sinal. Você merece esse tipo de descanso.
@@ -56,6 +59,9 @@ rindo das mesmas piadas antigas que já contamos mil vezes.
 ---
 
 — Isso soa como futuro que eu gostaria de ter de verdade.
+
+Ele sorri, apertando minha mão de leve, o próprio gesto carregando
+promessa silenciosa que sinto refletida no peito também.
 
 — Eu também gostaria. E, depois de tudo que já atravessamos, sinto
 que estamos construindo exatamente esse futuro, devagar, decisão por

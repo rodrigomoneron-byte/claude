@@ -17,6 +17,9 @@ cobre o que a Naomi sugeriu no jantar.
 — Perfeito. Quero isso rodando desde já, sem esperar qualquer marco
 formal novo.
 
+Devon assente, já anotando alguma coisa no próprio caderno, satisfeito
+com a resposta rápida.
+
 — Já está rodando. Primeira checagem sai sexta-feira.
 
 — Perfeito. Aprecio a agilidade, Devon.
@@ -37,6 +40,9 @@ de acesso compartilhado.
 Revisei tudo esse fim de semana. Quero elogiar o rigor da verificação.
 
 — Aprecio isso, Patricia.
+
+Observo o próprio rosto dela com atenção redobrada, tentando
+decifrar qualquer sinal por trás do elogio inesperado.
 
 — Você merece ouvir isso, considerando o próprio rigor que já
 demonstrou desde o início dessa parceria toda.

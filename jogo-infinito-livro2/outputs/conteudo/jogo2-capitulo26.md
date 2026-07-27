@@ -28,6 +28,9 @@ apresentar isso ao conselho?
 — Vou ter pronto até amanhã de manhã, pra você revisar antes da
 reunião.
 
+Assinto, sentindo o próprio corpo relaxar ligeiramente com essa
+demonstração de organização e cuidado dele.
+
 — Perfeito. Isso me dá tempo real pra ajustar qualquer coisa
 necessária.
 
@@ -48,6 +51,9 @@ prova real de má-fé.
 
 — Entendo sua posição. Só quero que você saiba que existe preocupação
 crescente, mesmo que ainda não formalizada.
+
+Sinto o próprio corpo tenso, tentando decifrar o que exatamente está
+por trás dessa própria preocupação que ela descreve.
 
 ---
 

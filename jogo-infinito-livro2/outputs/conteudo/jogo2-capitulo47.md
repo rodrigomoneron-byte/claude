@@ -15,6 +15,9 @@ isso pelo caminho.
 
 — Gosto muito dessa razão pra comemorar.
 
+Sorrio, sentindo o próprio peito se aquecer com a sinceridade dele,
+mesmo em meio ao próprio exagero do gesto.
+
 — Achei que merecíamos marcar isso de verdade, não só deixar passar
 como mais uma semana difícil superada — explica, seguindo comigo até
 a cozinha pra buscar taças. — Faz tempo que não comemoramos nada, só
@@ -47,6 +50,9 @@ de um tempo. — Gratidão. Por cada dificuldade que atravessamos,
 porque cada uma me ensinou algo real sobre quem eu quero ser.
 
 — Isso é sabedoria genuína, vinda de você.
+
+Ele sorri, apertando minha mão de leve, o próprio gesto carregando
+gratidão que sinto refletida no meu peito também.
 
 — Aprendi com a melhor professora possível.
 

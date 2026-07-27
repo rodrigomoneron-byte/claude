@@ -19,6 +19,9 @@ comentar qualquer coisa.
 
 — Isso confirma que a decisão de reestruturar sozinho foi correta.
 
+Sinto o próprio peito se aquecer, orgulho genuíno crescendo por essa
+confirmação vinda de alguém tão criterioso quanto ele.
+
 — Aprecio isso, Thomas. Foi decisão difícil na época, considerando
 quanto tempo já tínhamos investido na parceria original.
 
@@ -78,6 +81,9 @@ constante, enquanto tudo mais muda ao redor.
 de tudo que muda ao redor.
 
 — Gosto muito dessa comparação.
+
+Ela sorri, apertando minha mão de leve, o próprio gesto carregando
+carinho que sinto refletido no peito também.
 
 Ficamos ali, em silêncio confortável, absorvendo juntos o peso bom
 da própria vitória recente, e sinto, apesar de tudo que ainda possa

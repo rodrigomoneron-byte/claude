@@ -15,6 +15,9 @@ falo.
 
 — Aprecio a ligação, Warren. E o lembrete.
 
+Sinto o próprio peito se aquecer, gratidão genuína crescendo por essa
+ligação inesperada e generosa dele.
+
 — Sei que já ouviu isso mil vezes de gente mais qualificada. Só
 queria garantir que ainda está ecoando, considerando o tamanho dessa
 parceria nova.
@@ -43,6 +46,9 @@ apresentou, não bate exatamente com o que consta no cartório público
 de Londres que consultei.
 
 — Que tipo de diferença?
+
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço bem demais.
 
 — Três anos. Pode ser erro de digitação, pode ser correção de
 registro antigo, comum em documentos de décadas atrás. Ou pode ser
