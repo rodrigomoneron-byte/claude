@@ -15,6 +15,8 @@ mesmo mercado?
 — Nada que eu tenha encontrado ainda. Vou continuar verificando com
 mais profundidade antes de qualquer reunião formal acontecer.
 
+— Aprecio isso, Devon. Prefiro atraso pequeno a lacuna grande.
+
 — Quanto tempo você precisa antes de sentir confiança real na própria
 verificação?
 
@@ -149,3 +151,8 @@ revisar ele mais uma vez antes do fim do dia, e sinto, apesar de
 tudo, a mesma determinação tranquila de sempre: seguir verificando,
 com o mesmo rigor de sempre, sem deixar nenhuma pressa comprometer a
 própria clareza necessária.
+
+Fico ali mais um tempo, olhando pra própria mesa cheia de documentos,
+e sinto, apesar de todo o peso do trabalho ainda pendente, gratidão
+genuína por essa vida que os dois construíram, cuidadosamente, sobre
+tanta verificação e tanta verdade compartilhada.

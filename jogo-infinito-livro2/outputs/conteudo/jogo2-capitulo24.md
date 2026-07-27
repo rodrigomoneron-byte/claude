@@ -20,6 +20,9 @@ processar isso com cabeça mais descansada.
 
 — Tudo bem. Vou ligar agora, então, antes que eu mude de ideia.
 
+Sento na beira da cama, tentando organizar mentalmente a própria
+mente ainda sonolenta antes que a ligação comece.
+
 Cami liga, colocando em viva-voz, e a voz de Renata chega carregada
 do próprio cansaço de quem trabalhou noite adentro.
 
@@ -136,3 +139,8 @@ Cami se levanta, indo até a janela, observando a cidade cinza lá
 fora, e a sigo com o olhar, sentindo, apesar de tudo, gratidão
 silenciosa por atravessar mais essa manhã difícil ao lado dela, sem
 esconder nada um do outro pelo caminho.
+
+Me aproximo, ficando ao lado dela junto à janela, e ficamos ali
+juntos, em silêncio, observando a manhã cinza de Londres se
+desenrolar devagar lá fora, cada um absorvendo à própria maneira o
+peso de mais uma verdade parcial revelada.

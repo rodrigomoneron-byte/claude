@@ -19,6 +19,11 @@ que precisa ser rápida, quando for rápida.
 
 — Mensal, com relatório pro conselho pleno a cada trimestre.
 
+— Isso soa razoável, considerando a escala envolvida.
+
+— Soa mesmo. Só espero que continue sendo suficiente, conforme a
+parceria cresce.
+
 — Isso parece razoável, considerando o volume normal de atividade.
 
 — Parece, sim. Só vamos continuar de olho, independente da própria
@@ -134,3 +139,7 @@ Guardo o próprio celular, olhando pro relógio de bolso do meu pai na
 estante, pensando em quanto essa vigilância específica já se tornou
 segunda natureza, depois de tudo que aprendi sobre o custo real de
 não perguntar cedo o suficiente.
+
+Alex se aproxima, sentando ao meu lado no sofá, e ficamos ali em
+silêncio por um momento, absorvendo juntos o peso da própria noite
+antes de finalmente seguir pra cama.
