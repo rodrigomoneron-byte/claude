@@ -72,3 +72,34 @@ que parece genuína demais pra ser completamente calculada — e ainda
 assim, sinto, olhando pra Alex, que a decisão sobre o que fazer a
 seguir vai exigir muito mais do que só essa confissão parcial consegue
 resolver sozinha.
+
+— Preciso de tempo pra processar tudo isso — Alex fala, finalmente,
+a voz controlada apesar do próprio peso evidente. — Não vou decidir
+nada hoje, nessa sala.
+
+— Entendo completamente — Alexandra responde, assentindo devagar. —
+Fico à disposição pra qualquer pergunta adicional, sempre que
+precisarem.
+
+Denise começa a reunir os próprios documentos, sinalizando o fim
+formal do encontro.
+
+---
+
+— Vamos manter contato através dos canais formais, por enquanto —
+informo, levantando. — Qualquer decisão sobre os próximos passos da
+parceria será comunicada oficialmente.
+
+— Entendo. Obrigada por me dar chance de explicar, mesmo com tudo
+que já descobriram.
+
+Alexandra se levanta, o próprio corpo carregando exaustão visível, e
+sai da sala em silêncio, deixando os três pra trás, processando o
+peso completo da própria reunião.
+
+— O que você acha, realisticamente? — pergunto pra Denise, assim que
+a porta fecha.
+
+— Acho que ela disse mais verdade hoje do que em qualquer conversa
+anterior. Isso não resolve a questão de confiança. Só adiciona
+informação real pra decisão que ainda precisa ser tomada com cuidado.

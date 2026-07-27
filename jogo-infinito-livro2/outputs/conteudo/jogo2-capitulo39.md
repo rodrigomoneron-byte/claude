@@ -86,3 +86,27 @@ Desligamos pouco depois, e fico sentada, sentindo o próprio peso de
 duas traições possíveis — Alexandra e Patricia — se acumular junto,
 formando quadro muito maior e muito mais doloroso do que qualquer um
 de nós dois esperava enfrentar quando essa parceria começou.
+
+Devon ainda está parado na porta, esperando alguma orientação.
+
+— O que você precisa que eu faça agora? — pergunta, finalmente.
+
+— Continua reunindo qualquer prova adicional, discretamente. Não
+alerta ninguém, nem Patricia nem Alexandra. Precisamos de caso
+completo antes de qualquer confronto formal.
+
+---
+
+— Vou providenciar isso. E, Cami — ele hesita — sinto muito que essa
+descoberta tenha vindo justo agora, depois de tudo que vocês já
+atravessaram recentemente.
+
+— Aprecio a solidariedade, Devon. Mas prefiro descobrir agora do que
+deixar isso continuar crescendo sem controle.
+
+— Isso é atitude correta, mesmo sendo difícil.
+
+Ele sai, e fico sozinha por um momento, sentindo o próprio peso da
+tarde inteira se acumular, cada nova descoberta exigindo energia que
+já sinto quase esgotada, mas que recuso deixar faltar antes de
+chegar ao fundo completo dessa história.

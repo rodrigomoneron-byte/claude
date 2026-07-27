@@ -81,3 +81,28 @@ continuar puxando esse fio, mesmo quando eu mesmo relutei em segurar
 junto.
 
 — Sempre vou continuar, Alex. É isso que prometemos um ao outro.
+
+— Sabe o que mais me assusta nisso tudo? — ele continua, depois de
+um momento de silêncio. — Não é só a possibilidade de que ela esteja
+mentindo. É perceber o quanto eu queria acreditar, mesmo com sinal
+atrás de sinal apontando pra direção oposta.
+
+— Isso é humano, Alex. Ninguém quer perder família recém-encontrada,
+mesmo quando os fatos sugerem que precisa.
+
+---
+
+— Você passou por isso também, de um jeito diferente. Com Dan, com
+o próprio processo inteiro.
+
+— Passei. E aprendi que reconhecer o próprio desejo de acreditar não
+é fraqueza. É só informação a mais, que preciso considerar junto com
+os fatos, não em vez deles.
+
+— Isso é sabedoria real.
+
+— Aprendi do jeito mais difícil possível, como sempre.
+
+Ele sorri, apesar do próprio peso da conversa, e sinto gratidão
+renovada por essa capacidade compartilhada de nomear a própria
+fraqueza sem deixar ela decidir o rumo final de nada importante.

@@ -83,3 +83,28 @@ avião de volta.
 antigo assim que a pressão diminuir.
 
 — Só o tempo vai confirmar isso.
+
+Alex guarda o próprio celular, olhando pela janela do avião pro céu
+escurecendo devagar lá fora.
+
+— Sabe, apesar de tudo, ainda sinto esperança genuína — comenta,
+depois de um tempo. — Talvez ingenuamente, mas sinto.
+
+— Isso não é ingenuidade, Alex. É só a parte de você que ainda
+acredita no melhor das pessoas, mesmo depois de aprender a verificar
+antes de confiar completamente.
+
+---
+
+— Você também sente isso, ou só está me consolando?
+
+— Sinto também, honestamente. A lista que ela mandou parece genuína.
+Só quero ver se o padrão se sustenta além dessa primeira prova.
+
+— Isso é justo.
+
+Ficamos em silêncio pelo resto do voo, cada um processando à própria
+maneira o peso da própria semana em Londres, e sinto, olhando pra
+ele, gratidão renovada por atravessar mais essa incerteza lado a
+lado, sem deixar esperança nem cautela dominarem completamente sobre
+a outra.

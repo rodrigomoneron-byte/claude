@@ -80,3 +80,19 @@ Adormecemos abraçados, gratos, os dois, por essa vida construída com
 tanto esforço deliberado, sabendo, com certeza cada vez mais firme,
 que qualquer dificuldade futura vai encontrar nós dois prontos pra
 atravessar ela juntos, do mesmo jeito que sempre fizemos.
+
+Acordo de madrugada, o quarto silencioso ao redor de nós dois, e fico
+ali um tempo, observando Alex dormir, o próprio rosto completamente
+relaxado, longe de qualquer preocupação imediata exigindo resposta
+urgente.
+
+Penso em tudo que aconteceu desde que Alexandra apareceu na nossa
+vida — a esperança inicial, a verificação constante, a traição dupla,
+a reconstrução. Cada etapa difícil, olhando pra trás agora, parece
+ter valido a pena, construindo, tijolo por tijolo, algo genuinamente
+sólido entre nós dois.
+
+Alex se mexe ao meu lado, ainda meio adormecido, e puxa minha mão de
+volta pro próprio peito, e fico ali, quieta, absorvendo o peso bom
+desse momento simples antes que o dia inteiro, com toda a liberdade
+nova que ele carrega, finalmente comece.
