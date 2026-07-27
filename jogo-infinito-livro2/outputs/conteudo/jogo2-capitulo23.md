@@ -12,6 +12,11 @@ tudo com cabeça fresca.
 
 — Concordo completamente. Já processamos peso demais por um dia só.
 
+— Vou tomar banho rápido, tentar lavar um pouco desse peso literal e
+figurativamente — brinco, meio séria.
+
+— Boa ideia. Te encontro aqui quando sair.
+
 Alex se aproxima, os braços envolvendo minha cintura por trás enquanto
 observo a própria cidade através da janela, luzes de Londres se
 espalhando lá fora sob chuva fina que começou há pouco.
@@ -111,3 +116,7 @@ Fico ali, ouvindo a própria respiração dele, tentando fixar esse
 momento simples na memória antes que qualquer nova descoberta exija
 atenção — prova pequena, mas real, de que mesmo em meio a tanta
 incerteza, ainda existe espaço genuíno pra paz, mesmo que breve.
+
+Adormeço de novo, devagar, o próprio corpo cansado finalmente cedendo
+espaço pro sono, e o último pensamento que carrego é gratidão simples
+por essa noite que conseguiu ser, apesar de tudo, genuinamente boa.

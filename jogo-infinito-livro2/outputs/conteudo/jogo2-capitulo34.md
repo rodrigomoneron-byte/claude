@@ -34,6 +34,9 @@ padrão normal.
 — Vou levar isso pra Cami. Precisamos decidir como confrontar isso,
 sem alertar nenhuma das duas antes da hora certa.
 
+— Faz sentido. Fico à disposição, se precisarem de mais alguma
+verificação específica antes disso.
+
 Devon assente, guardando o próprio material, e fico sozinho um
 momento, sentindo o peso de mais uma camada se somar ao quebra-cabeça
 inteiro — não mais só sobre Alexandra, mas agora explicitamente sobre
@@ -145,3 +148,8 @@ Guardo os documentos, sentindo o próprio corpo finalmente relaxar um
 pouco, grato por ter, ao lado, alguém disposta a lembrar que mesmo
 verificação necessária precisa de limite, pra não consumir tudo mais
 que ainda importa.
+
+Seguimos pra cozinha juntos, preparando algo simples lado a lado, e
+sinto, apesar de todo o peso ainda pendurado sobre nós dois, gratidão
+silenciosa por essa pausa pequena antes de encarar mais um dia de
+verificação amanhã.

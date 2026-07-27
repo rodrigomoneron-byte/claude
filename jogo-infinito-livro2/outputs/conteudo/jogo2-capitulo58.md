@@ -14,6 +14,11 @@ não porque duvido da própria decisão.
 
 — Isso é exatamente como devia ser.
 
+— Obrigado por estar aqui, ajudando com essa gravata teimosa —
+brinca, ainda tentando ajustar o próprio nó.
+
+— Sempre. É pra isso que servem os amigos, principalmente hoje.
+
 ---
 
 Observo Marcus caminhar até o próprio lugar, o rosto carregando
@@ -147,3 +152,8 @@ leveza que sinto no peito inteiro, e quando finalmente saímos, de
 mãos dadas, o próprio céu noturno estrelado sobre nós dois, penso em
 quanto essa noite específica vai ficar guardada como lembrança boa,
 por muito tempo ainda.
+
+No carro de volta pra casa, Cami encosta a cabeça no meu ombro,
+exausta mas feliz, e sinto, dirigindo devagar pela cidade
+adormecida, gratidão profunda por essa vida inteira que construímos,
+juntos, ao redor de tanta gente genuína.
