@@ -6,6 +6,9 @@ negócios — "conversa de família", como ela mesma descreve na mensagem.
 Escolho um restaurante discreto perto do escritório, o tipo de lugar
 onde nenhum dos dois precisa se preocupar com quem está observando.
 
+Sento diante dela, notando o próprio cuidado com que escolheu essa
+mesa mais reservada, longe de qualquer olhar curioso.
+
 — Obrigada por aceitar — ela cumprimenta, já sentada quando chego. —
 Sei que a semana foi cheia, considerando tudo que discutimos sobre a
 consulta jurídica.
@@ -147,3 +150,7 @@ peso do almoço se acomodar devagar — gratidão genuína pela
 proximidade crescente com Alexandra, misturada com o alerta silencioso
 que nunca parece completamente desligado, não importa quanto eu queira
 simplesmente confiar.
+
+Chego ao escritório poucos minutos depois, ainda processando cada
+detalhe da conversa, e me forço a focar no trabalho pendente antes
+que a própria tarde escape sem nenhum progresso real.

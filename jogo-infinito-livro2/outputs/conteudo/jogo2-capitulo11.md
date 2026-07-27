@@ -5,6 +5,9 @@ Marcus e Naomi nos convidam pra jantar duplo numa sexta-feira, o
 próprio apartamento deles pequeno mas aconchegante, cheiro de comida
 caseira preenchendo cada cômodo quando chegamos.
 
+Tocamos a campainha, e o cheiro de comida caseira já escapa pela
+fresta da porta antes mesmo de ela abrir completamente.
+
 — Finalmente — Naomi cumprimenta, abraçando eu com naturalidade que
 já não soa estranha depois de meses de convivência ocasional. — Marcus
 fala tanto de vocês dois que já sinto que conheço a história inteira.
@@ -145,3 +148,6 @@ O sono chega devagar, e o último pensamento que carrego é gratidão
 simples por essa rede de amigos disposta a proteger a própria
 felicidade dos dois, mesmo quando isso significa fazer pergunta
 difícil no meio de um jantar leve.
+
+Alex já dorme profundamente ao meu lado quando finalmente fecho os
+olhos, e o quarto fica em silêncio completo pelo resto da noite.

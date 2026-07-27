@@ -5,6 +5,9 @@ Devon pede reunião de emergência numa quinta-feira de manhã, o
 próprio tom da mensagem carregando urgência diferente de qualquer
 atualização de rotina recente.
 
+Sento diante dele, sentindo o próprio corpo já tenso antes de qualquer
+detalhe concreto ser revelado.
+
 — Encontrei alguma coisa que preciso mostrar imediatamente — anuncia,
 assim que sento na sala de conferência, o próprio laptop já aberto. —
 Estava revisando, de novo, o documento de sucessão que Alexandra
@@ -143,3 +146,7 @@ Chego em casa encontrando o apartamento vazio, Alex ainda no
 próprio trabalho, e aproveito o silêncio pra organizar mentalmente
 como vou abordar essa conversa com ele, sem alarmar antes da hora
 certa.
+
+Preparo um chá simples, sentando à mesa da cozinha sozinha, e
+aproveito os próprios minutos de silêncio pra respirar fundo antes
+que ele chegue e a conversa difícil finalmente comece.

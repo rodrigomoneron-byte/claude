@@ -6,6 +6,9 @@ carregando a mesma cor cinza de ontem, e sigo Alexandra devagar entre
 as lápides antigas, Alex ao meu lado, os três em silêncio quase
 reverente.
 
+Sigo devagar entre as pedras antigas, sentindo o próprio peso do
+próprio lugar pesar mais do que eu esperava.
+
 — É aqui — ela anuncia, parando diante de uma lápide simples, o nome
 Theodore Voss gravado sem qualquer ostentação. — Ele nunca quis
 funeral grande. Dizia que já tinha vivido pequeno o suficiente pra
@@ -141,3 +144,7 @@ renovada, lado a lado, sem se cancelarem completamente.
 encostando a cabeça no ombro dele. — Acho que os dois precisamos.
 
 — Concordo completamente.
+
+Deitamos juntos, ainda vestidos, a cortina fechada contra a luz cinza
+do fim de tarde londrino, e adormecemos rápido, exaustos pelo peso
+emocional de tudo que essa manhã carregou.

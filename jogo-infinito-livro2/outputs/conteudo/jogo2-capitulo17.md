@@ -7,6 +7,9 @@ confirmar que alguém, em algum lugar, sabia mais do que devia. Denise
 liga assim que a matéria sai, a voz carregando controle profissional
 apesar da urgência.
 
+Atendo já com o próprio jornal aberto na mesa, os olhos correndo
+rápido pela matéria antes mesmo de ela terminar de explicar.
+
 — A nota é vaga — informa. — Menciona "parceria em negociação" sem
 nomes específicos nem valores. Não é ideal, mas também não é
 catástrofe.
@@ -151,3 +154,7 @@ encontrando o próprio lugar certo, e sinto, apesar de tudo, uma calma
 inesperada crescer — prova pequena de que mesmo incerteza prolongada
 pode ser atravessada com alguma paz, quando dividida com a pessoa
 certa.
+
+Terminamos de arrumar tudo já tarde da noite, e seguimos pro quarto
+juntos, o corpo cansado, mas o próprio coração mais leve do que
+estava no início do dia.
