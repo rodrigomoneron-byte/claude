@@ -73,6 +73,9 @@ completamente.
 
 — Isso significa que Patricia ajudou a preparar o documento?
 
+Sinto o próprio estômago revirar, esperando a resposta dele com o
+mesmo peso de quem espera veredicto.
+
 — Não tenho prova direta disso ainda. Só tenho coincidência temporal
 forte o suficiente pra levantar a possibilidade seriamente.
 
@@ -133,6 +136,9 @@ resposta mais longa que isso.
 deixar isso continuar crescendo sem controle.
 
 — Isso é atitude correta, mesmo sendo difícil.
+
+Sinto o próprio corpo cansado, mas determinado, pronto pra continuar
+até chegar ao fundo completo dessa história.
 
 Ele sai, e fico sozinha por um momento, sentindo o próprio peso da
 tarde inteira se acumular, cada nova descoberta exigindo energia que

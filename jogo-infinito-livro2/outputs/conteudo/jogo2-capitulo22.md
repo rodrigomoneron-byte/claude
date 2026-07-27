@@ -29,6 +29,9 @@ que "proteção pessoal genérica".
 — Aprecio você trazer isso rápido, Denise. Vou avaliar como abordar
 com Alexandra ainda hoje.
 
+Desligo, sentindo o próprio corpo tenso, já organizando mentalmente
+cada palavra que ainda precisa ser dita nessa conversa difícil.
+
 ---
 
 Ligo pra Cami imediatamente, compartilhando o desenvolvimento antes
@@ -123,6 +126,9 @@ recente. Deixa a poeira baixar, revisa tudo com cabeça mais fria
 amanhã.
 
 — Isso é sensato.
+
+Sinto o próprio corpo relaxar ligeiramente com o conselho dele, grato
+por essa perspectiva externa antes de decidir qualquer coisa nova.
 
 — Também descobri uma coisa por aqui, aliás — ele continua, o tom
 mudando. — Patricia pediu pra Devon compartilhar acesso direto aos

@@ -25,6 +25,9 @@ brinca, ainda tentando ajustar o próprio nó.
 
 — Sempre. É pra isso que servem os amigos, principalmente hoje.
 
+Termino de ajeitar o próprio nó da gravata dele, sentindo o peso bom
+desse gesto pequeno antes de um dia tão importante.
+
 ---
 
 Observo Marcus caminhar até o próprio lugar, o rosto carregando
@@ -76,6 +79,9 @@ a própria pergunta. — Sem pressa nenhuma. Vamos deixar acontecer no
 tempo certo.
 
 — Gosto dessa resposta.
+
+Elena sorri, voltando pra própria conversa com outro grupo de
+convidados, deixando eu observar o próprio salão mais um momento.
 
 Encontro Cami dançando com Naomi, as duas rindo de alguma coisa que
 não consigo ouvir à distância, e fico ali um momento, só observando,

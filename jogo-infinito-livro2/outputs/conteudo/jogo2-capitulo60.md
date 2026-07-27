@@ -41,6 +41,9 @@ atenção redobrada em breve.
 
 — Isso é problema?
 
+Sinto o próprio corpo tenso, esperando a resposta dele com o mesmo
+instinto alerta que já reconheço como segunda natureza.
+
 — Não sei ainda. Só achei estranho o suficiente pra mencionar antes
 da reunião.
 
@@ -92,6 +95,9 @@ capítulo fecha, outro já começa a se abrir, antes mesmo do primeiro
 terminar de se assentar completamente.
 
 — Isso soa cansativo, dito assim.
+
+Ela ri baixinho, apertando minha mão de leve, o próprio gesto
+carregando conforto que sinto refletido no peito também.
 
 — Soa. Mas também soa como a vida que escolhemos, juntos. E prefiro
 enfrentar capítulo novo com você do que ter tido paz completa

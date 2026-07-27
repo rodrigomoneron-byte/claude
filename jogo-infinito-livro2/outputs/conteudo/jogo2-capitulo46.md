@@ -35,6 +35,9 @@ com cuidado antes mesmo da reunião começar.
 respondo, olhando entre David e Sandra. — Essa decisão precisa
 carregar consenso real, não só minha própria vontade.
 
+David assente, considerando a própria pergunta com seriedade antes
+de responder.
+
 — Antes de propor formalmente, quero deixar claro que essa não é
 decisão fácil pra mim, considerando o próprio histórico dela nessa
 empresa. Mas acredito que justiça proporcional serve melhor a essa
@@ -72,6 +75,10 @@ processo civil adicional da nossa parte.
 
 — Isso é sábio, Alex. E mostra o quanto você cresceu, considerando
 como você teria reagido ano passado.
+
+Sinto o próprio peito se aquecer com o elogio dela, gratidão genuína
+crescendo por essa versão de mim que consegue equilibrar rigor e
+compaixão.
 
 — Aprendi com você, principalmente. Que justiça real não precisa de
 vingança pra ser completa.

@@ -47,6 +47,10 @@ saindo do outro lado dessa incerteza inteira.
 tempo carregando peso maior do que qualquer um devia carregar
 sozinho.
 
+Sinto o próprio peito se aquecer, gratidão silenciosa crescendo por
+essa mesa cheia de gente que escolheu ficar mesmo em meio a tanta
+crise.
+
 — Sabe o que eu mais aprecio nessa noite? — continua, apertando
 minha mão embaixo da mesa. — Nenhum de nós teve que fingir que está
 tudo perfeito. Só estamos, genuinamente, num lugar melhor do que
@@ -67,6 +71,9 @@ noite, abraçando Naomi na despedida. — Esqueci como é bom ter noite
 assim, sem nenhuma crise competindo pela atenção.
 
 — Sempre que quiserem. A porta está sempre aberta.
+
+Abraçamos Naomi e Marcus juntos, na despedida, sentindo o próprio
+peso da noite se assentar como algo genuinamente bom.
 
 ---
 

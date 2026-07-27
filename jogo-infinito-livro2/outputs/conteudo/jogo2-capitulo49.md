@@ -14,6 +14,9 @@ ligar pra saber como você está.
 
 — Estou bem, Warren. Cansada, mas bem. Obrigada por perguntar.
 
+Sinto o próprio peito se aquecer, gratidão genuína crescendo por essa
+ligação inesperada e generosa dele.
+
 — Cansada faz sentido, considerando tudo que passou. Só queria
 garantir que você sabe que tem gente torcendo por vocês dois, mesmo
 de longe.
@@ -61,6 +64,9 @@ Capital está formalmente livre de qualquer obrigação com Alexandra ou
 com o próprio fundo dela.
 
 — Isso é alívio real, finalmente.
+
+Sinto o próprio corpo relaxar de vez, o peso das últimas semanas
+finalmente cedendo espaço pra algo mais leve.
 
 ---
 

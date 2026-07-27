@@ -46,6 +46,9 @@ cuidado. — Assinamos os termos preliminares essa semana.
 conhecer ela em algum momento? Trabalho com finanças internacionais,
 posso ter perspectiva útil.
 
+Sinto o próprio peito se aquecer com a oferta genuína dela, gratidão
+crescendo por mais essa camada de apoio ao redor.
+
 Marcus assente, servindo mais vinho pra própria namorada, o rosto
 carregando orgulho evidente pela oferta genuína dela.
 
@@ -126,6 +129,9 @@ próprio jeito de liderar sem precisar performar confiança o tempo
 inteiro. Eu encontrei você.
 
 — Isso é generoso de dizer.
+
+Sinto o próprio peito se aquecer, gratidão silenciosa crescendo por
+essa versão dele que aprendeu a nomear a própria mudança em voz alta.
 
 — É verdade, não generosidade. Antes de você, eu nem sabia que jantar
 como esse — simples, sem agenda nenhuma escondida — era algo que eu
