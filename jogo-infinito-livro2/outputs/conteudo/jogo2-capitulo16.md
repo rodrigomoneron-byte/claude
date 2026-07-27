@@ -13,7 +13,9 @@ pequena.
 parceria com herdeira "desconhecida" da própria família fundadora.
 Queria confirmação antes de publicar.
 
-O sangue gela por um segundo inteiro.
+O sangue gela por um segundo inteiro, cada possibilidade ruim
+passando rápido demais pela própria mente antes que eu consiga
+organizar qualquer resposta coerente.
 
 Fico parado, processando o próprio peso da notícia antes de conseguir
 formular qualquer resposta coerente.
@@ -27,6 +29,9 @@ capital que já registramos pra expansão.
 
 — Precisamos descobrir rápido, antes que qualquer versão distorcida
 ganhe vida própria na imprensa.
+
+Marcus assente, já anotando alguma coisa no próprio caderno, o rosto
+carregando a mesma urgência que sinto crescer em mim.
 
 — Concordo completamente. Vou começar a verificar imediatamente.
 

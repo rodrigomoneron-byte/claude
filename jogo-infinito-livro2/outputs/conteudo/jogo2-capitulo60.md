@@ -11,6 +11,9 @@ completa sobre Sebastian Kroll.
 
 — E então?
 
+O próprio silêncio do outro lado da linha dura só um instante, mas
+sinto ele esticar mais do que qualquer pausa recente já esticou.
+
 Endireito a própria postura no sofá, sentindo o corpo inteiro se
 preparar pra qualquer notícia que ainda venha a seguir.
 
@@ -32,7 +35,9 @@ mais uma coisa. Devon encontrou registro de que Kroll representa
 consórcio maior, não só o próprio fundo dele. Consórcio com nome que
 nenhum de nós reconheceu imediatamente: Meridian Holdings.
 
-O nome não significa nada pra mim, à primeira vista.
+O nome não significa nada pra mim, à primeira vista, e ainda assim
+sinto o próprio instinto registrar ele como algo que vai merecer
+atenção redobrada em breve.
 
 — Isso é problema?
 

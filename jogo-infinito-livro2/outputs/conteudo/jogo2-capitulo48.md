@@ -53,6 +53,10 @@ Vou pedir Naomi em casamento.
 A notícia pega de surpresa completa, um sorriso genuíno se formando
 antes que eu processe completamente.
 
+Levanto, contornando a própria mesa pra abraçar ele, sentindo o peso
+bom dessa notícia se somar a um dia que já carregava tanta coisa boa
+acontecendo de uma vez só.
+
 — Isso é incrível, Marcus! Quando?
 
 — Semana que vem. Já tenho o anel, já conversei com o pai dela. Só
@@ -88,6 +92,10 @@ importa de quem só está por perto por conveniência.
 na minha vida, depois de tudo — Cami, Elena, você, Devon.
 
 — Pessoas que provaram valor real, quando mais importava.
+
+Fico olhando pra porta por onde ele acabou de sair, sentindo o
+próprio peito ainda cheio da mistura de gratidão e felicidade
+genuína que essa manhã inteira trouxe.
 
 Ele sai pouco depois, ainda sorrindo, e fico sozinho um momento,
 sentindo gratidão profunda por essa rede de pessoas genuínas que

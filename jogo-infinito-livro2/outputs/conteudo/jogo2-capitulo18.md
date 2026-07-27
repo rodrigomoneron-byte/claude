@@ -15,10 +15,15 @@ memória de família e documento secundário, não do original perdido.
 A diferença de três anos provavelmente veio dessa reconstrução
 imprecisa, não de qualquer manipulação deliberada.
 
-O alívio atinge com força que não esperava sentir tão intensamente.
+O alívio atinge com força que não esperava sentir tão intensamente,
+o próprio peso das últimas semanas cedendo espaço, de uma vez,
+diante dessa única frase.
 
 — Isso é... ótima notícia, Renata. Obrigado por continuar até
 encontrar resposta real.
+
+Sinto o próprio corpo relaxar de um jeito que não sentia há dias,
+grato por essa resposta específica ter chegado finalmente.
 
 — De nada, Alex. Sei que essa dúvida específica estava pesando forte.
 Fico feliz em trazer resposta real, não só mais uma suspeita.

@@ -19,12 +19,18 @@ cumprido tudo, proativamente.
 
 — Isso é ótima notícia.
 
+— É mesmo. Sinto que consigo, finalmente, respirar um pouco mais
+fundo do que respirava há algumas semanas.
+
 — É mesmo. Fico feliz em ver vocês dois assim, mais leves — Marcus
 acrescenta, servindo a própria taça.
 
 — É, sim. Ainda com cautela, mas real — acrescento, sentindo o
 próprio corpo relaxar ligeiramente ao dizer isso em voz alta pela
 primeira vez em semanas.
+
+Naomi sorri, servindo mais um pouco de vinho pra todos, o próprio
+gesto simples carregando calor que sinto contagiar a mesa inteira.
 
 ---
 

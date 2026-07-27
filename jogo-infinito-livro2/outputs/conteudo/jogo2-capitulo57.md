@@ -18,6 +18,9 @@ tempo.
 
 — Fico feliz em ouvir isso. Vocês dois merecem essa paz.
 
+— Merecemos mesmo, depois de tudo — respondo, sentindo o próprio
+peito se aquecer com a sinceridade genuína na voz dele.
+
 — Você também merece isso, Dan, considerando tudo que já fez por
 nós.
 
@@ -25,6 +28,9 @@ nós.
 você, considerando tudo que atravessamos juntos.
 
 — Aprecio você dizer isso. Sinto o mesmo, honestamente.
+
+Sorrio, sentindo a própria conversa fluir com uma facilidade que
+nunca existiu entre nós dois nos primeiros meses.
 
 — Devíamos marcar um café qualquer dia, só pra conversar sem nenhuma
 pauta formal.

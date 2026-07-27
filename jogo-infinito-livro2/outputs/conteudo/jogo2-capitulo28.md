@@ -14,6 +14,9 @@ de acesso não é, sozinha, evidência de má-fé.
 
 — Então não temos motivo pra agir formalmente.
 
+Sinto o próprio corpo relaxar ligeiramente, apesar de saber que essa
+resposta ainda não encerra completamente a própria dúvida.
+
 — Não com base só nisso. Mas continue registrando cada detalhe,
 mesmo pequeno. Padrão só fica visível quando somamos peça suficiente.
 
@@ -21,6 +24,9 @@ mesmo pequeno. Padrão só fica visível quando somamos peça suficiente.
 
 — Aprecio isso, Denise. Sei que é trabalho tedioso, verificar tanto
 sem encontrar nada conclusivo.
+
+— Prefiro tedioso a qualquer surpresa que só descobrimos tarde
+demais pra agir com clareza.
 
 — Faz parte do trabalho. Prefiro tedioso e completo a rápido e
 incompleto, qualquer dia.

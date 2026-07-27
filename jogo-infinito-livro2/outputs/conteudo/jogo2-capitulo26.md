@@ -15,10 +15,15 @@ existia. Isso é bom sinal, Alex.
 — Sinto isso também. Talvez estejamos finalmente chegando no fundo de
 tudo.
 
+Devon assente, fechando o próprio laptop devagar, satisfeito com o
+próprio progresso da manhã inteira.
+
 — Quer que eu prepare um resumo formal, pra facilitar quando você
 apresentar isso ao conselho?
 
 — Seria útil, sim. Aprecio a iniciativa.
+
+— Sempre. Vou deixar pronto antes mesmo do prazo que você pediu.
 
 — Vou ter pronto até amanhã de manhã, pra você revisar antes da
 reunião.
