@@ -109,3 +109,29 @@ Ela sorri, voltando pra dançar com o próprio marido recém-casado, e
 fico observando os dois, sentindo gratidão profunda por testemunhar
 tanta felicidade genuína crescendo ao redor, depois de tanta
 dificuldade atravessada junto.
+
+Cami se aproxima, os braços envolvendo minha cintura por trás.
+
+— No que você está pensando? — pergunta, encostando o queixo no meu
+ombro.
+
+— Em quanto essa noite representa. Não só o casamento deles, mas
+tudo que construímos ao redor — família, amizade, confiança
+reconstruída repetidas vezes.
+
+---
+
+— É bonito, né? Ver tudo isso florescendo, mesmo depois de tanta
+dificuldade pelo caminho.
+
+— É mesmo. E fico pensando também em quanto ainda temos pela frente,
+juntos.
+
+— Isso soa como promessa boa.
+
+— É promessa boa, sim. A melhor que já fiz.
+
+Ela sorri, beijando meu rosto de leve, e voltamos pra pista de dança
+juntos, o resto da festa se desenrolando devagar ao redor, cada
+momento carregando o peso bom de uma noite genuinamente feliz, sem
+sombra nenhuma pairando por cima.

@@ -103,3 +103,23 @@ do que significavam antes de tudo que atravessamos.
 Ele vira, encarando meus olhos, e ficamos ali, em silêncio, absorvendo
 juntos essa manhã simples que carrega, silenciosamente, todo o peso
 bom de uma vida construída com tanto cuidado deliberado.
+
+— Sabe, estava pensando — comento, depois de um tempo — talvez
+devêssemos planejar uma viagem só nossa, sem trabalho nenhum
+envolvido. Merecemos isso, considerando tudo que atravessamos.
+
+---
+
+— Isso soa perfeito — ele murmura. — Pra onde você gostaria de ir?
+
+— Não sei ainda. Só sei que quero algum lugar sem nenhuma
+responsabilidade esperando, nem minha nem sua.
+
+— Vamos pesquisar opções essa semana, então. Prometo reservar tempo
+real pra planejar isso direito.
+
+— Gosto muito dessa promessa.
+
+Ficamos ali mais um tempo, o domingo inteiro se desenrolando devagar,
+cada minuto carregando o peso bom de uma vida que os dois escolheram
+construir, juntos, com tanto cuidado.

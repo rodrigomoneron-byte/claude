@@ -106,3 +106,28 @@ Desligo, sentindo o próprio peso da noite se acumular, cada camada
 nova de suspeita exigindo energia que já sinto escassear, mas que
 recuso deixar esgotar completamente antes de chegar à verdade
 inteira.
+
+Cami chega em casa pouco depois, encontrando eu ainda sentado no
+escritório, os próprios documentos espalhados pela mesa.
+
+— Você ainda está trabalhando nisso? — pergunta, sentando ao meu
+lado.
+
+— Não consigo parar. Cada nova peça exige atenção antes que eu
+consiga descansar de verdade.
+
+---
+
+— Entendo essa necessidade. Só não deixa ela te consumir
+completamente. Precisamos de energia pra continuar amanhã também.
+
+— Você tem razão. Vou parar por hoje.
+
+— Boa decisão. Vamos comer alguma coisa simples e descansar cedo.
+
+— Isso soa exatamente certo.
+
+Guardo os documentos, sentindo o próprio corpo finalmente relaxar um
+pouco, grato por ter, ao lado, alguém disposta a lembrar que mesmo
+verificação necessária precisa de limite, pra não consumir tudo mais
+que ainda importa.

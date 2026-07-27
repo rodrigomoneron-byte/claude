@@ -111,3 +111,23 @@ devagar, silêncio confortável substituindo aos poucos o próprio peso
 do dia, e sinto, apesar de tudo, gratidão profunda por essa
 capacidade compartilhada de processar dor real sem deixar ela
 endurecer nenhum dos dois.
+
+— Preciso ligar pra Dan amanhã, formalizar os próximos passos legais
+— comenta, depois de um tempo, a voz ainda cansada. — Quanto antes
+isso avançar, menos tempo fica em limbo.
+
+— Faz sentido. Quer que eu esteja presente pra essa ligação?
+
+---
+
+— Prefiro fazer sozinho, mas aprecio a oferta. Só preciso de você
+aqui, depois, pra processar o que quer que ele diga.
+
+— Sempre vou estar aqui.
+
+— Sei disso. E isso significa mais do que consigo expressar
+completamente hoje.
+
+Beijo o topo da cabeça dele, sentindo o próprio peso do dia inteiro
+se assentar entre nós dois, grata por essa constância que nenhuma
+crise, por maior que seja, jamais conseguiu abalar completamente.

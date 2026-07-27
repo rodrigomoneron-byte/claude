@@ -112,3 +112,29 @@ distorcer julgamento.
 
 — É pra isso que serve equipe de confiança, Alex. Pra cobrir o que
 qualquer um sozinho não consegue enxergar completamente.
+
+Ele se levanta pra sair, mas para na porta, virando de volta.
+
+— Uma coisa mais. Não deixa a pergunta dela te fazer duvidar de si
+mesmo demais. Você tem sido rigoroso o suficiente, considerando as
+circunstâncias.
+
+— Aprecio isso, Marcus. Só... continua difícil separar completamente
+esperança pessoal de julgamento profissional, mesmo tentando com
+todo o cuidado possível.
+
+---
+
+— Isso é humano, Alex. Ninguém consegue separar completamente as
+duas coisas, principalmente quando envolve família de sangue.
+
+— Você tem razão. Só queria conseguir fazer isso parecer mais fácil
+do que realmente é.
+
+— Se fosse fácil, não precisaria de tanta gente ao seu redor
+ajudando a enxergar o que sozinho você não consegue.
+
+Ele sorri, saindo finalmente, e fico sozinho de novo, sentindo
+gratidão renovada por ter, ao redor, equipe disposta a compartilhar
+o próprio peso dessa verificação constante, mesmo quando ela exige
+tanto de todo mundo envolvido.
