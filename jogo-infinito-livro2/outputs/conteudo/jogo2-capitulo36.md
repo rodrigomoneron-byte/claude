@@ -15,6 +15,10 @@ cumprido tudo, proativamente.
 
 — Isso é ótima notícia.
 
+— É, sim. Ainda com cautela, mas real — acrescento, sentindo o
+próprio corpo relaxar ligeiramente ao dizer isso em voz alta pela
+primeira vez em semanas.
+
 ---
 
 Elena conta sobre a própria exposição de arte recente, risada genuína
@@ -104,3 +108,8 @@ Adormecemos pouco depois, gratos, os dois, por essa rede de pessoas
 genuínas crescendo ao redor, cada uma encontrando o próprio caminho
 pra felicidade real, inspirada, de alguma forma, pelo exemplo que
 tentamos oferecer.
+
+Acordo de madrugada por um instante, o quarto silencioso ao nosso
+redor, e fico ali, deitado, sentindo gratidão simples por essa noite
+que carregou, sem nenhum esforço forçado, exatamente o tipo de paz
+que passamos meses inteiros tentando reconstruir devagar.

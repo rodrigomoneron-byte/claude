@@ -13,6 +13,12 @@ possível.
 
 — Estou pronta.
 
+— Antes de começarmos — acrescento, mantendo o próprio tom firme mas
+justo — quero deixar claro que essa reunião existe pra dar chance de
+explicação completa, não pra condenação já decidida de antemão.
+
+— Aprecio você dizer isso. Mesmo sabendo que mereço o escrutínio.
+
 Denise lista cada item, um de cada vez — a data de nascimento
 reconstruída, as duas consultas jurídicas, a propriedade em
 Edimburgo, o comentário relatado por Richard Ashford sobre "recuperar
@@ -103,3 +109,15 @@ a porta fecha.
 — Acho que ela disse mais verdade hoje do que em qualquer conversa
 anterior. Isso não resolve a questão de confiança. Só adiciona
 informação real pra decisão que ainda precisa ser tomada com cuidado.
+
+Alex fica em silêncio, olhando pra porta por onde Alexandra acabou de
+sair, e reconheço, observando ele, o mesmo conflito que sinto
+crescer dentro de mim — vontade genuína de acreditar, competindo,
+constantemente, com o próprio dever de proteger tudo que já
+construímos juntos.
+
+— O que você quer fazer agora? — pergunto, finalmente, quebrando o
+silêncio entre nós três.
+
+— Preciso de um dia inteiro só pra processar. Depois decidimos juntos
+o próximo passo, com cabeça mais fria do que a que carrego agora.

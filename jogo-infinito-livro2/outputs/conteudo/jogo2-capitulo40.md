@@ -16,6 +16,10 @@ aleatória.
 peso da pergunta pesar mais do que qualquer outra desde que essa
 crise inteira começou.
 
+— Pode significar isso, dependendo de como as duas respondem quando
+confrontadas — Dan esclarece, o próprio tom cuidadosamente neutro. —
+Prefiro não presumir resultado antes de dar chance de explicação.
+
 ---
 
 — Preciso conversar com as duas separadamente antes de decidir isso
@@ -110,3 +114,9 @@ encontrando o mesmo estado de alerta espelhado no rosto dela.
 
 — Continue — falo, finalmente, a voz mais firme do que o próprio
 coração acelerado sugeriria.
+
+Patricia respira fundo mais uma vez, os dedos entrelaçados sobre a
+própria mesa, e sinto o resto da sala inteira prender a respiração
+junto comigo, esperando a confissão que já sabemos, de algum jeito,
+vai redefinir tudo que pensávamos entender sobre lealdade nessa
+empresa.

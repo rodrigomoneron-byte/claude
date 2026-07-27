@@ -13,6 +13,9 @@ recente que consegui através de contato em Londres.
 
 — O que você encontrou?
 
+— Prepare-se, porque isso muda o quadro inteiro que construímos até
+agora — avisa, antes de continuar.
+
 — A assinatura do próprio bisavô de Alex, no documento que Alexandra
 apresentou como prova de reconhecimento tardio de Theodore, não bate
 com nenhuma outra assinatura dele que encontrei em registro público
@@ -105,3 +108,8 @@ porque precisava proteger alguém que ama.
 Desligo, sentindo o próprio peso da conversa se assentar, um pouco
 mais leve agora, grata por ter, ao redor, gente disposta a validar a
 própria dúvida sem transformar ela em julgamento precipitado.
+
+Fico sentada no escuro do próprio escritório por mais um tempo,
+deixando a exaustão do dia inteiro finalmente pesar sobre os ombros,
+sabendo que amanhã, com confirmação forense em mãos, tudo vai
+precisar mudar de direção outra vez.

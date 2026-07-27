@@ -11,6 +11,11 @@ de acesso não é, sozinha, evidência de má-fé.
 
 — Então não temos motivo pra agir formalmente.
 
+— Não com base só nisso. Mas continue registrando cada detalhe,
+mesmo pequeno. Padrão só fica visível quando somamos peça suficiente.
+
+— Vou continuar. Prometo relatório atualizado toda semana.
+
 — Não ainda. Recomendo continuar observando, sem alarmar ela
 diretamente. Qualquer ação prematura, sem prova real, pode prejudicar
 a própria credibilidade de vocês se ela realmente for só minuciosa
@@ -114,3 +119,10 @@ Desligo, sentindo o próprio peso da conversa se acomodar devagar,
 grato por ter, ao lado, alguém disposta a segurar a própria
 complexidade emocional sem exigir clareza instantânea que ainda não
 consigo oferecer completamente.
+
+Fico olhando pela janela do escritório por um momento longo, tentando
+organizar mentalmente cada peça reunida até agora. Nenhuma delas,
+isolada, prova nada definitivo. Juntas, formam sombra grande demais
+pra continuar ignorando, e reconheço, com desconforto real, que
+talvez a próxima etapa dessa verificação exija confronto que ainda
+não me sinto completamente pronto pra enfrentar.
