@@ -40,7 +40,10 @@ um verbo de correção/quebra de 4a parede.
 import sys
 import re
 
-# Falsos positivos legítimos de "... gente" (não são "a gente" = we)
+# Falsos positivos legítimos de "... gente" (não são "a gente" = we).
+# Usado por find_oblique, onde "gente" sozinho (sem "a" isolado antes) pode
+# genuinamente significar "pessoas" — ex.: "pra gente como Tyler" = "para
+# pessoas como Tyler".
 WHITELIST = [
     "esta gente", "essa gente", "pouca gente", "muita gente", "toda gente",
     "certa gente", "tanta gente", "outra gente", "boa gente", "nome de gente",
@@ -48,10 +51,27 @@ WHITELIST = [
     "gente como", "gente que", "gente de", "gente da", "gente do",
 ]
 
+# Whitelist restrita pra find_a_gente: NUNCA inclui "gente como/que/de/da/do"
+# (o sufixo depois de "gente"). Bug real encontrado na produção do Livro 3:
+# "a gente" com "a" isolado (== pronome proibido) sempre significa "nós",
+# mesmo quando seguido de "como/que/de" — ex.: "trata a gente como decisão"
+# é pronome proibido, não "gente como Warren" (que nunca bate \ba gente\b
+# pra começo de conversa, já que "machuca gente" não tem "a" isolado antes).
+# Manter os sufixos na whitelist de find_a_gente causa falso-negativo real.
+WHITELIST_A_GENTE = [
+    w for w in WHITELIST
+    if not w.startswith("gente ")
+]
+
 # Padrões de device proibido (quebra de 4a parede / autocorreção da régua)
+# NOTA: \ba gente\b (com fronteira de palavra) — sem o \b, "machuca gente",
+# "afeta gente", "tanta gente" etc. batem como falso positivo, porque o "a"
+# final de "machuca"/"afeta"/"tanta" gruda em "gente" formando a substring
+# "a gente" sem ser o pronome. Bug real, confirmado varrendo o catálogo
+# inteiro na correção deste script (Livro 3 do Jogo Infinito).
 DEVICE_PATTERNS = [
     r"n[ãa]o (deveria|devia) dizer .?a gente",
-    r"a gente.*?(—|-|,).{0,40}(quer dizer|ou melhor|corrig|n[ãa]o,?\s*n[óo]s)",
+    r"\ba gente\b.*?(—|-|,).{0,40}(quer dizer|ou melhor|corrig|n[ãa]o,?\s*n[óo]s)",
     r"(quer dizer|ou melhor|corrijo|me corrijo).{0,20}n[óo]s",
     r"(a|essa|aquela) r[ée]gua (dela|do livro|da voz|da autora)",
     r"que r[ée]gua",
@@ -88,7 +108,7 @@ def find_a_gente(text):
     for m in re.finditer(r"\ba gente\b", low):
         start = m.start()
         window = low[max(0, start - 12): start + 12]
-        if any(w in window for w in WHITELIST):
+        if any(w in window for w in WHITELIST_A_GENTE):
             continue
         ln = _line_of(text, start)
         if ln in seen_lines:
@@ -98,18 +118,24 @@ def find_a_gente(text):
     return hits
 
 def find_oblique(text):
+    # mesmas exceções legítimas de "gente" valem aqui — "pra gente como X",
+    # "da gente do Y" etc. são "para pessoas como X", não o pronome proibido.
     normalized = text.replace("\n", " ")
     low = normalized.lower()
     hits = []
     seen = set()
     for pat in OBLIQUE_PATTERNS:
         for m in re.finditer(pat, low):
-            ln = _line_of(text, m.start())
+            start = m.start()
+            window = low[start: start + 40]
+            if any(w in window for w in ("gente como", "gente que", "gente de", "gente da", "gente do")):
+                continue
+            ln = _line_of(text, start)
             key = (ln, pat)
             if key in seen:
                 continue
             seen.add(key)
-            hits.append((ln, _line_text(text, m.start()), pat))
+            hits.append((ln, _line_text(text, start), pat))
     return hits
 
 def find_device(text):

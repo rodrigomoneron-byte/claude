@@ -40,12 +40,27 @@ um verbo de correção/quebra de 4a parede.
 import sys
 import re
 
-# Falsos positivos legítimos de "... gente" (não são "a gente" = we)
+# Falsos positivos legítimos de "... gente" (não são "a gente" = we).
+# Usado por find_oblique, onde "gente" sozinho (sem "a" isolado antes) pode
+# genuinamente significar "pessoas" — ex.: "pra gente como Tyler" = "para
+# pessoas como Tyler".
 WHITELIST = [
     "esta gente", "essa gente", "pouca gente", "muita gente", "toda gente",
     "certa gente", "tanta gente", "outra gente", "boa gente", "nome de gente",
     "contra gente", "trata gente", "aquela gente", "pela gente comum",
     "gente como", "gente que", "gente de", "gente da", "gente do",
+]
+
+# Whitelist restrita pra find_a_gente: NUNCA inclui "gente como/que/de/da/do"
+# (o sufixo depois de "gente"). Bug real encontrado na produção do Livro 3:
+# "a gente" com "a" isolado (== pronome proibido) sempre significa "nós",
+# mesmo quando seguido de "como/que/de" — ex.: "trata a gente como decisão"
+# é pronome proibido, não "gente como Warren" (que nunca bate \ba gente\b
+# pra começo de conversa, já que "machuca gente" não tem "a" isolado antes).
+# Manter os sufixos na whitelist de find_a_gente causa falso-negativo real.
+WHITELIST_A_GENTE = [
+    w for w in WHITELIST
+    if not w.startswith("gente ")
 ]
 
 # Padrões de device proibido (quebra de 4a parede / autocorreção da régua)
@@ -93,7 +108,7 @@ def find_a_gente(text):
     for m in re.finditer(r"\ba gente\b", low):
         start = m.start()
         window = low[max(0, start - 12): start + 12]
-        if any(w in window for w in WHITELIST):
+        if any(w in window for w in WHITELIST_A_GENTE):
             continue
         ln = _line_of(text, start)
         if ln in seen_lines:
