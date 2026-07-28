@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 33 / 60
-- Próximo: Capítulo 34 (POV Alex)
-- Última atualização: 2026-07-28 13:17
+- Capítulos concluídos: 34 / 60
+- Próximo: Capítulo 35 (POV Cami)
+- Última atualização: 2026-07-28 13:19
 
 ## Placar
-- Palavras: 29468
-- Páginas KDP (~palavras/300): 98
+- Palavras: 30454
+- Páginas KDP (~palavras/300): 102
 - Score médio: 7.0
-- Meta de palavras: 60000 (49%)
+- Meta de palavras: 60000 (51%)
 - Cenas de heat: 5 / meta 12 (última no cap. 30)
 
 ## Capítulos com ressalva (refinar no final)
