@@ -148,3 +148,18 @@ mente ainda processando a escala real da vantagem.
 ditando o próprio ritmo, em vez de só reagir ao dele.
 
 — Espero que essa sensação dure. Merecemos isso, depois de tudo.
+
+— Precisamos decidir o próximo passo com Henrik, além do caso-piloto —
+comento, sentindo o próprio corpo já calculando a própria logística. —
+Ele pode nos ajudar a alcançar os outros nove casos mais rápido.
+
+— Vou perguntar amanhã, se ele topa fazer isso formalmente, não só
+compartilhar informalmente com os próprios contatos.
+
+— E precisamos avisar Devon também, sobre continuar mapeando o
+mercado europeu inteiro — acrescento. — Se existem mais quatro alvos
+possíveis, quero saber exatamente onde antes da Meridian chegar
+primeiro.
+
+— Vou pedir pra ela priorizar isso amanhã de manhã, junto com tudo
+mais que já está na própria lista.

@@ -142,3 +142,14 @@ quando souber.
 ela mais perto por um momento antes de finalmente recolhermos os
 próprios documentos e apagarmos as luzes daquela sala cheia de
 história.
+
+Saímos juntos pro corredor vazio, mãos entrelaçadas, e sinto, olhando
+pra ela caminhando ao meu lado, que esse gesto formal — pasta assinada,
+título novo, decisão pública — carrega, na verdade, muito menos peso
+do que a certeza simples que já sentíamos há meses, sobre quem ela
+sempre foi pra mim, dentro e fora de qualquer documento legal.
+
+— Pronta pra ir pra casa? — pergunto, apertando a mão dela no
+elevador.
+
+— Pronta. Foi um dia perfeito, Alex. Obrigada, de verdade.

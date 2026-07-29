@@ -148,3 +148,23 @@ dois.
 — Concordo completamente. Talvez essa tenha sido a vitória real, no
 fim de tudo. Não o número de alvos fechados, mas quem todo mundo se
 tornou tentando fechar eles direito.
+
+As portas do elevador se abrem, e caminhamos juntos pelo próprio
+saguão, o sol da manhã entrando forte pelas janelas altas do prédio.
+
+— Vamos ligar pra Devon agora mesmo, então? — pergunto, já pegando o
+próprio celular.
+
+— Vamos. Prefiro ela ouvir isso de nós dois, diretamente, não através
+de e-mail formal.
+
+Devon atende no segundo toque, e sinto, colocando no viva-voz, o
+próprio corpo carregar a mesma satisfação genuína de minutos atrás.
+
+— Precisamos conversar sobre o seu cargo — comento, sem rodeio, e
+sinto, do outro lado da linha, um silêncio breve de surpresa antes
+dela responder.
+
+— Isso soa importante. Posso ir até aí agora?
+
+— Pode, sim. Vamos te contar tudo pessoalmente.

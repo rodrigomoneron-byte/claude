@@ -127,6 +127,16 @@ significado real do que qualquer reunião formal jamais conseguiria.
 — Tem razão. Vamos fazer as duas coisas, então. Nada de trabalho, muito
 de gente que importa.
 
+Levanto devagar, esticando o próprio corpo, e sinto o cheiro de café
+fresco começar a subir da própria cozinha enquanto Alex se levanta
+também, seguindo atrás de mim.
+
+— Eu preparo, hoje — oferece, beijando minha testa de leve. — Você
+descansa mais um pouco, se quiser.
+
+— Prefiro te ajudar. Não preciso descansar mais nesse domingo
+específico. Já estou exatamente onde eu quero estar.
+
 Ficamos ali, quietos, absorvendo juntos essa manhã que sinto carregar,
 silenciosamente, o peso bom de tudo que ainda vem pela frente — não
 mais corrida contra ninguém, só vida inteira ainda por viver, um dia

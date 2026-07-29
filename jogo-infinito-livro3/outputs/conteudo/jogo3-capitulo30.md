@@ -137,3 +137,9 @@ urgência aparente: *Boa noite. Amanhã começo a investigar o padrão.
 Descansem, os dois, vocês merecem.* Sorrio, guardando o celular sem
 responder, decidindo, pela primeira vez em semanas, deixar essa
 mensagem específica esperar até amanhã de manhã.
+
+Cami se aconchega mais perto, a respiração já quase pegando no sono, e
+sinto, deitado ali no escuro, uma gratidão silenciosa por essa noite
+inteira que conseguiu transformar erro real em prova concreta de que
+essa parceria continua firme, mesmo depois de tropeço que poderia ter
+custado muito mais caro.

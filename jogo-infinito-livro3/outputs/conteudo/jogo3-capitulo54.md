@@ -151,3 +151,13 @@ do que eu consegui.
 
 — Vai conseguir, com certeza. Já demonstrou isso hoje, chorando na
 sua frente sem vergonha nenhuma.
+
+— Isso é verdade — respondo, sentindo o próprio corpo relaxar
+completamente com a observação dela. — E talvez seja exatamente esse
+tipo de exemplo que eu ainda preciso, de vez em quando, pra lembrar
+que já não preciso mais provar nada também.
+
+— Você já provou o suficiente há muito tempo, Alex. Espero que
+consiga sentir isso de verdade, não só ouvir de mim.
+
+— Estou tentando. Cada dia um pouco mais.

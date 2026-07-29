@@ -149,6 +149,18 @@ construir, mesmo quando parecia mais difícil competir assim.
 
 — Especialmente quando parecia mais difícil, acho.
 
+— Sabe o que ainda preciso confirmar? — comento, virando de volta pro
+próprio laptop. — Se Milão e Lyon já receberam o material completo de
+transparência, ou se ainda precisamos preparar versão específica pra
+cada um.
+
+— Já preparei versão base — responde, puxando os próprios documentos
+— só falta ajustar detalhe local pra cada reunião. Posso terminar isso
+hoje à noite, se você cuidar da logística de viagem.
+
+— Combinado. Vamos garantir que os dois cheguem preparados, sem nada
+deixado pro improviso de última hora.
+
 Ela se afasta devagar, sorrindo, e voltamos juntos pro próprio
 trabalho, sentindo, pela primeira vez em semanas, que talvez o próprio
 peso dessa corrida inteira esteja finalmente começando a inclinar a

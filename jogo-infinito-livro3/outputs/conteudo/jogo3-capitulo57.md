@@ -148,3 +148,13 @@ puxando eu pra perto, um sorriso misterioso ainda no próprio rosto. —
 Confia em mim.
 
 — Confio. Sempre confiei.
+
+Ele me puxa pra um abraço mais longo, o próprio corpo carregando a
+mesma leveza boa que a ligação de Elena trouxe pra noite inteira, e
+sinto, encostada nele, que qualquer segredo que ele esteja guardando
+provavelmente vale mesmo a espera.
+
+— Vamos dormir? — sugere, finalmente, beijando o topo da minha cabeça.
+
+— Vamos. Mas saiba que vou continuar tentando adivinhar, até você
+contar de verdade.

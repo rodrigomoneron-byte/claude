@@ -129,6 +129,22 @@ decidindo, e nós dois escolhendo receber com os braços abertos.
 
 — Isso é exatamente como eu sinto também.
 
+— Precisamos contar pro conselho, quando tivermos certeza — comento,
+ainda sentindo o próprio corpo tremer de emoção contida. — E pra
+Marcus e Naomi, claro. Vão adorar saber que a filha deles vai crescer
+com alguém quase da mesma idade por perto.
+
+— E pra Elena — ela acrescenta, rindo baixinho através das próprias
+lágrimas. — Vai enlouquecer de alegria, com o próprio casamento ainda
+por vir.
+
+— Um passo de cada vez — respondo, puxando ela mais perto de novo. —
+Amanhã confirmamos com o exame. Depois, contamos pra quem precisa
+saber, no próprio ritmo certo.
+
+— No próprio ritmo certo — repete, sorrindo através das lágrimas. —
+Sempre assim, desde o início.
+
 ---
 
 Guardo a caneta de volta no próprio pote, sentindo o peso da própria

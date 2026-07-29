@@ -140,3 +140,13 @@ prefere que nós escolhamos alguma coisa especial.
 
 — Combinado. E, Alex — ela acrescenta, ainda aconchegada contra mim —
 obrigada por essa tarde inteira. Precisávamos exatamente disso.
+
+— Precisávamos, sim. E precisamos fazer isso mais vezes, conversar
+sobre futuro sem deixar o presente engolir tudo antes.
+
+— Concordo completamente. Vamos guardar essa tarde como lembrete, pra
+próxima vez que a correria tentar nos afastar disso de novo.
+
+— Guardado — respondo, apertando ela mais perto por um momento longo
+antes de finalmente voltarmos, devagar, pro próprio relatório
+esquecido na mesa.

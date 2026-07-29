@@ -150,3 +150,14 @@ início, só que sem nenhuma pressa forçada.
 — É verdade. Circularidade estranha, mas boa.
 
 — Muito boa, sinceramente.
+
+— Vamos dormir? — sugiro, apagando a última luz do próprio quarto. —
+Amanhã cedo precisamos estar no aeroporto.
+
+— Vamos, sim. Só mais um minuto assim, antes de qualquer alarme
+começar a contar as próprias horas.
+
+Deito ao lado dela, sentindo o próprio corpo absorver a calma daquela
+última noite antes da viagem, e adormecemos devagar, mãos entrelaçadas,
+prontos, os dois, pra fechar, finalmente, o círculo inteiro que essa
+corrida decidiu desenhar.

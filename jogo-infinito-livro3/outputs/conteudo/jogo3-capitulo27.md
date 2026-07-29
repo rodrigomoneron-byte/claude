@@ -159,3 +159,18 @@ rápido, Marcus.
 
 — Sempre. Vamos superar essa fase também, do jeito que superamos
 todas as outras.
+
+— Uma coisa boa saiu de tudo isso, pelo menos — Denise comenta,
+aparecendo na porta com mais uma pilha de mensagens. — Provamos que
+conseguimos crescer rápido sem perder qualidade, se organizarmos
+direito.
+
+— É verdade — respondo, sentindo o próprio corpo absorver a própria
+constatação. — Provamos isso da forma mais difícil possível, mas
+provamos.
+
+— Amanhã já parece mais leve, só de saber que Greta começa cedo —
+Marcus acrescenta, guardando o próprio celular.
+
+— Amanhã, sim. Um problema de cada vez, exatamente como sempre
+aprendemos a fazer.

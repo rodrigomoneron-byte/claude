@@ -142,3 +142,13 @@ história de recomeço, de alguma forma.
 
 — É bonito pensar nisso assim. Rede inteira de gente escolhendo
 recomeçar direito, um de cada vez.
+
+Dirigimos devagar de volta pra casa, janelas abertas deixando entrar o
+ar morno do fim de tarde, e sinto, olhando pra ele ao volante, gratidão
+profunda por esse dia inteiro que conseguiu reunir tanta gente boa num
+único jardim pequeno, celebrando vida nova chegando.
+
+— Foi exatamente o tipo de dia que quero lembrar daqui a anos —
+comento, encostando a cabeça no banco.
+
+— Eu também. Guardado com carinho, prometo.

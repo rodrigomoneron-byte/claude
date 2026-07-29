@@ -135,3 +135,14 @@ tudo como cálculo puro.
 jeito certo, não só rápido.
 
 — Talvez sim. Prefiro pensar assim, pelo menos.
+
+Chegamos em casa pouco depois, e sinto, entrando juntos, o próprio
+peso da conversa inteira ainda pairando de um jeito bom, não pesado,
+sobre nós dois.
+
+— Obrigada por responder com honestidade — comento, tirando os
+próprios sapatos na entrada. — Podia ter só dito algo bonito, sem
+pensar de verdade.
+
+— Prefiro sempre honestidade com você, mesmo quando a resposta não é
+perfeita. Principalmente quando não é perfeita, na verdade.

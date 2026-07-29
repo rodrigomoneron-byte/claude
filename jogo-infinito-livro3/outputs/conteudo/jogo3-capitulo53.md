@@ -149,3 +149,14 @@ interruptor, uma sensação rara de fechamento genuíno — não só o fim de
 uma corrida comercial, mas o fim de uma história inteira que começou
 com desconfiança e terminou, contra todas as expectativas, em algo
 parecido com respeito duradouro.
+
+No topo da escada, Alex segura minha mão, parando por um instante
+antes de entrarmos no próprio quarto.
+
+— Sabe o que mais me surpreende, pensando em tudo isso? — comenta,
+a voz baixa no corredor escuro. — Que a corrida mais dura que já
+enfrentamos terminou nos ensinando mais sobre compaixão do que
+qualquer vitória fácil jamais conseguiria.
+
+— Concordo completamente. Boa noite, Alex. Amanhã levamos essa carta
+pro correio, e seguimos em frente.
