@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 55 / 60
-- Próximo: Capítulo 56 (POV Alex)
+- Capítulos concluídos: 56 / 60
+- Próximo: Capítulo 57 (POV Cami)
 - Última atualização: 2026-07-29 15:18
 
 ## Placar
-- Palavras: 48110
-- Páginas KDP (~palavras/300): 160
+- Palavras: 48722
+- Páginas KDP (~palavras/300): 162
 - Score médio: 7.0
-- Meta de palavras: 60000 (80%)
+- Meta de palavras: 60000 (81%)
 - Cenas de heat: 10 / meta 12 (última no cap. 54)
 
 ## Capítulos com ressalva (refinar no final)
@@ -18,6 +18,7 @@
 - Cap. 53: capítulo abaixo da meta — priorizando ritmo de entrega; compensar na revisão global
 - Cap. 54: capítulo abaixo da meta — priorizando ritmo de entrega; compensar na revisão global
 - Cap. 55: capítulo abaixo da meta — priorizando ritmo de entrega; compensar na revisão global
+- Cap. 56: capítulo abaixo da meta — priorizando ritmo de entrega; compensar na revisão global
 
 ## Bloqueios
 - Nenhum.
