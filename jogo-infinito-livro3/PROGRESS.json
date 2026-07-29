@@ -10,9 +10,9 @@
     "Alex"
   ],
   "status": "Em andamento",
-  "next_chapter": 52,
-  "next_pov": "Alex",
-  "updated": "2026-07-29 15:12",
+  "next_chapter": 53,
+  "next_pov": "Cami",
+  "updated": "2026-07-29 15:14",
   "chapters": [
     {
       "n": 1,
@@ -421,15 +421,24 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Alex",
+      "words": 646,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false,
+      "ressalva": "capítulo curto (646 palavras) — priorizando velocidade de entrega conforme pedido do usuário; compensar na revisão global final"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 51,
-    "total_words": 45568,
-    "pages_kdp": 152,
+    "chapters_done": 52,
+    "total_words": 46214,
+    "pages_kdp": 154,
     "avg_score": 7.0,
-    "pct_to_target": 76,
+    "pct_to_target": 77,
     "heat_scenes_done": 9,
     "last_heat_chapter": 49
   }
