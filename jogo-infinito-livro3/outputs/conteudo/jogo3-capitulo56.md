@@ -116,3 +116,22 @@ Dirijo devagar rumo à própria casa, sentindo, ao lado dela, gratidão
 profunda por essa vida inteira que continuamos escolhendo construir,
 memória após memória, momento simples após momento simples, exatamente
 do jeito que sempre importou de verdade.
+
+— Antes de chegarmos — comenta, ainda olhando pela janela do carro —
+posso te perguntar uma coisa? Se pudesse voltar no tempo, até aquele
+primeiro dia na sala de reunião, mudaria alguma coisa?
+
+Considero a própria pergunta com cuidado antes de responder, sentindo
+necessidade de dar resposta honesta, não só reconfortante.
+
+— Talvez menos medo, no início. Demorei tempo demais pra confiar
+completamente em você, quando devia ter confiado desde o primeiro
+aperto de mão.
+
+— Isso é honesto. Eu também demoraria menos, acho, pra parar de tratar
+tudo como cálculo puro.
+
+— Mas talvez precisássemos exatamente desse tempo, pra chegar aqui do
+jeito certo, não só rápido.
+
+— Talvez sim. Prefiro pensar assim, pelo menos.

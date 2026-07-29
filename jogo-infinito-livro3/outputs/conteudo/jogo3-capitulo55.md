@@ -127,3 +127,18 @@ carregando peso próprio de significado real.
 — Foi um dia lindo — comento, entrando no carro.
 
 — Foi. Um dos mais bonitos, acho, de todo esse ano inteiro.
+
+— Sabe o que eu percebi, observando Naomi hoje? — comento, enquanto
+ele liga o carro devagar. — Que felicidade dela não veio só da
+gravidez em si. Veio de ter escolhido o próprio ritmo, com Marcus,
+depois de quase perder isso pra própria pressão externa.
+
+— É verdade. Eles construíram esse momento com o mesmo cuidado que
+aprendemos a valorizar, cada um do seu jeito.
+
+— E olha todo mundo reunido hoje por nossa causa — continuo, sentindo
+o próprio peito ainda aquecido. — Cada pessoa ali carregando própria
+história de recomeço, de alguma forma.
+
+— É bonito pensar nisso assim. Rede inteira de gente escolhendo
+recomeçar direito, um de cada vez.

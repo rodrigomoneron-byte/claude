@@ -122,3 +122,23 @@ Fazemos amor devagar, ali naquela mesma sala onde tudo começou meses
 atrás, cada movimento carregando celebração genuína de tudo que
 construímos — não só vitória comercial, mas parceria completa, igual,
 formal, exatamente como sempre deveria ter sido.
+
+Depois, vestidos de novo, documentos já guardados com cuidado na
+própria pasta, ficamos sentados lado a lado na mesa longa, taças de
+vinho quase esquecidas entre nós dois.
+
+— Precisamos avisar todo mundo amanhã — comento, ainda absorvendo a
+própria magnitude do gesto. — Denise, Marcus, Devon, o conselho
+inteiro.
+
+— Amanhã, sim. Hoje ainda pertence só a nós dois.
+
+— Concordo completamente. Embora já esteja imaginando a cara de Marcus
+quando souber.
+
+— Ele provavelmente vai dizer que já devíamos ter feito isso há meses.
+
+— Provavelmente vai dizer exatamente isso — respondo, rindo, puxando
+ela mais perto por um momento antes de finalmente recolhermos os
+próprios documentos e apagarmos as luzes daquela sala cheia de
+história.

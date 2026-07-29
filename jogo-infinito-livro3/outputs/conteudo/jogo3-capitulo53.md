@@ -131,6 +131,19 @@ atravessou nessa jornada de reconhecer mudança possível nos outros.
 — Exatamente. Talvez essa carta ajude ele também, de algum jeito
 inesperado.
 
+— Sabe o que mais me marcou, na carta dele? — comento, ainda
+processando a própria leitura. — A parte sobre a família. Ele nunca
+mencionou isso antes, em nenhuma conversa.
+
+— Nem eu esperava isso, sinceramente. Mas faz sentido, pensando bem.
+Terapia real acaba abrindo porta pra outras coisas também, não só
+pro próprio trabalho.
+
+— Espero que funcione, pra ele. Merece essa chance, depois de tudo.
+
+— Merece, sim. E acho bonito que ele escolheu contar justamente pra
+nós, mesmo depois de tanta rivalidade.
+
 Ligo a luz da cozinha antes de subirmos, e sinto, apagando o próprio
 interruptor, uma sensação rara de fechamento genuíno — não só o fim de
 uma corrida comercial, mas o fim de uma história inteira que começou

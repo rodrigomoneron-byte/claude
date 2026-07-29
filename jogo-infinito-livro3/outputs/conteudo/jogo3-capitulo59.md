@@ -106,6 +106,27 @@ como esse.
 
 — Gosto muito desse plano.
 
+— Sabe o que ainda quero fazer, antes do dia terminar? — comento,
+virando pra olhar pra ele. — Ligar pra Elena, ver como ela e Marco
+estão. Faz um tempo que não conversamos direito.
+
+— Boa ideia. E depois, talvez, ligar pro Marcus, ver como Naomi está
+com a gravidez avançando.
+
+— Sim. E pra Devon também, só pra perguntar como está a nova diretoria,
+sem falar de trabalho de verdade.
+
+— Isso não parece mais "nada planejado" — ele brinca, sorrindo.
+
+— É diferente. Isso não é trabalho. É cuidar de gente que nós amamos.
+
+Sinto o próprio peito se aquecer com a própria constatação, reconhecendo
+quanto essa lista simples de ligações carrega, sozinha, mais
+significado real do que qualquer reunião formal jamais conseguiria.
+
+— Tem razão. Vamos fazer as duas coisas, então. Nada de trabalho, muito
+de gente que importa.
+
 Ficamos ali, quietos, absorvendo juntos essa manhã que sinto carregar,
 silenciosamente, o peso bom de tudo que ainda vem pela frente — não
 mais corrida contra ninguém, só vida inteira ainda por viver, um dia

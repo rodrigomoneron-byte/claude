@@ -132,3 +132,19 @@ genuína crescendo sobre exatamente o que ele está pensando.
 — O que você está planejando, Alex Voss?
 
 — Ainda não vou contar. Mas confia em mim, vai valer a pena esperar.
+
+— Isso não é justo — reclamo, rindo, dando um leve empurrão de
+brincadeira no ombro dele. — Não pode insinuar algo assim e depois
+não contar nada.
+
+— Posso, sim. E vou. Só preciso de mais alguns dias pra deixar tudo
+exatamente do jeito que planejei.
+
+— Você está me deixando curiosa demais pra dormir direito essa noite,
+sabia?
+
+— Prometo que vai valer a pena cada minuto de curiosidade — responde,
+puxando eu pra perto, um sorriso misterioso ainda no próprio rosto. —
+Confia em mim.
+
+— Confio. Sempre confiei.

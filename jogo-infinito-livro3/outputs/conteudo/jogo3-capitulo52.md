@@ -128,3 +128,15 @@ em tudo mais.
 — Te amo — murmuro, contra o cabelo dela.
 
 — Te amo também. Muito.
+
+— Precisamos ligar de volta pra Naomi, aliás — comento, depois de um
+tempo em silêncio confortável. — Perguntar se podemos ajudar com
+alguma coisa pro chá de bebê, além de organizar.
+
+— Boa lembrança. Vou perguntar se ela já tem lista de presentes, ou se
+prefere que nós escolhamos alguma coisa especial.
+
+— Vou ligar amanhã de manhã, então.
+
+— Combinado. E, Alex — ela acrescenta, ainda aconchegada contra mim —
+obrigada por essa tarde inteira. Precisávamos exatamente disso.

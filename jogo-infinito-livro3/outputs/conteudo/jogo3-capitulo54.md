@@ -132,3 +132,22 @@ proximidade simples entre nós dois.
 — Foi um dia bom inteiro — murmuro, rindo baixinho.
 
 — Muito bom, sim. Do início ao fim.
+
+— Sabe o que mais gostei, hoje? — comento, a cabeça descansando no
+peito dela. — Ver o rosto de Devon quando ela percebeu que não
+precisava mais provar nada. Reconheci alguma coisa de mim mesmo
+naquele momento.
+
+— Como assim?
+
+— Passei anos achando que precisava provar valor pro meu próprio pai,
+mesmo depois dele já não estar mais presente pra reconhecer nada. Devon
+me lembrou disso, de um jeito estranho.
+
+— Isso é observação bonita, vinda de você. E verdadeira, acho.
+
+— Espero que ela consiga descansar dessa prova constante mais rápido
+do que eu consegui.
+
+— Vai conseguir, com certeza. Já demonstrou isso hoje, chorando na
+sua frente sem vergonha nenhuma.
