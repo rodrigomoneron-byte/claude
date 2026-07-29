@@ -156,3 +156,14 @@ pouco depois, gratos, os dois, por essa noite específica que conseguiu
 transformar tanta preocupação alheia em lembrete simples de cuidar
 primeiro do que já temos, antes de tentar consertar mais alguma coisa
 lá fora.
+
+— Alex — murmuro, já quase dormindo. — Obrigada por sempre chegar em
+casa disposto a ouvir tudo isso, mesmo depois de um dia inteiro tão
+puxado quanto o meu.
+
+— Sempre vou chegar disposto. Isso nunca vai mudar, não importa quão
+cansado eu esteja.
+
+Adormeço sentindo o próprio corpo finalmente leve, gratidão silenciosa
+substituindo qualquer resquício de preocupação que a noite inteira
+ainda carregava.

@@ -150,6 +150,15 @@ Deixa isso esperar até de manhã, pelo menos.
 
 — Combinado. Amanhã encaramos isso de frente.
 
+— Antes de esquecer — acrescento, apertando a mão dela com mais
+firmeza — obrigado por me chamar atenção, lá em casa. Precisava ouvir
+isso, mesmo sem gostar do momento.
+
+— Sempre vou chamar atenção, quando precisar. Prefiro isso a assistir
+você se perder de novo no mesmo padrão que já criticamos juntos.
+
+— Aprecio isso mais do que consigo expressar agora.
+
 Ela segura minha mão o resto do caminho pra casa, o próprio silêncio
 carregando peso compartilhado, e sinto, olhando pra ela através do
 escuro do carro, que essa notícia específica, seja lá o que for,

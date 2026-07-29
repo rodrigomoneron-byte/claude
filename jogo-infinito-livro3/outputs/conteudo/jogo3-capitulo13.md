@@ -151,6 +151,14 @@ capturar direito.
 da Meridian, no fim de tudo. Não velocidade, não capital. Curiosidade
 genuína sobre quem está do outro lado da mesa.
 
+— Vamos ligar pra Devon assim que chegarmos ao hotel — comento,
+sentindo o próprio corpo já calculando o próximo passo. — Quero saber
+o que exatamente a Meridian ofereceu, se Henrik topar compartilhar
+depois.
+
+— Boa ideia. Isso pode nos dizer muito sobre como eles estão
+reagindo à própria sequência de derrotas.
+
 Paramos por um momento sob a marquise de um prédio próximo, observando
 a chuva cair mais forte agora, e sinto, segurando a mão dele, que essa
 corrida inteira continua nos ensinando, etapa após etapa, que

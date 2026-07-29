@@ -160,3 +160,11 @@ Ela sorri, guardando o próprio celular pra ligar pro Devon depois, e
 sinto, olhando pra ela, que talvez essa corrida inteira, apesar de
 todo o próprio peso, esteja revelando coisas sobre nós dois que talvez
 nunca tivéssemos descoberto num ritmo mais lento e confortável.
+
+— Uma última coisa — comento, antes dela discar o número de Devon. —
+Fico feliz que Kroll ligou hoje. Não pela vitória em si, mas por
+confirmar que dá pra competir duro sem perder completamente o respeito
+pelo lado oposto.
+
+— Concordo inteiramente. Espero que isso continue assim, até o
+próprio fim dessa corrida.

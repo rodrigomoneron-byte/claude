@@ -169,3 +169,14 @@ própria mala do compartimento superior.
 mais nenhuma parada pelo caminho.
 
 — Combinado. Casa, então.
+
+O táxi nos deixa em frente ao próprio prédio já quase à noite, e sinto,
+carregando as malas até a porta, uma sensação estranha de estar
+voltando não só pra casa, mas pra alguma versão nova de nós dois,
+mais leve do que a que embarcou pra ilha uma semana atrás.
+
+— Bem-vindos de volta — Cami murmura, encostando a testa na minha
+enquanto esperamos o elevador.
+
+— Bem-vindos de volta, sim. Prontos pra tudo que ainda vier, mas
+sem pressa nenhuma pra isso começar essa noite.

@@ -151,6 +151,16 @@ inevitavelmente aparecer.
 
 — Vamos tentar. Prometo lembrar, pelo menos.
 
+— Sabe o que eu mais gostei da voz do Henrik, ao telefone? — pergunto,
+ainda absorvendo a própria vitória. — Não tinha triunfalismo nenhum.
+Só alívio genuíno de ter escolhido certo.
+
+— Isso é exatamente o tipo de decisão que queremos inspirar, acho.
+Não vitória contra alguém. Escolha certa, feita com calma.
+
+— Concordo completamente. Prefiro esse tipo de vitória a qualquer
+número isolado.
+
 Paramos numa praça pequena, sentando num banco de pedra ainda úmido da
 chuva da manhã, e ficamos ali, em silêncio confortável, observando o
 próprio movimento tranquilo da cidade seguir em volta de nós, sem

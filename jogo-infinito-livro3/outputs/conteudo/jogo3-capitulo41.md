@@ -155,3 +155,15 @@ jeito raro nesses últimos tempos, e penso que talvez essa noite
 específica — comemorando a alegria alheia, sonhando devagar com a
 própria — carregue exatamente o tipo de esperança que essa corrida
 inteira quase nos fez esquecer de sentir.
+
+— Alex — murmuro, quebrando o próprio silêncio confortável. — Obrigada
+por sonhar isso comigo, mesmo com tudo ainda incerto lá fora.
+
+— Sempre. Prefiro sonhar contigo do que com qualquer contrato,
+sinceramente.
+
+— Isso é a coisa mais doce que você já disse, acho.
+
+Ele ri baixinho, puxando eu mais perto, e adormecemos assim, o próprio
+futuro incerto parecendo, pela primeira vez em muito tempo, mais
+promessa do que peso.

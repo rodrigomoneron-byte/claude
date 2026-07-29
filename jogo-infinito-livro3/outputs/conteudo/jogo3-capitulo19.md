@@ -152,3 +152,15 @@ Bram aperta nossas mãos com firmeza renovada, o próprio rosto aliviado
 de um jeito que reconheço como reflexo exato do que sinto crescer em
 mim, e saímos do escritório de volta pra rua, o sol finalmente
 rompendo as nuvens densas que cobriram a cidade a manhã inteira.
+
+— Quatro de quatro — comento, sentindo o próprio corpo ainda tremer de
+alívio enquanto caminhamos devagar pela calçada molhada.
+
+— Quatro de quatro — Alex repete, apertando minha mão com força. —
+Só falta Frankfurt agora.
+
+— Só falta Frankfurt. Depois de tudo isso, acho que estamos prontos
+pra qualquer coisa que ele ainda decida tentar lá.
+
+— Estamos, sim. Vamos comemorar essa vitória específica antes de
+pensar na próxima, pelo menos por hoje.

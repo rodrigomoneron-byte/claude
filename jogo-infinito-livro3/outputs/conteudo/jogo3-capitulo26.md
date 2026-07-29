@@ -159,3 +159,12 @@ Ela resmunga alguma coisa incompreensível, já dormindo de novo, e
 fico ali, deitado no escuro, absorvendo devagar tudo que essa noite
 específica acabou de me mostrar sobre o próprio adversário mais
 perigoso que já enfrentamos.
+
+Penso em contar tudo pra Cami de manhã, palavra por palavra, mas uma
+parte de mim já sabe que vou guardar alguns detalhes só pra mim, pelo
+menos por enquanto — não segredo exatamente, só respeito pela própria
+vulnerabilidade que Kroll decidiu compartilhar com alguém que nem
+considera amigo. Fecho os olhos, sentindo o próprio corpo finalmente
+relaxar, e adormeço pensando em quanto essa corrida inteira continua
+revelando camadas que nenhum de nós esperava encontrar quando tudo
+começou.

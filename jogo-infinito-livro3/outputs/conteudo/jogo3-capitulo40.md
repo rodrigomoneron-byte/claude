@@ -164,3 +164,17 @@ acabou levando exatamente aqui.
 
 — Talvez seja exatamente assim que vitória de verdade funciona. Não
 planejada, só consistente.
+
+Desligo, e sinto Cami se aproximar por trás, os braços envolvendo
+minha cintura enquanto observo, pela janela do próprio escritório, o
+sol da tarde iluminando a cidade inteira.
+
+— Ainda processando tudo? — pergunta, a voz suave contra minhas
+costas.
+
+— Ainda. Nunca imaginei que competir contra alguém pudesse terminar
+assim, com respeito genuíno em vez de amargura.
+
+— Nem eu, sinceramente. Mas acho que é exatamente isso que
+verificação paciente produz, no fim das contas. Mesmo quando ninguém
+espera.

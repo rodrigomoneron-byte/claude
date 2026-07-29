@@ -143,6 +143,16 @@ peito dele. — Não só quando vencemos alguma coisa grande.
 
 — Concordo completamente. Vamos tentar lembrar disso, prometo.
 
+— Sabe o que Naomi disse, sobre recusar não ser fraqueza? — murmuro,
+sentindo sono já chegar devagar. — Acho que aprendi isso com ela
+também, de um jeito estranho, observando ela reconstruir aquele
+limite com Marcus.
+
+— Todo mundo ensinando todo mundo, ultimamente. Talvez seja exatamente
+assim que amizade real funciona.
+
+— Talvez seja, sim.
+
 Ele beija o topo da minha cabeça, o gesto simples carregando ternura
 que sinto no peito inteiro, e adormecemos pouco depois, gratos, os
 dois, por essa noite específica que conseguiu devolver, mesmo que só

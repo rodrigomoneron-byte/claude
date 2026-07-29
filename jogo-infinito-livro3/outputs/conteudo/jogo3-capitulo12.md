@@ -159,6 +159,17 @@ reta final.
 
 — Espero que sim. Vamos descobrir em breve, de qualquer forma.
 
+— Você acha que Thomas realmente mudou de lado, ou só está sendo
+pragmático com os números? — pergunto, ainda processando a própria
+reunião.
+
+— Talvez as duas coisas ao mesmo tempo — Cami responde, considerando
+a própria pergunta. — Não preciso que ele goste de nós. Só preciso
+que ele confie no processo, quando os fatos apontarem certo.
+
+— Isso é visão madura, vinda de você, considerando quanto ele já nos
+questionou antes.
+
 As portas do elevador se abrem, e saímos juntos rumo à próxima etapa
 dessa corrida inteira, prontos, os dois, pra qualquer coisa que
 Bruxelas ainda tenha reservado.
