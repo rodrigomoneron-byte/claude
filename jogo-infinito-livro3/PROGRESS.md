@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 45 / 60
-- Próximo: Capítulo 46 (POV Alex)
-- Última atualização: 2026-07-29 00:07
+- Capítulos concluídos: 46 / 60
+- Próximo: Capítulo 47 (POV Cami)
+- Última atualização: 2026-07-29 00:08
 
 ## Placar
-- Palavras: 40223
-- Páginas KDP (~palavras/300): 134
+- Palavras: 41250
+- Páginas KDP (~palavras/300): 138
 - Score médio: 7.0
-- Meta de palavras: 60000 (67%)
-- Cenas de heat: 7 / meta 12 (última no cap. 41)
+- Meta de palavras: 60000 (69%)
+- Cenas de heat: 8 / meta 12 (última no cap. 46)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
