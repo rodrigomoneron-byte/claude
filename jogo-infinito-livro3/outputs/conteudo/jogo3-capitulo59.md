@@ -142,3 +142,16 @@ silenciosamente, o peso bom de tudo que ainda vem pela frente — não
 mais corrida contra ninguém, só vida inteira ainda por viver, um dia
 de cada vez, exatamente do jeito que aprendemos, com tanto esforço, a
 valorizar de verdade.
+
+— Vem — chamo, esticando a mão pra ele, ainda sentados no sofá. —
+Vamos fazer aquelas ligações juntos, uma de cada vez, sem pressa
+nenhuma.
+
+— Vamos, sim. Começando por Elena, então.
+
+Ele disca o número devagar, colocando no viva-voz, e sinto, esperando
+o próprio toque atender, gratidão profunda por essa manhã simples que
+ainda tem tanto de bom por vir, uma ligação de cada vez, exatamente do
+jeito que aprendemos a valorizar o que realmente importa, um domingo
+de cada vez, uma pessoa querida de cada vez, pelo resto da vida
+inteira que ainda temos pela frente, sempre, os dois, juntos.

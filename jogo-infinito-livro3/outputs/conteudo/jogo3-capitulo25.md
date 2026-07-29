@@ -162,3 +162,9 @@ tarde inteira de tensão acumulada.
 — Amanhã encaramos o resto — comenta, contra o meu cabelo.
 
 — Amanhã. Hoje, só descanso.
+
+Entramos juntos, e sinto, fechando a porta atrás de nós, o próprio
+corpo finalmente ceder o peso acumulado da tarde inteira, gratidão
+silenciosa por essa parceria capaz de transformar ameaça gigantesca em
+plano concreto, mesmo exausta, mesmo tarde da noite, sem nunca perder
+de vista o que realmente importa entre uma estratégia e outra.

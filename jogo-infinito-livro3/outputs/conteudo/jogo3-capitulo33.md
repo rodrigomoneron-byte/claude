@@ -170,3 +170,11 @@ Desligo, sentindo o próprio corpo cansado mas satisfeito, e me deito
 na cama estreita do hotel pensando em Carla, em Sofie, em toda a rede
 de confiança que, finalmente, parece estar se formando exatamente do
 jeito que sempre esperamos construir.
+
+Antes de fechar os olhos de vez, mando uma última mensagem pra Alex:
+*Amanhã te conto tudo em detalhe. Hoje, só queria dizer que sinto
+falta de você mais do que qualquer viagem profissional deveria
+permitir.* A resposta chega segundos depois: *Sinto o mesmo. Descansa
+bem. Amanhã já estamos mais perto de casa.* Sorrio, guardando o
+celular, e adormeço sentindo o próprio corpo finalmente relaxar de
+vez.

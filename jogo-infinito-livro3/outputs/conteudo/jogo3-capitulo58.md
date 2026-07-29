@@ -153,3 +153,13 @@ sempre foi pra mim, dentro e fora de qualquer documento legal.
 elevador.
 
 — Pronta. Foi um dia perfeito, Alex. Obrigada, de verdade.
+
+Saímos do prédio já sob o céu escurecendo devagar, e sinto, caminhando
+ao lado dela até o carro, gratidão profunda por esse gesto que sinto
+marcar, de forma definitiva, o tipo de parceria que sempre quisemos
+construir juntos, desde o início.
+
+— Pra onde vamos agora? — pergunto, abrindo a porta do carro pra ela.
+
+— Pra casa, comemorar em paz, só nós dois. Já tivemos celebração
+suficiente por hoje.

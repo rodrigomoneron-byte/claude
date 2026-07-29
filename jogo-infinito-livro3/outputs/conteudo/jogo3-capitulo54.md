@@ -161,3 +161,17 @@ que já não preciso mais provar nada também.
 consiga sentir isso de verdade, não só ouvir de mim.
 
 — Estou tentando. Cada dia um pouco mais.
+
+Ficamos ali deitados, em silêncio confortável, e sinto, olhando pro
+teto escurecendo aos poucos, gratidão profunda por essa capacidade
+mútua de continuar aprendendo um com o outro, mesmo depois de tanto
+tempo já construído juntos.
+
+— Boa noite, Cami — murmuro, finalmente, sentindo sono chegar devagar.
+
+— Boa noite, Alex. Obrigada por esse dia inteiro.
+
+Fecho os olhos, sentindo o próprio corpo finalmente relaxar de vez, e
+adormeço pensando em Devon, no próprio rosto dela transbordando
+emoção genuína, gratidão silenciosa por essa equipe inteira que
+continua crescendo junto conosco, um passo de cada vez.

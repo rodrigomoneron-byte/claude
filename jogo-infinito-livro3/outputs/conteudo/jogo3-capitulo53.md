@@ -160,3 +160,8 @@ qualquer vitória fácil jamais conseguiria.
 
 — Concordo completamente. Boa noite, Alex. Amanhã levamos essa carta
 pro correio, e seguimos em frente.
+
+Entramos no quarto juntos, e sinto, deitando ao lado dele, gratidão
+final por essa noite que conseguiu transformar surpresa inesperada em
+lembrete simples de que ninguém está condenado ao próprio padrão
+antigo, nem mesmo o adversário mais duro que já enfrentamos.

@@ -152,3 +152,17 @@ profunda por esse dia inteiro que conseguiu reunir tanta gente boa num
 comento, encostando a cabeça no banco.
 
 — Eu também. Guardado com carinho, prometo.
+
+Chegamos em casa já sob o céu escurecendo devagar, e sinto, entrando
+juntos, o próprio corpo leve de um jeito raro, gratidão profunda por
+essa vida inteira que continuamos escolhendo construir, celebração
+após celebração, cada uma carregando peso próprio de significado real
+que nenhuma corrida comercial jamais conseguiria substituir.
+
+— Janta comigo? — pergunta, tirando os próprios sapatos na entrada.
+
+— Sempre. Vamos preparar alguma coisa simples juntos.
+
+Caminhamos juntos até a cozinha, mãos entrelaçadas, prontos pra fechar
+esse dia lindo exatamente do jeito mais simples e verdadeiro possível,
+os dois, lado a lado.

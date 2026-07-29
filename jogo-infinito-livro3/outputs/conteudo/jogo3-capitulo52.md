@@ -150,3 +150,17 @@ próxima vez que a correria tentar nos afastar disso de novo.
 — Guardado — respondo, apertando ela mais perto por um momento longo
 antes de finalmente voltarmos, devagar, pro próprio relatório
 esquecido na mesa.
+
+Pegamos o relatório de volta, mas sinto, revisando os próprios números
+ao lado dela, que essa tarde específica já rendeu muito mais do que
+qualquer planilha jamais conseguiria capturar.
+
+— Terminamos isso rápido, pelo menos — comenta, fechando o próprio
+laptop pouco depois. — Sobra tempo pra jantar com calma.
+
+— Combinado. Sem pressa nenhuma, como sempre devia ser.
+
+Levanto, esticando o próprio corpo, e sinto, olhando pra ela guardar o
+próprio laptop com cuidado, gratidão profunda por essa tarde inteira
+que conseguiu transformar notícia boa alheia em conversa real sobre o
+próprio futuro dos dois.

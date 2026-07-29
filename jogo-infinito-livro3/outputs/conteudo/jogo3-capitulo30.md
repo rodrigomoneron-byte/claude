@@ -143,3 +143,9 @@ sinto, deitado ali no escuro, uma gratidão silenciosa por essa noite
 inteira que conseguiu transformar erro real em prova concreta de que
 essa parceria continua firme, mesmo depois de tropeço que poderia ter
 custado muito mais caro.
+
+Fecho os olhos, sentindo o próprio corpo finalmente relaxar de vez, e
+adormeço pensando em quanto essa corrida inteira continua ensinando,
+mesmo nos momentos mais difíceis, exatamente a lição que mais
+importa: verificar sempre vale mais do que apressar, não importa
+quanto cansaço tente convencer do contrário.

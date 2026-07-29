@@ -158,3 +158,12 @@ provavelmente vale mesmo a espera.
 
 — Vamos. Mas saiba que vou continuar tentando adivinhar, até você
 contar de verdade.
+
+Ele ri baixinho, apagando as últimas luzes da sala, e subimos juntos
+pro próprio quarto, o próprio mistério ainda pairando no ar como
+promessa boa de alguma coisa ainda por vir.
+
+Deito na cama sentindo o próprio corpo leve, pensando em Elena, no
+próprio noivado, em tudo que esse ano inteiro decidiu oferecer depois
+de tanta corrida difícil, e adormeço, ao lado dele, com um sorriso que
+não consigo desfazer completamente.

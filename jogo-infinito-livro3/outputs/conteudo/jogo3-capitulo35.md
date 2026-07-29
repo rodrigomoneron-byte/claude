@@ -172,3 +172,11 @@ nós dois, absorvendo juntos o próprio peso de uma manhã que começou
 como qualquer outra e terminou revelando, sem aviso nenhum, exatamente
 o quanto essa corrida inteira ainda tinha capacidade de nos
 surpreender.
+
+— Vou ligar pra Devon também, antes da reunião com o conselho —
+acrescento, já pegando o próprio celular. — Quero que ela confirme,
+com dados concretos, se o padrão de recuo dele já apareceu em algum
+outro lugar do mercado.
+
+— Boa ideia. Prefiro chegar na reunião com informação completa, não
+só a ligação de hoje de manhã.

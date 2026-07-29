@@ -146,3 +146,17 @@ pensar de verdade.
 
 — Prefiro sempre honestidade com você, mesmo quando a resposta não é
 perfeita. Principalmente quando não é perfeita, na verdade.
+
+Ela se aproxima, os braços envolvendo minha cintura por um momento
+breve, e sinto, ali na entrada de casa, gratidão profunda por essa
+capacidade mútua de continuar conversando com honestidade real, mesmo
+depois de tanta jornada já percorrida juntos.
+
+— Vamos cozinhar juntos hoje? — sugere, puxando eu devagar em direção
+à própria cozinha. — Sem pressa nenhuma, só nós dois.
+
+— Vamos, sim. Adoraria isso.
+
+Caminhamos juntos até a própria cozinha, mãos entrelaçadas, prontos
+pra fechar mais um domingo simples exatamente do jeito que aprendemos,
+com tanto esforço, a valorizar de verdade.
