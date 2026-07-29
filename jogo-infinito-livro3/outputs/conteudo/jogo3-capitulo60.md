@@ -101,6 +101,36 @@ ao longo de toda essa jornada.
 
 — Acho que estou grávida.
 
+---
+
+Sinto o próprio mundo inteiro parar por um instante, cada som da casa
+desaparecendo, restando só ela, só essa frase, só o próprio peso
+imenso e leve ao mesmo tempo daquelas palavras simples.
+
+— Tem certeza? — pergunto, finalmente, a voz tremendo de emoção que
+mal consigo conter.
+
+— Quase certeza. Fiz o teste ontem de manhã, sozinha, ainda
+processando antes de contar pra você. Positivo. Mas quero confirmar
+com exame de sangue amanhã, pra ter certeza absoluta.
+
+— Amanhã, então. Vou com você.
+
+---
+
+— Você está feliz? — pergunta, a própria voz carregando vulnerabilidade
+rara. — Sei que conversamos sobre esperar mais um pouco.
+
+— Estou mais feliz do que consigo expressar em palavra nenhuma —
+respondo, puxando ela pra mais perto, sentindo lágrimas genuínas
+escaparem sem qualquer vergonha. — Talvez o tempo certo nunca fosse
+algo que nós escolhêssemos sozinhos. Talvez fosse sempre isso — a vida
+decidindo, e nós dois escolhendo receber com os braços abertos.
+
+— Isso é exatamente como eu sinto também.
+
+---
+
 Guardo a caneta de volta no próprio pote, sentindo o peso da própria
 vida inteira se firmar de vez, e sinto, segurando as mãos dela, que
 esse gesto pequeno — guardar a caneta, abraçar ela apertado, respirar
@@ -109,3 +139,10 @@ de qualquer decisão grande que já tomamos juntos: verificar com
 cuidado, escolher com calma, e enfrentar, sempre, o que vier, lado a
 lado, prontos pra qualquer jogo novo que a vida ainda decida abrir
 diante de nós dois.
+
+Olho mais uma vez pra estante — o relógio parado, a caneta guardada,
+a pequena réplica ao lado — e sinto, abraçando Cami no meio da própria
+sala, que esses símbolos pequenos estão prestes a ganhar um quarto
+companheiro, ainda sem forma, ainda sem nome, mas já carregando, de
+algum jeito, o mesmo peso de tudo que aprendemos a proteger com tanto
+cuidado ao longo dessa jornada inteira.

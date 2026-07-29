@@ -118,6 +118,25 @@ gratidão genuína.
 — Sempre. É pra isso que amizade serve, principalmente quando o erro é
 honesto.
 
+— Antes de ir, Dan — acrescento, sentindo necessidade de perguntar
+isso diretamente — você acha que esse tipo de erro pode se repetir,
+considerando o próprio ritmo que ainda mantemos?
+
+Ele para na própria porta, considerando a pergunta com seriedade
+genuína antes de responder.
+
+— Pode, sim, se vocês continuarem revisando contrato sozinhos, tarde
+da noite, sem segunda pessoa conferindo. O erro não foi falta de
+competência. Foi falta de estrutura protegendo vocês de si mesmos.
+
+— Isso faz sentido. Vamos garantir que a regra de revisão dupla
+realmente vire hábito, não só ideia boa esquecida depois de uma
+semana.
+
+— Exatamente essa é a diferença entre lição aprendida e lição
+esquecida — Dan responde, sorrindo pela primeira vez desde que chegou.
+— Vocês dois parecem levar isso a sério, pelo menos.
+
 Ele sai, e sinto Alex e eu trocarmos um olhar cansado, mas aliviado, o
 peso da própria crise pequena finalmente começando a se dissolver em
 lição real que talvez proteja nós dois de repetir o mesmo erro de

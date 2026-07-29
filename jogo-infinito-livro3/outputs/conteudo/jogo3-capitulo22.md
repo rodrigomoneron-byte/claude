@@ -69,6 +69,30 @@ nunca ter tentado nada.
 
 — Concordo completamente.
 
+Continuamos caminhando devagar, o próprio parque quase vazio àquela
+hora da tarde, e sinto Cami apertar minha mão com mais firmeza,
+observando um grupo de crianças brincando perto da própria fonte
+central.
+
+— Você já pensou nisso? — pergunta, de repente, olhando pras
+crianças. — Em ter isso, um dia, quando essa corrida inteira já for
+só lembrança distante?
+
+Sinto o próprio peito apertar com a pergunta inesperada, mistura de
+surpresa e algo mais parecido com esperança genuína.
+
+— Pensei, sim. Mais vezes do que confessei em voz alta, sinceramente.
+
+— Eu também. Não agora, óbvio. Mas um dia.
+
+— Um dia — repito, sentindo a própria palavra carregar peso maior do
+que qualquer contrato que já assinamos juntos. — Gosto de pensar
+nisso como próxima régua, não como pressa nenhuma.
+
+Ela sorri, encostando a cabeça no meu ombro de novo enquanto
+continuamos caminhando devagar, o próprio silêncio entre nós carregando
+conforto que nenhuma palavra extra precisaria completar.
+
 ---
 
 Voltamos pra casa já ao entardecer, o sol baixo pintando a sala inteira

@@ -54,6 +54,19 @@ Ela se levanta pra sair, mas para na porta, virando de volta.
 Ela sai, e fico sozinho por um momento, sentindo o próprio peito
 transbordar com orgulho genuíno por essa equipe inteira que se
 transformou, junto conosco, ao longo dessa jornada difícil inteira.
+
+Ligo pra Dan rapidamente, confirmando os últimos detalhes formais do
+próprio contrato de Devon, e sinto, desligando a ligação, satisfação
+genuína crescer com mais uma peça importante finalmente resolvida.
+
+— Precisa de mais alguma coisa hoje? — Dan pergunta, antes de
+desligarmos.
+
+— Não, acho que está tudo encaminhado. Obrigado, Dan, por cuidar
+disso com tanto cuidado, como sempre.
+
+— Sempre. Avisa se precisar de mais alguma coisa.
+
 Cami aparece na porta pouco depois, curiosa.
 
 — Como foi? — pergunta, sentando na própria cadeira diante da mesa.

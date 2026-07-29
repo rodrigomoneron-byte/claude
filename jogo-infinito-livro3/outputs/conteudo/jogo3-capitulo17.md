@@ -155,6 +155,24 @@ direito.
 
 — Vamos, sim. Só dessa vez com adversário jogando muito mais forte.
 
+— Você acha que ele vai aparecer pessoalmente de novo, dessa vez? —
+pergunto, considerando a própria possibilidade enquanto arrumo a
+própria mala rápido.
+
+— Não sei. Mas se aparecer, prefiro encarar isso direto, sem
+esconder nada de Sofie e Bram. Eles merecem ver os dois lados
+competindo abertamente, não escondido atrás de proposta por escrito.
+
+— Concordo. Transparência total, mesmo que isso signifique competir
+cara a cara com ele de novo.
+
+— Exatamente. E se perdermos, dessa vez, perdemos limpo, sem
+arrependimento nenhum sobre como jogamos.
+
+— Não vamos perder — respondo, sentindo determinação se firmar apesar
+do próprio cansaço acumulado. — Não depois de tudo que já construímos
+com eles dois.
+
 Sinto o próprio corpo se firmar com a determinação renovada, e
 começamos a organizar a própria viagem de volta pra Amsterdã, sabendo,
 os dois, que essa rodada específica talvez decida muito mais do que

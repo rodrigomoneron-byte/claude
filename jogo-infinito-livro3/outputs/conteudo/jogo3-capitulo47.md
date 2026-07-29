@@ -97,6 +97,20 @@ sobre a própria técnica.
 
 — Isso é lindo, ouvir isso — Elena murmura, corando ligeiramente.
 
+— E você, Marco? — pergunto, curiosa. — O que achou, vendo a tela
+antes de saber quem era a artista?
+
+— Achei que quem pintou aquilo entendia alguma coisa profunda sobre
+espera — responde, sem hesitar. — Cores frias esperando, pacientes,
+o próprio fio de ouro aparecer. Não imaginei que fosse a irmã da
+mulher que inspirou a pintura, até Elena me contar semanas depois.
+
+— Isso é observação bonita, vinda de alguém que só viu a tela uma vez
+— comento, sentindo o próprio peito se aquecer.
+
+— Fico observando arte séria por tempo demais, geralmente — Marco
+admite, rindo de si mesmo. — Deformação profissional, suponho.
+
 ---
 
 — Saímos, sim — Alex confirma, segurando minha mão por baixo da mesa.

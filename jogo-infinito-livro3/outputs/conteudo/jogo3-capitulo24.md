@@ -121,6 +121,32 @@ fácil ao primeiro sinal de dúvida.
 
 ---
 
+Uma mulher se levanta na fileira do fundo, crachá de imprensa
+financeira visível no próprio peito.
+
+— O senhor mencionou parceiros que recusaram, mas não deu nenhum
+nome — comenta, a voz projetando firme. — Pode citar algum, ou isso
+permanece confidencial?
+
+— Prefiro não citar nomes específicos, por respeito à privacidade
+deles — Kroll responde, o próprio tom mantendo compostura calculada. —
+Mas garanto que a maioria absoluta optou por aderir, não por recusar.
+
+Sinto Cami tensa ao meu lado, reconhecendo, evidentemente, a própria
+oportunidade se formando diante de nós.
+
+— Isso é exagero dele — sussurra, inclinando-se pra mais perto. —
+Sabemos de pelo menos dez casos documentados de recusa ou hesitação
+séria.
+
+— Precisamos corrigir isso publicamente, mas sem soar defensivos
+demais — respondo, sentindo o próprio corpo já calculando a melhor
+forma de agir.
+
+— Não agora. Vamos deixar Devon confirmar os números primeiro, depois
+corrigimos com dado concreto, não com reação impulsiva no calor do
+momento.
+
 — Obrigada pela resposta honesta — Cami responde, sentando de volta,
 e sinto, olhando pra ela, que essa pergunta específica acabou de
 plantar, publicamente, exatamente a dúvida que precisávamos que toda

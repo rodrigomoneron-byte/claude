@@ -98,6 +98,23 @@ testar se ainda consigo confiar nem que seja um pouco.
 tentar a continuar competindo pra sempre sem nunca arriscar nada além
 de número e estratégia.
 
+— Posso perguntar uma coisa, antes de combinarmos os detalhes? —
+comento, sentindo curiosidade genuína superar qualquer cálculo. — O
+que exatamente você espera sair desse encontro?
+
+Ele fica em silêncio por um instante, considerando a própria resposta
+com cuidado incomum.
+
+— Sinceramente, não sei com certeza. Talvez só confirmação de que
+ainda sou capaz de sentar com alguém sem calcular vantagem o tempo
+inteiro. Ou talvez só desculpa que nunca consegui formular direito,
+pela forma como competi no início dessa corrida.
+
+— Isso já seria bastante, vindo de você — Alex comenta, o próprio
+tom carregando respeito cauteloso.
+
+— Talvez. Vamos descobrir juntos, presumo, quando eu chegar aí.
+
 ---
 
 — É. Mas sinto que talvez precisemos disso, os três, antes que essa

@@ -118,6 +118,37 @@ real dessa história, mesmo do lado contrário.
 
 — Concordo. Vou adicionar um parágrafo sobre isso, então.
 
+— Tem mais uma coisa que preciso perguntar — comento, hesitando por
+um instante antes de continuar. — Devíamos convidar meu pai, mesmo
+sabendo que ele provavelmente não vai aparecer?
+
+Alex pousa a própria caneta devagar, considerando a pergunta com
+seriedade.
+
+— Acho que sim. Não pelo convite em si, mas pelo gesto de mantê-lo
+incluído, mesmo à distância. Você nunca vai se arrepender de ter
+convidado. Poderia se arrepender de não ter convidado.
+
+— É verdade. Vou mandar o convite amanhã, então, sem esperar resposta
+nenhuma em troca.
+
+— E se ele aparecer, mesmo assim? — Alex pergunta, a própria voz
+suave.
+
+— Aí recebo ele com o mesmo relógio parado dele na minha estante,
+sem cobrar explicação nenhuma. Só presença, se ele quiser oferecer
+isso.
+
+Sinto o próprio peito apertar com a possibilidade, mistura antiga de
+esperança e proteção que nunca terminou de se resolver completamente,
+mesmo depois de tantos anos.
+
+— Você está bem com isso? — Alex pergunta, notando a própria hesitação
+na minha voz.
+
+— Estou. Aprendi, com essa corrida inteira, que convidar não é o
+mesmo que exigir. Ele decide o resto sozinho.
+
 ---
 
 Guardamos os próprios papéis, e sinto Alex se aproximar, os braços

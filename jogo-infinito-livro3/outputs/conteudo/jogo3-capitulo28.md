@@ -157,3 +157,18 @@ contrato vale sua saúde.
 tudo.
 
 — Sempre vou estar. Mesmo nos dias difíceis, principalmente neles.
+
+— Precisamos conversar sobre delegação, também, não só sobre revisão
+dupla — comento, sentindo necessidade de dizer isso enquanto ainda
+está fresco. — Talvez essa parte específica do contrato nunca devesse
+ter ficado só com Denise, sem ninguém mais acompanhando de perto.
+
+— Concordo. Vou propor isso amanhã, junto com a regra de revisão
+dupla. Delegação clara, mas nunca sem segunda pessoa confirmando o
+essencial.
+
+— Isso parece exatamente o tipo de lição que vale a pena aprender
+rápido, mesmo doendo pra chegar até ela.
+
+— Dói, sim. Mas prefiro essa dor a repetir o mesmo erro daqui a
+alguns meses, cansado de novo.

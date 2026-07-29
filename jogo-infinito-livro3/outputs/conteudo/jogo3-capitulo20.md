@@ -149,8 +149,23 @@ Isso é prova real de que estamos fazendo algo certo.
 
 Sinto o próprio peito se aquecer com a própria observação dela, gratidão
 crescendo por essa capacidade de encontrar força renovada exatamente
-no meio da ameaça mais séria que já enfrentamos, e dirijo devagar rumo
-à própria casa, sabendo, os dois, que essa corrida inteira acabou de
-se transformar em algo muito maior do que qualquer um de nós dois
-esperava enfrentar quando Kroll bateu na nossa porta, pela primeira
-vez, há tantas semanas atrás.
+no meio da ameaça mais séria que já enfrentamos.
+
+— Vamos ligar pro Marcus e pra Devon assim que chegarmos em casa —
+acrescento, sentindo o próprio corpo já calculando os próximos passos.
+— Quanto antes começarmos a preparar, melhor.
+
+— Concordo. E precisamos avisar o conselho amanhã de manhã, sem
+esperar. Isso é grande demais pra guardar até a próxima reunião
+agendada.
+
+— David vai querer detalhe completo, considerando a escala do próprio
+anúncio.
+
+— Vai, sim. Mas prefiro chegar com plano inicial já esboçado, não só
+notícia crua. Vamos trabalhar nisso hoje à noite, antes de dormir.
+
+Dirijo devagar rumo à própria casa, sabendo, os dois, que essa corrida
+inteira acabou de se transformar em algo muito maior do que qualquer
+um de nós dois esperava enfrentar quando Kroll bateu na nossa porta,
+pela primeira vez, há tantas semanas atrás.

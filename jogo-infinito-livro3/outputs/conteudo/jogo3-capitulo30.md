@@ -106,6 +106,16 @@ Seria bom, pra variar, sermos nós a ditar o ritmo.
 — Vamos chegar lá. Sinto que estamos perto de descobrir alguma coisa
 importante.
 
+— Como está Paolo, aliás, depois de tudo isso? — pergunto, ainda
+pensando no próprio episódio. — Ele parecia genuinamente compreensivo,
+mas quero ter certeza que não ficou nenhum ressentimento escondido.
+
+— Perguntei diretamente, na verdade. Ele disse que respeitou mais nós
+por corrigir rápido do que teria respeitado se tivéssemos escondido.
+Acho que saímos dessa mais fortes com ele, não mais fracos.
+
+— Isso é alívio genuíno. Obrigado por verificar isso pessoalmente.
+
 ---
 
 — Concordo completamente. E, Cami — seguro a mão dela com mais

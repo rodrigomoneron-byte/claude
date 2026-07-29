@@ -61,6 +61,19 @@ Sinto o próprio peito se aquecer com a própria enumeração, reconhecendo,
 junto com ela, a magnitude real de tudo que essa corrida específica
 acabou gerando muito além do próprio resultado financeiro.
 
+— E o conselho inteiro — acrescento, lembrando da própria
+transformação deles. — David sempre firme, mas Thomas e Sandra
+mudaram de cético cauteloso pra parceiro ativo. Nunca imaginei que
+uma corrida comercial pudesse mudar tanta gente de verdade.
+
+— Nem eu. Achei, no início, que estávamos apenas competindo por
+território. Terminamos, sem perceber, construindo comunidade inteira.
+
+— Isso é palavra melhor do que "vitória", sinceramente. Comunidade.
+
+— É, sim. E talvez seja exatamente isso que devêssemos buscar sempre,
+daqui pra frente, em vez de só medir sucesso em número fechado.
+
 ---
 
 — E nós dois — acrescento, levantando pra ficar ao lado dela na

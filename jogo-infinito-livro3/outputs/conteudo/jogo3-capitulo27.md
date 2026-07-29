@@ -145,3 +145,17 @@ Ele estica a própria mão pela mesa, entrelaçando os dedos com os meus
 por um momento breve, gesto pequeno carregando mais garantia real do
 que qualquer palavra formal conseguiria oferecer, antes de voltarmos,
 juntos, pro próprio trabalho que ainda nos espera o resto do dia todo.
+
+Marcus retorna pouco depois, o próprio rosto carregando alívio
+evidente.
+
+— Greta topou começar amanhã mesmo — anuncia, sentando de volta. —
+Já revisou parte da própria lista de contatos, disse que consegue
+assumir metade do peso rápido.
+
+— Isso é exatamente o alívio que precisávamos — respondo, sentindo o
+próprio corpo relaxar ligeiramente. — Obrigada por resolver isso tão
+rápido, Marcus.
+
+— Sempre. Vamos superar essa fase também, do jeito que superamos
+todas as outras.

@@ -108,6 +108,17 @@ informação. Pode servir como caso-piloto.
 — Concordo. Vou ligar pra ele ainda hoje, ver se topa participar da
 própria iniciativa de transparência.
 
+— E se ele recusar? — pergunto, considerando a própria possibilidade.
+— É pedido delicado, expor conversa privada assim, mesmo com boa
+intenção.
+
+— Nesse caso, procuramos outro voluntário — Alex responde. — Não
+vamos pressionar ninguém a participar. Isso contradiria completamente
+o próprio espírito da iniciativa.
+
+— Concordo plenamente. Transparência forçada não é transparência
+nenhuma.
+
 ---
 
 Devon recolhe os próprios documentos, mas hesita antes de sair

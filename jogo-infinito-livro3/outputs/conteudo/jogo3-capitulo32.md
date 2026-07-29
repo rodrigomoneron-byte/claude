@@ -114,6 +114,20 @@ pronto até amanhã de manhã, pros dois.
 
 — Obrigado, Devon. Seu trabalho está sendo essencial pra tudo isso.
 
+— Uma última coisa — Devon acrescenta, hesitando por um instante. —
+Estou também mapeando quantos alvos ainda restam no mercado europeu
+inteiro, fora dos que já competimos diretamente. Quero garantir que
+não estamos perdendo oportunidade em algum lugar que ainda não
+consideramos.
+
+— Boa iniciativa. Quantos encontrou até agora?
+
+— Pelo menos mais quatro possíveis, espalhados entre países que ainda
+nem exploramos formalmente. Vou preparar relatório completo assim que
+tiver tempo.
+
+— Sem pressa. Um passo de cada vez, como sempre.
+
 ---
 
 Devon sai pra confirmar os próprios detalhes, e sinto Cami se

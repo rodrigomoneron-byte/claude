@@ -51,6 +51,17 @@ símbolos pequenos assim pudessem carregar tanto peso real.
 
 — Nem eu, sinceramente. Mas carregam, sim.
 
+— Sabe o que eu quero fazer, daqui uns anos? — comento, ainda
+olhando pra estante. — Contar essa história pra alguém. Não só os
+fatos, os números, a corrida em si. Mas o que cada objeto significa
+de verdade.
+
+— Isso soa como história boa de se contar. Espero estar por perto
+pra contar ela junto com você.
+
+— Sempre vai estar. Isso já não é mais pergunta, depois de tudo que
+atravessamos.
+
 Sinto Alex se aproximar, os braços envolvendo minha cintura devagar, e
 o beijo começa suave, carregado da mesma ternura que essa manhã
 inteira trouxe, sem qualquer pressa competindo pela própria atenção.

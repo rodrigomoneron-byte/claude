@@ -142,6 +142,23 @@ fazer. Mas topo tentar.
 
 — Só tentar já é vitória, comparado ao que fizemos até agora.
 
+— Que dia da semana funciona melhor pros dois? — pergunto, já
+considerando a própria logística. — Domingo parece óbvio, mas quero
+ter certeza que não vira exceção fácil de quebrar.
+
+— Domingo, sim. Prefiro dia fixo a decidir toda semana de novo,
+considerando quanto isso facilita dizer não pra qualquer reunião que
+tentar invadir.
+
+— Concordo. Vou avisar Denise e Marcus amanhã, então, pra ninguém
+marcar nada conosco nesse dia específico, nem em emergência pequena.
+
+— E emergência grande? — Alex pergunta, um sorriso cansado
+aparecendo.
+
+— Emergência grande nós reavaliamos na hora — respondo. — Mas
+emergência pequena espera até segunda.
+
 Ele me puxa pra um abraço rápido antes de recolhermos os últimos
 papéis, e sinto, apoiada contra ele por um instante breve, gratidão
 renovada por essa capacidade que os dois ainda mantemos, mesmo sob

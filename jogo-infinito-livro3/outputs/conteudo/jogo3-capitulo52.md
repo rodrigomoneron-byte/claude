@@ -25,6 +25,19 @@ perfeitamente a cena. — Já pensaram em nome?
 — Estamos considerando algumas opções. Nada decidido ainda, mas
 gostamos de "Sofia", entre outras.
 
+— Isso é lindo — comento, sentindo o próprio peito se aquecer. — Já
+decidiram onde ela vai nascer, aliás?
+
+— Mesmo hospital onde eu nasci, na verdade. Minha mãe insistiu bastante
+nisso, e acabei gostando da ideia também. Continuidade boa, sabe?
+
+— Faz todo sentido. E como está a própria Naomi, fisicamente, além da
+alegria toda?
+
+— Bem, considerando tudo. Enjoos diminuindo, energia voltando aos
+poucos. Marcus insiste em fazer tudo por mim, o que é doce e um pouco
+exagerado ao mesmo tempo.
+
 ---
 
 — Lindo nome — Cami comenta, e sinto, observando ela, a mesma alegria

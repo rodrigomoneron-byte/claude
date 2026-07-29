@@ -96,6 +96,24 @@ me deu informação real e me deixou decidir sozinha.
 — Isso é exatamente o tipo de parceria que buscamos construir. Decisão
 livre, não decisão forçada.
 
+— Posso te fazer mais uma pergunta, antes de você ir? — Carla
+continua, o próprio tom ficando mais pessoal. — Vocês dois nunca
+sentem vontade de simplesmente crescer mais rápido? Aceitar mais
+capital, competir em mais mercados de uma vez?
+
+— Sentimos, às vezes — admito, sem hesitar. — Mas cada vez que
+consideramos isso a sério, lembramos por que começamos devagar.
+Crescimento rápido demais quebra exatamente o que nos faz
+diferentes pra começo de conversa.
+
+— Isso é resposta mais honesta do que eu esperava, sinceramente.
+
+— Prefiro honestidade a discurso bonito, sempre — respondo, sorrindo
+ligeiramente. — Mesmo quando a resposta honesta não soa
+particularmente impressionante.
+
+— Talvez seja exatamente por isso que soa mais convincente.
+
 ---
 
 — Isso é exatamente a cautela que eu recomendaria, no seu lugar —

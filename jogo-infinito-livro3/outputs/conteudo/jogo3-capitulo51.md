@@ -86,6 +86,23 @@ doloroso demais pra qualquer um dos dois merecer.
 — Deixou, sim. E hoje, aqui, sinto que finalmente consigo separar a
 marca boa do próprio erro final dele.
 
+— Como ele era, antes de tudo dar errado? — Alex pergunta, a própria
+voz suave, dando espaço pra eu responder no meu próprio ritmo.
+
+— Paciente. Engraçado, de um jeito seco que poucas pessoas entendiam
+de primeira. Costumava dizer que qualquer decisão que valia a pena
+tomar, valia a pena verificar duas vezes antes.
+
+— Isso explica muita coisa sobre você, sinceramente.
+
+— Explica, sim. Levei anos pra perceber que a régua que carrego não
+nasceu do próprio erro dele. Nasceu de tudo que ele me ensinou antes
+disso, e que eu quase esqueci no meio da própria raiva.
+
+— Fico feliz que você conseguiu separar as duas coisas, finalmente.
+
+— Eu também. Demorou tempo demais, mas cheguei lá.
+
 ---
 
 — Trouxe uma coisa — Alex comenta, tirando do próprio bolso um objeto

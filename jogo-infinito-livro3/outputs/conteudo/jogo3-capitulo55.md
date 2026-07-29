@@ -37,6 +37,33 @@ olhar. — Mas de um jeito bom, sabe? Insuportável de tão feliz.
 — Isso é exatamente o tipo de insuportável que vale a pena — respondo,
 rindo junto.
 
+— Ele já decorou o próprio quarto dela três vezes — Naomi continua,
+revirando os olhos com carinho evidente. — Mudou a cor da parede duas
+vezes, trocou o berço uma vez, e ainda ameaça mudar tudo de novo antes
+dela nascer.
+
+— Isso é adorável, sinceramente — comento, rindo. — Deixa ele
+aproveitar, considerando quanto tempo ele esperou por esse momento.
+
+— Ah, vou deixar. Só finjo estar incomodada, no fundo acho lindo.
+
+---
+
+Devon aparece pouco depois, presente elegante nas próprias mãos, e
+sinto, observando ela cumprimentar Naomi com o mesmo carinho genuíno
+que carrega em tudo que faz, gratidão renovada por essa mulher que se
+tornou peça essencial não só do próprio trabalho, mas dessa rede
+inteira de amizade real.
+
+— Trouxe livros — Devon comenta, entregando o próprio embrulho. —
+Análise de dados aplicada não parecia presente adequado pra bebê,
+então fui pelo clássico.
+
+— Adorei — Naomi responde, rindo. — Já imagino você ensinando ela a
+programar antes dos cinco anos, de qualquer forma.
+
+— Só se ela quiser, óbvio.
+
 ---
 
 Elena e Marco chegam pouco depois, presente cuidadosamente embrulhado

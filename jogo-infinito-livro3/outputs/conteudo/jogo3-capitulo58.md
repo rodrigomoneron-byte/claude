@@ -52,6 +52,21 @@ ela, gratidão profunda por esse momento que planejei com tanto cuidado
 exatamente pra capturar quanto ela significa pra tudo que construímos
 juntos.
 
+— David ficou emocionado, aliás, quando propus isso — comento,
+lembrando da própria reunião. — Disse que devia ter sido assim desde o
+início, que sempre reconheceu sua liderança real, só faltava título
+formal acompanhando.
+
+— Isso significa muito, ouvir isso dele especificamente. Sempre senti
+que precisava provar duas vezes mais, sendo consultora antes de
+qualquer outra coisa.
+
+— Isso nunca devia ter sido necessário. Mas prefiro corrigir tarde do
+que nunca corrigir.
+
+— Concordo completamente. E aprecio você ter enxergado isso, mesmo
+quando eu mesma não conseguia nomear direito.
+
 ---
 
 — Estou pronta agora mesmo — responde, pegando a própria caneta que

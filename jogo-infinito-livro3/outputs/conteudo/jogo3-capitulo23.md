@@ -122,6 +122,25 @@ aceitar. Prova viva de que o próprio método dele não funciona sempre.
 — Isso é leitura interessante. Guarda isso, por favor. Pode ser
 importante mais tarde.
 
+Devon se aproxima, tendo ouvido parte final da própria conversa, o
+rosto já processando a informação com atenção calculada.
+
+— Se isso for verdade, existe padrão que vale a pena mapear
+formalmente — comenta, já anotando no próprio celular. — Recusa
+repetida gerando insistência crescente, em vez de recuo estratégico.
+Isso não é comportamento de negociador confiante.
+
+— É comportamento de alguém que não sabe lidar com não — Henrik
+completa, um sorriso pequeno escapando. — Testemunhei isso de perto
+duas vezes já.
+
+— Vou cruzar isso com os outros casos que já documentamos — Devon
+confirma. — Se o padrão se repetir consistentemente, temos argumento
+sólido pra usar, sem precisar inventar nada.
+
+— Obrigada, Devon. Isso pode importar mais do que qualquer coisa que
+Kroll anuncie hoje à tarde.
+
 ---
 
 Caminhamos juntos rumo ao próprio auditório central, e sinto Alex

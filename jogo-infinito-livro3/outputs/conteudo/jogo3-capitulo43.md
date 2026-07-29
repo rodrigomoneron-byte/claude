@@ -146,3 +146,19 @@ Sentamos num banco próximo, observando barcos passarem devagar pela
 água, e sinto, ao lado dele, que independente do resultado formal
 ainda por vir, essa viagem específica já valeu cada esforço só por
 esse momento simples compartilhado.
+
+— Sabe o que Wilhelm perguntou, sobre a cláusula de saída? — comento,
+depois de um tempo em silêncio. — Fico pensando em quanto isso
+resume tudo que tentamos construir diferente.
+
+— Resume, sim. Confiança verificável, não confiança forçada por medo
+de perder tudo se sair.
+
+— Exatamente. Foi exatamente isso que faltou na proposta original de
+Kroll, desde o início.
+
+— E é exatamente por isso que estamos aqui agora, sentados nesse
+banco, esperando resposta que provavelmente vai ser sim.
+
+— Provavelmente — repito, sorrindo, sentindo o próprio corpo relaxar
+um pouco mais com a certeza cautelosa dele.

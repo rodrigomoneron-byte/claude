@@ -71,6 +71,19 @@ conselho inteiro trabalhando em sincronia real, gratidão profunda por
 essa equipe que se transformou, ao longo de meses difíceis, em
 parceria genuína, não só supervisão distante.
 
+— Uma pergunta prática — Sandra acrescenta, revisando os próprios
+números. — Com seis parceiros novos pra administrar, precisamos
+reconsiderar orçamento operacional pro próximo trimestre?
+
+— Já revisei isso com Marcus — respondo. — Proposta de aumento
+moderado, focado em contratação de mais dois analistas pra apoiar
+Devon, sem inflar estrutura desnecessariamente.
+
+— Aprovado, então, contanto que continuemos monitorando de perto.
+
+— Vamos monitorar, prometo. Já aprendemos, do jeito difícil, a
+importância de crescer com cuidado, não só com pressa.
+
 — Antes de encerrarmos — Thomas acrescenta, hesitando por um instante
 — quero dizer uma coisa pessoal, se me permitem.
 

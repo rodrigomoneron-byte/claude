@@ -110,6 +110,16 @@ antes da hora.
 — Exatamente essa é a régua certa. Nunca dar como certo, até estar
 formalizado.
 
+— Precisamos avisar o conselho também, antes da viagem — acrescento,
+lembrando do próprio protocolo que estabelecemos. — David vai querer
+saber, considerando o peso simbólico de recuperar o último alvo.
+
+— Vou marcar reunião breve amanhã de manhã, então, antes de
+embarcarmos. Só pra atualizar todo mundo rápido.
+
+— Boa ideia. Prefiro sempre manter eles informados, mesmo quando não
+é estritamente necessário.
+
 ---
 
 Passamos o resto da semana preparando cada detalhe com cuidado

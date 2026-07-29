@@ -148,6 +148,19 @@ nascer completamente sobre os telhados estreitos da cidade lá fora.
 
 — Sem pressa nenhuma. Temos tempo.
 
+— Obrigada por essa noite — comenta, fechando o laptop devagar,
+finalmente. — Por deixar eu ter medo em voz alta, sem tentar consertar
+imediatamente.
+
+— Sempre. Acho que aprendi isso com você, na verdade. Nem todo medo
+precisa de solução rápida. Às vezes só precisa de companhia.
+
+— Isso é verdade mais bonita do que eu esperava ouvir tão cedo de
+manhã.
+
+— Guardei essa pra hora certa — respondo, sorrindo, sentindo o próprio
+corpo mais leve apesar do cansaço acumulado da noite mal dormida.
+
 Sento ao lado dela, revisando os últimos slides junto, e sinto, apesar
 de todo o próprio medo que a noite inteira carregou, que talvez essa
 manhã específica seja exatamente o tipo de prova que a corrida toda

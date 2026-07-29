@@ -110,6 +110,21 @@ Vamos pedir permissão pra usar o caso, se topam compartilhar.
 cláusula de saída — Alex acrescenta. — Reforçar publicamente que
 oferecemos exatamente o oposto.
 
+— Vou ligar pros quatro amanhã de manhã, um por um — Marcus oferece,
+anotando os próprios nomes. — Prefiro contato pessoal a e-mail
+genérico, considerando quanto isso pode pesar pra eles.
+
+— Boa ideia. E se algum deles perguntar diretamente se devem temer
+alguma retaliação da Meridian? — pergunto, considerando a própria
+possibilidade desconfortável.
+
+— Respondemos com verdade — Alex responde, sem hesitar. — Não sabemos
+com certeza, mas oferecemos apoio real se algo assim acontecer.
+Nenhuma promessa vazia.
+
+— Concordo. Prefiro isso a garantir segurança que não posso
+realmente confirmar.
+
 ---
 
 A reunião continua por mais uma hora, cada detalhe da própria

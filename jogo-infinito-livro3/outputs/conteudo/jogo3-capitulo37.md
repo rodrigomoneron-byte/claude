@@ -148,3 +148,21 @@ andou roubando de nós dois sem nem perceber completamente.
 ombro dele.
 
 — Amanhã continuamos assim. Prometo.
+
+— Sabe o que eu mais gostei hoje? — murmuro, os olhos já quase
+fechando de vez. — Ver Elena tão feliz, tão leve, sem nenhum peso
+comercial pesando sobre ela.
+
+— Eu também. Fez eu lembrar que existe vida inteira acontecendo fora
+dessa corrida, mesmo quando ela consome quase tudo.
+
+— Precisamos proteger mais disso, quando tudo isso terminar.
+Prometemos isso um pro outro, de verdade.
+
+— Prometo. E vou cobrar de você também, se algum dia esquecer.
+
+— Cobra, sim. Preciso de alguém lembrando, às vezes.
+
+Adormecemos ali mesmo no sofá, luzes ainda baixas, o próprio silêncio
+da casa carregando conforto raro que nenhuma vitória comercial jamais
+conseguiria substituir completamente.

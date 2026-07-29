@@ -66,6 +66,17 @@ merecer ser guardado.
 
 — Devíamos, sim. À mão também, imagino.
 
+— É estranho, admito — comento, sentindo a própria reflexão se
+formar devagar. — Torcer genuinamente pela felicidade de alguém que
+competiu tão duro contra nós, meses atrás.
+
+— É estranho, mas bom, acho. Talvez seja exatamente isso que separa
+rivalidade saudável de guerra permanente — capacidade de torcer pelo
+outro, mesmo depois de disputa real.
+
+— Nunca pensei que aprenderíamos essa lição especificamente com ele,
+de todas as pessoas possíveis.
+
 ---
 
 Sentamos juntos naquela noite, escrevendo devagar uma resposta

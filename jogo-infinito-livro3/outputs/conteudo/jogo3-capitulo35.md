@@ -89,6 +89,21 @@ Alex pergunta, curioso pelo próprio detalhe prático.
 Foco em qualidade, não quantidade. Ironicamente, exatamente a
 abordagem que vocês dois praticam desde o início.
 
+— O que aconteceria com os parceiros que já aderiram ao consórcio, se
+vocês recuarem pra escala menor? — pergunto, considerando a própria
+implicação prática.
+
+— Provavelmente reembolso proporcional pra quem quiser sair, ou
+manutenção do vínculo em escala reduzida, pra quem preferir ficar. Meu
+investidor ainda está decidindo os próprios termos exatos.
+
+— Isso parece justo, pelo menos — Alex comenta. — Considerando as
+alternativas que você poderia estar escolhendo.
+
+— Tento ser justo, mesmo quando a própria situação fica difícil de
+navegar. Aprendi isso, também, observando vocês dois de longe esse
+tempo todo.
+
 — Isso seria mudança real, considerando o discurso que você fez em
 Frankfurt.
 

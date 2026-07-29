@@ -38,6 +38,32 @@ Sinto o próprio corpo transbordar com o gesto, gratidão profunda por
 essa proximidade que continuamos construindo com essa irmã tão
 especial.
 
+— Conta os detalhes — peço, sentindo curiosidade genuína crescer. —
+Como ele fez o pedido, exatamente?
+
+— Levou eu até o mesmo banco onde conversamos na primeira vez de
+verdade, sem nenhum plano dramático, nada de banda tocando escondida
+nem nada assim. Só se ajoelhou, tirou o anel do próprio bolso e disse
+que preferia perguntar simples e sincero a qualquer coisa exagerada.
+
+— Isso parece exatamente com ele, pelo pouco que já conheço — comento,
+sorrindo. — Direto, sem precisar de encenação nenhuma.
+
+— Exatamente isso. E foi perfeito assim, sinceramente. Chorei feito
+boba, óbvio, mas foi o tipo certo de choro.
+
+---
+
+— Como está o próprio anel? — pergunto, ainda sorrindo, sentindo a
+própria curiosidade genuína crescer mais um pouco.
+
+— Simples, elegante, nada ostentoso. Ele disse que escolheu pensando
+em mim, não no que "deveria" parecer um anel de noivado.
+
+— Isso é exatamente o tipo de cuidado que combina com você.
+
+— Foi o que pensei também, no momento em que vi.
+
 ---
 
 — Já pensaram em data? — pergunto, sentindo curiosidade genuína
@@ -68,6 +94,21 @@ agora que a corrida terminou.
 — É verdade. Naomi grávida, Devon promovida, Elena noiva. Sinto que
 tudo que atravessamos abriu espaço pra essa colheita inteira de
 coisa boa.
+
+— É engraçado pensar que isso tudo começou com Kroll batendo na
+nossa porta — Alex comenta, um sorriso reflexivo aparecendo. — Nenhum
+de nós imaginava que aquela reunião específica ia desencadear tanta
+coisa boa, meses depois.
+
+— Nenhum mesmo. Achei, sinceramente, que estávamos prestes a enfrentar
+só mais uma crise comercial difícil, igual às outras que já
+atravessamos antes.
+
+— E terminou sendo exatamente o oposto. Crise que gerou, no fim,
+mais vida boa do que qualquer vitória isolada jamais conseguiria.
+
+Sinto o próprio corpo absorver a reflexão devagar, reconhecendo
+verdade real por trás dela.
 
 — Concordo completamente. Talvez seja exatamente assim que vitória de
 verdade funciona — não isolada, mas espalhando bem-estar pra todo
