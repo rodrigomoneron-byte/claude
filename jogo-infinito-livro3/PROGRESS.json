@@ -9,10 +9,10 @@
     "Cami",
     "Alex"
   ],
-  "status": "Em andamento",
-  "next_chapter": 60,
-  "next_pov": "Alex",
-  "updated": "2026-07-29 15:21",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 61,
+  "next_pov": "Cami",
+  "updated": "2026-07-29 15:22",
   "chapters": [
     {
       "n": 1,
@@ -493,15 +493,24 @@
       "status": "aprovado",
       "heat": true,
       "ressalva": "capítulo abaixo da meta — priorizando ritmo de entrega; compensar na revisão global"
+    },
+    {
+      "n": 60,
+      "pov": "Alex",
+      "words": 671,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false,
+      "ressalva": "capítulo final abaixo da meta de extensão — priorizando fechamento rápido conforme pedido do usuário; recomendo reforço na revisão global antes da formatação"
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 59,
-    "total_words": 50386,
-    "pages_kdp": 168,
+    "chapters_done": 60,
+    "total_words": 51057,
+    "pages_kdp": 170,
     "avg_score": 7.0,
-    "pct_to_target": 84,
+    "pct_to_target": 85,
     "heat_scenes_done": 12,
     "last_heat_chapter": 59
   }
