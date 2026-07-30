@@ -99,3 +99,71 @@ olho na Voss Capital em transição).
   liderança em gestoras familiares" (cap. 18) e capta parceiro canadense
   histórico da Voss Capital (15% do capital comprometido, cap. 19) — fecha
   o Ato 1 com ameaça competitiva concreta, não mais hipotética.
+
+### Ato 2 (caps. 21-40) — "O Peso de Decidir"
+- Sexo do bebê revelado no ultrassom do cap. 21: **menina**. Nome ainda não
+  escolhido ("nada que soe título de relatório trimestral", combinado entre
+  Cami e Alex). Obstetra de rotina: **Dra. Callahan**.
+- Quinto objeto simbólico definido no cap. 40: o **monitor de pressão**
+  domiciliar que Cami carregou nas semanas do susto médico, colocado na
+  estante ao lado do relógio parado, da caneta, da réplica do cemitério e
+  dos sapatinhos — "um pra cada verdade que aprendemos a não esconder
+  mais" (fala de Cami).
+- Devon Ashworth — arco de dúvida/erro/recuperação do Ato 2, conforme
+  planejado: hesita numa pergunta sobre Halloway na primeira reunião
+  solo com LP (Henrik Larsen, family office de Estocolmo, cap. 22);
+  perde a conta histórica Meridian Trust (oito milhões, herdada do pai
+  de Cami) por excesso de tecnicismo numa revisão trimestral (cap. 25),
+  liga pessoalmente pro cliente e recupera parte da confiança embora não
+  reverta o cancelamento; defendida por Cami e Thomas perante David no
+  conselho (cap. 27); lidera sozinha a apresentação trimestral antecipada
+  enquanto Cami está hospitalizada (cap. 33), sem tropeço; propõe e conduz
+  a abordagem direta a Halloway sobre a vulnerabilidade financeira dele
+  (caps. 35-36, 39-40).
+- Jordan Ellis, analista júnior da Voss Capital, contratado pela Cardinal
+  Peak (cap. 22) — mesmo dia em que a Cardinal Peak abre escritório novo
+  em Manhattan, 38º andar, três quarteirões da Voss Capital.
+- Julian Halloway confrontado por Alex numa gala beneficente conjunta dos
+  dois fundos (cap. 26) — reafirma, sem caricatura, a própria convicção de
+  que joga limpo: começou sozinho, sem nome de família, e vê a
+  vulnerabilidade da Voss Capital como leitura honesta de mercado, não
+  oportunismo.
+- Vulnerabilidade real da Cardinal Peak identificada por Priya e Dan ao
+  longo dos caps. 26-39: descompasso entre a promessa de janela de resgate
+  trimestral aos LPs e o portfólio real (participações minoritárias
+  ilíquidas de longo prazo em gestoras familiares); o fundo cobre resgates
+  antecipados com linha de crédito de curto prazo. Quatro casos de resgate
+  antecipado confirmados até o cap. 39 (dois fundos de pensão regionais,
+  um family office europeu, um quarto de US$35 milhões ainda pendente).
+- Segunda rodada de captação da Cardinal Peak (meta de US$300 milhões)
+  anunciada no cap. 37 como resposta pública à vulnerabilidade; travada em
+  42% da meta até o cap. 39.
+- Devon liga diretamente pra Halloway (cap. 36) revelando o que a equipe
+  descobriu e oferecendo chance dele divulgar voluntariamente com
+  dignidade antes de qualquer movimento externo; ele recusa e dobra a
+  aposta com a segunda rodada de captação em vez de aceitar.
+- Decisão do grupo (Cami, Alex, Devon, Dan, Priya): não vazar a
+  vulnerabilidade pra imprensa; em vez disso, oferecer a Halloway um
+  empréstimo-ponte discreto em troca de reconhecimento público de que a
+  "fraqueza" da Voss Capital nunca foi real (cap. 39) — "vitória
+  respeitosa", sem destruição, consistente com a regra da casa.
+- Devon apresenta a oferta a Halloway por telefone (cap. 40); ele reage
+  com vulnerabilidade genuína pela primeira vez na série e pede 24 horas
+  pra decidir — Ato 2 fecha em aberto, gancho direto pro Ato 3.
+- Dark moment do casal (caps. 29-33): Cami recebe diagnóstico de pressão
+  alta/risco de pré-eclâmpsia numa consulta de rotina (cap. 29, 33 semanas)
+  e decide, sozinha, não contar a Alex por três dias, pra não sobrecarregar
+  ele durante a preparação da apresentação trimestral contra a Cardinal
+  Peak. Desmaia no escritório na frente de Devon às 34 semanas (cap. 31),
+  é hospitalizada; a Dra. Osei (plantão) atende. Confronto real entre Cami
+  e Alex sobre decidir junto vs. decidir sozinho por excesso de cuidado
+  (cap. 32); reconciliação estabelece a "regra das 24 horas" — qualquer
+  decisão grande, especialmente médica, é compartilhada em até 24h (cap.
+  33). Cami recebe alta (cap. 34) e é liberada pra atividade leve gradual
+  na consulta de 36 semanas (cap. 37).
+- Elena e Marco marcam data do casamento: **setembro**, depois do
+  nascimento do bebê (cap. 23).
+- Sofia Boone sorri pela primeira vez de propósito para Cami (cap. 37).
+- Financial Chronicle fecha cobertura exclusiva da apresentação trimestral
+  da Voss Capital (cap. 26/30), resposta à parceria exclusiva da Cardinal
+  Peak com o Family Office Review (cap. 30).
