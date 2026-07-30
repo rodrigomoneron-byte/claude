@@ -1,0 +1,52 @@
+TÍTULO: Jogo Infinito — Livro 3: O Terceiro Player
+
+DESCRIÇÃO VISUAL:
+O mesmo relógio de bolso antigo e rachado dos dois primeiros livros,
+tampa entreaberta, ponteiros parados, pousado sobre a superfície de
+vidro escuro/mármore negro polido — só que agora, encostado bem perto
+dele, um segundo relógio entra em cena: um cronômetro de pulso moderno,
+mostrador digital ou analógico de alta precisão, vidro frio, aço
+escovado, os ponteiros/números em movimento implícito (leve efeito de
+blur/rastro de luz nos ponteiros, sugerindo velocidade, em contraste
+com a imobilidade absoluta do relógio de bolso ao lado). Os dois
+relógios ficam próximos, quase se tocando, mas nunca sobrepostos — a
+tensão central da capa é esse confronto silencioso entre o tempo parado
+e o tempo que corre. A caneta-tinteiro de ouro envelhecido dos livros
+anteriores continua no quadro, repousando entre os dois relógios, como
+fiel de uma balança. Ao fundo, bem desfocado, um terceiro elemento
+discreto: o reflexo de um horizonte europeu novo (sugestão de skyline
+continental — não Londres, algo mais ao leste/centro-europeu, sem
+nomear cidade real) se funde ao reflexo já conhecido de Manhattan no
+mesmo vidro escuro, os dois skylines quase indistinguíveis um do outro,
+como se um terceiro jogador tivesse acabado de entrar no tabuleiro.
+Os objetos formam um eixo horizontal apertado dentro de uma poça
+estreita de luz quente (dourado envelhecido, vindo de baixo/lateral,
+como luz de vela ou luminária de latão), cortando o restante do quadro,
+dominado por verde floresta noturno e reflexos frios de vidro/mármore.
+Textura de mármore/vidro escovado, metal escovado no cronômetro, couro
+discreto ao fundo. Sem casal, sem rosto em cena, sem terceira figura
+humana — o "terceiro player" é sugerido pelo objeto novo (o cronômetro)
+e pelo horizonte novo, nunca por uma pessoa.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis, terceira
+figura humana, texto incorporado na imagem, fundo branco genérico, luz
+branca de estúdio, fonte serifada dourada de romance histórico, clip-art
+corporativo, gráfico de bolsa de valores, logotipos reais, bandeiras ou
+brasões de país reais, nome de empresa real, relógio de pulso com marca
+visível
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance
+corporativo, chiaroscuro com luz quente (âmbar/ouro envelhecido) sobre
+paleta fria dominante (verde floresta noturno #1A2421, vidro, mármore
+negro), acento pontual de vinho borgonha #4A0E2E na sombra, acabamento
+"The Old English Gentleman's Club" da casa R.B. Guidenelli — evolução
+direta das capas dos Livros 1 e 2, mesmos objetos-âncora (relógio de
+bolso parado, caneta-tinteiro) com o cronômetro de pulso moderno como
+terceiro elemento novo — o antagonista representado por objeto, nunca
+por rosto, simbolizando a filosofia de Sebastian Kroll/Meridian
+Holdings ("tempo é a única vantagem real") em confronto silencioso com
+o relógio parado que sempre venceu, tematicamente, nos livros
+anteriores da série.

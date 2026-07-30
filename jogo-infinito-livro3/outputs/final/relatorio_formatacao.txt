@@ -1,0 +1,82 @@
+RELATÓRIO DE FORMATAÇÃO — Jogo Infinito, Livro 3: O Terceiro Player
+Autor: R.B. Guidenelli · Série: Jogo Infinito · series_index: 3
+Data: 2026-07-30
+
+1. CAPÍTULOS INCLUÍDOS
+60 de 60 capítulos, organizados em outputs/final/manuscrito/ como
+01_capitulo.md a 60_capitulo.md. Contagem confirmada batendo com os
+arquivos-fonte de outputs/conteudo/jogo3-capituloNN.md. Cabeçalho
+convertido de "# Jogo Infinito — Livro 3 — Capítulo N" / "### POV: Nome"
+para "# Capítulo N" / "*POV: Nome*" (subtítulo discreto, mesmo padrão
+usado nos Livros 1 e 2). POV dual confirmado alternando corretamente:
+Cami em todos os capítulos ímpares, Alex em todos os capítulos pares.
+
+2. CONTAGEM DE PALAVRAS
+Manuscrito fonte (outputs/conteudo/): 62.048 palavras.
+Manuscrito organizado (outputs/final/manuscrito/): 61.628 palavras
+(diferença de ~400 palavras vem só do cabeçalho mais curto por
+capítulo, não de corte de conteúdo).
+Está acima do ponto médio travado no project_dna.md (~60.000) mas
+dentro do intervalo 58.000-67.000 fixado para a série — nenhum ajuste
+necessário para formatação.
+
+3. EPUB
+Arquivo: outputs/final/o-terceiro-player.epub (196 KB)
+Validado com `ebooklib.epub.read_epub()` — abriu sem erro, 63 itens
+(60 capítulos + nav/toc/estrutura/CSS). Sumário clicável (NCX + nav
+EPUB3) e metadados de série (calibre:series = "Jogo Infinito",
+calibre:series_index = "3") presentes.
+
+4. PDF (KDP 6"x9")
+Arquivo: outputs/final/o-terceiro-player_kdp.pdf (495 KB)
+277 páginas, dimensão confirmada 432x648pt = 6"x9" exatos (verificado
+via pypdf). Página de título + 1 capítulo por página nova, corpo
+Times-Roman 11pt justificado com recuo de primeira linha, numeração de
+rodapé a partir do Capítulo 1. Conferido visualmente via render em PNG
+(pdftoppm) da página de título e da primeira página do Capítulo 1:
+título "O Terceiro Player" centralizado com autor/série abaixo na
+página de rosto; "Capítulo 1" centralizado, subtítulo "POV: Cami" em
+itálico, corpo justificado com recuo de primeira linha, numeração "1"
+no rodapé — margens, fonte e numeração corretas, sem regressão em
+relação ao padrão do Livro 2.
+
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+Rodada com scripts/regua_gate.py sobre os 60 arquivos organizados em
+outputs/final/manuscrito/: 60/60 arquivos LIMPO, exit code 0. Varredura
+manual complementar (`grep -n "gente"`) confirma que todas as ocorrências
+restantes de "gente" são usos legítimos no sentido de "pessoas" (ex.:
+"gente próxima de nós", "gente que trabalha adjacente", "mais gente") —
+nenhuma ocorrência do pronome proibido "a gente", em narração ou
+diálogo, nem das formas obliquas coladas (pra/da/na/com a gente).
+Régua 100% limpa.
+
+6. PROMPT DE CAPA
+Arquivo: outputs/final/prompt_capa_o-terceiro-player.txt
+Evolução direta das capas dos Livros 1 e 2: mesmo relógio de bolso
+parado e mesma caneta-tinteiro, com um cronômetro de pulso moderno
+como terceiro elemento novo — representa Sebastian Kroll/Meridian
+Holdings e a filosofia "tempo é a única vantagem real" sem usar rosto
+ou figura humana. Reflexo de skyline europeu novo se funde ao de
+Manhattan ao fundo, sugerindo a expansão continental do livro. Paleta
+fria "The Old English Gentleman's Club" (verde floresta noturno,
+mármore, vidro) com acento de ouro envelhecido e toque de vinho
+borgonha, chiaroscuro, sem casal, sem rosto.
+
+7. METADADOS
+Arquivo: outputs/final/metadados_o-terceiro-player.json (idêntico ao
+outputs/final/manuscrito/metadata.json usado na geração do EPUB).
+title: "O Terceiro Player" · series: "Jogo Infinito" · series_index: 3
+· author: "R.B. Guidenelli" · language: "pt-BR"
+
+8. LEMBRETE — IDENTIFICADOR/ISBN
+O campo "identifier" no metadata.json é um placeholder UUID
+(urn:uuid:f7f0baa9-5d53-40af-955b-0421f600b7f1), gerado só pra permitir
+a montagem do EPUB. PRECISA ser substituído pelo ISBN real antes de
+qualquer publicação formal na Amazon KDP.
+
+9. STATUS
+Manuscrito organizado a partir da versão aprovada em outputs/conteudo/
+(60 capítulos, régua mecânica limpa, revisão editorial global
+concluída conforme informado). Pronto para upload no KDP após: (a)
+gerar a imagem de capa a partir do prompt fornecido, (b) substituir o
+identificador placeholder pelo ISBN real.
