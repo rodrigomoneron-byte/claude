@@ -130,6 +130,30 @@ def cmd_next(args):
 
 def cmd_record(args):
     st = load(args.proj)
+
+    # PISO DURO por capítulo — corrige o padrão que gerou reforço em TODOS
+    # os livros anteriores: o checkpoint de cadência (_print_check) só
+    # avisa depois que o déficit já se acumulou, o que na prática nunca foi
+    # suficiente pra impedir capítulos curtos de serem registrados como
+    # prontos. Este piso bloqueia o REGISTRO do capítulo individual (não
+    # só avisa) se ele vier abaixo de ~85% da média-alvo por capítulo,
+    # forçando expandir AGORA, no mesmo turno, em vez de empilhar dívida
+    # pra um passe de reforço no final.
+    word_target = st.get("word_target")
+    target = st.get("target")
+    if word_target and target and not args.ressalva:
+        floor = math.floor(word_target / target * 0.85)
+        if args.words < floor:
+            print(f"\n🛑 PISO DE EXTENSÃO NÃO ATINGIDO — capítulo NÃO registrado.")
+            print(f"  Cap. {args.n}: {args.words} palavras, piso mínimo {floor} "
+                  f"(85% da média-alvo de {round(word_target/target)} palavras/capítulo).")
+            print(f"  Expanda o capítulo AGORA, neste turno, antes de registrar — "
+                  f"não deixe para um passe de reforço no final.")
+            print(f"  Se este capítulo específico tem motivo estrutural legítimo pra "
+                  f"ser mais curto (ex: clímax rápido, transição), registre de novo "
+                  f"com --ressalva explicando o motivo.")
+            sys.exit(3)
+
     ch = {"n": args.n, "pov": args.pov, "words": args.words,
           "score": args.score, "status": args.status,
           "heat": bool(args.heat and args.heat.lower() in ("yes", "sim", "true", "1"))}
