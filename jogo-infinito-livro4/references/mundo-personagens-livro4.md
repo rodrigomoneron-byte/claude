@@ -75,4 +75,27 @@ olho na Voss Capital em transição).
   + casamento) no mesmo volume.
 
 ## Log de decisões de escrita (preencher durante a produção)
-- (a preencher conforme os capítulos forem escritos)
+- Antagonista definido na escrita (cap. 4): **Julian Halloway**, 39 anos,
+  fundador da **Cardinal Peak Capital** (Boston, seis anos de idade, ~US$800M
+  sob gestão), ex-Baird. Motivação: construir reputação própria sem herdar
+  nome pronto, competição estrutural fria, sem vínculo pessoal com Kroll/
+  Meridian. Confrontado presencialmente por Alex no cap. 8 (recepção
+  beneficente) — motivação verbalizada em cena, sem caricatura.
+- Sofia Boone (filha de Marcus e Naomi) nasceu por volta da abertura do
+  L4 — presente já no cap. 3, nome confirmado como "Sofia".
+- Priya seguiu como funcionária efetiva (não freelancer) — confirmado no
+  cap. 12 quando recebe e recusa oferta direta de Cardinal Peak.
+- Quarto objeto simbólico revelado no cap. 13: par de sapatinhos de couro
+  do pai da Cami, guardados por décadas por sua tia Rosalind, entregues
+  postumamente. Somam-se ao relógio parado, à caneta e à réplica do
+  cemitério na estante.
+- Devon Ashworth formalizada como sucessora no cap. 14 (votação do
+  conselho, David Okonkwo se abstém por cautela, não por oposição).
+- Gravidez e sucessão anunciadas publicamente juntas no cap. 18
+  (coletiva de imprensa), antecipadas por vazamento de fonte não
+  identificada (fortemente suspeito: Halloway, nunca confirmado
+  diretamente — decisão deliberada de manter ambíguo).
+- Cardinal Peak reage ao anúncio lançando fundo próprio de "transições de
+  liderança em gestoras familiares" (cap. 18) e capta parceiro canadense
+  histórico da Voss Capital (15% do capital comprometido, cap. 19) — fecha
+  o Ato 1 com ameaça competitiva concreta, não mais hipotética.
