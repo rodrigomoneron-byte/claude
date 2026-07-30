@@ -6,7 +6,7 @@ contratos ainda esperando revisão final antes de amanhã, e sinto o
 próprio corpo carregando cansaço que já reconheço como acumulado
 demais pra qualquer noite de sono normal resolver completamente.
 
-A analista freelancer que Marcus contratou, Greta, deixou três
+A analista freelancer que Marcus contratou, Priya, deixou três
 propostas novas na minha mesa antes de sair, cada uma exigindo decisão
 rápida antes do prazo de amanhã de manhã. Reviso a primeira devagar,
 os olhos ardendo de cansaço.

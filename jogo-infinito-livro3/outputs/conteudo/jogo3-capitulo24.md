@@ -136,8 +136,9 @@ Sinto Cami tensa ao meu lado, reconhecendo, evidentemente, a própria
 oportunidade se formando diante de nós.
 
 — Isso é exagero dele — sussurra, inclinando-se pra mais perto. —
-Sabemos de pelo menos dez casos documentados de recusa ou hesitação
-séria.
+Só entre Henrik, Ingrid, Sofie e Bram já sabemos de recusa clara.
+Suspeito que existam muitos outros casos parecidos, ainda sem
+confirmação nenhuma.
 
 — Precisamos corrigir isso publicamente, mas sem soar defensivos
 demais — respondo, sentindo o próprio corpo já calculando a melhor

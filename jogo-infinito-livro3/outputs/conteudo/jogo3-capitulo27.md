@@ -149,7 +149,7 @@ juntos, pro próprio trabalho que ainda nos espera o resto do dia todo.
 Marcus retorna pouco depois, o próprio rosto carregando alívio
 evidente.
 
-— Greta topou começar amanhã mesmo — anuncia, sentando de volta. —
+— Priya topou começar amanhã mesmo — anuncia, sentando de volta. —
 Já revisou parte da própria lista de contatos, disse que consegue
 assumir metade do peso rápido.
 
@@ -169,7 +169,7 @@ direito.
 constatação. — Provamos isso da forma mais difícil possível, mas
 provamos.
 
-— Amanhã já parece mais leve, só de saber que Greta começa cedo —
+— Amanhã já parece mais leve, só de saber que Priya começa cedo —
 Marcus acrescenta, guardando o próprio celular.
 
 — Amanhã, sim. Um problema de cada vez, exatamente como sempre

@@ -96,7 +96,7 @@ minha mão assim que a porta fecha atrás de nós.
 vai ser porque os números realmente convenceram, não porque
 apressamos ela.
 
-— Concordo. Vamos ligar pro Devon, atualizar ele sobre os dois alvos.
+— Concordo. Vamos ligar pro Devon, atualizar ela sobre os dois alvos.
 
 Caminhamos devagar pela rua, o próprio sol da tarde batendo fraco
 contra as fachadas cinzentas, e sinto, segurando a mão dele, a mesma

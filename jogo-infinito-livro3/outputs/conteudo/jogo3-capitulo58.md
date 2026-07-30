@@ -80,7 +80,7 @@ sozinho.
 
 ---
 
-— Co-CEO Camila Voss Miller — leio em voz alta, sorrindo. — Soa
+— Co-CEO Camila Miller — leio em voz alta, sorrindo. — Soa
 perfeito.
 
 — Soa exatamente certo — ela responde, guardando a própria caneta,

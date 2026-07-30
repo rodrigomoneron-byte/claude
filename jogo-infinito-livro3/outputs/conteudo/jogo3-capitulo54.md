@@ -4,48 +4,54 @@
 Chamo Devon pro próprio escritório numa tarde tranquila, o primeiro
 espaço real que consigo abrir na agenda desde que a corrida terminou
 formalmente, e sinto o próprio corpo carregar satisfação genuína
-enquanto ela senta, curiosa, diante da própria mesa.
+enquanto ela senta, curiosa, diante da própria mesa, a pasta que Dan
+preparou depois da nossa ligação já pronta entre nós dois.
 
-— Precisamos conversar sobre o seu cargo — abro, sem rodeio.
+— Chegou a hora de assinar de verdade — abro, sem rodeio, empurrando a
+pasta na direção dela.
 
-— Isso soa sério — ela responde, um traço de humor nervoso na própria
-voz.
+— Ainda bem — ela responde, um traço de humor leve na própria voz. —
+Passei a semana inteira quase sem acreditar que não tinha sonhado
+aquela ligação.
 
 ---
 
-— É sério, sim. Bom sério — esclareço, sorrindo. — O conselho aprovou,
-formalmente, criar cargo de Diretoria de Inteligência Estratégica.
-Escopo maior, autoridade maior, reportando diretamente à liderança.
+— Não sonhou, não — esclareço, sorrindo. — Diretoria de Inteligência
+Estratégica, formalizada por escrito agora. Escopo maior, autoridade
+maior, reportando diretamente à liderança, exatamente como conversamos.
 
 Sinto o próprio peito se aquecer observando o rosto dela processar a
-própria notícia devagar, surpresa genuína se transformando aos poucos
-em emoção visível.
+própria formalização devagar, a mesma emoção da semana anterior
+voltando à tona, mais suave dessa vez, mas não menos real.
 
 — Você merece isso, Devon. Cada vitória dessa corrida carregou
 trabalho seu por trás.
 
 ---
 
-— Não sei o que dizer — ela murmura, a voz embargada. — Trabalhei tanto
-tempo sentindo que precisava provar valor, e agora...
+— Uma coisa é ouvir pelo telefone — ela murmura, a voz levemente
+embargada, folheando os próprios documentos devagar. — Outra é ver o
+próprio nome escrito assim, formal, definitivo. Ainda emociona,
+mesmo já sabendo.
 
-— Agora todo mundo já sabe. Não precisa mais provar nada, só continuar
-fazendo o que já faz tão bem.
+— Faz sentido. Documento formal carrega peso diferente, mesmo quando a
+notícia já não é mais surpresa.
 
-Ela sorri, lágrimas genuínas escapando, e sinto, observando esse
-momento, gratidão profunda por essa analista que se transformou, ao
-longo de meses difíceis, em peça essencial de tudo que construímos.
+Ela sorri, olhos ainda úmidos, e sinto, observando esse momento,
+gratidão profunda por essa analista que se transformou, ao longo de
+meses difíceis, em peça essencial de tudo que construímos.
 
 ---
 
-— Aceito, obviamente — confirma, finalmente, limpando as próprias
-lágrimas. — Obrigada, Alex. Por confiar em mim desde o início, mesmo
-quando eu mesma duvidava.
+— Assino agora mesmo — confirma, puxando a própria caneta. — Obrigada,
+Alex. Por confiar em mim desde o início, mesmo quando eu mesma
+duvidava.
 
 — Sempre confiei. Você só precisava de tempo pra confiar em si mesma
 também.
 
-Ela se levanta pra sair, mas para na porta, virando de volta.
+Ela assina devagar, e se levanta pra sair, mas para na porta, virando
+de volta.
 
 — Isso significa muito, considerando tudo. Obrigada, de verdade.
 

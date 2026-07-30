@@ -99,7 +99,7 @@ mesmo tempo, considerando que ainda são recentes as contratações de
 reforço?
 
 — Estamos ajustando isso ativamente — respondo, sentindo o próprio
-corpo processar a própria logística. — Greta já está integrada
+corpo processar a própria logística. — Priya já está integrada
 completamente, e Marcus está entrevistando mais dois candidatos essa
 semana.
 
