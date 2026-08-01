@@ -135,6 +135,47 @@ americanizado, por exemplo) segue o que o projeto atual define.
    reação física é o golpe, e deixa uma ponta não fechada que puxa o
    próximo capítulo: loop suave na maioria, cliffhanger forte em ~30%.
 
+### Orçamento de palavras por estágio — evite o rascunho curto
+
+**Causa raiz confirmada em produção**: quando o capítulo é
+majoritariamente diálogo curto (— fala. — responde. — replica.), os 5
+estágios acima se completam narrativamente muito antes de chegar na
+extensão-alvo — a cena "parece pronta" com 650-750 palavras porque toda
+a progressão dramática aconteceu, só que cada troca de fala carrega
+poucas palavras. Escrever até a sensação de "completo" e só DEPOIS
+contar as palavras é exatamente o padrão que produz déficit sistemático
+(confirmado: piorou ao longo de um livro inteiro mesmo com o alvo
+repetido a cada capítulo — de 7/20 para 17/20 capítulos precisando de
+expansão de emergência).
+
+**Correção**: distribua a extensão-alvo do capítulo pelos 5 estágios
+ANTES de escrever, como orçamento mínimo por estágio (ajuste
+proporcionalmente à extensão-alvo do projeto atual; os percentuais
+abaixo valem para qualquer alvo):
+- Abertura: ~10-15% do alvo
+- Desenvolvimento: ~45-55% do alvo (o estágio que mais frequentemente
+  fica curto — se tiver só uma troca de diálogo e um parágrafo de
+  transição, ainda falta pelo menos mais uma cena/beat completo aqui)
+- Virada: ~15-20% do alvo
+- Saída: ~10-15% do alvo
+- Último parágrafo: ~5-10% do alvo
+
+Ao terminar o Desenvolvimento, faça uma pausa e estime se ele sozinho
+já passou de 40% do alvo total. Se não, ADICIONE mais um beat de cena
+real antes de seguir pra Virada — nunca encha com adjetivo ou
+redundância, adicione conteúdo dramático novo (mais um obstáculo, mais
+uma troca que revela algo, mais um detalhe sensorial ancorado em
+objeto/gesto, conforme a marca 2). Alternar diálogo curto com
+parágrafos de reflexão/sensação física de tamanho real (não só uma
+linha de transição) é o que sustenta a densidade de palavras sem
+diluir o ritmo — não é "encher linguiça", é dar à cena o peso que ela
+já merece dramaticamente.
+
+Esse orçamento por estágio substitui a prática de só conferir a
+contagem total no final — a essa altura, corrigir significa reabrir o
+capítulo inteiro em vez de simplesmente continuar escrevendo o estágio
+que ainda estava curto.
+
 ---
 
 ## Estrutura macro da série (camada de cadência)
@@ -187,8 +228,15 @@ não usar seus nomes/fatos no projeto atual.
 ## Entrega
 
 Escreva o capítulo na densidade e extensão definidas pelo project_dna.md
-do projeto atual. Confira a contagem contra a meta travada (por
-capítulo ou pelo total, conforme o projeto). Ao final, ofereça rodar a
-skill `bia-ferreira-voice-validator` neste mesmo trecho, e rode
+do projeto atual, aplicando o orçamento por estágio da seção anterior
+DURANTE a escrita, não como conferência só no final — a essa altura,
+qualquer déficit já exige reabrir o capítulo em vez de simplesmente
+continuar o estágio que ficou curto. Depois de escrever, rode `wc -w`
+(ou equivalente) no arquivo e confira contra a meta travada; se estiver
+abaixo, isso é sinal de que o orçamento por estágio não foi seguido —
+identifique QUAL estágio ficou curto (geralmente o Desenvolvimento) e
+expanda ele especificamente, não acrescente um parágrafo genérico no
+fim só para bater o número. Ao final, ofereça rodar a skill
+`bia-ferreira-voice-validator` neste mesmo trecho, e rode
 `regua_gate.py` (ou equivalente do projeto) antes de considerar o
 capítulo finalizado — isso pega desvios antes que se acumulem.
