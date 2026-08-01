@@ -142,39 +142,55 @@ majoritariamente diálogo curto (— fala. — responde. — replica.), os 5
 estágios acima se completam narrativamente muito antes de chegar na
 extensão-alvo — a cena "parece pronta" com 650-750 palavras porque toda
 a progressão dramática aconteceu, só que cada troca de fala carrega
-poucas palavras. Escrever até a sensação de "completo" e só DEPOIS
-contar as palavras é exatamente o padrão que produz déficit sistemático
-(confirmado: piorou ao longo de um livro inteiro mesmo com o alvo
-repetido a cada capítulo — de 7/20 para 17/20 capítulos precisando de
-expansão de emergência).
+poucas palavras.
 
-**Correção**: distribua a extensão-alvo do capítulo pelos 5 estágios
-ANTES de escrever, como orçamento mínimo por estágio (ajuste
-proporcionalmente à extensão-alvo do projeto atual; os percentuais
-abaixo valem para qualquer alvo):
-- Abertura: ~10-15% do alvo
-- Desenvolvimento: ~45-55% do alvo (o estágio que mais frequentemente
-  fica curto — se tiver só uma troca de diálogo e um parágrafo de
-  transição, ainda falta pelo menos mais uma cena/beat completo aqui)
-- Virada: ~15-20% do alvo
-- Saída: ~10-15% do alvo
-- Último parágrafo: ~5-10% do alvo
+**Tentativa 1 (não funcionou, documentado para não repetir)**: pedir
+pra "fazer uma pausa mental e estimar" a contagem no meio da escrita,
+como instrução em prosa dentro do próprio fluxo de geração do texto.
+Testado num livro inteiro (piorou: 7/20 → 16/20 → 17/20 capítulos
+precisando de expansão de emergência) e depois explicitamente num ato
+de teste dedicado (18/20, pior ainda) — em ambos os casos o escritor
+relatou, com honestidade, que continuou escrevendo até a cena "parecer
+completa" e só depois rodou a contagem real, porque uma instrução em
+prosa dentro de uma única geração contínua não cria uma pausa real: não
+existe mecanismo confiável para interromper o próprio fluxo de texto no
+meio, só a sensação (não confiável) de "acho que já escrevi bastante".
 
-Ao terminar o Desenvolvimento, faça uma pausa e estime se ele sozinho
-já passou de 40% do alvo total. Se não, ADICIONE mais um beat de cena
-real antes de seguir pra Virada — nunca encha com adjetivo ou
-redundância, adicione conteúdo dramático novo (mais um obstáculo, mais
-uma troca que revela algo, mais um detalhe sensorial ancorado em
-objeto/gesto, conforme a marca 2). Alternar diálogo curto com
-parágrafos de reflexão/sensação física de tamanho real (não só uma
-linha de transição) é o que sustenta a densidade de palavras sem
-diluir o ritmo — não é "encher linguiça", é dar à cena o peso que ela
-já merece dramaticamente.
+**Correção que funciona (mecânica, não apenas instrucional)**: o
+capítulo é escrito e salvo em DUAS chamadas de ferramenta separadas,
+com uma contagem REAL de palavras (`wc -w`, uma chamada de Bash de
+verdade, não estimativa) entre elas — igual ao piso duro do
+`loop_state.py`, que só passou a funcionar quando virou um exit code
+real em vez de um aviso em texto:
 
-Esse orçamento por estágio substitui a prática de só conferir a
-contagem total no final — a essa altura, corrigir significa reabrir o
-capítulo inteiro em vez de simplesmente continuar escrevendo o estágio
-que ainda estava curto.
+1. Escreva (Write) o arquivo do capítulo contendo SÓ os estágios
+   Abertura + Desenvolvimento (marcados 1 e 2 na lista acima) — sem
+   Virada, Saída nem fechamento ainda.
+2. Rode `wc -w <arquivo>` (chamada de Bash separada — isso É a pausa
+   real, não uma instrução pra "parar e pensar").
+3. Compare o número contra ~50-55% da extensão-alvo do capítulo (ex.:
+   alvo de 1000 palavras → Abertura+Desenvolvimento precisa ter pelo
+   menos ~500-550 palavras nesse ponto). Se estiver abaixo, Edit o
+   arquivo AGORA, acrescentando mais um beat de cena real ao
+   Desenvolvimento (mais um obstáculo, mais uma troca que revela algo,
+   mais um detalhe sensorial ancorado em objeto/gesto — nunca adjetivo
+   ou redundância) — e rode `wc -w` de novo até bater o piso, antes de
+   seguir.
+4. só então, Edit o mesmo arquivo acrescentando Virada + Saída + Último
+   parágrafo.
+5. Rode `wc -w` final no capítulo inteiro contra a extensão-alvo total.
+
+Alternar diálogo curto com parágrafos de reflexão/sensação física de
+tamanho real (não só uma linha de transição) é o que sustenta a
+densidade de palavras sem diluir o ritmo.
+
+Esse processo em duas chamadas com medição real no meio substitui tanto
+"escrever tudo de uma vez e conferir no final" quanto "pedir pra
+estimar mentalmente no meio" — nenhuma das duas se mostrou confiável em
+produção. A medição real via ferramenta, no meio do processo, é a única
+versão que já demonstrou funcionar (mesmo princípio do piso duro do
+`loop_state.py`: uma trava mecânica externa muda o comportamento; uma
+instrução em prosa, mesmo repetida e explícita, não muda sozinha).
 
 ---
 

@@ -8,15 +8,26 @@ Apresentar cada capítulo e continuar automaticamente.
 - capitulos_por_turno: 4-6
 
 ## Ações obrigatórias por iteração
-1. ESCREVER  → bia-ferreira-chapter-writer (POV correto, 950-1100 palavras).
-               APLICAR o orçamento de palavras por estágio da skill
-               (Abertura ~10-15%, Desenvolvimento ~45-55%, Virada
-               ~15-20%, Saída ~10-15%, fechamento ~5-10%) ATIVAMENTE
-               durante a escrita — parar depois do Desenvolvimento e
-               checar se já passou de 40% do alvo antes de seguir. Isso
-               é a correção de causa raiz pro problema que persistiu
-               nos 3 atos do Livro 4 (taxa de expansão de emergência
-               subiu de 7/20 pra 17/20 mesmo com o piso duro ativo).
+1. ESCREVER  → bia-ferreira-chapter-writer (POV correto, 950-1100 palavras),
+               em DUAS chamadas de ferramenta obrigatórias, com medição
+               real no meio (não estimativa mental — isso já foi tentado
+               e falhou, ver histórico abaixo):
+               (a) Write do arquivo com só Abertura + Desenvolvimento.
+               (b) Bash `wc -w <arquivo>` — chamada separada de verdade.
+               (c) Se < ~50-55% do alvo do capítulo, Edit acrescentando
+                   mais um beat de cena real ao Desenvolvimento, `wc -w`
+                   de novo até bater.
+               (d) Edit acrescentando Virada + Saída + fechamento.
+               (e) `wc -w` final no capítulo completo.
+               HISTÓRICO: no L4 (só instrução, sem gate mecânico), a taxa
+               de expansão de emergência SUBIU ao longo do livro (7/20 →
+               16/20 → 17/20). No teste do Ato 1 do L5 com a instrução
+               "pause e estime mentalmente", piorou ainda mais (18/20) —
+               o próprio escritor relatou que a pausa instrucional não
+               criou uma pausa real. Só a medição via ferramenta, como
+               chamada separada, é o que já demonstrou funcionar (mesmo
+               princípio do piso duro do loop_state.py: exit code real,
+               não aviso em texto).
 2. RÉGUA     → scripts/regua_gate.py (trava dura; corrigir até LIMPO) +
                grep manual padrão E de formas obliquas
                (`pra gente|da gente|na gente|com a gente`)
