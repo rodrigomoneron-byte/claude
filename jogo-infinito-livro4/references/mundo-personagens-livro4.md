@@ -111,7 +111,7 @@ olho na Voss Capital em transição).
   mais" (fala de Cami).
 - Devon Ashworth — arco de dúvida/erro/recuperação do Ato 2, conforme
   planejado: hesita numa pergunta sobre Halloway na primeira reunião
-  solo com LP (Henrik Larsen, family office de Estocolmo, cap. 22);
+  solo com LP (Gustav Lindqvist, family office de Estocolmo, cap. 22);
   perde a conta histórica Meridian Trust (oito milhões, herdada do pai
   de Cami) por excesso de tecnicismo numa revisão trimestral (cap. 25),
   liga pessoalmente pro cliente e recupera parte da confiança embora não
@@ -167,3 +167,61 @@ olho na Voss Capital em transição).
 - Financial Chronicle fecha cobertura exclusiva da apresentação trimestral
   da Voss Capital (cap. 26/30), resposta à parceria exclusiva da Cardinal
   Peak com o Family Office Review (cap. 30).
+- **CORREÇÃO DE CONTINUIDADE (antes do Ato 3)**: o LP europeu introduzido
+  no cap. 22 havia sido nomeado "Henrik Larsen" — colisão de nome com o
+  Henrik Larsen já existente no Livro 3 (gestor independente em Bruxelas,
+  parceiro da Voss Capital). Renomeado para **Gustav Lindqvist**, family
+  office de Estocolmo, em todas as ocorrências (caps. 22, 23, 26, 28, 30,
+  33, 37) antes de iniciar o Ato 3. Nenhum fato ou evento envolvendo o
+  personagem mudou, só o nome.
+
+### Ato 3 (caps. 41-60) — "Legado e Reinvenção"
+- Halloway aceita a oferta de empréstimo ponte (cap. 41); contrato formalizado
+  como transação comercial padrão, sem menção pública a resgate (cap. 42).
+  Declaração pública de reconhecimento assinada e divulgada por Halloway,
+  entregue pessoalmente a Alex no escritório da Cardinal Peak (cap. 44) —
+  fechamento "vitória respeitosa", sem destruição pessoal, estruturalmente
+  mais frio que o fechamento do Kroll no L3 (sem reconciliação pessoal
+  profunda, só respeito profissional mútuo).
+- Conselho confirma autoridade plena de Devon durante a licença de Cami e
+  Alex, votação unânime, David Okonkwo vota a favor sem ressalva (cap. 43).
+- Rosalind Voss nasce no cap. 46 — nomeada em homenagem à Tia Rosalind
+  (guardiã dos sapatinhos). Parto sem complicações.
+- Devon formalizada como Presidente e CEO da Voss Capital (votação unânime
+  do conselho, cap. 50); Cami e Alex migram para Presidente do Conselho e
+  Vice-presidente, saem da gestão operacional diária.
+- Cardinal Peak fecha a segunda rodada de captação em 100% da meta (cap. 47);
+  Halloway manda buquê de agradecimento pro escritório inteiro (cap. 52);
+  Jordan Ellis sinaliza interesse em voltar pra Voss Capital (cap. 52, em
+  aberto).
+- Cami e Alex abrem conversa sobre casamento "em breve", sem data marcada e
+  sem eventos formais neste livro (cap. 53) — casamento oficial permanece
+  disponível pro L5, conforme decisão de não empilhar dois eventos-marco
+  neste volume.
+- Voss Capital e Cardinal Peak formalizam parceria de referência cruzada de
+  clientes (cap. 54) — não fusão, não integração operacional, revisão anual
+  com saída livre pra qualquer lado. Contraste estrutural deliberado com o
+  fechamento do Kroll no L3: aqui não há reconciliação pessoal profunda,
+  só coexistência profissional respeitosa e mais fria.
+- Cami escreve carta pra Rosalind (cap. 55) explicando o "porquê" por trás
+  do plano de contingência família; Alex acrescenta um parágrafo próprio.
+  A carta, guardada num envelope na estante, é tratada por ambos como o
+  "sexto símbolo" — não objeto físico, palavras.
+- Jordan Ellis retorna formalmente à Voss Capital (mencionado no cap. 59);
+  Halloway parabeniza a decisão dele publicamente.
+- Casamento de Elena e Marco acontece em setembro (cap. 57), conforme
+  planejado desde o cap. 23. Toda a família reunida; Alex faz o brinde.
+- Halloway envia mensagem pessoal de respeito e agradecimento a Cami
+  (cap. 59), fechando definitivamente o arco dele com dignidade, sem
+  retorno como ameaça.
+- Fechamento do livro (cap. 60): uma carta de Alexandra Voss Whitfield
+  chega, sem aviso, depois de mais de um ano de silêncio desde a crise
+  que ela deixou para trás — conteúdo NÃO revelado neste livro. Cami e
+  Alex decidem, aplicando a própria "regra das 24 horas", guardar o
+  envelope fechado na estante ao lado dos símbolos e abrir juntos no dia
+  seguinte. Gancho puro pro Livro 5 "O Jogo Final" — nada sobre Alexandra
+  é resolvido ou revelado neste volume.
+- Estante final do L4: relógio parado do pai de Cami, caneta de Alex,
+  réplica do cemitério, sapatinhos do pai de Cami, monitor de pressão,
+  carta de Cami e Alex pra Rosalind, e o envelope fechado de Alexandra —
+  os dois últimos ainda sem status de "símbolo resolvido", propositalmente.

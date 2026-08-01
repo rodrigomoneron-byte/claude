@@ -6,7 +6,7 @@ Devon apresenta a solução antes de eu sequer terminar de ler o e-mail da Cardi
 
 — Isso significa comprimir três semanas de preparação em dez dias — Thomas pondera, mas já assentindo devagar.
 
-— Prefiro dez dias apertados a deixar Halloway escolher a narrativa de novo — Devon responde, sem hesitação nenhuma dessa vez, o oposto exato da reunião com Larsen semanas atrás. — Já perdemos vantagem duas vezes por reagir tarde demais. Não vamos perder uma terceira.
+— Prefiro dez dias apertados a deixar Halloway escolher a narrativa de novo — Devon responde, sem hesitação nenhuma dessa vez, o oposto exato da reunião com Lindqvist semanas atrás. — Já perdemos vantagem duas vezes por reagir tarde demais. Não vamos perder uma terceira.
 
 Olho pra Cami, que assente devagar, o orgulho no rosto dela quase tão visível quanto o meu. — Aprovado — ela diz. — Devon lidera a preparação. Eu e Alex revisamos antes da apresentação final, mas a estrutura é dela.
 

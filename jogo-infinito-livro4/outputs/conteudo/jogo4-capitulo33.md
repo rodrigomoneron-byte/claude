@@ -16,7 +16,7 @@ A sala — visível em miniatura no canto da transmissão — reage com um misto
 
 Sandra aparece depois, respondendo perguntas técnicas sobre alocação de capital, e Thomas fecha com uma frase que reconheço, quase palavra por palavra, de uma reunião de conselho meses atrás — sinal de que a mensagem se espalhou de verdade pela equipe inteira, não só pela boca de Devon. David, sentado na primeira fila, assente devagar durante a resposta dela sobre Halloway, e vejo, mesmo pela tela pequena, o momento exato em que a última hesitação dele cede.
 
-Quando a transmissão encerra, o telefone de Alex já está vibrando — mensagens de Thomas, de Sandra, de dois LPs diferentes elogiando "a maturidade institucional da resposta". Nenhuma menção a Cardinal Peak, nenhuma reação de pânico, só o tipo de confiança silenciosa que Devon vinha construindo, tijolo por tijolo, desde o primeiro tropeço com Larsen semanas atrás.
+Quando a transmissão encerra, o telefone de Alex já está vibrando — mensagens de Thomas, de Sandra, de dois LPs diferentes elogiando "a maturidade institucional da resposta". Nenhuma menção a Cardinal Peak, nenhuma reação de pânico, só o tipo de confiança silenciosa que Devon vinha construindo, tijolo por tijolo, desde o primeiro tropeço com Lindqvist semanas atrás.
 
 — Ela vai ser incrível nisso — murmuro, a voz ainda fraca.
 

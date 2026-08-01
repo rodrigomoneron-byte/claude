@@ -14,7 +14,7 @@ Leio o comunicado duas vezes, sentindo a familiar mistura de raiva fria e respei
 
 Pego o telefone, começo a discar, e paro no meio do número.
 
-Reconheço o instinto exatamente pelo que é: o mesmo instinto que Cami confessou ter tido com o Jordan Ellis, o mesmo que sinto toda vez que decido proteger alguém de um peso resolvendo sozinho, rápido, antes que a decisão vire debate. Larsen chamaria isso de eficiência. Cami chamaria isso, com razão, de exatamente o hábito que prometemos os dois largar.
+Reconheço o instinto exatamente pelo que é: o mesmo instinto que Cami confessou ter tido com o Jordan Ellis, o mesmo que sinto toda vez que decido proteger alguém de um peso resolvendo sozinho, rápido, antes que a decisão vire debate. Lindqvist chamaria isso de eficiência. Cami chamaria isso, com razão, de exatamente o hábito que prometemos os dois largar.
 
 Ligo pra ela em vez de ligar pro editor.
 

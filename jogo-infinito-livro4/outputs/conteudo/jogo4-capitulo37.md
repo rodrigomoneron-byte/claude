@@ -12,7 +12,7 @@ Halloway anuncia a segunda rodada de captação às nove da manhã em ponto, um 
 
 A manhã segue tensa, cheia de mensagens de LPs perguntando sobre "a nova movimentação agressiva do concorrente", cada uma respondida por Devon com o mesmo tom calmo e factual que ela vem cultivando há semanas. Ninguém em pânico. Ninguém saindo. Só perguntas, curiosidade cautelosa, o tipo de atenção que uma empresa sólida consegue absorver sem tremer.
 
-Devon liga por volta das dez, a voz mais firme do que estava ontem depois da reunião. — Larsen ligou, perguntando se devia se preocupar com a movimentação do Halloway. Falei a verdade: não sabemos exatamente o que está por trás do anúncio, mas continuamos monitorando de perto, e qualquer coisa relevante ele vai saber de nós primeiro, direto, sem precisar adivinhar pela imprensa.
+Devon liga por volta das dez, a voz mais firme do que estava ontem depois da reunião. — Lindqvist ligou, perguntando se devia se preocupar com a movimentação do Halloway. Falei a verdade: não sabemos exatamente o que está por trás do anúncio, mas continuamos monitorando de perto, e qualquer coisa relevante ele vai saber de nós primeiro, direto, sem precisar adivinhar pela imprensa.
 
 — Ele ficou satisfeito?
 

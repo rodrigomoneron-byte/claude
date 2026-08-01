@@ -20,7 +20,7 @@ Prometo, ali mesmo, redistribuir agenda com Devon assumindo mais reuniões opera
 
 Três dias depois, encontro Halloway pessoalmente pela segunda vez, numa gala de arrecadação pro hospital infantil que os dois fundos patrocinam separadamente há anos, num acordo de cavalheiros silencioso de nunca competir na mesma sala de caridade. Ele está sozinho perto do bar, terno cinza-escuro impecável, o tipo de compostura que só vem de quem construiu tudo do zero e nunca deixa esquecer isso.
 
-— Voss. — Ele ergue a taça, um cumprimento educado, quase cordial. — Parabéns pela menina. Soube pelo Larsen.
+— Voss. — Ele ergue a taça, um cumprimento educado, quase cordial. — Parabéns pela menina. Soube pelo Lindqvist.
 
 — Obrigado. — Não retribuo o brinde, mas também não recuso a conversa. — Você joga rápido, Halloway. O escritório, o Ellis, a captação em setenta e duas horas.
 

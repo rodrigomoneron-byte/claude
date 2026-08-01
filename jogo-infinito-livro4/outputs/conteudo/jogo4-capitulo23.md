@@ -26,7 +26,7 @@ Rio de verdade, o primeiro riso limpo do dia, e por um instante a cozinha inteir
 
 David está esperando na sala quando chego, Thomas e Sandra já sentados, os rostos numa mistura de paciência e cansaço que reconheço bem demais das últimas semanas.
 
-— Soube que a reunião com Larsen não correu tão limpa quanto o relatório oficial sugere — David começa, sem rodeio nenhum, o tom cuidadosamente neutro que ele usa quando quer parecer justo antes de ser duro. — Devon hesitou numa pergunta direta sobre Halloway. Larsen percebeu.
+— Soube que a reunião com Lindqvist não correu tão limpa quanto o relatório oficial sugere — David começa, sem rodeio nenhum, o tom cuidadosamente neutro que ele usa quando quer parecer justo antes de ser duro. — Devon hesitou numa pergunta direta sobre Halloway. Lindqvist percebeu.
 
 — Devon hesitou por meio segundo numa pergunta que nenhum de nós tem resposta perfeita ainda — respondo, sentindo a defesa subir rápido, quase instintiva. — Isso não é falha de julgamento. É honestidade disfarçada de hesitação.
 
