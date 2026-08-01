@@ -10,9 +10,9 @@
     "Alex"
   ],
   "status": "Em andamento",
-  "next_chapter": 21,
+  "next_chapter": 41,
   "next_pov": "Cami",
-  "updated": "2026-08-01 21:04",
+  "updated": "2026-08-01 21:34",
   "chapters": [
     {
       "n": 1,
@@ -173,16 +173,176 @@
       "score": 6.7,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 21,
+      "pov": "Cami",
+      "words": 974,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 22,
+      "pov": "Alex",
+      "words": 1066,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 23,
+      "pov": "Cami",
+      "words": 892,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 24,
+      "pov": "Alex",
+      "words": 950,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 25,
+      "pov": "Cami",
+      "words": 987,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "Alex",
+      "words": 940,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 27,
+      "pov": "Cami",
+      "words": 886,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 28,
+      "pov": "Alex",
+      "words": 905,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "Cami",
+      "words": 939,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "Alex",
+      "words": 858,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 31,
+      "pov": "Cami",
+      "words": 951,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 32,
+      "pov": "Alex",
+      "words": 894,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 33,
+      "pov": "Cami",
+      "words": 915,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 34,
+      "pov": "Alex",
+      "words": 911,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 35,
+      "pov": "Cami",
+      "words": 965,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "Alex",
+      "words": 976,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 37,
+      "pov": "Cami",
+      "words": 921,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "Alex",
+      "words": 847,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 39,
+      "pov": "Cami",
+      "words": 870,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "Alex",
+      "words": 964,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 20,
-    "total_words": 19877,
-    "pages_kdp": 66,
-    "avg_score": 6.55,
-    "pct_to_target": 33,
-    "heat_scenes_done": 4,
-    "last_heat_chapter": 19
+    "chapters_done": 40,
+    "total_words": 38488,
+    "pages_kdp": 128,
+    "avg_score": 6.57,
+    "pct_to_target": 65,
+    "heat_scenes_done": 11,
+    "last_heat_chapter": 40
   }
 }
