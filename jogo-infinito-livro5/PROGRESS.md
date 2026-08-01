@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 0 / 60
-- Próximo: Capítulo 1 (POV Cami)
-- Última atualização: 2026-08-01 20:37
+- Capítulos concluídos: 20 / 60
+- Próximo: Capítulo 21 (POV Cami)
+- Última atualização: 2026-08-01 21:04
 
 ## Placar
-- Palavras: 0
-- Páginas KDP (~palavras/300): 0
-- Score médio: 0
-- Meta de palavras: 59500 (0%)
-- Cenas de heat: 0 / meta 11 (nenhuma ainda)
+- Palavras: 19877
+- Páginas KDP (~palavras/300): 66
+- Score médio: 6.55
+- Meta de palavras: 59500 (33%)
+- Cenas de heat: 4 / meta 11 (última no cap. 19)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
