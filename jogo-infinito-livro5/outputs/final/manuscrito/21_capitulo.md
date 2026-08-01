@@ -1,5 +1,6 @@
-# Jogo Infinito — Livro 5 — Capítulo 21
-### POV: Cami
+# Capítulo 21
+
+*POV: Cami*
 
 Alexandra chega às nove da manhã em ponto, um caderno de capa dura debaixo do braço e nenhuma maquiagem além do básico — a primeira vez que a vejo sem a armadura completa desde que a conheço. Fico parada no batente da porta um segundo a mais do que precisaria, medindo a diferença entre essa mulher e a que se sentou à nossa mesa há meses, carta na mão, pedindo uma chance que ainda não sabíamos se merecia.
 

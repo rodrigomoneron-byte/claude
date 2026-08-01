@@ -1,0 +1,268 @@
+RELATÓRIO DE FORMATAÇÃO — JOGO INFINITO, LIVRO 5: O JOGO FINAL
+Autor (pseudônimo): R.B. Guidenelli
+Quinto e ÚLTIMO livro da série "Jogo Infinito"
+Data: 2026-08-01
+
+=================================================================
+1. REVISÃO EDITORIAL GLOBAL (bia-ferreira-editor-global) — PRÉ-REQUISITO
+=================================================================
+STATUS: APROVADO PARA FORMATAÇÃO
+
+Manuscrito completo (60 capítulos, incluindo o único epílogo de toda
+a série) lido na íntegra antes da formatação, com atenção explícita à
+continuidade contra os Livros 1-4 (references/mundo-personagens-livro3.md
+e -livro4.md consultados), não só contra este volume. Três problemas
+reais encontrados e corrigidos:
+
+  1. COLISÃO DE NOME — cap. 27 (outputs/conteudo/jogo5-capitulo27.md):
+     a prova do convite de casamento imprimia "Camille Ashford & Alexander
+     Voss" — sobrenome "Ashford" nunca estabelecido em nenhum ponto da
+     série e que contradiz o sobrenome real de Cami, "Miller", fixado
+     desde o Livro 1 ("Cami Miller não é o tipo de pessoa que precisa de
+     elogio...") e reafirmado no Livro 3 ("Cami Miller — cumprimenta").
+     Corrigido para "Camille Miller & Alexander Voss" (mantendo "Camille"
+     como forma completa e formal do apelido "Cami", único uso do nome
+     completo em toda a série, apropriado para uma prova de convite).
+
+  2. CONTRADIÇÃO DE CONTINUIDADE INTERNA (mesmo livro) — cap. 21: o texto
+     descrevia o celeiro em Rhinebeck como "o mesmo lugar onde Alex se
+     ajoelhou na neve há tanto tempo" e onde Cami teria beijado Alex
+     "depois que ele perguntou" — ou seja, tratava o local como palco de
+     um pedido de casamento formal, antigo, com joelho no chão. Isso
+     contradiz os próprios capítulos 13-15 do livro: o celeiro é
+     descoberto pela primeira vez via fotos que Elena traz (cap. 13, "e
+     se formos e não for o lugar certo?") e visitado pela primeira vez em
+     outono (cap. 15), quando o casal apenas decide, juntos, sem ajoelhar
+     e sem anel, que ali será o casamento — a mesma visita ainda inclui a
+     frase de Alex "ainda nem vimos os outros dois lugares", incompatível
+     com um pedido de casamento anterior no mesmo chão. Não há também
+     nenhum pedido de casamento nesse local em L1-L4 (confirmado por
+     busca no texto dos quatro livros anteriores). Corrigido no cap. 21
+     para descrever o local como onde os dois "escolheram a data há
+     poucas semanas, testa contra testa" — consistente com a cena real
+     do cap. 15 — sem alterar nenhum outro fato da cena.
+
+  3. INCONSISTÊNCIA NUMÉRICA NO EPÍLOGO — entre os caps. 58 e 59: o cap.
+     58 estabelece Cami "sete meses" grávida; o cabeçalho de salto de
+     tempo do cap. 59, originalmente "Três meses depois", implicaria uma
+     gestação de dez meses até o parto — acima da duração real de uma
+     gravidez humana (a própria cena descreve um parto tranquilo, sem
+     nenhuma menção a atraso). Corrigido o cabeçalho do cap. 59 para
+     "Dois meses depois", alinhando a matemática interna (7 + 2 = 9
+     meses) sem alterar mais nenhuma palavra do capítulo.
+
+Os três problemas foram documentados também em
+references/mundo-personagens-livro5.md (Log de decisões, seção Ato 1),
+seguindo o mesmo padrão de correção já usado nos Livros 3 e 4 da série.
+
+Demais itens do checklist global, sem problema encontrado:
+  - RÉGUA "A GENTE": rodado scripts/regua_gate.py nos 60 capítulos de
+    outputs/conteudo/ — LIMPO em todos, incluindo nova rodada após as
+    três correções acima. Grep manual `"a gente"` (case-insensitive) e
+    variações oblíquas (`pra/da/na/com a gente`) em todo o manuscrito:
+    apenas 2 ocorrências, ambas falsos positivos legítimos já cobertos
+    pela whitelist ("tanta gente", cap. 28; "gente de fora", cap. 40).
+    Atenção redobrada aplicada aos caps. 55 e 60, dado o histórico de
+    quase-vazamentos relatado (tentativa de usar "a gente → nós" nos
+    votos de casamento e no diálogo final do epílogo): ambos os
+    capítulos foram lidos por inteiro, linha a linha — nenhum resquício
+    do device encontrado em nenhum dos dois. Nenhum caso do device
+    proibido (personagem se corrigindo, narração comentando a régua)
+    encontrado em nenhum capítulo do livro.
+  - Nomes próprios novos deste livro (Vivian Whitfield, Theo, quem leva
+    Cami ao altar) verificados contra o elenco completo dos Livros 1-4
+    (grep em todos os arquivos de references/ e outputs/conteudo/ dos
+    quatro projetos anteriores): nenhuma colisão. "Elena" leva Cami ao
+    altar (cap. 43) — nome já estabelecido como irmã de Cami desde o
+    Livro 1, uso correto, não é personagem novo.
+  - Continuidade da série inteira — símbolos acumulados em 5 livros:
+    relógio de bolso do pai de Cami (consertado cap. 19, presente até o
+    fechamento cap. 60, "nunca mais parado"), caneta do pai de Alex
+    (assina contrato do celeiro cap. 22, certidão de casamento cap. 55,
+    carta pra Rosalind/Theo cap. 60), réplica do relógio no cemitério
+    (cap. 47, presente desde L3), sapatinhos do pai de Cami (costurados
+    na barra do vestido cap. 43, usados no casamento cap. 55, divididos
+    com par novo de Theo no epílogo), monitor de pressão (retirado da
+    caixa cap. 50, doado a hospital cap. 58), carta pra Rosalind (agora
+    "pra Rosalind e Theo", cap. 60), urso de feltro de Alexandra (cap.
+    21, presente até o epílogo como brinquedo favorito de Rosalind) —
+    todos rastreáveis do início ao fim, todos culminando no casamento
+    e/ou epílogo, sem contradizer como foram estabelecidos em L1-L4.
+  - Arco de Alexandra Voss Whitfield: consistente desde a primeira
+    menção no L2 (fraude documental, devolução do anel de sinete) até o
+    fechamento neste livro — carta pedindo uma hora (não perdão
+    automático), reconstrução medida com recaídas reais (caps. 24, 35),
+    régua reaplicada, convite formal ao casamento após um mês de conduta
+    impecável (cap. 41-42), mãe (Vivian Whitfield) explicitamente deixada
+    "porta aberta", não integrada, ao fim do livro.
+  - Arco do casamento: data (14 de junho) e local (celeiro em Rhinebeck,
+    escolhido nos caps. 13-15) consistentes em todas as menções
+    posteriores (caps. 16, 20, 22, 27, 38, 40 etc.), elenco presente no
+    dia coerente com quem foi convidado ao longo do livro, sem
+    contradição interna de timeline.
+  - Cadência de heat: 12 cenas confirmadas via PROGRESS.json e leitura
+    direta (caps. 5, 10, 15, 19, 23, 27, 30, 32, 34, 38, 40, 56) — dentro
+    da meta 10-12 do project_dna.md. Gap entre caps. 40 e 56 (15
+    capítulos sem cena, acima do máximo de 6 do project_dna.md):
+    confirmado como decisão consciente e documentada em
+    mundo-personagens-livro5.md ("meta do livro inteiro batida um ato
+    antes do previsto; Ato 3 e epílogo ficam livres pra tratar
+    intimidade com mais parcimônia, priorizando o clímax emocional do
+    casamento") — não é erro, reportado como desvio documentado,
+    consistente com a regra "nunca gratuito" da casa.
+  - Epílogo: salto de tempo em 4 estágios (2 anos / poucos meses / 2
+    meses após correção / 1 ano), segundo filho (Theo, cap. 59) sem
+    contradizer a timeline de Rosalind (~1 ano de idade no casamento,
+    cap. 49, confirmada explicitamente como "criança de um ano" —
+    consistente com "aniversário de 3 anos" 2 anos depois do casamento,
+    cap. 57). Tom sereno, fechamento temático do título da série ("jogo
+    infinito" como compromisso renovado, não mais rivalidade) sem soar
+    destoante do resto da série.
+  - POV/voz: primeira pessoa do presente, alternância Cami (ímpar) /
+    Alex (par) respeitada nos 60 capítulos, incluindo os 4 capítulos do
+    epílogo (rotulados "# Epílogo" na produção, sem numeração de
+    capítulo — POV confirmado individualmente: 57 Cami, 58 Alex, 59
+    Cami, 60 Alex — alternância preservada mesmo sem numeração
+    explícita). Dan Carter nunca POV, conforme regra da série.
+  - Qualidade da prosa nos capítulos expandidos: nenhum bloco lido como
+    "colado", redundante ou repetitivo — expansões de emergência bem
+    integradas ao restante da cena em toda a amostragem lida (a maioria
+    dos 60 capítulos foi lida na íntegra nesta revisão).
+
+=================================================================
+2. ORGANIZAÇÃO DO MANUSCRITO
+=================================================================
+outputs/final/manuscrito/ — 60 capítulos + metadata.json
+
+  01_capitulo.md ... 56_capitulo.md  → "# Capítulo N"
+  57_capitulo.md ... 60_capitulo.md  → "# Epílogo — Parte 1" a "Parte 4"
+
+DECISÃO DE NOMENCLATURA DO EPÍLOGO (documentada conforme solicitado):
+os 4 capítulos finais da produção usavam todos o mesmo cabeçalho cru
+"# Epílogo", diferenciados apenas pelo marcador de salto de tempo em
+itálico logo abaixo (*Dois anos depois*, *Alguns meses depois*, *Dois
+meses depois*, *Um ano depois*). Optei por rotular os arquivos finais
+como "Epílogo — Parte 1" a "Parte 4" em vez de repetir "Epílogo" quatro
+vezes, porque: (a) cada parte é uma cena/vinheta autocontida, com seu
+próprio salto de tempo e POV, mais parecida com quatro capítulos curtos
+do que com um único epílogo contínuo dividido arbitrariamente; (b) um
+sumário do EPUB com quatro entradas idênticas "Epílogo" prejudicaria a
+navegação do leitor, que não conseguiria diferenciar as partes na
+tabela de conteúdo; (c) "Parte 1/2/3/4" preserva a leitura de "isto é
+um único epílogo em movimentos", sem inventar título de capítulo que
+não existe na produção. O marcador de tempo (*Dois anos depois* etc.)
+foi preservado como primeira linha do corpo de cada parte, exatamente
+como estava na produção.
+
+Conversão aplicada em cada arquivo:
+  - Título: "# Jogo Infinito — Livro 5 — Capítulo N" → "# Capítulo N"
+    (ou "# Epílogo — Parte N" para os caps. 57-60)
+  - POV: "### POV: Nome" (marcação crua de produção) →
+    "*POV: Nome*" (subtítulo discreto em itálico, formato de leitor
+    final, mesmo padrão dos Livros 3 e 4)
+  - Corpo do texto: preservado byte-a-byte (conferido por diff completo
+    do corpo de todos os 60 capítulos contra o original de
+    outputs/conteudo/ — única diferença encontrada em qualquer capítulo
+    foi ausência/presença de newline final, sem nenhuma palavra de
+    prosa alterada, adicionada ou removida)
+
+Contagem de palavras (wc -w, mesma ferramenta usada durante toda a
+produção do livro e registrada em PROGRESS.json, para manter os números
+comparáveis ao histórico do projeto):
+  - Manuscrito de produção (outputs/conteudo/, pós-correções desta
+    revisão): 58.009 palavras
+  - Manuscrito final formatado (outputs/final/manuscrito/, títulos
+    comprimidos para "Capítulo N" / "POV: Nome"): 57.733 palavras
+  (diferença de 276 palavras explicada integralmente pela compressão
+  dos cabeçalhos de título — "Jogo Infinito — Livro 5 — Capítulo N"
+  vira "Capítulo N" — e nenhuma palavra de prosa foi perdida)
+
+=================================================================
+3. EPUB
+=================================================================
+Arquivo: outputs/final/o-jogo-final.epub (184 KB)
+Gerado com scripts/build_epub.py (ebooklib + markdown)
+
+  - Capítulos incluídos: 60/60 (Capítulo 1 a Capítulo 56, seguidos de
+    Epílogo — Parte 1 a Parte 4, confirmado pela listagem do próprio
+    script de build, na ordem correta)
+  - Metadados: título "O Jogo Final", série "Jogo Infinito" #5, autor
+    "R.B. Guidenelli", idioma pt-BR, identifier
+    urn:uuid:717c0868-345a-4757-8a5f-637cc41933d9
+  - Validação: `ebooklib.epub.read_epub()` abriu o arquivo sem erro;
+    61 itens de documento (60 capítulos + nav), metadados DC
+    (title/creator/language/identifier/description) confirmados
+    presentes e corretos via leitura programática.
+
+=================================================================
+4. PDF (KDP paperback 6"x9")
+=================================================================
+Arquivo: outputs/final/o-jogo-final_kdp.pdf (412 KB)
+Gerado com scripts/build_pdf.py (reportlab)
+
+  - Páginas: 210 (confirmado via pypdf)
+  - Dimensão: 432 x 648 pt = exatamente 6" x 9" (confirmado via
+    mediabox da primeira página)
+  - Verificação visual: primeira página de título e primeira página do
+    Capítulo 1 convertidas para PNG via `pdftoppm -png -r 100` e
+    inspecionadas visualmente.
+    - Página de título: "O Jogo Final" centralizado, subtítulo "O
+      último capítulo de Cami e Alex" logo abaixo, autor "R.B.
+      Guidenelli" e "Jogo Infinito — Livro 5" mais abaixo, sem número
+      de página — correto.
+    - Página do Capítulo 1: título "Capítulo 1" centralizado no topo,
+      "POV: Cami" em itálico logo abaixo, corpo em serif justificado
+      com recuo de primeira linha, numeração "1" no rodapé centralizado
+      — layout correto, sem sobreposição nem corte de margem.
+
+=================================================================
+5. PROMPT DE CAPA
+=================================================================
+Arquivo: outputs/final/prompt_capa_o-jogo-final.txt
+
+Segue o guia de branding da casa (paleta "The Old English Gentleman's
+Club" — verde floresta noturno, ouro envelhecido, vinho borgonha),
+evoluindo os dois objetos-âncora que atravessaram os cinco livros
+(relógio de bolso do pai de Cami, agora em movimento pela primeira vez
+numa capa da série, e a caneta do pai de Alex, em repouso) com a
+aliança de casamento como único elemento novo. Composição
+deliberadamente mais aberta e serena que as capas dos Livros 1-4 —
+mais espaço negativo, luz mais suave, sem o "eixo apertado" de objetos
+quase se tocando que marcou as capas anteriores — sugerindo chegada e
+resolução em vez de tensão competitiva, conforme pedido. Aspect ratio
+6:9, negative prompt incluído (proíbe explicitamente elementos de
+casamento literal — vestido, véu, arco floral, bolo — e os elementos
+autorais dos Livros 3/4, pra evitar repetição de composição), sem
+rosto/figura humana/casal em cena, mantendo a régua visual da série.
+
+=================================================================
+6. METADADOS
+=================================================================
+outputs/final/metadata.json e outputs/final/metadados_o-jogo-final.json
+(cópia idêntica) — todos os campos preenchidos:
+  title, subtitle, series, series_index, author, language, identifier,
+  description.
+
+*** ATENÇÃO: o campo "identifier" (urn:uuid:717c0868-345a-4757-8a5f-
+637cc41933d9) é um PLACEHOLDER gerado automaticamente. Antes de
+publicar de verdade na Amazon KDP, substituir por um ISBN real (ou
+manter o ASIN que a própria KDP atribui automaticamente, se a autora
+optar por não comprar ISBN próprio). ***
+
+=================================================================
+CHECKLIST DE ENTREGA FINAL
+=================================================================
+[x] o-jogo-final.epub — abre sem erro, 60 capítulos, sumário funcional
+[x] o-jogo-final_kdp.pdf — 6x9", 210 páginas, margens e numeração
+    corretas, cada capítulo/parte em página nova
+[x] prompt_capa_o-jogo-final.txt — prompt completo com negative prompt
+    e aspect ratio, tom de "chegada"/resolução conforme pedido
+[x] metadados_o-jogo-final.json — todos os campos preenchidos
+[x] relatorio_formatacao.txt — este arquivo
+
+=================================================================
+ENCERRAMENTO DA SÉRIE
+=================================================================
+Com a aprovação deste volume, a série "Jogo Infinito" (5 livros) está
+completa e pronta para publicação: O Início do Jogo, Alianças e
+Traições, O Terceiro Player, Legado e Reinvenção, O Jogo Final.

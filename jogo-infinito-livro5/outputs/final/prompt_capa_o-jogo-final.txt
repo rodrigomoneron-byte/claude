@@ -1,0 +1,64 @@
+TÍTULO: Jogo Infinito — Livro 5: O Jogo Final
+
+DESCRIÇÃO VISUAL:
+O mesmo relógio de bolso antigo do pai de Cami que atravessou os quatro
+livros anteriores — mas, pela primeira vez na série, os ponteiros não
+estão parados: capturados em leve movimento, o vidro da tampa aberto
+por completo (não só entreaberto, como nas capas anteriores), como se o
+objeto tivesse finalmente terminado de esperar. Ao lado dele, a
+caneta-tinteiro de ouro envelhecido repousa não em posição de trabalho
+ou assinatura tensa, mas deitada, solta, a tampa colocada de volta —
+sugestão de repouso, não de próxima negociação. Entre os dois objetos,
+um terceiro elemento discreto e novo: uma aliança de casamento simples,
+sem pedra grande, pousada de lado, o metal pegando a mesma luz quente
+dos outros objetos, formando com o relógio e a caneta um pequeno
+triângulo de objetos que finalmente se tocam em vez de se vigiarem à
+distância (diferença deliberada em relação à composição "eixo
+horizontal apertado, quase se tocando" dos livros 1 a 4). Ao fundo,
+muito desfocado, um quarto elemento pequeno: um botão de flor branca
+solto (peônia, sugerida, não literal) sobre a mesma superfície de
+mármore/vidro — o único eco vegetal/orgânico já usado numa capa da
+série, mínimo e desfocado, nunca central. O reflexo do horizonte de
+Manhattan, presente nas quatro capas anteriores, aparece aqui mais
+afastado, no canto superior, pequeno e sereno, cedendo a maior parte do
+quadro para um espaço negativo generoso e calmo em vez de arquitetura
+dominante — a composição inteira deve respirar mais do que qualquer
+capa anterior da série, com menos elementos competindo por atenção, uma
+única fonte de luz quente e estável iluminando o pequeno conjunto de
+objetos como se fosse o fim, não o meio, de uma longa mesa de
+negociação. Textura de mármore/vidro escovado permanece, mas mais
+suave, quase aquecida pela luz, sugerindo resolução em vez de
+frieza corporativa. Sem casal, sem rosto em cena, sem figura humana,
+sem cenário de casamento literal (nada de arco floral, celeiro, vestido
+ou véu) — o encerramento da saga é sugerido inteiramente pela
+quietude da composição e pelo relógio finalmente em movimento, nunca
+por uma pessoa ou por um símbolo óbvio de casamento.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis, vestido
+de noiva, véu, arco floral, celeiro, bolo de casamento, aliança em dedo/
+mão visível, buquê inteiro, texto incorporado na imagem, fundo branco
+genérico, luz branca de estúdio, fonte serifada dourada de romance
+histórico, clip-art corporativo, clip-art de casamento, gráfico de
+bolsa de valores, logotipos reais, bandeiras ou brasões de país reais,
+nome de empresa real, composição apertada ou tensa, dois relógios
+competindo (elemento do Livro 3), sapatinho de bebê (elemento do Livro
+4)
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance
+corporativo em tom de resolução — chiaroscuro com luz quente
+(âmbar/ouro envelhecido), mais suave e menos dramática que as capas
+anteriores da série, sobre paleta fria dominante (verde floresta
+noturno #1A2421, vidro, mármore negro) agora com mais espaço negativo
+e menos tensão visual, acento pontual de vinho borgonha #4A0E2E quase
+imperceptível na sombra, acabamento "The Old English Gentleman's Club"
+da casa R.B. Guidenelli — capa de encerramento de série: os dois
+objetos-âncora que atravessaram os cinco livros (relógio de bolso do
+pai de Cami, caneta-tinteiro do pai de Alex) finalmente em repouso lado
+a lado, com a aliança de casamento como único símbolo novo, sugerindo
+"chegada" e resolução em vez da tensão competitiva das capas dos
+Livros 1 a 4 — o fechamento definitivo da saga Cami/Alex representado
+por objeto e composição serena, nunca por rosto ou figura humana,
+mantendo a régua da série de nunca ilustrar os protagonistas.

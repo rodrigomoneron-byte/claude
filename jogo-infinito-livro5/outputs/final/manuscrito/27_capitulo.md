@@ -1,5 +1,6 @@
-# Jogo Infinito — Livro 5 — Capítulo 27
-### POV: Cami
+# Capítulo 27
+
+*POV: Cami*
 
 Encontro a prova de convite na mesa da cozinha quando chego do trabalho, o papel grosso e cremoso, a caligrafia que Elena recomendou impressa em relevo dourado — *Camille Miller & Alexander Voss, 14 de junho* — e passo o polegar pela borda, sentindo a textura, meio sem acreditar que essas duas datas, esses dois nomes, vão sair impressos de verdade e chegar na caixa de correio de gente que conhecemos a vida inteira.
 
