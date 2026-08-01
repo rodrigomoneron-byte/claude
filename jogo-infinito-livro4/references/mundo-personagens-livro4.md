@@ -112,7 +112,7 @@ olho na Voss Capital em transição).
 - Devon Ashworth — arco de dúvida/erro/recuperação do Ato 2, conforme
   planejado: hesita numa pergunta sobre Halloway na primeira reunião
   solo com LP (Gustav Lindqvist, family office de Estocolmo, cap. 22);
-  perde a conta histórica Meridian Trust (oito milhões, herdada do pai
+  perde a conta histórica Harwell Trust (oito milhões, herdada do pai
   de Cami) por excesso de tecnicismo numa revisão trimestral (cap. 25),
   liga pessoalmente pro cliente e recupera parte da confiança embora não
   reverta o cancelamento; defendida por Cami e Thomas perante David no
@@ -174,6 +174,14 @@ olho na Voss Capital em transição).
   office de Estocolmo, em todas as ocorrências (caps. 22, 23, 26, 28, 30,
   33, 37) antes de iniciar o Ato 3. Nenhum fato ou evento envolvendo o
   personagem mudou, só o nome.
+- **CORREÇÃO DE CONTINUIDADE (revisão editorial global, pós-escrita)**:
+  a conta histórica perdida por Devon no cap. 25 havia sido nomeada
+  "Meridian Trust" — eco indevido do nome "Meridian Holdings" (fundo de
+  Sebastian Kroll, L3), que a bíblia deste livro mantém explicitamente
+  sem vínculo com o antagonista novo ("sem vínculo pessoal com
+  Kroll/Meridian"). Renomeada para **Harwell Trust** nas duas
+  ocorrências (caps. 25, 27). Nenhum fato ou evento mudou, só o nome —
+  mesmo padrão da correção Henrik Larsen → Gustav Lindqvist.
 
 ### Ato 3 (caps. 41-60) — "Legado e Reinvenção"
 - Halloway aceita a oferta de empréstimo ponte (cap. 41); contrato formalizado

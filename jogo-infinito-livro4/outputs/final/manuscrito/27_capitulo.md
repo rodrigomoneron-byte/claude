@@ -1,6 +1,6 @@
-# Jogo Infinito — Livro 4 — Capítulo 27
+# Capítulo 27
 
-### POV: Cami
+*POV: Cami*
 
 Priya espalha três páginas impressas sobre a mesa da sala de reunião, os cantos já grifados de amarelo em pontos específicos, e aponta pro terceiro parágrafo com o tipo de cuidado que reconheço de quem passou a noite inteira lendo letra miúda.
 

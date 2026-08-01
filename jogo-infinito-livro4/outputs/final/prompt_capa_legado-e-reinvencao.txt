@@ -1,0 +1,53 @@
+TÍTULO: Jogo Infinito — Livro 4: Legado e Reinvenção
+
+DESCRIÇÃO VISUAL:
+O mesmo relógio de bolso antigo e rachado dos três livros anteriores,
+tampa entreaberta, ponteiros parados, pousado sobre a superfície de
+vidro escuro/mármore negro polido, a caneta-tinteiro de ouro
+envelhecido repousando ao lado dele, exatamente como nas capas
+anteriores da série. Encostado perto dos dois objetos-âncora, um
+terceiro elemento novo entra em cena pela primeira vez: um único
+sapatinho de couro infantil, pequeno, de fatura antiga (não um sapato
+de bebê genérico e fofo — algo com a mesma pátina envelhecida e digna
+dos outros objetos, como se tivesse décadas, não dias), pousado de
+lado, a sola virada de leve para a câmera, sugerindo peso e história,
+não ternura óbvia. Um quarto objeto, discreto, quase escondido nas
+sombras do canto inferior do quadro: um monitor de pressão doméstico
+simples, o mostrador apagado, metade fora de foco — presente mas não
+central, um lembrete sutil do custo físico por trás do legado, nunca
+o protagonista visual da composição. Os quatro objetos formam um eixo
+horizontal apertado dentro de uma poça estreita de luz quente (dourado
+envelhecido, vindo de baixo/lateral, como luz de vela ou luminária de
+latão), cortando o restante do quadro, dominado por verde floresta
+noturno e reflexos frios de vidro/mármore. Ao fundo, muito desfocado,
+o reflexo já conhecido do horizonte de Manhattan se funde a uma
+segunda silhueta de arranha-céu, mais próxima agora que nas capas
+anteriores, sugerindo dois centros de gravidade coexistindo na mesma
+cidade sem se anular. Textura de mármore/vidro escovado, couro
+envelhecido no sapatinho, metal fosco no monitor, o mesmo acabamento
+de couro capitonê ao fundo das capas anteriores. Sem casal, sem rosto
+em cena, sem figura humana, sem bebê literal — o "legado" é sugerido
+inteiramente pelos objetos e pela composição, nunca por uma pessoa.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis, bebê
+literal em cena, berço, chupeta, ursinho de pelúcia, clip-art de
+maternidade, texto incorporado na imagem, fundo branco genérico, luz
+branca de estúdio, fonte serifada dourada de romance histórico,
+clip-art corporativo, gráfico de bolsa de valores, logotipos reais,
+bandeiras ou brasões de país reais, nome de empresa real, sapatinho
+de bebê genérico/fofo estilo catálogo
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, contemporâneo, elegante, dark romance
+corporativo, chiaroscuro com luz quente (âmbar/ouro envelhecido) sobre
+paleta fria dominante (verde floresta noturno #1A2421, vidro, mármore
+negro), acento pontual de vinho borgonha #4A0E2E na sombra, acabamento
+"The Old English Gentleman's Club" da casa R.B. Guidenelli — evolução
+direta das capas dos Livros 1 a 3, mesmos objetos-âncora (relógio de
+bolso parado, caneta-tinteiro) com o sapatinho de couro envelhecido e
+o monitor de pressão desfocado como elementos novos, sugerindo geração
+seguinte e cuidado sem recorrer a clichê visual de bebê — o "legado"
+representado por objeto e composição, nunca por rosto ou figura
+humana, mantendo a régua da série de nunca ilustrar os protagonistas.

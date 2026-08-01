@@ -1,6 +1,6 @@
-# Jogo Infinito — Livro 4 — Capítulo 25
+# Capítulo 25
 
-### POV: Cami
+*POV: Cami*
 
 Devon está parada na minha porta às sete da manhã, antes de Denise sequer ligar as luzes do andar, o rosto com a palidez específica de quem passou a noite acordada revisando um erro que já não tem mais conserto simples.
 

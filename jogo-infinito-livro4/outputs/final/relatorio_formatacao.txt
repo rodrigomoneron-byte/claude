@@ -1,0 +1,176 @@
+RELATÓRIO DE FORMATAÇÃO — JOGO INFINITO, LIVRO 4: LEGADO E REINVENÇÃO
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-01
+
+=================================================================
+1. REVISÃO EDITORIAL GLOBAL (bia-ferreira-editor-global) — PRÉ-REQUISITO
+=================================================================
+STATUS: APROVADO PARA FORMATAÇÃO
+
+Manuscrito completo (60 capítulos) lido na íntegra antes da
+formatação. Problemas reais encontrados e corrigidos:
+
+  1. Confirmação da correção "Henrik Larsen" → "Gustav Lindqvist"
+     (já aplicada durante a escrita, conforme Log de decisões em
+     references/mundo-personagens-livro4.md): verificada com grep
+     completo em todo o manuscrito. Nenhum resquício de "Henrik
+     Larsen" nem de "Larsen" avulso encontrado. Correção 100%
+     completa e consistente (caps. 22, 23, 26, 28, 30, 33, 37, e
+     também cap. 58, onde o nome Lindqvist é mencionado
+     retrospectivamente).
+
+  2. NOVO — colisão de nome não documentada, encontrada nesta
+     revisão: a conta histórica perdida por Devon no cap. 25
+     ("os oito milhões herdados do pai de Cami") estava nomeada
+     "Meridian Trust" — eco indevido de "Meridian Holdings", o
+     fundo de Sebastian Kroll no Livro 3, que a bíblia deste
+     projeto mantém explicitamente sem vínculo com o antagonista
+     novo. Corrigido para "Harwell Trust" nas duas ocorrências
+     (caps. 25 e 27). Nenhum fato ou evento mudou, só o nome —
+     mesmo padrão da correção Lindqvist. Log de decisões atualizado
+     em references/mundo-personagens-livro4.md.
+
+Demais itens do checklist global, sem problema encontrado:
+  - Timeline/eventos: sexo do bebê revelado uma única vez (cap. 21,
+    menina), nome decidido uma única vez e usado de forma consistente
+    depois (Rosalind, cap. 46), gravidez avançando sem saltos
+    incoerentes (11 semanas cap. 9 → 34 semanas cap. 31/33 → 36
+    semanas cap. 37 → 39 semanas cap. 42/45 → parto cap. 45-46).
+  - 5 símbolos na estante rastreados até o fechamento: relógio parado
+    do pai da Cami, caneta de Alex, réplica do cemitério, sapatinhos
+    (introduzidos cap. 13), monitor de pressão (introduzido cap. 40)
+    — todos presentes e nomeados explicitamente na cena de fechamento
+    do cap. 60. "Sexto símbolo" (a carta de Cami e Alex pra Rosalind,
+    cap. 55) e o envelope fechado de Alexandra Voss Whitfield (cap.
+    60) tratados coerentemente como símbolos deliberadamente não
+    resolvidos, conforme o Log de decisões.
+  - Arco de Devon Ashworth: hesitação (cap. 22) → erro (cap. 25) →
+    recuperação (cap. 25/27) → liderança solo sob pressão (cap. 33) →
+    resolução com Halloway (caps. 35-36, 39-41) → CEO (cap. 50). Sem
+    contradição entre atos.
+  - Arco de Julian Halloway: motivação consistente (self-made, sem
+    nome de família, competição estrutural fria), nunca vira
+    caricatura, resolução respeitosa e fria (sem reconciliação
+    pessoal profunda, contraste deliberado com o fechamento do Kroll
+    no L3), conforme planejado na bíblia.
+  - Cadência de heat: 12 cenas (caps. 5, 10, 15, 20, 24, 28, 34, 38,
+    42, 48, 53, 58) — bate exatamente com a meta travada no
+    project_dna.md. Primeira cena no cap. 5 (dentro do limite "até o
+    cap. 6"). Maior gap entre cenas: 6 capítulos (28→34 e 42→48),
+    dentro do limite. Nenhuma cena durante o dark moment médico
+    (caps. 29-33) nem durante o puerpério imediato (caps. 43-47, até
+    a liberação médica explícita no cap. 48) — coerente com a trama.
+  - POV/voz: alternância Cami (ímpar) / Alex (par) respeitada em
+    todos os 60 capítulos, Dan nunca POV, primeira pessoa do presente
+    mantida em toda a leitura.
+  - Prosa nos capítulos de expansão de emergência: nenhum bloco lido
+    como "colado" ou com diálogo repetindo a mesma ideia duas vezes;
+    integração de cena consistente com o resto do livro.
+
+RÉGUA "A GENTE": rodado scripts/regua_gate.py nos 60 capítulos de
+outputs/conteudo/ (LIMPO em todos) + grep manual `"a gente"` e
+variações obliquas (`pra/da/na/com a gente`) em todo o manuscrito.
+Único padrão encontrado: usos legítimos de "gente" no sentido de
+"pessoas" (caps. 3, 6, 8, 18), todos na whitelist do gate. Nenhum
+device proibido (personagem se corrigindo, quebra de quarta parede)
+encontrado em nenhum capítulo.
+
+=================================================================
+2. ORGANIZAÇÃO DO MANUSCRITO
+=================================================================
+outputs/final/manuscrito/ — 60 capítulos + metadata.json
+
+  01_capitulo.md ... 60_capitulo.md
+
+Conversão aplicada em cada arquivo:
+  - Título: "# Jogo Infinito — Livro 4 — Capítulo N" → "# Capítulo N"
+  - POV: "### POV: Nome" (marcação crua de produção) →
+    "*POV: Nome*" (subtítulo discreto em itálico, formato de leitor
+    final, mesmo padrão do Livro 3)
+  - Corpo do texto: preservado byte-a-byte (conferido por diff em
+    amostra de 5 capítulos + inspeção total via contagem de
+    palavras)
+
+Contagem de palavras do manuscrito final (corpo dos 60 capítulos,
+títulos/POV excluídos): 58.272 palavras
+Contagem de palavras do manuscrito de produção original (títulos
+completos incluídos): 58.572 palavras
+(diferença explicada integralmente pela compressão dos cabeçalhos de
+título/POV — nenhuma palavra de prosa foi perdida ou alterada)
+
+=================================================================
+3. EPUB
+=================================================================
+Arquivo: outputs/final/legado-e-reinvencao.epub (188 KB)
+Gerado com scripts/build_epub.py (ebooklib + markdown)
+
+  - Capítulos incluídos: 60/60 (Capítulo 1 a Capítulo 60, confirmado
+    pela listagem do próprio script de build)
+  - Metadados: título "Legado e Reinvenção", série "Jogo Infinito"
+    #4, autor "R.B. Guidenelli", idioma pt-BR, identifier
+    urn:uuid:39ad180a-cb53-4560-9040-5f0c8e6216a4
+  - Validação: `ebooklib.epub.read_epub()` abriu o arquivo sem erro;
+    61 itens de documento (60 capítulos + página de título/nav),
+    metadados DC (title/creator/language/identifier) confirmados
+    presentes e corretos via leitura programática.
+
+=================================================================
+4. PDF (KDP paperback 6"x9")
+=================================================================
+Arquivo: outputs/final/legado-e-reinvencao_kdp.pdf (424 KB)
+Gerado com scripts/build_pdf.py (reportlab)
+
+  - Páginas: 223 (confirmado via leitor de PDF)
+  - Dimensão: 432 x 648 pt = exatamente 6" x 9" (confirmado via
+    mediabox da primeira página)
+  - Verificação visual: primeira página de título e primeira página
+    do Capítulo 1 convertidas para PNG via `pdftoppm -png -r 100` e
+    inspecionadas visualmente.
+    - Página de título: título centralizado, autor e série abaixo,
+      sem número de página — correto.
+    - Página do Capítulo 1: título "Capítulo 1" centralizado no
+      topo, "POV: Cami" em itálico logo abaixo, corpo em serif
+      justificado com recuo de primeira linha, numeração "1" no
+      rodapé centralizado — layout correto, sem sobreposição nem
+      corte de margem.
+
+=================================================================
+5. PROMPT DE CAPA
+=================================================================
+Arquivo: outputs/final/prompt_capa_legado-e-reinvencao.txt
+
+Segue o guia de branding da casa (references/capa-prompt-guia.md,
+seção "ATUALIZAÇÃO DE BRANDING — R.B. Guidenelli"), evoluindo os
+objetos-âncora da série (relógio de bolso parado, caneta-tinteiro)
+com dois elementos novos deste volume: um sapatinho de couro
+envelhecido (eco do símbolo dos sapatinhos do pai de Cami, cap. 13,
+sem clichê visual de bebê) e um monitor de pressão desfocado ao
+fundo (eco do quinto símbolo, cap. 40). Aspect ratio 6:9, negative
+prompt incluído, sem rosto/figura humana/casal/bebê literal em cena,
+mantendo a régua visual da série.
+
+=================================================================
+6. METADADOS
+=================================================================
+outputs/final/metadata.json e outputs/final/metadados_legado-e-reinvencao.json
+(cópia idêntica) — todos os campos preenchidos:
+  title, subtitle, series, series_index, author, language,
+  identifier, description.
+
+*** ATENÇÃO: o campo "identifier" (urn:uuid:...) é um PLACEHOLDER
+gerado automaticamente. Antes de publicar de verdade na Amazon KDP,
+substituir por um ISBN real (ou manter o ASIN que a própria KDP
+atribui automaticamente, se o autor optar por não comprar ISBN
+próprio). ***
+
+=================================================================
+CHECKLIST DE ENTREGA FINAL
+=================================================================
+[x] legado-e-reinvencao.epub — abre sem erro, 60 capítulos, sumário
+    funcional
+[x] legado-e-reinvencao_kdp.pdf — 6x9", 223 páginas, margens e
+    numeração corretas, cada capítulo em página nova
+[x] prompt_capa_legado-e-reinvencao.txt — prompt completo com
+    negative prompt e aspect ratio
+[x] metadados_legado-e-reinvencao.json — todos os campos preenchidos
+[x] relatorio_formatacao.txt — este arquivo
