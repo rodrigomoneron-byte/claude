@@ -1,0 +1,27 @@
+{
+  "book": "O Jogo Final",
+  "target": 60,
+  "word_target": 59500,
+  "heat_target": 11,
+  "max_heat_gap": 6,
+  "first_heat_by": 6,
+  "povs": [
+    "Cami",
+    "Alex"
+  ],
+  "status": "Em andamento",
+  "next_chapter": 1,
+  "next_pov": "Cami",
+  "updated": "2026-08-01 20:37",
+  "chapters": [],
+  "blocks": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes_done": 0,
+    "last_heat_chapter": null
+  }
+}
