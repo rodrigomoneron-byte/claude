@@ -168,3 +168,110 @@ cumprido em 100% dos casos), mas abaixo do centro da faixa-alvo
 950-1100 pedida no DNA do projeto — recomenda-se que os próximos
 capítulos mirem o topo da faixa (1050-1100) pra recuperar o déficit
 acumulado, conforme o próprio `loop_state.py check` já sinaliza.
+
+## Log de decisões de escrita (capítulos 19-40, Ato 2 — "A Fragilidade
+das Aparências")
+
+### Ritmo de extensão — status ao fim do Ato 2
+20.633 palavras nos capítulos 19-40 (22 capítulos), média ~938
+palavras/capítulo neste ato — acima da média de 906 do Ato 1, mas
+ainda abaixo do centro pleno da faixa-alvo (1050-1100) pedida como
+mira explícita. Total acumulado do livro ao fim do cap. 40: 36.943
+palavras em 40 capítulos (média ~924/capítulo), ~65% da meta total de
+56.500 palavras. Todos os 22 capítulos deste ato respeitaram o piso
+duro de 873 palavras (nenhum sys.exit 3 definitivo — um caso, cap. 29,
+precisou de uma rodada extra de expansão depois de recusado uma vez
+pelo piso). Recomenda-se que o Ato 3 (caps. 41-55) mire ativamente
+1100-1150 palavras/capítulo pra fechar o déficit acumulado e alcançar
+a meta total de ~56.500-58.000 palavras até o cap. 55.
+
+### Heat — cadência no Ato 2
+Quatro cenas de heat explícito-elegante nos capítulos 21, 26, 32 e 36
+— a primeira cena do livro inteiro (cap. 21), cumprindo a prioridade
+explícita de recuperar o atraso herdado do Ato 1 (que fechou com zero
+cenas). Gaps entre cenas: cap. 18→21 (3, contando o beijo como
+gancho), 21→26 (5), 26→32 (6, no limite máximo), 32→36 (4) — todos
+dentro do gap máximo de 6 capítulos definido no DNA do projeto. Total
+do livro ao fim do cap. 40: 4 cenas em 40 capítulos, abaixo do ritmo
+linear pra meta de 10 em 55 (~7,3 esperadas nesse ponto) — déficit
+herdado do Ato 1 que o Ato 2 reduziu mas não eliminou. Recomenda-se
+que o Ato 3 inclua ao menos 5-6 cenas adicionais, com gap máximo 6,
+pra fechar a meta de 10 cenas até o cap. 55.
+
+### Elenco e fatos novos definidos no Ato 2
+- **Nelson Vasconcelos** — pai de Leo (falecido), contador que
+  trabalhou catorze anos numa fábrica têxtil pequena; condenado
+  injustamente por apropriação indébita havia quinze anos (o
+  verdadeiro responsável era o filho do dono da empresa, cobrindo
+  dívida de jogo com o caixa); cumpriu dois anos de prisão; morreu de
+  infarto sete anos atrás, dois anos depois de sair, num quarto
+  alugado em Diadema, sem nunca ter conseguido provar a inocência em
+  vida. Processo revisado e reaberto no Ato 2 (caps. 25-26) com prova
+  nova (extrato bancário do filho do dono, achado por investigadora
+  contratada por Isabela); Leo tornou isso público numa nota assinada
+  (cap. 27), limpando o nome do pai. Trauma central do arco de Leo
+  neste livro — motivação por trás da obsessão dele com integridade e
+  reação intensa a qualquer insinuação de fraude.
+- **Ricardo Bittencourt** — pai de Pedro, filho de Otávio e Dona
+  Sofia (falecido antes do início da história, mencionado no Ato 1
+  só como "meu tio"). Revelado no clímax do Ato 2 (cap. 39-40): desviou
+  recursos da empresa décadas atrás pra cobrir dívidas pessoais;
+  Otávio descobriu, protegeu o filho da vergonha pública e o afastou
+  discretamente do centro de poder — motivo real, nunca revelado a
+  Pedro, por trás da sucessão ter pulado a geração dele. Confessou a
+  Dona Sofia no leito de morte; ela guardou o segredo por trinta anos.
+  Revelado publicamente por Dona Sofia na gala dos 50 anos (cap. 39)
+  pra desarmar o ataque de Pedro — gancho central do Ato 3 (reação de
+  Pedro após o colapso público, se a família consegue se reconstruir).
+- **Débora Reis** — jornalista que conduz a entrevista conjunta de
+  Isabela e Leo (cap. 30), primeira confirmação pública do casamento
+  ter se tornado real.
+- **Kaique** — investidor-chave da Nexo (já citado no Ato 1);
+  aprofundado no Ato 2 como aliado prático — quase recua da rodada
+  Série B por causa do escândalo (cap. 20), mas é resolvido com
+  negociação conjunta de Isabela e Leo; alerta o casal sobre tentativa
+  de sabotagem de Pedro antes da gala (cap. 32).
+- **Investigador de Isabela** (mulher, ex-policial, sem nome fixado
+  ainda) — contratada no Ato 2 (cap. 26) pra reabrir o processo do pai
+  de Leo; disponível pra uso futuro se necessário.
+
+### Ambientação e negócios — fatos novos do Ato 2
+- **Parceria Nexo Capital + Grupo Bittencourt** — assinada formalmente
+  no cap. 32, nascida de uma crise de crédito real (banco congela
+  linha da incorporação da Bittencourt Casa após a coluna anônima,
+  cap. 31); Nexo estrutura uma linha de antecipação de recebíveis pra
+  socorrer a operação, taxa de mercado, documentação pública, comitê
+  independente. Anunciada oficialmente em coletiva de imprensa (cap.
+  33). Central pro clímax do Ato 2 — o "casamento" dos dois impérios
+  que a gala celebra ao lado do casamento pessoal do casal.
+- **Gala dos 50 anos do Grupo Bittencourt** — evento do clímax do Ato
+  2 (caps. 37-40), no Solar dos Lírios (mesmo local do baile do
+  Instituto Vitral no Ato 1), com estrutura de vidro suspensa no teto
+  em formato de duas taças cruzadas — eco visual do símbolo do título.
+  Cerca de trezentos convidados, imprensa presente. Palco do brinde
+  preventivo de Isabela e Leo (confirmando publicamente o relacionamento
+  real antes que Pedro pudesse distorcer), do confronto público de
+  Pedro (fotos fora de contexto + reprodução do processo do pai de
+  Leo) e da revelação do segredo de Dona Sofia sobre Ricardo.
+- **Vidraça Social** — nome fixado do blog/coluna anônima que
+  insinuou fraude no testamento (mencionado sem nome no fechamento do
+  Ato 1); ecoa o motivo "vidro" do título.
+
+### Cláusula de saída do contrato — uso dramático no Ato 2
+A cláusula de saída (aviso de 60 dias, ver Ato 1) é invocada
+implicitamente por Leo no cliffhanger final do cap. 40, quando ele
+sugere se afastar "da parceria, da empresa, de tudo isso" pra proteger
+Isabela do escândalo — Isabela recusa a proteção e pede pra ele ficar;
+a resposta dele não é mostrada, fechando o Ato 2 em aberto
+propositalmente. Ponto de partida direto pro Ato 3.
+
+### Símbolo do vidro — status ao fim do Ato 2
+As duas taças (rachada e intacta) ficam reunidas na cômoda da sala
+desde o cap. 29 (presente de Dona Sofia, que entrega a segunda taça
+ao saber a verdade sobre o casal). Isabela leva as duas, guardadas
+numa caixa de veludo, pra gala do cap. 37 — Leo carrega a caixa no
+bolso do paletó durante o clímax inteiro (caps. 38-40), sem que
+nenhuma das duas taças seja aberta, quebrada ou verificada em cena.
+Reservado pro Ato 3: o destino físico das taças (se alguma quebra de
+vez, ou se a rachadura é "reparada"/aceita como parte da história)
+ainda está em aberto.

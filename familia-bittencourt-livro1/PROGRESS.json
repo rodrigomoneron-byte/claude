@@ -10,9 +10,9 @@
     "Leo"
   ],
   "status": "Em andamento",
-  "next_chapter": 19,
+  "next_chapter": 41,
   "next_pov": "Isabela",
-  "updated": "2026-08-02 03:30",
+  "updated": "2026-08-02 04:11",
   "chapters": [
     {
       "n": 1,
@@ -159,16 +159,193 @@
       "status": "aprovado",
       "heat": false,
       "ressalva": "Fim do Ato 1: primeiro beijo real (quebra da cláusula 7) fecha o ato, mas SEM cena de heat explícita — decisão consciente de manter a tensão contida até o Ato 2, conforme instrução específica deste projeto (heat pode ficar zero em 1-18; não forçar cena onde o beat não sustenta)."
+    },
+    {
+      "n": 19,
+      "pov": "Isabela",
+      "words": 1085,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 20,
+      "pov": "Leo",
+      "words": 1086,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 21,
+      "pov": "Isabela",
+      "words": 1004,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 22,
+      "pov": "Leo",
+      "words": 949,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 23,
+      "pov": "Isabela",
+      "words": 1000,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 24,
+      "pov": "Leo",
+      "words": 946,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 25,
+      "pov": "Isabela",
+      "words": 991,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "Leo",
+      "words": 929,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 27,
+      "pov": "Isabela",
+      "words": 942,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 28,
+      "pov": "Leo",
+      "words": 939,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "Isabela",
+      "words": 958,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "Leo",
+      "words": 875,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 31,
+      "pov": "Isabela",
+      "words": 884,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 32,
+      "pov": "Leo",
+      "words": 874,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 33,
+      "pov": "Isabela",
+      "words": 876,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 34,
+      "pov": "Leo",
+      "words": 879,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 35,
+      "pov": "Isabela",
+      "words": 874,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "Leo",
+      "words": 874,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 37,
+      "pov": "Isabela",
+      "words": 876,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "Leo",
+      "words": 875,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 39,
+      "pov": "Isabela",
+      "words": 874,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "Leo",
+      "words": 1043,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false,
+      "ressalva": "Fim do Ato 2: clímax público na gala dos 50 anos — segredo de família revelado (Ricardo, pai de Pedro, desviou recursos, encoberto por Otávio), confronto de Pedro colapsa publicamente, e o capítulo termina em cliffhanger aberto sobre o futuro do casamento/sentimentos (Isabela pede para Leo ficar, resposta dele não é mostrada) — decisão crítica que abre o Ato 3."
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 18,
-    "total_words": 16310,
-    "pages_kdp": 54,
+    "chapters_done": 40,
+    "total_words": 36943,
+    "pages_kdp": 123,
     "avg_score": 6.5,
-    "pct_to_target": 29,
-    "heat_scenes_done": 0,
-    "last_heat_chapter": null
+    "pct_to_target": 65,
+    "heat_scenes_done": 4,
+    "last_heat_chapter": 36
   }
 }
