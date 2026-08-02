@@ -275,3 +275,124 @@ nenhuma das duas taças seja aberta, quebrada ou verificada em cena.
 Reservado pro Ato 3: o destino físico das taças (se alguma quebra de
 vez, ou se a rachadura é "reparada"/aceita como parte da história)
 ainda está em aberto.
+
+## Log de decisões de escrita (capítulos 41-55, Ato 3 — "A Verdade e
+o Amor") — FECHAMENTO DO LIVRO 1
+
+### A QUEDA (causa exata, decidida na escrita)
+Resposta de Leo ao pedido de Isabela no cliffhanger do cap. 40: "Fico"
+(cap. 41) — reconciliação imediata, SEM heat ainda naquele capítulo de
+transição, cena de heat na mesma noite (cap. 41, primeira do Ato 3).
+A separação real não vem da resposta em si, mas de um erro posterior:
+pressionado por (a) a coluna Vidraça Social publicando o contrato de
+casamento completo, cláusula 7 incluída, às 3h da gala (cap. 42), e
+(b) um boato relatado por Kaique de que o nome de Leo pesava contra
+Isabela na votação do conselho do Grupo Bittencourt (cap. 46), Leo
+decide SOZINHO suspender publicamente a parceria Nexo-Bittencourt e
+dá entrevista implicando distanciamento pessoal do casal, sem avisar
+Isabela antes (cap. 46) — repetindo exatamente o padrão de "proteger
+decidindo pelo outro" nomeado no cap. 40, e quebrando a promessa que
+fez a Gustavo (cap. 46) de contar a ela antes de agir. Isabela descobre
+pela imprensa (cap. 47) e pede que ele saia — QUEDA formal do Ato 3.
+
+### Taça de cristal — origem revelada e resolução final
+Revelado no clímax (cap. 53, jantar de Dona Sofia): a taça rachada
+sempre foi DELA, não um objeto neutro da família — rachou há mais de
+quarenta anos, numa briga do primeiro ano do próprio casamento
+arranjado dela com Otávio, quando ele tomou uma decisão precipitada
+sozinho (paralelo direto ao erro de Leo). Guardada rachada por Dona
+Sofia por décadas como lembrança de que "sobreviver à rachadura"
+importa mais que evitá-la. No confronto do cap. 47, a taça se parte de
+vez (cai da caixa de veludo durante a briga) — a intacta sobrevive
+ilesa, a rachada se quebra ao meio exatamente na linha da fenda
+antiga. Isabela guarda os cacos. Resolução final (cap. 55): reparo por
+kintsugi (técnica japonesa de reparo com ouro nas fendas, indicada por
+Dona Sofia), a taça reparada exibindo a fratura em vez de escondê-la —
+imagem de resolução do símbolo do título, usada no brinde final do
+casal ("Ao nosso acordo de vidro").
+
+### Revelação completa da avó (cap. 53) — intenção real da cláusula
+Dona Sofia sempre viu em Isabela o próprio padrão de medo de decidir
+sozinha que ela mesma carregou no início do casamento com Otávio.
+Escreveu a cláusula do testamento sabendo exatamente que tipo de
+crise ia forçar — não só "proteger" a neta entregando-a pronta a um
+casamento seguro, mas empurrá-la a escolher sob pressão real, sem
+ninguém decidindo por ela, pra provar a si mesma (não à família) que
+tinha força própria. Ficou deliberadamente calada na reunião do
+conselho (cap. 43) pelo mesmo motivo. Contou a Pedro a verdade sobre o
+pai dele e sobre o próprio casamento em particular, antes do jantar
+com Isabela (fora de cena, mencionado no cap. 53).
+
+### Pedro Bittencourt — resolução do arco
+Recebe a verdade sobre o pai e sobre o casamento de Dona Sofia em
+particular (cap. 53, fora de cena). Reaparece humilde no cap. 54,
+pede desculpas formalmente a Isabela e Leo, anuncia demissão da
+diretoria financeira e afastamento temporário (viagem a Lisboa,
+visitando as raízes do próprio pai, terapia) — arco de redenção
+parcial, sem apagar o dano causado, conforme a regra do projeto de
+evitar caricatura pura e dar motivação compreensível. Confirma que
+está bem, em mensagem, no cap. 55 (jantar final).
+
+### Resolução corporativa — Fundo Travessia
+Proposto por Leo no cap. 54 e aceito por Isabela: aliança PERMANENTE
+entre Grupo Bittencourt e Nexo Capital (não fusão, sem perda de
+identidade de nenhuma das duas empresas) — assentos cruzados nos dois
+conselhos, fundo conjunto de crédito pra varejistas pequenos e médios,
+batizado "Fundo Travessia". Decidido em conjunto pelos dois desta vez,
+sem decisão unilateral de nenhum dos lados — resolução direta do erro
+que causou a queda do Ato 3.
+
+### Heat — cadência final do livro
+Cinco cenas adicionais no Ato 3 (caps. 41, 44, 46, 52, 55), somadas às
+quatro do Ato 2 (caps. 21, 26, 32, 36) — total de NOVE cenas de heat
+no livro inteiro, contra a meta original de dez. Gaps entre cenas do
+Ato 3: 36→41 (5), 41→44 (3), 44→46 (2), 46→52 (6, no limite máximo),
+52→55 (3) — todos dentro do gap máximo de 6 definido no DNA do
+projeto. Nenhuma cena de heat foi colocada no capítulo da queda
+(cap. 47) nem no capítulo do clímax de revelação (cap. 53), por
+decisão consciente de não forçar heat em cima de conflito puro —
+instrução explícita para este ato. O total ficou em 9/10 (90% da
+meta), não 10/10: decisão consciente de priorizar coerência
+narrativa (o hiato de heat durante a separação real, caps. 47-51,
+não foi preenchido artificialmente) sobre bater o número exato.
+
+### Ritmo de extensão — status final do livro
+55.050 palavras em 55 capítulos (média ~1.001/capítulo) — dentro da
+faixa-alvo de 55.000-58.000 palavras do livro inteiro, embora no
+extremo inferior dela. O Ato 3 (caps. 41-55) fechou com 18.107
+palavras em 15 capítulos (média ~1.207/capítulo), acima da média dos
+dois atos anteriores (906 no Ato 1, 938 no Ato 2), puxada
+principalmente pelo capítulo final (cap. 55, 2.487 palavras — o mais
+longo do livro, por ser o fechamento estrutural do Ato 3 e da obra).
+Taxa de capítulos que precisaram de expansão de emergência (rodada
+adicional de `Edit` além do rascunho inicial pra atingir extensão
+aceitável) neste ato: 15/15 (100%) precisaram de pelo menos uma
+rodada de expansão pós-medição; 9 desses 15 (60%) ficaram abaixo do
+piso duro de 873 palavras no primeiro rascunho e exigiram expansão
+antes mesmo de tentar registrar. Comparação honesta com atos
+anteriores: 100% no Ato 1, ~91% no Ato 2, 100% no Ato 3 (contando
+qualquer expansão pós-medição) — o processo de duas chamadas
+continua não resolvendo o problema de forma definitiva; permanece
+sendo a melhor ferramenta disponível, mas não substitui vigilância
+manual capítulo a capítulo.
+
+### Régua "a gente" — status final
+Como já era esperado (risco sinalizado na seção 2 do project_dna.md),
+"a gente" vazou em rascunho COM MUITA frequência neste ato — bem mais
+que nos Atos 1 e 2 combinados — sempre pego pela trava mecânica
+(`regua_gate.py`) antes do registro, nunca chegou a ser registrado.
+Padrão observado: o vazamento aconteceu quase sempre em diálogo
+emocional/íntimo (exatamente o registro mais "naturalmente brasileiro"
+do livro), confirmando a hipótese do DNA do projeto de que o risco
+cresce quando o resto do texto já soa coloquial. Um caso adicional
+grave: o DEVICE proibido de personagem "quase dizendo a gente e se
+corrigindo" foi escrito por engano duas vezes (caps. 41 e 55) e
+removido manualmente antes da régua rodar — reforça que a vigilância
+não pode relaxar mesmo depois de muitos capítulos limpos seguidos.
+Varredura final confirma 55/55 capítulos LIMPOS no arquivo publicado.
+
+### Fechamento do Livro 1
+Manuscrito completo: 55/55 capítulos, sem epílogo (reservado pra
+decisão futura da série, conforme travado no DNA do projeto).
+Revisão editorial global e formatação (EPUB/PDF/capa) ficam para uma
+etapa separada, não executadas neste loop.
