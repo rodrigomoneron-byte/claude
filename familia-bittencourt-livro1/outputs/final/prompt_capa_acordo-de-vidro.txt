@@ -1,0 +1,73 @@
+TÍTULO: Família Bittencourt — Livro 1: Acordo de Vidro
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Este é o primeiro livro de uma série NOVA da casa R.B. Guidenelli,
+deliberadamente diferente do branding "The Old English Gentleman's
+Club" (clube de whiskey inglês, chiaroscuro escuro, carvalho, veludo)
+usado em Jogo Infinito e nas séries anteriores — ver
+references/branding-rbg.md, que NÃO se aplica aqui. "Acordo de Vidro" é
+fake dating/marriage of convenience mais leve, ambientação paulistana
+contemporânea, tom próximo de Bridgerton / The Hating Game / The Love
+Hypothesis. A atmosfera visual principal é NOVA: luz, não escuridão;
+glamour urbano contemporâneo brasileiro, não clube de fumaça. Só a
+identidade de autor (monograma R·B·G) é mantida como fio de
+continuidade discreto entre séries — não a paleta, não a textura, não
+a iluminação.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), luz natural de fim de tarde
+paulistana entrando por uma parede de vidro — o tipo de luz dourada e
+quente que bate de lado num escritório alto da Faria Lima ou num
+terraço de cobertura nos Jardins, nunca luz de vela ou chiaroscuro de
+biblioteca. Em primeiro plano, close ou plano médio de duas taças de
+cristal lado a lado sobre uma superfície reflexiva clara (mármore
+claro, vidro, ou mesa de laca branca) — uma delas com uma fenda fina
+que capta a luz em ângulo, a outra intacta —, o par de taças do símbolo
+do título, sem nenhuma mão ou rosto segurando-as. Ao fundo, desfocado,
+a silhueta do horizonte de São Paulo ao entardecer (prédios de vidro
+espelhado, luz quente refletida nas fachadas) ou uma varanda com
+plantas tropicais discretas, sugerindo altitude e sofisticação urbana
+sem cair em cartão-postal óbvio. Paleta dominante: dourado quente,
+âmbar, branco/creme, com o vidro e o cristal introduzindo toques frios
+pontuais (transparência, reflexo azulado sutil) — o oposto proposital
+da paleta verde-floresta/carvalho/vinho da série anterior da casa.
+Sem rostos explícitos (mantém a convenção "sem rostos" da casa, mas
+por composição de objeto/paisagem, não por escuridão). Sensação geral:
+elegância contemporânea, leveza com peso emocional por baixo, romance
+comercial de prateleira alta — mais editorial de revista de
+arquitetura/lifestyle de luxo brasileiro do que capa de suspense
+familiar sombrio.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+As duas taças de cristal (ver mundo-personagens-livro1.md) — uma
+intacta, uma com fenda fina iluminada pelo ângulo certo da luz — como
+motivo central do título "Acordo de Vidro". Opcional: um fiapo de
+dourado (referência discreta ao reparo final por kintsugi do livro,
+sem entregar o final) atravessando a fenda de uma das taças, como
+detalhe pequeno e não óbvio para quem já leu o livro.
+
+IDENTIDADE DE AUTOR:
+Monograma R·B·G discreto (mesma marca de linhas finas entrelaçadas da
+casa), mas em dourado claro/champanhe sobre fundo claro — não em ouro
+envelhecido sobre verde escuro. Tipografia do título: serif contem-
+porânea elegante (ex: estilo Playfair Display ou Canela, peso regular
+a semibold), NÃO a serif display de alto contraste ultra-dramática
+usada no branding do clube de carvalho — algo mais próximo de capa de
+romance comercial de luxo contemporâneo (Bridgerton-adjacent), com
+espaço para respirar.
+
+NEGATIVE PROMPT:
+biblioteca de carvalho, couro capitonê, veludo pesado, luz de vela,
+chiaroscuro escuro, paleta verde floresta, paleta vinho borgonha,
+estante de livros antigos, caneta-tinteiro, relógio de bolso,
+abotoaduras, atmosfera de clube de whiskey inglês, masculino sombrio,
+casal abraçado, quase-beijo, rostos em close, fonte gótica ou medieval,
+cartão-postal turístico óbvio de São Paulo (Masp em close, grafite
+genérico), texto incorporado além do título/autor, clima noturno
+pesado, mistério policial
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: editorial contemporâneo, luxo brasileiro urbano, luz quente
+natural de fim de tarde, romance comercial glamouroso, fresco e
+elegante — não gótico, não noir, não masculino-sombrio.

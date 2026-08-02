@@ -65,7 +65,15 @@ def load_chapters(manuscript_dir: Path) -> list[dict]:
 
 
 def _markdown_inline_to_reportlab(text: str) -> str:
-    """Converte *itálico* markdown simples para tags <i> do reportlab."""
+    """Converte **negrito**/*itálico* markdown simples para tags do reportlab.
+
+    IMPORTANTE: o par **duplo** precisa ser convertido ANTES do par
+    simples — caso contrário o regex de itálico (\\*(.+?)\\*) casa greedy
+    com os asteriscos internos do bold e deixa um "*" solto sobrando na
+    página (bug observado no Livro 1 de Família Bittencourt: "**-18,4%**"
+    virava "<i>*-18,4%</i>*" — itálico com asterisco literal residual).
+    """
+    text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"\*(.+?)\*", r"<i>\1</i>", text)
     # Escapa & e < que não fazem parte de uma tag já convertida
     text = re.sub(r"&(?!amp;|lt;|gt;)", "&amp;", text)

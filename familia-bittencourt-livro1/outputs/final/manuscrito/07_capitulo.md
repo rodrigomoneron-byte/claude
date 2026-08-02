@@ -1,6 +1,6 @@
-# Acordo de Vidro — Capítulo 7
+# Capítulo 7
 
-### POV: Isabela
+*POV: Isabela*
 
 Ensaio a frase inteira quarenta e sete vezes antes de Leonardo Vasconcelos entrar na minha sala, e nenhuma delas sobrevive ao momento em que ele realmente senta na cadeira do outro lado da minha mesa, terno escuro, gravata afrouxada o suficiente pra sugerir que veio direto de outra reunião, olhando pra mim com uma curiosidade que ele nem tenta disfarçar.
 

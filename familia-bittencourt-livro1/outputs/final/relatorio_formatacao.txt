@@ -1,0 +1,145 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Família Bittencourt — Livro 1: Acordo de Vidro
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-02
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+55/55 capítulos convertidos de outputs/conteudo/adv-capitulo01.md a
+adv-capitulo55.md para outputs/final/manuscrito/01_capitulo.md a
+55_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho "# Acordo de Vidro — Capítulo N" -> "# Capítulo N"
+- Linha "### POV: Nome" -> "*POV: Nome*" (formato final de leitor,
+  igual ao padrão já usado em Jogo Infinito Livro 5)
+- Corpo do capítulo: preservado byte a byte (conferido por diff contra
+  o arquivo de origem nos capítulos 1 e 55 — nenhuma palavra de prosa
+  alterada, cortada ou adicionada na conversão)
+
+POV dual conferido nos 55 arquivos finais: ímpar = Isabela, par = Leo,
+alternância estrita sem exceção.
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+- Manuscrito de trabalho (outputs/conteudo/, cabeçalho completo
+  "Acordo de Vidro — Capítulo N" + "POV:"): 55.050 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  reduzido "Capítulo N" + "POV:"): 54.830 palavras
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 54.555 palavras
+A diferença entre as três contagens é só de texto de cabeçalho/rótulo
+(título mais curto, marcação de POV), não de conteúdo narrativo —
+confirmado por diff linha a linha nos capítulos 1 e 55. Dentro da
+faixa-alvo de 55.000-58.000 palavras do project_dna.md, no extremo
+inferior (consistente com o que o log de decisões de escrita já
+reportava honestamente ao final do Ato 3).
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/acordo-de-vidro.epub (176 KB)
+- 55 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 55, sem nenhum faltando)
+- Metadados: title "Acordo de Vidro", subtitle "O Preço da Herança",
+  series "Família Bittencourt" #1, author "R.B. Guidenelli", language
+  pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; 56 itens de
+  documento no pacote (55 capítulos + página de navegação/sumário);
+  metadados DC (title/language/identifier) conferidos via
+  get_metadata() e batendo com metadata.json
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 55 arquivos .md, ordenados corretamente pelo prefixo
+  numérico
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/acordo-de-vidro_kdp.pdf (392 KB)
+- Dimensão confirmada via pypdf: 432 x 648 pt (6" x 9" exato)
+- Total: 196 páginas
+- Página de título (não numerada) + 55 capítulos, cada um iniciando em
+  página nova, numeração árabe no rodapé a partir do Capítulo 1
+- Conferência visual: primeira página de título e primeira página do
+  Capítulo 1 convertidas para PNG via `pdftoppm -png -r 100` e
+  inspecionadas — layout correto, fonte serif, recuo de primeira
+  linha, título centralizado, POV em itálico discreto sob o título,
+  numeração de página presente
+- BUG ENCONTRADO E CORRIGIDO durante a formatação: o script
+  scripts/build_pdf.py (na skill bia-ferreira-formatter) só convertia
+  markdown de itálico simples (*texto*) para reportlab, e não negrito
+  duplo (**texto**) — o manuscrito usa **negrito** em 3 pontos (cap. 1,
+  o número "-18,4%"; cap. 42 e 47, manchetes de jornal em destaque).
+  O regex de itálico casava greedy com os asteriscos internos do
+  negrito e deixava um "*" solto visível na página impressa (ex.:
+  "*-18,4%*" com asterisco literal sobrando). Corrigido no script
+  (conversão de **negrito** para <b> ANTES da conversão de *itálico*
+  para <i>), PDF regerado, e as 3 páginas afetadas (cap. 1, 42, 47)
+  reconferidas visualmente após a correção — sem mais asteriscos
+  soltos. Esse é um fix no script da skill (afeta qualquer livro
+  futuro do catálogo que use **negrito**), não só neste projeto.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 55 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 55 (RESULTADO: LIMPO —
+  pode avançar)
+- grep -n "a gente" outputs/final/manuscrito/*.md: 1 ocorrência (cap.
+  7, "Generosidade eu reservo pra gente que eu amo") — falso positivo
+  confirmado: "gente" no sentido de "pessoas" ("generosity I save for
+  people I love"), não o pronome "a gente" = "nós". Não é violação.
+- grep -niE "pra gente|da gente|na gente|com a gente": mesma única
+  ocorrência acima, mesmo falso positivo.
+- Nenhum resquício do device proibido (personagem quase dizendo "a
+  gente" e se autocorrigindo) encontrado nos capítulos 41 e 55, nem em
+  nenhum outro capítulo — varredura textual dedicada (grep por termos
+  de autocorreção/quebra de quarta parede) não encontrou ocorrência.
+Régua 100% limpa nos arquivos finais entregues.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_acordo-de-vidro.json
+é um UUID gerado automaticamente (urn:uuid:e01c8eb2-acdb-45a4-89d6-
+c8ec705a768c) — NÃO é um ISBN real. Antes de publicar na Amazon KDP,
+substituir por um ISBN próprio (se o autor tiver um) ou deixar a KDP
+atribuir um ASIN/ISBN grátis no fluxo de publicação — a KDP aceita o
+livro sem ISBN próprio, atribuindo automaticamente.
+
+===============================================================
+7. REVISÃO EDITORIAL GLOBAL — RESUMO (executada antes desta etapa)
+===============================================================
+Ver detalhes completos na resposta desta sessão. Resumo:
+- STATUS: APROVADO PARA FORMATAÇÃO
+- 1 erro de prosa corrigido: typo "a-mail" -> "e-mail" (cap. 7)
+- Régua "a gente": 55/55 capítulos limpos, gate + grep manual + grep
+  de formas oblíquas, sem nenhuma ocorrência real em todo o manuscrito
+- Nenhum vazamento de nome/fato de Jogo Infinito ou de qualquer outra
+  série da casa (grep dedicado por Cami, Alex, Voss Capital, Manhattan,
+  clube de carvalho, whiskey etc. — zero ocorrências)
+- Cláusulas do contrato (18 meses, residência compartilhada, separação
+  de bens, saída em 60 dias, cláusula 7) consistentes do cap. 9 ao 55
+- Símbolo da taça de cristal rastreado do cap. 3 ao 55, jornada
+  coerente e sem contradição
+- Arco de Pedro Bittencourt coerente e compreensível do cap. 1 ao 54
+- Setores/timeline das empresas (Grupo Bittencourt, Nexo Capital,
+  rodada Série B, Fundo Travessia) consistentes
+- POV dual Isabela/Leo, ímpar/par, sem quebra em nenhum dos 55
+  capítulos
+- 9 cenas de heat confirmadas nos capítulos 21, 26, 32, 36, 41, 44,
+  46, 52, 55; hiato deliberado nos caps. 47-51 confirmado como
+  narrativamente justificado (separação real do casal)
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/acordo-de-vidro.epub
+- outputs/final/acordo-de-vidro_kdp.pdf
+- outputs/final/prompt_capa_acordo-de-vidro.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_acordo-de-vidro.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 55_capitulo.md
