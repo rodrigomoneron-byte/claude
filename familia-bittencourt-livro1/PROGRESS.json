@@ -10,17 +10,164 @@
     "Leo"
   ],
   "status": "Em andamento",
-  "next_chapter": 1,
+  "next_chapter": 19,
   "next_pov": "Isabela",
-  "updated": "2026-08-02 03:02",
-  "chapters": [],
+  "updated": "2026-08-02 03:30",
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Isabela",
+      "words": 937,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 2,
+      "pov": "Leo",
+      "words": 893,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 3,
+      "pov": "Isabela",
+      "words": 891,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 4,
+      "pov": "Leo",
+      "words": 946,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 5,
+      "pov": "Isabela",
+      "words": 922,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 6,
+      "pov": "Leo",
+      "words": 884,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 7,
+      "pov": "Isabela",
+      "words": 945,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 8,
+      "pov": "Leo",
+      "words": 874,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 9,
+      "pov": "Isabela",
+      "words": 888,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 10,
+      "pov": "Leo",
+      "words": 886,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false,
+      "ressalva": "Heat: nenhuma cena ainda no cap. 10 (meta original previa 1ª cena até aqui) — decisão consciente de adiar, conforme instrução específica deste Ato 1 (marriage of convenience pede tensão contida mais longa; aceitável 0 cena em 1-18)."
+    },
+    {
+      "n": 11,
+      "pov": "Isabela",
+      "words": 883,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 12,
+      "pov": "Leo",
+      "words": 907,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 13,
+      "pov": "Isabela",
+      "words": 923,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 14,
+      "pov": "Leo",
+      "words": 873,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 15,
+      "pov": "Isabela",
+      "words": 909,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 16,
+      "pov": "Leo",
+      "words": 910,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 17,
+      "pov": "Isabela",
+      "words": 919,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 18,
+      "pov": "Leo",
+      "words": 920,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false,
+      "ressalva": "Fim do Ato 1: primeiro beijo real (quebra da cláusula 7) fecha o ato, mas SEM cena de heat explícita — decisão consciente de manter a tensão contida até o Ato 2, conforme instrução específica deste projeto (heat pode ficar zero em 1-18; não forçar cena onde o beat não sustenta)."
+    }
+  ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
+    "chapters_done": 18,
+    "total_words": 16310,
+    "pages_kdp": 54,
+    "avg_score": 6.5,
+    "pct_to_target": 29,
     "heat_scenes_done": 0,
     "last_heat_chapter": null
   }
