@@ -1,6 +1,6 @@
-# Família Bittencourt — Livro 3 — Capítulo 19
+# Capítulo 19
 
-### POV: Sofia
+*POV: Sofia*
 
 Acordo antes do despertador, o que não acontece desde antes da cirurgia, e fico deitada um tempo longo olhando pro teto do quarto que dividi com Otávio por trinta e sete anos, tentando decifrar por que a frase de Heitor ao telefone ontem à noite — "é sério, mas não é nada ruim, prometo" — ficou girando na minha cabeça a madrugada inteira feito disco riscado.
 

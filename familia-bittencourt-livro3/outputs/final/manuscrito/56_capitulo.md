@@ -1,6 +1,6 @@
-# Epílogo
+# Epílogo — Parte 1
 
-### POV: Sofia
+*POV: Sofia*
 
 A estufa fica pronta pro casamento na manhã do dia marcado, cada vaso trocado de lugar pra abrir espaço suficiente pras poucas cadeiras dispostas em semicírculo, o vidro do teto — o mesmo que Heitor consertou com as próprias mãos semanas atrás — deixando entrar a luz clara de uma manhã de outubro sem nenhuma nuvem pesando no céu.
 

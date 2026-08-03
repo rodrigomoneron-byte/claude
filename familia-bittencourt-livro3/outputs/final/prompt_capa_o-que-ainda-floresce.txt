@@ -1,0 +1,68 @@
+TÍTULO: Família Bittencourt — Livro 3: O Que Ainda Floresce (O Preço da Segunda Chance)
+
+DESCRIÇÃO VISUAL:
+O interior de uma pequena estufa de jardim de inverno, antiga mas
+recém-reaberta — estrutura de ferro pintado e vidro levemente
+irregular (um dos painéis do teto com um remendo visível, uma linha
+fina mais nova que o resto do vidro), fotografada de dentro para fora
+num fim de tarde de outubro. A luz é dourada, horizontal, entrando
+enviesada pelos painéis de vidro e criando reflexos quentes e
+levemente embaçados sobre uma bancada de madeira em primeiro plano.
+Sobre a bancada, um vaso de orquídea branca em plena floração ocupa o
+centro da composição — pétalas nítidas, quase luminosas contra o
+fundo mais suave — ladeado, fora de foco, por uma muda pequena de
+alecrim e um vaso de alfazema, sugerindo várias histórias crescendo
+lado a lado sem competir por espaço. Vidro embaçado de umidade nas
+bordas do quadro sugere um espaço que voltou a ser cuidado depois de
+anos fechado. Ao fundo, através do vidro, uma silhueta desfocada de
+jardim e o contorno impreciso de uma casa grande ao entardecer — sem
+nenhuma figura humana em cena. Sensação geral: calor doméstico,
+elegância madura, um recomeço silencioso e sem pressa — o oposto do
+glamour corporativo de vidro e cristal do Livro 1 e do reparo urbano
+em pedra e azulejo do Livro 2 desta mesma série. Sem rostos, sem
+casal, sem pose romântica — o foco é o espaço (a estufa) e o objeto
+central (a orquídea em flor), não pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL: a orquídea em flor dentro da estufa de
+vidro remendado — um espaço abandonado depois de uma perda que volta,
+devagar, a ser cuidado; floração tardia em vez de brilho instantâneo.
+
+PALETA: dourado profundo e quente dominante (luz de fim de tarde),
+verde-oliva e verde-musgo suaves da folhagem, branco cremoso da flor
+da orquídea como único ponto de luz mais claro do quadro — SEM o
+branco gelado/mármore e o dourado de joia do Livro 1, e SEM o azul-
+cobalto do azulejo português do Livro 2. Luz sempre natural e quente,
+nunca branca, fria ou artificial.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano, taças de cristal, andorinha de azulejo, mármore, vidro
+corporativo/escritório, skyline de São Paulo, terno executivo, luz
+branca/fria, néon, fonte serifada dourada de romance histórico, clube
+de carvalho/whiskey, brasão de família, veludo bordô, texto
+incorporado na imagem, estética de cartão-postal turístico genérico,
+bandeiras, símbolos partidários, aliança/anel em destaque
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: editorial, cinematic, luz golden-hour, textura fotográfica
+(não ilustração cartoon), contemporâneo mas atemporal, tom de romance
+sênior/segunda chance — caloroso, doméstico, sereno; contraste
+deliberado com a estética de glamour paulistano/taças de cristal do
+Livro 1 ("Acordo de Vidro") e com a estética de reparo urbano em
+pedra/azulejo português do Livro 2 ("O Caminho de Volta").
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Este livro é mais um desvio deliberado do branding "The Old English
+Gentleman's Club" (verde floresta noturno, carvalho, ouro envelhecido,
+veludo borgonha) usado em outras séries do catálogo R.B. Guidenelli —
+o tom de romance sênior/segunda chance com ambientação de jardim pede
+paleta quente, luz natural e textura orgânica (vidro, terra, flor), não
+o chiaroscuro de madeira polida e cristal de whiskey nem o frio
+corporativo dos Livros 1-2 desta série. Manter apenas a tipografia de
+título em serif display de alto contraste (equivalente a Playfair
+Display Black) como elemento comum de reconhecimento da casa; a paleta
+e a iluminação são específicas deste livro, e devem se distinguir
+claramente das capas já publicadas dos Livros 1 e 2 da própria
+Família Bittencourt (nada de taça de cristal nem de azulejo azul-
+cobalto nesta capa — o elemento novo é a estufa/orquídea).

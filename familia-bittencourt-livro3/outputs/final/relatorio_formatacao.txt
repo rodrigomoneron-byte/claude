@@ -1,0 +1,237 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Família Bittencourt — Livro 3: O Que Ainda Floresce
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-03
+FECHAMENTO DA TRILOGIA FAMÍLIA BITTENCOURT
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+57/57 capítulos convertidos de outputs/conteudo/fb3-capitulo01.md a
+fb3-capitulo57.md para outputs/final/manuscrito/01_capitulo.md a
+57_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho "# Família Bittencourt — Livro 3 — Capítulo N" -> "# Capítulo N"
+- Cabeçalho "# Epílogo" (caps. 56 e 57) -> "# Epílogo — Parte 1" e
+  "# Epílogo — Parte 2", seguindo o mesmo padrão de nomenclatura de
+  epílogo em múltiplas partes usado no Livro 5 de Jogo Infinito
+  (outputs/final/manuscrito/57_capitulo.md a 60_capitulo.md daquele
+  projeto: "Epílogo — Parte 1" a "Epílogo — Parte 4").
+- Linha "### POV: Nome" -> "*POV: Nome*" (formato final de leitor,
+  igual ao padrão já usado nos Livros 1 e 2 desta série)
+- Corpo do capítulo: preservado byte a byte (conferido por diff contra
+  o arquivo de origem nos capítulos 1, 30, 55 e 57 — nenhuma palavra
+  de prosa alterada, cortada ou adicionada na conversão)
+
+POV dual conferido nos 57 arquivos finais: capítulos 1-55 seguem
+alternância estrita ímpar = Sofia, par = Heitor, sem exceção. Os dois
+capítulos de epílogo (56-57), por não serem numerados como capítulo
+regular, têm POV declarado individualmente e alternado entre si:
+Epílogo — Parte 1 = Sofia (o casamento), Epílogo — Parte 2 = Heitor
+(a coda seis meses depois) — POV sempre claro, sem mistura dentro de
+nenhum capítulo.
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+- Manuscrito de trabalho (outputs/conteudo/, cabeçalho completo +
+  linha "### POV:"): 55.003 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  reduzido "Capítulo N"/"Epílogo — Parte N" + linha "*POV:*"):
+  54.730 palavras
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 54.443 palavras
+A diferença entre as três contagens é só de texto de cabeçalho/rótulo,
+não de conteúdo narrativo — confirmado por diff linha a linha nos
+capítulos 1, 30, 55 e 57. Dentro da meta de 55.000-58.000 palavras do
+project_dna.md deste livro (o mais longo do formato originalmente
+previsto, ~55-58 capítulos, cumprido com 57).
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/o-que-ainda-floresce.epub (176 KB)
+- 57 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 55 + Epílogo — Parte 1 + Epílogo — Parte 2,
+  sem nenhum faltando)
+- Metadados: title "O Que Ainda Floresce", subtitle "O Preço da
+  Segunda Chance", series "Família Bittencourt" #3, author "R.B.
+  Guidenelli", language pt-BR, identifier urn:uuid (placeholder, ver
+  seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; 58 itens de
+  documento no pacote (57 capítulos + página de navegação/sumário);
+  metadados DC (title/language/identifier) conferidos via
+  get_metadata() e batendo com metadata.json
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 57 arquivos .md, ordenados corretamente pelo prefixo
+  numérico
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/o-que-ainda-floresce_kdp.pdf (399 KB)
+- Dimensão confirmada via pypdf: 432 x 648 pt (6" x 9" exato)
+- Total: 209 páginas
+- Página de título (não numerada) + 57 capítulos, cada um iniciando em
+  página nova, numeração árabe no rodapé a partir do Capítulo 1
+- Conferência visual: primeira página de título e primeira página do
+  Capítulo 1 convertidas para PNG via `pdftoppm -png -r 100` e
+  inspecionadas — layout correto: título e subtítulo centralizados na
+  página de rosto, nome do autor e série abaixo; Capítulo 1 com título
+  centralizado, "POV: Sofia" em itálico discreto logo abaixo, corpo em
+  fonte serif justificada com recuo de primeira linha, numeração de
+  página (1) no rodapé central. Nenhum problema de layout encontrado.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 57 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 57 (RESULTADO: LIMPO —
+  pode avançar)
+- grep -n "a gente" outputs/final/manuscrito/*.md: 4 ocorrências (caps.
+  9, 22 x2, 25) — todas falsos positivos confirmados: substring do
+  fim de "Muita/tanta gente" ("...ta gente"), sentido de "pessoas",
+  não o pronome proibido "a gente" = "nós". Mesmo padrão de falso
+  positivo já documentado nos Livros 1 e 2 desta série.
+- grep -niE "pra gente|da gente|na gente|com a gente": nenhuma
+  ocorrência real encontrada nos arquivos finais.
+- Nenhum resquício do device proibido (personagem ou narração usando
+  "a gente" e se autocorrigindo em voz alta) encontrado em nenhum dos
+  57 capítulos entregues — todas as ocorrências desse device
+  registradas no log de produção (caps. 5, 17, 32, 50, 51, 57) foram
+  reescritas por completo antes mesmo de qualquer registro, conforme
+  já documentado em mundo-personagens-livro3.md.
+Régua 100% limpa nos arquivos finais entregues.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_o-que-ainda-
+floresce.json é um UUID gerado automaticamente
+(urn:uuid:9aaff9ce-eb5f-4494-840d-d28abd03c204) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação — a KDP aceita o livro sem ISBN próprio, atribuindo
+automaticamente.
+
+===============================================================
+7. REVISÃO EDITORIAL GLOBAL — RESUMO (executada antes desta etapa)
+===============================================================
+STATUS: APROVADO PARA FORMATAÇÃO (após correções abaixo)
+
+Releitura completa dos 57 capítulos + Livros 1 e 2 inteiros (fechamentos
+e bíblias de mundo/personagens) para checar continuidade da TRILOGIA
+INTEIRA, não só deste volume. 3 problemas reais encontrados e
+corrigidos diretamente nos arquivos de outputs/conteudo/ (régua
+re-rodada em cada arquivo editado, todos LIMPOS):
+
+  a) ERRO DE MATEMÁTICA DE LINHA DO TEMPO (5 ocorrências, 4 capítulos):
+     os caps. 4, 14 (x2), 15 e 19 usavam "cinquenta e seis anos" para
+     o tempo desde que Sofia escolheu Otávio em vez de Heitor,
+     enquanto os caps. 41, 47, 48 e 51 (Ato 3, onde o ano exato de
+     1972 é mencionado em texto) usavam corretamente "cinquenta e
+     quatro anos" para o mesmo evento (2026-1972=54, batendo com
+     "casou com Otávio em 1972" do project_dna.md). Corrigido: as 5
+     ocorrências de "cinquenta e seis" foram padronizadas para
+     "cinquenta e quatro", alinhando o livro inteiro à matemática
+     correta confirmada pela bíblia (Sofia nasceu 1950, casou 1972 aos
+     22, viúva desde 2009 = 17 anos de viuvez ao abrir o L3 — todas as
+     demais menções de idade/tempo verificadas e batendo: "trinta e
+     sete anos" de casamento no cap. 19, "dezessete anos" de viuvez em
+     11 capítulos diferentes, "setenta e seis"/"setenta e oito" anos
+     de idade consistentes em todo o livro).
+  b) CONTRADIÇÃO NA REUNIÃO DOS TRÊS SÍMBOLOS DA TRILOGIA (cap. 56,
+     cena do casamento): o texto original tinha Pedro presenteando a
+     taça de cristal reparada dizendo que ela vinha "do casamento dele
+     com Inês" e "do meu casamento" — mas a taça pertence à Isabela e
+     ao Leo (símbolo do Livro 1), não a Pedro e Inês (cujo símbolo é a
+     andorinha de azulejo do Livro 2), fato que o PRÓPRIO parágrafo
+     seguinte do mesmo capítulo já confirmava corretamente ("o objeto
+     que carregou o próprio recomeço de Isabela e Leo"). Corrigido:
+     Isabela (não Pedro) agora é quem se levanta e presenteia a taça,
+     com a fala ajustada pra "guarda desde o próprio casamento com
+     Leo" / "no nosso casamento" — eliminando a contradição interna e
+     alinhando a cena à origem estabelecida do objeto nos Livros 1-2.
+     A andorinha de azulejo (dada por Inês, "que guarda desde o
+     casamento com Pedro") já estava correta e não precisou de ajuste.
+  c) REDUNDÂNCIA DE PROSA no cap. 57 (o capítulo com mais rodadas de
+     expansão de toda a trilogia, 6 no total): duas frases quase
+     idênticas repetidas dentro do mesmo capítulo ("fico ali sentado
+     mais um instante" e "essa é exatamente a vida...") foram
+     reformuladas na segunda ocorrência pra variar a prosa sem alterar
+     sentido, tamanho ou voz.
+
+Demais checagens da revisão global, todas sem problema encontrado:
+- Nomes próprios e elenco novo (Heitor Salgado Bastos, Beatriz,
+  Ademar, Dra. Amanda [Cerqueira], Marlene, Rogério, Fernando, Yolanda
+  Prado, Cristina) sem colisão interna e sem vazamento de nomes/fatos
+  de Jogo Infinito, Gelo e Sangue ou qualquer outra série da casa
+  (varredura dedicada por nomes de outros universos — zero ocorrências
+  reais, 1 falso positivo de substring "dante" dentro de "estudante").
+- Isabela, Leo, Pedro e Inês aparecem no epílogo de forma consistente
+  com o que os Livros 1 e 2 estabeleceram (Fundo Travessia, vida
+  dividida entre São Paulo e Lisboa, casamentos já consolidados).
+- Segredo de Ricardo (L1), taça de cristal reparada (L1), andorinha de
+  azulejo (L2) e crise cardíaca de Dona Sofia (L2) — todos referidos
+  de forma consistente com os fechamentos dos livros de origem.
+- Arco de Heitor (grief real por Marina, medo de "trair" a memória
+  dela, decisão do Convento de Santa Clara em formato híbrido aceito
+  em caráter experimental) coerente do cap. 2 ao 57.
+- Arco de Sofia (padrão de autoapagamento nomeado no Ato 2, resolvido
+  no Ato 3 quando ela liga primeiro e diz a verdade sem esperar
+  reciprocidade, cap. 41) coerente com toda a trilogia, inclusive com
+  a matriarca dura/guardiã de segredo estabelecida nos Livros 1-2.
+- POV dual Sofia/Heitor, ímpar/par, sem quebra em nenhum dos 55
+  capítulos numerados; epílogo (56-57) com POV individual claro.
+- Cadência de heat: 5 cenas confirmadas (caps. 14, 24, 30, 33, 48),
+  registro fade-to-warm consistente do início ao fim, nenhuma cena
+  escorregando para o registro mais explícito dos Livros 1-2.
+- Régua "a gente": 57/57 capítulos limpos após as correções, gate +
+  grep manual + grep de formas oblíquas + releitura extra dedicada dos
+  caps. 43, 48, 50, 51, 54, 56 e 57 (capítulos de maior risco
+  reportado durante a produção) — nenhum resquício do device de
+  autocorreção encontrado no texto publicado.
+
+===============================================================
+8. FECHAMENTO DA TRILOGIA FAMÍLIA BITTENCOURT — MARCO FINAL
+===============================================================
+Com este livro, a trilogia inteira está formatada e pronta para
+publicação:
+
+  Livro 1 — "Acordo de Vidro" (Isabela & Leo)      — 55.033 palavras
+  Livro 2 — "O Caminho de Volta" (Pedro & Inês)     — 55.250 palavras
+  Livro 3 — "O Que Ainda Floresce" (Sofia & Heitor) — 55.003 palavras
+  -----------------------------------------------------------------
+  TOTAL DA TRILOGIA:                               165.286 palavras
+
+Os três livros têm EPUB, PDF 6"x9" e prompt de capa entregues em
+outputs/final/ de cada projeto:
+  - familia-bittencourt-livro1/outputs/final/ (acordo-de-vidro.epub,
+    acordo-de-vidro_kdp.pdf, 196 páginas)
+  - familia-bittencourt-livro2/outputs/final/ (o-caminho-de-volta.epub,
+    o-caminho-de-volta_kdp.pdf, 205 páginas)
+  - familia-bittencourt-livro3/outputs/final/ (o-que-ainda-
+    floresce.epub, o-que-ainda-floresce_kdp.pdf, 209 páginas)
+
+Os três símbolos centrais da série — a taça de cristal reparada (L1),
+a andorinha de azulejo (L2) e a estufa/orquídea (L3) — se reúnem de
+forma consciente e coerente na cena do casamento do cap. 56 deste
+livro, fechando visualmente a jornada dos três casais (Isabela/Leo,
+Pedro/Inês, Sofia/Heitor) sem contradição de origem ou posse de
+nenhum objeto (ver correção 7.b acima). A trilogia fecha com os arcos
+de todos os protagonistas resolvidos: o segredo de Ricardo processado
+(L1), a reconstrução de Pedro provada em ação sustentada (L2), e o
+padrão de autoapagamento de décadas de Dona Sofia rompido por ela
+mesma (L3) — sem nenhuma contradição de fato entre os três volumes.
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-que-ainda-floresce.epub
+- outputs/final/o-que-ainda-floresce_kdp.pdf
+- outputs/final/prompt_capa_o-que-ainda-floresce.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-que-ainda-floresce.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 57_capitulo.md

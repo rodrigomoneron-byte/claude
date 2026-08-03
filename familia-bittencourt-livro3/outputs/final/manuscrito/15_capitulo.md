@@ -1,6 +1,6 @@
-# Família Bittencourt — Livro 3 — Capítulo 15
+# Capítulo 15
 
-### POV: Sofia
+*POV: Sofia*
 
 Convoco almoço de domingo com antecedência suficiente pra ninguém desconfiar de nada além de reunião de família comum, mas quando Isabela, Leo, Pedro e Inês chegam todos juntos, sentam à mesa com aquela expectativa silenciosa de quem já pressente que a pauta do dia não é trivial.
 

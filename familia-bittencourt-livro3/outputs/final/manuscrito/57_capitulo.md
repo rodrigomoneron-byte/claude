@@ -1,6 +1,6 @@
-# Epílogo
+# Epílogo — Parte 2
 
-### POV: Heitor
+*POV: Heitor*
 
 Seis meses depois do casamento, volto de mais uma viagem de trabalho a Lisboa — a terceira desde que o formato híbrido entrou em vigor, cada uma mais curta que a anterior, o Conselho de Patrimônio já satisfeito o suficiente com os resultados pra ter tornado o arranjo definitivo antes mesmo do prazo de teste de seis meses se completar.
 

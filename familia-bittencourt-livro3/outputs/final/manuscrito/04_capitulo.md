@@ -1,6 +1,6 @@
-# Família Bittencourt — Livro 3 — Capítulo 4
+# Capítulo 4
 
-### POV: Heitor
+*POV: Heitor*
 
 Reconheço os olhos antes de reconhecer qualquer outra coisa. É sempre assim com rosto que se amou de verdade, décadas atrás — o resto muda, a pele, o cabelo, o jeito de sentar, mas o olho carrega alguma coisa que o tempo não consegue disfarçar de todo, e o olhar de Sofia Bittencourt atravessando a sala de aula naquela manhã foi o mesmo olhar direto, sem pedido de desculpa, que me desarmou aos vinte anos numa festa que já nem lembro mais de quem era.
 

@@ -1,6 +1,6 @@
-# Família Bittencourt — Livro 3 — Capítulo 14
+# Capítulo 14
 
-### POV: Heitor
+*POV: Heitor*
 
 Chego na casa dela sem flor dessa vez, sem desculpa profissional, sem estufa pra justificar a visita — só eu, de mãos vazias, pronto pra dizer em voz alta o que devia ter dito décadas atrás. Sofia abre o portão pessoalmente de novo, o rosto sério, avaliando meu semblante antes mesmo de me deixar entrar.
 
