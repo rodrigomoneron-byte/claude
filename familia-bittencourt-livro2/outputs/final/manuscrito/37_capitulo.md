@@ -1,6 +1,6 @@
-# Família Bittencourt — Livro 2 — Capítulo 37
+# Capítulo 37
 
-### POV: Pedro
+*POV: Pedro*
 
 Compro a passagem antes mesmo de desligar o telefone com a agência de viagem, a decisão saindo rápida demais pra qualquer hesitação conseguir alcançar, o cartão de crédito digitado de memória enquanto o coração ainda bate acelerado da conversa da manhã com Inês. Voo pra sexta-feira, escala em Madrid, chegada em Lisboa no sábado de manhã cedo — quatro dias pra organizar tudo do lado de cá, resolver pendência de trabalho, avisar a família, arrumar mala com o mesmo cuidado cerimonioso que usei da última vez que fiz esse caminho inverso.
 

@@ -1,0 +1,186 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Família Bittencourt — Livro 2: O Caminho de Volta
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-03
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+55/55 capítulos convertidos de outputs/conteudo/fb2-capitulo01.md a
+fb2-capitulo55.md para outputs/final/manuscrito/01_capitulo.md a
+55_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho "# Família Bittencourt — Livro 2 — Capítulo N" -> "# Capítulo N"
+- Linha "### POV: Nome" -> "*POV: Nome*" (formato final de leitor,
+  mesmo padrão usado no Livro 1 desta série)
+- Corpo do capítulo: preservado byte a byte (conferido por diff contra
+  o arquivo de origem nos capítulos 1, 9, 25, 37 e 55 — nenhuma palavra
+  de prosa alterada, cortada ou adicionada na conversão; a única
+  diferença de diff em todos os casos foi a quebra de linha final do
+  arquivo, sem efeito sobre o conteúdo)
+
+POV dual conferido nos 55 arquivos finais: ímpar = Pedro, par = Inês,
+alternância estrita sem exceção.
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+- Manuscrito de trabalho (outputs/conteudo/, cabeçalho completo
+  "Família Bittencourt — Livro 2 — Capítulo N" + "POV:"), medido com
+  `wc -w`: 55.263 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  reduzido "Capítulo N" + "*POV:*"), medido com `wc -w`: 54.988 palavras
+A diferença entre as duas contagens é só de texto de cabeçalho/rótulo
+(título mais curto por capítulo), não de conteúdo narrativo.
+
+Nota sobre o número reportado ao final da produção (55.237, ver log de
+decisões de escrita): durante esta revisão global foi encontrado e
+corrigido um bug de duplicação de parágrafos no capítulo 37 (ver seção
+7). A correção removeu o trecho duplicado e adicionou material novo em
+substituição, deixando o total do livro em 55.263 palavras (`wc -w`)
+antes da conversão de formato — variação de +26 palavras em relação ao
+número original, dentro da faixa-alvo de 55.000-58.000 do
+project_dna.md, ainda com margem apertada sobre o piso.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/o-caminho-de-volta.epub (177 KB)
+- 55 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 55, sem nenhum faltando)
+- Metadados: title "O Caminho de Volta", subtitle "O Preço da
+  Redenção", series "Família Bittencourt" #2, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; 56 itens de
+  documento no pacote (55 capítulos + página de navegação/sumário);
+  metadados DC (title/language/identifier/creator) conferidos via
+  get_metadata() e batendo com metadata.json
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 55 arquivos .md, ordenados corretamente pelo prefixo
+  numérico
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/o-caminho-de-volta_kdp.pdf (396 KB)
+- Dimensão confirmada via pypdf: 432 x 648 pt (6" x 9" exato)
+- Total: 205 páginas
+- Página de título (não numerada) + 55 capítulos, cada um iniciando em
+  página nova, numeração árabe no rodapé a partir do Capítulo 1
+- Conferência visual: primeira página de título e primeira página do
+  Capítulo 1 convertidas para PNG via `pdftoppm -png -r 100` e
+  inspecionadas — título e subtítulo centralizados, autor e série
+  abaixo, corpo do Capítulo 1 em fonte serif com recuo de primeira
+  linha, "POV: Pedro" em itálico discreto sob o título do capítulo,
+  numeração de página "1" presente no rodapé. Nenhum problema visual
+  encontrado.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL (sobre outputs/final/manuscrito/)
+===============================================================
+- python3 scripts/regua_gate.py sobre os 55 arquivos finais: LIMPO em
+  todos os 55 (RESULTADO: LIMPO — pode avançar)
+- grep -n "a gente": 4 ocorrências, todas falsos positivos confirmados
+  manualmente — "toda gente" (cap. 2, "toda gente que sai de Lisboa e
+  volta"), "despeja gente" (cap. 4), "não deixa gente ir embora" (cap.
+  17), "muita gente" (cap. 54) — nenhuma é o pronome proibido "a
+  gente" = "nós"; todas usam "gente" no sentido de "pessoas".
+- grep -niE "pra gente|da gente|na gente|com a gente": mesma única
+  categoria de falso positivo (cap. 2, repetida na mesma linha de
+  "toda gente"), sem nenhuma ocorrência real adicional.
+- Nenhum resquício do device proibido (personagem quase dizendo "a
+  gente" e se autocorrigindo, ou quebra de quarta parede citando a
+  régua) encontrado em nenhum capítulo, incluindo os sete capítulos de
+  risco elevado sinalizados pelo log de produção (21, 28, 29, 32, 37,
+  40, 53) — todos lidos manualmente linha a linha durante a revisão
+  editorial global, além da varredura mecânica.
+Régua 100% limpa nos arquivos finais entregues.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_o-caminho-de-volta.json
+é um UUID gerado automaticamente (urn:uuid:074936ec-2ae5-4be1-b749-
+2a2a10ea13ba) — NÃO é um ISBN real. Antes de publicar na Amazon KDP,
+substituir por um ISBN próprio (se o autor tiver um) ou deixar a KDP
+atribuir um ASIN/ISBN grátis no fluxo de publicação — a KDP aceita o
+livro sem ISBN próprio, atribuindo automaticamente.
+
+===============================================================
+7. REVISÃO EDITORIAL GLOBAL — RESUMO (executada antes desta etapa)
+===============================================================
+STATUS: APROVADO PARA FORMATAÇÃO (após correção)
+
+1 erro estrutural real encontrado e corrigido:
+- Capítulo 37 (POV Pedro): um bloco de dois parágrafos ("— Vai
+  lembrar..." / "Termino a mala à noite...") estava duplicado por
+  inteiro — aparecia uma vez no meio do capítulo e de novo, verbatim,
+  no final, DEPOIS de Pedro já ter embarcado no avião. Isso quebrava a
+  cronologia (ele "arrumava a mala" e "visitava a avó antes de dormir"
+  de novo depois de já estar em voo). Padrão consistente com um
+  artefato do processo de expansão retroativa de última hora
+  documentado no log de decisões de escrita. Corrigido substituindo o
+  trecho duplicado por um parágrafo novo (reflexão durante o voo/
+  escala em Madrid), mantendo o capítulo acima do piso duro de 873
+  palavras (933 palavras após a correção) e a régua limpa.
+- Varredura automatizada de parágrafos duplicados rodada sobre os 55
+  capítulos inteiros após a correção: nenhuma outra duplicação
+  encontrada em nenhum capítulo, incluindo os 14 capítulos do Ato 3
+  (41-54) que passaram por expansão retroativa documentada no log.
+
+Verificações sem problema encontrado:
+- Régua "a gente": 55/55 capítulos limpos, gate + grep manual + grep
+  de formas oblíquas + leitura manual linha a linha dos 7 capítulos de
+  risco elevado (21, 28, 29, 32, 37, 40, 53) — nenhuma ocorrência real,
+  nenhum resquício do device proibido em nenhum capítulo
+- Nenhum vazamento de nome/fato de Jogo Infinito, Gelo e Sangue, ou
+  qualquer outra série da casa (grep dedicado, zero ocorrências reais
+  — os únicos hits foram falsos positivos de substring, ex. "dante"
+  dentro de "durante"/"constante")
+- Continuidade com o Livro 1 ("Acordo de Vidro") consistente: o
+  segredo de Ricardo Bittencourt, a demissão de Pedro da diretoria
+  financeira, a viagem a Lisboa, o Fundo Travessia (aliança Grupo
+  Bittencourt + Nexo Capital), o casamento real de Isabela e Leo, e a
+  matriarca Dona Sofia aparecem em cena de forma coerente com o
+  fechamento do Livro 1, sem contradição
+- Símbolo da andorinha de azulejo rastreado do cap. 1 (cacos no
+  entulho) ao cap. 55 (clímax), passando pela miniatura de Ilídio
+  (cap. 16), a entrega a Inês (cap. 17), a jornada durante a crise de
+  confiança do Ato 2 (guardada/devolvida à estante, caps. 28, 30) e a
+  peça nova feita pelas próprias mãos de Pedro no clímax — jornada
+  coerente e rastreável do início ao fim
+- Arco de Inês Costa: agência própria mantida do início ao fim (luta
+  pelo Pátio das Flores é dela, vitória final creditada a ela/Sara/
+  advogado no cap. 50, não a Pedro; carreira própria avança em
+  paralelo — proposta editorial internacional aceita nos próprios
+  termos, cap. 52/55)
+- Cronologia de revelações de Pedro a Inês sem contradição: sobrenome
+  (cap. 9), família dona do Grupo Bittencourt e motivo da preterição
+  (cap. 14), resto (coluna anônima, gala, uso do processo do pai de
+  Leo) revelado só no dark moment do Ato 2 (caps. 26-33) — nenhuma
+  menção antecipada em diálogo com Inês; as menções anteriores a
+  "gala"/"coluna anônima" nos caps. 3, 9, 13 são pensamentos internos
+  não-verbalizados de Pedro, nunca contados a ela
+- POV dual Pedro/Inês, ímpar/par, sem quebra em nenhum dos 55
+  capítulos
+- 10 cenas de heat confirmadas nos capítulos 10, 15, 20, 23, 39, 44,
+  48, 51, 53, 55 — meta de 10 batida exatamente; o gap de 16 capítulos
+  entre os caps. 23 e 39 (contra o máximo de 6) é deliberado e
+  documentado, período de crise de confiança do Ato 2
+- Português europeu em diálogo de personagens portugueses (Inês,
+  Ilídio, Dona Amélia, seu Joaquim, Sara) aparece de forma esporádica
+  e consistente (formas como "tens", "queres", "vais"), sem contaminar
+  a narração de Pedro, que se mantém em registro brasileiro o livro
+  inteiro
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-caminho-de-volta.epub
+- outputs/final/o-caminho-de-volta_kdp.pdf
+- outputs/final/prompt_capa_o-caminho-de-volta.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-caminho-de-volta.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 55_capitulo.md
