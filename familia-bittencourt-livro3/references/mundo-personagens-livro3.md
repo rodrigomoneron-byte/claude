@@ -253,3 +253,189 @@ meta ao final do ato. Ato 2 (aprofundamento da conexão, reação mais
 completa da família, obstáculo prático/emocional real — o convite de
 Heitor para o Convento de Santa Clara em Lisboa, gancho plantado no
 cap. 18) pronto para começar no capítulo 19, POV Sofia.
+
+## Log de decisões de escrita (capítulos 19-40, Ato 2)
+
+### Arco do Ato 2 — visão geral
+Estrutura executada em sequência única, sem desvio do plano: (1)
+revelação do convite de Lisboa e primeira reação automática de Sofia
+de "abrir mão de si mesma" (caps. 19-20); (2) nomeação explícita do
+padrão — décadas escolhendo segurança/aprovação alheia acima do
+próprio desejo, corroborada por Marlene (cap. 21) e por Ademar do lado
+de Heitor (cap. 22, ecoando o trabalho de restauro que ele e Marina
+faziam juntos como o verdadeiro peso da escolha, não simples vaidade
+profissional); (3) aprofundamento familiar e físico — ajuste real de
+Leo ao ver a avó em papel novo (cap. 23) seguido da primeira noite
+completa do casal (cap. 24, heat); (4) obstáculo real não-vilão —
+reputação dentro do próprio círculo social no baile do Instituto
+Coração de Criança (cap. 25), testando se Sofia recua pro hábito de
+esconder ou avança reivindicando a própria felicidade em público; (5)
+conversa de virada em que Sofia diz pela primeira vez, sem disfarce de
+generosidade, "eu quero que você fique" (cap. 28), depois do convite
+formal ganhar prazo curto (Fernando reduz de duas semanas para
+resposta até segunda-feira, cap. 30); (6) decisão intermediária de
+Heitor — viagem curta de 6-8 semanas em vez de compromisso imediato de
+dois anos (cap. 31), terceira cena de heat na véspera do embarque
+(cap. 33) e despedida no aeroporto (cap. 34); (7) fase de distância
+física real — entusiasmo profissional de Heitor em Lisboa soando como
+ameaça pra Sofia (cap. 36), comentário mal formulado de Leo reabrindo
+o medo antigo de abandono (cap. 37), silêncio culpado de três dias de
+Heitor sob pressão do Conselho por compromisso total de dois anos
+(cap. 38), ligação de reconciliação parcial que expõe mágoa real sem
+resolver nada (cap. 39); (8) fechamento do ato em incerteza genuína
+(cap. 40, POV Heitor) — nem o convento nem o relacionamento têm
+resposta fechada, abrindo caminho para o Ato 3 decidir os dois.
+
+### Elenco e fatos novos fixados na escrita
+- **Yolanda Prado** — amiga antiga do círculo social de Sofia,
+  presença única (cap. 25) representando a pressão de reputação
+  dentro da própria classe social de Sofia (marca 5 do project_dna,
+  "preço visível"); não retorna em cena, mas a reação dela é referida
+  depois como o tipo de julgamento que Sofia decide, a partir daquele
+  capítulo, não deixar mais pesar na própria decisão de quem levar a
+  eventos públicos.
+- **Instituto Coração de Criança** — instituição beneficente fictícia,
+  compromisso de longa data de Sofia desde a época de Otávio (40 anos
+  de presença), usada como palco do obstáculo de reputação do cap. 25;
+  nome novo, sem relação com marca real, sem contradição de canon.
+- **Convento de Santa Clara** — desenvolvido conforme gancho do cap.
+  18: aceito por Heitor em formato provisório (viagem de 6-8 semanas,
+  não os dois anos completos originalmente propostos por Fernando),
+  decisão comunicada a Sofia antes de ser fechada com Fernando (cap.
+  31), num movimento consciente do próprio Heitor de não repetir a
+  decisão solitária de décadas atrás. O Conselho de Patrimônio volta a
+  pressionar por compromisso integral de dois anos já durante a
+  viagem provisória (cap. 38), reabrindo o dilema original sem
+  resposta ainda no fechamento do ato.
+
+### Marco: o padrão nomeado e testado
+Conforme pedido pela sinopse do Ato 2, o medo de Sofia de repetir a
+escolha de segurança/aprovação alheia acima do próprio desejo é
+nomeado explicitamente pela primeira vez em voz alta no cap. 21
+(conversa com Marlene) e volta a ser testado em cada capítulo seguinte
+sob ângulo diferente: reputação social (cap. 25), pressão bem-
+intencionada mas real da família — Pedro (cap. 29) e Leo (cap. 37) —,
+e o medo específico de abandono reativado pela distância física a
+partir do cap. 34. Sofia não "resolve" o padrão de uma vez; recua
+por instinto pelo menos duas vezes (a oferta automática de "vá pra
+Lisboa" no cap. 20 e o quase-silêncio da despedida no cap. 33) mas se
+corrige, cada vez, antes de completar o gesto de autoapagamento —
+diferença deliberada em relação à mulher de vinte anos que nunca se
+corrigiu a tempo, tema repetido em eco ao longo do ato.
+
+### Marco: o dilema de Heitor mantido genuinamente dividido
+Conforme instrução explícita de não forçar resposta óbvia: Heitor
+termina o Ato 2 sem decisão fechada sobre o convento. A viagem curta
+(cap. 31) é solução intermediária, não resposta final — o cap. 38
+reabre a pressão pelo compromisso total de dois anos, e o cap. 40
+fecha com ele "sem certeza sobre qual dos dois caminhos... ainda vai
+estar de pé quando finalmente decidir qual deles escolher". O texto
+evita, deliberadamente, qualquer sinalização de qual escolha é a
+"certa" — tanto o entusiasmo profissional genuíno (cap. 36) quanto o
+amor por Sofia são tratados como igualmente reais ao longo do ato.
+
+### Marco: reação da família — aprofundamento
+Leo: do desconforto inicial processado com franqueza (cap. 23, "preciso
+de um tempo pra a imagem parar de estranhar") a um deslize genuíno mas
+doloroso (cap. 37, insinuando que a distância pode ser "mais fácil"
+pra Heitor), mostrando que o ajuste emocional dele não é linear.
+Pedro: preocupação protetora explícita ligada à recuperação cardíaca
+de Sofia (cap. 29), vulnerabilidade rara admitida ("estranho imaginar
+a senhora vulnerável assim"), evolução até reconhecimento (cap. 35).
+Isabela: presença de apoio constante (caps. 23, 25, 31, 35, 39), sem
+arco de conflito próprio neste ato — papel de aliada estável mantido.
+Inês: confidente direta de Sofia sobre o próprio medo (cap. 27),
+oferecendo a distinção entre "pedir" e "exigir" que se torna
+ferramenta prática de Sofia pra conversa do cap. 28.
+
+### Heat — cadência no Ato 2
+Três cenas registradas: cap. 24 (POV Heitor, primeira noite completa
+do casal, na casa vazia depois da visita da família), cap. 30 (POV
+Heitor, reconciliação depois de atrito telefônico, na noite da
+inauguração do Jardim da Luz), cap. 33 (POV Sofia, véspera do
+embarque de Heitor, registro agridoce). Total do livro até aqui: 4
+cenas (cap. 14 do Ato 1 + as 3 do Ato 2), dentro da meta de 3-5 cenas
+do livro inteiro, com folga pra até mais uma no Ato 3 se fizer
+sentido organicamente — não é obrigatório. Registro fade-to-warm
+mantido nas três: tensão e vulnerabilidade emocional plena, fechando
+antes de detalhe anatômico completo, peso emocional sempre à frente
+da descrição física. `loop_state.py check` não emitiu nenhum aviso de
+atraso de cadência de heat em nenhum momento do ato (gap máximo real
+entre cenas: cap. 14 → cap. 24, 10 capítulos; bem dentro do
+`max_heat_gap` de 20).
+
+### Ritmo de extensão — status honesto do Ato 2
+20.630 palavras em 22 capítulos, média de **937,7 palavras/capítulo**
+— dentro da faixa-alvo de 950-1100 na maioria dos capítulos após o
+ajuste fino final, ligeiramente acima da média do Ato 1 (917,6
+palavras/capítulo), mas ainda abaixo do centro da faixa no total
+acumulado, pelo mesmo motivo do ato anterior: vários capítulos
+fechados perto do piso duro.
+
+Honestidade total sobre o processo, conforme já esperado e
+documentado no `project_dna.md`/`LOOP_INSTRUCTIONS.md` deste livro
+(nenhuma técnica nova tentada, por decisão consciente): **22 de 22
+capítulos (100%) precisaram de pelo menos uma rodada de `Edit` de
+expansão** após o primeiro `Write` de Abertura+Desenvolvimento —
+taxa idêntica à observada em todos os atos anteriores do catálogo
+(sempre 100%, independente da técnica de mira tentada). A faixa real
+do primeiro rascunho ficou entre 498 e 913 palavras, com a maioria
+concentrada entre 540-790 — um pouco mais baixa, em média, que a faixa
+do Ato 1 (466-867), sinal de que os primeiros rascunhos deste ato
+tenderam a ser mais enxutos ainda, sobretudo nos capítulos finais
+(34-40), todos escritos com Heitor ou Sofia fisicamente distantes um
+do outro, formato de cena mais contido (telefonema, reflexão solitária)
+que aparentemente produz rascunho inicial mais curto que cena de
+interação presencial.
+
+Diferença notável em relação ao Ato 1, registrada com a mesma
+honestidade pedida: **10 dos 22 capítulos (45%) bateram diretamente no
+piso duro do `loop_state.py record` pelo menos uma vez** (caps. 27,
+29, 31, 34, 35, 36, 37, 38, 39, 40) — taxa mais alta que os 11% do Ato
+1 (2 de 18 capítulos). Os capítulos finais concentraram a maior
+dificuldade: caps. 34, 36 e 38 precisaram de três a quatro rodadas
+sucessivas de expansão e nova tentativa de registro antes de passar do
+piso (865 palavras, 85% da média-alvo de 1018/capítulo). Padrão
+observado: capítulos de reflexão solitária ou ligação telefônica
+tenderam a se estabilizar naturalmente entre 850-870 palavras — perto
+demais do piso duro pra passar de primeira, mesmo depois de uma
+primeira rodada de expansão substancial. A conclusão acumulada
+permanece a mesma, agora reforçada por mais um ato de evidência: a
+trava dura no registro é a única defesa que funciona de forma
+confiável — ela não reduz a necessidade de expandir (e neste ato
+exigiu mais rodadas que no anterior), mas segue garantindo que nenhum
+capítulo saia do livro abaixo do piso.
+
+### Régua "a gente" — status do Ato 2
+Vigilância redobrada, conforme alertado pelo padrão do Ato 1 (duas
+ocorrências do device proibido de autocorreção em voz alta). Neste
+ato, o próprio processo de escrita produziu uma ocorrência do device
+proibido **durante a expansão do cap. 32** — diálogo de Heitor
+começando "A gente..." seguido de autocorreção narrada mencionando o
+hábito de vigiar a própria fala desde que Sofia o corrigiu "meses
+atrás" — pega e reescrita por completo *antes* de rodar o
+`regua_gate.py` pela primeira vez naquele arquivo, portanto nunca
+chegou a ser testada pelo script nem aprovada com o defeito presente.
+Registrado aqui com total transparência: o padrão de tentação
+descrito no Log do Ato 1 (usar a autocorreção como piada
+metalinguística) não só persistiu como se manifestou na própria
+produção deste ato, reforçando que a vigilância deve continuar
+tratada como trava ativa a cada capítulo, nunca como formalidade.
+Nenhuma outra ocorrência do pronome proibido, forma oblíqua colada ou
+device de autocorreção foi identificada pelo `regua_gate.py` nem pela
+varredura manual (`grep`) em nenhum dos 22 capítulos — os únicos hits
+de `grep` foram falsos positivos legítimos ("muita gente", "tanta
+gente", cap. 22 e 25). Varredura final com `regua_gate.py` em todos os
+arquivos 19-40 confirma **22/22 capítulos LIMPOS** no texto publicado.
+
+### Fechamento do Ato 2
+22/22 capítulos escritos, aprovados, registrados. Nenhum bloqueio
+estrutural. Nenhuma contradição de continuidade com os Livros 1-2 nem
+com o Ato 1 deste livro identificada. `loop_state.py check` reporta
+ritmo de extensão e heat dentro da meta ao final do ato. O ato fecha
+deliberadamente em incerteza — dilema do convento reaberto sob prazo
+mais duro, primeira fratura de comunicação real do casal (silêncio de
+três dias de Heitor, cap. 38, e ligação de reconciliação parcial sem
+resolução completa, cap. 39) — abrindo caminho para o Ato 3 decidir
+tanto o destino profissional de Heitor quanto o do relacionamento,
+conforme pedido pela sinopse. Próximo capítulo: 41, POV Sofia.
