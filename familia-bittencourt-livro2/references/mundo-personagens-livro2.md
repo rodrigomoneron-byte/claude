@@ -392,3 +392,202 @@ com a régua da bíblia para o ato final: Pedro precisa provar mudança
 real com ação concreta sustentada ao longo do tempo, envolvendo
 Isabela, Leo e Dona Sofia, culminando em reconciliação romântica
 genuína e reconciliação familiar mais completa (mas não perfeita).
+
+## Log de decisões de escrita (capítulos 41-55, Ato 3 — fechamento do livro)
+
+### Elenco e fatos novos fixados na escrita
+- **Ricardo Falcão** — headhunter que oferece a Pedro o cargo de CEO da
+  "Máxima Capital" (cap. 43), a tentação concreta do "velho padrão de
+  ambição a qualquer custo" prevista na bíblia. Pedro hesita (cap. 43),
+  recusa formalmente por telefone (cap. 45) — decisão de valores mostrada
+  em ação, não em discurso, decidida ANTES de saber se haveria qualquer
+  recompensa romântica ou familiar por isso.
+- **Dr. Vasco Meireles** — advogado pro bono da comunidade do Pátio das
+  Flores, conduz a petição formal contra o Cronos Living e a apresentação
+  na audiência municipal (caps. 46, 49).
+- Miguel Antunes (herdado do Ato 1) reaparece como representante do
+  Cronos Living na audiência (cap. 49), confrontado com a fraude
+  documental.
+- Nova crise de Dona Sofia (arritmia grave com obstrução, cap. 41):
+  cirurgia bem-sucedida na madrugada, recuperação exige redução real de
+  estresse; ela recebe alta em casa no cap. 46. NÃO morre — resolvida
+  "bem", conforme a diretriz do usuário (crise de saúde que se resolve
+  positivamente).
+- Nova ameaça ao Pátio das Flores: notificação de desocupação emergencial
+  do Cronos Living (cap. 42) baseada em laudo técnico com data de vistoria
+  forjada — descoberta por Pedro (cruzamento de dados públicos, cap. 45,
+  contribuição de conhecimento/tempo, não de dinheiro da família
+  Bittencourt) e confirmada por Sara com fonte interna anônima (cap. 46).
+  Audiência municipal (cap. 49) resulta em revogação da licença do Cronos
+  Living e processo administrativo aberto contra o fundo (cap. 50) —
+  vitória da comunidade, creditada a Inês/Sara/advogado, não a Pedro.
+
+### A prova de mudança real de Pedro (regra da bíblia: não perdão automático)
+Decidida na escrita como caminho duplo, conforme a sinopse do ato:
+(1) decisão profissional — recusa do cargo de CEO da Máxima Capital
+(cap. 45), com tentação mostrada em cena (cap. 43) antes da recusa, não
+uma decisão fácil sem custo; (2) contribuição de conhecimento à causa de
+Inês — análise financeira forense do laudo forjado do Cronos Living,
+gratuita, sem envolver recursos ou advogados da família Bittencourt (caps.
+45-46), e apresentação técnica pessoal na audiência municipal como
+"consultor financeiro voluntário", sem menção ao sobrenome (caps. 49-50).
+Família (Isabela, Leo, Dona Sofia) observa e comenta a mudança, mas não
+oferece perdão automático — Dona Sofia declara explicitamente, do leito
+de hospital (cap. 43): "redenção não se prova numa noite, se prova nos
+meses chatos depois", e só reconhece Pedro como mudado "de verdade" ao
+final do ato (cap. 54), depois de meses de ação sustentada.
+
+### Reparação familiar (Isabela, Leo, Dona Sofia)
+Isabela confia a Pedro, pela primeira vez desde o escândalo, uma
+apresentação real e visível a um investidor institucional do Fundo
+Travessia (cap. 43) — risco calculado, não perdão cego, verbalizado como
+teste. Leo mantém aproximação mais reservada, mas real, sem frieza
+(caps. 43, 47). Dona Sofia entrega a Pedro, em conversa privada (cap. 47),
+uma história nova sobre Ricardo (pai de Pedro) ter restaurado sozinho um
+relógio de bolso quebrado — eco temático plantado deliberadamente para
+justificar a decisão de Pedro aprender a fazer um azulejo com as próprias
+mãos. Pedro pede autorização explícita à família antes de viajar de volta
+a Lisboa (cap. 47) — mudança de comportamento comparada abertamente por
+Isabela ao padrão antigo de "simplesmente ir embora" do fechamento do
+Ato 2.
+
+### Símbolo do livro — resolução no clímax
+Conforme a bíblia, o painel físico do Pátio das Flores já estava
+COMPLETO desde o cap. 17 (Ato 1) — não havia mais cacos físicos para
+remontar na fachada. A escrita resolveu o símbolo pelo caminho da segunda
+opção prevista na sinopse: Pedro aprende, à distância, com Ilídio (cap.
+47) e pratica sozinho em São Paulo (cap. 55) a fazer um azulejo de
+andorinha inteiramente com as próprias mãos — imperfeito (asa
+desproporcional, tom de azul mais escuro, rachadura deixada visível de
+propósito), sem ninguém terminando o trabalho por ele. Entrega a peça a
+Inês em frente ao painel completo do Pátio das Flores (cap. 55, clímax do
+livro), como gesto concreto de reparação/declaração, não um discurso —
+a peça nova fica pousada ao lado da miniatura original de Ilídio na
+estante de Inês, fechando o motivo de partida/retorno da andorinha
+migratória.
+
+### Reconciliação romântica — escolha própria de Inês
+Conforme a diretriz do usuário, a decisão de confiar de novo não foi
+automática nem "porque a trama exige". Marcos decididos na escrita:
+Inês envia mensagem vulnerável a Pedro em vez de esconder o próprio medo
+(cap. 42, eco consciente do padrão de Duarte que ela está tentando
+quebrar); aceita a ajuda financeira/técnica de Pedro só depois de Sara
+distinguir explicitamente "contribuição" de "compra de solução" (cap.
+46); e, no ato mais decisivo, decide sozinha e em segredo visitar São
+Paulo pela primeira vez (cap. 52) — sem ser convidada, sem a trama
+forçar a viagem, motivada pela própria reflexão sobre reciprocidade
+("nunca fez o caminho contrário"). A resposta final de aceite ao pedido
+de Pedro no clímax (cap. 55) é formulada explicitamente como escolha
+própria ("Escolho confiar nisso. Escolho você"), não gratidão nem obrigação.
+
+### Reciprocidade — Inês em São Paulo
+Novo beat não previsto explicitamente na bíblia, decidido na escrita
+para dar simetria ao arco: Inês viaja a São Paulo (cap. 53) pela primeira
+vez, é recebida por Dona Sofia, Leo e Isabela em acolhimento caloroso mas
+não incondicional ("não é perdão instantâneo, nem aceitação cega" —
+texto do cap. 53). Conversa a sós entre Inês e Dona Sofia (cap. 54)
+confirma a aprovação da matriarca ("Bem-vinda à família, minha filha. De
+verdade, dessa vez"), fechando o arco de reparação familiar do livro sem
+declarar perfeição.
+
+### Futuro Lisboa/São Paulo — decisão sem apagar autonomia
+Conversa explícita entre Pedro e Inês (cap. 54) resolve a logística do
+relacionamento sem forçar mudança de cidade de nenhum dos dois: Inês
+mantém o Fenda e a base em Lisboa, aceita colaboração fixa com veículo
+internacional em formato remoto, negociado nos próprios termos (cap. 52,
+confirmado cap. 55); Pedro mantém o papel de consultor técnico do Fundo
+Travessia e a proximidade recuperada com a família em São Paulo. Os dois
+combinam viagens frequentes e meses alternados, decisão descrita
+abertamente como "ainda imperfeita", sujeita a ajuste — consistente com
+o tom de reconciliação medida da série. SEM epílogo, conforme instrução
+travada — o livro fecha no cap. 55, sem salto de tempo para o futuro.
+
+### Heat — cadência no Ato 3
+Cinco cenas novas: cap. 44 (Inês, videochamada em meio à dupla crise,
+gap de 5 desde o cap. 39), cap. 48 (Inês, reencontro presencial em
+Lisboa antes da audiência, gap de 4), cap. 51 (Pedro, noite de
+celebração da vitória do Pátio das Flores, gap de 3), cap. 53 (Pedro,
+primeira noite de Inês no apartamento de Pedro em São Paulo — beat de
+reciprocidade, gap de 2) e cap. 55 (Pedro, clímax do livro, gap de 2).
+Total final do livro: **10/10 cenas em 55/55 capítulos**, meta batida
+exatamente, nenhum gap excedendo o máximo de 6 em nenhum momento do ato.
+`loop_state.py check` reportou "ritmo dentro da meta" a partir do
+registro do cap. 48 até o fechamento do livro.
+
+### Ritmo de extensão — status honesto do Ato 3 e MIRA NUMÉRICA NOVA
+A técnica testada neste ato foi diferente das duas tentativas anteriores
+(que pediam qualitativamente "mirar mais alto"/"mais substância na
+abertura", ambas sem sucesso mensurável, 100%/100% de expansão de
+emergência nos Atos 1 e 2): uma meta MECÂNICA e numérica — não parar de
+escrever a Abertura+Desenvolvimento antes de pelo menos 4-5 parágrafos
+de prosa corrida, cada um com 3-4 frases, antes do primeiro `wc -w`.
+
+Resultado honesto: **essa técnica também não eliminou a expansão de
+emergência — 15 de 15 capítulos (100%) precisaram de pelo menos uma
+rodada de `Edit` de expansão** após o primeiro `Write`. A faixa real do
+primeiro rascunho (Abertura+Desenvolvimento) ficou entre 202 e 484
+palavras — em linha com a faixa observada nos Atos 1 e 2 (200-570 e
+220-453 respectivamente), sem melhora clara. A meta de "4-5 parágrafos"
+foi cumprida estruturalmente (o primeiro `Write` de cada capítulo
+efetivamente continha entre 4 e 6 parágrafos de prosa corrida, não só
+diálogo), mas cada parágrafo individual saiu mais curto do que o
+esperado para bater o piso intermediário de ~575-605 só com esse número
+de parágrafos — ou seja, o critério de ESTRUTURA (contagem de
+parágrafos) foi seguido à risca, mas não se traduziu automaticamente em
+critério de EXTENSÃO (contagem de palavras), porque a densidade por
+parágrafo (frases curtas, diálogo intercalado) variou mais do que o
+número de parágrafos em si.
+
+Ponto adicional, não observado nos atos anteriores: com apenas 15
+capítulos restantes para fechar a meta de 55.000-58.000 palavras a
+partir de 38.590/40 capítulos, o orçamento médio necessário por capítulo
+(~1.050-1.300) era mais alto que a prática real de escrita sustentou —
+o total após os 15 capítulos no piso duro (873-1.150 por capítulo) ficou
+em 53.506 palavras, abaixo do mínimo de 55.000. Esse déficit só foi
+detectado ao terminar o cap. 54, quando restava apenas 1 capítulo para
+fechar o livro — tarde demais para se corrigir com um único capítulo
+dentro da faixa normal de 950-1100. Corrigido em dois movimentos: (1)
+expansão retroativa dos 14 capítulos já registrados (41-54), somando
++1.731 palavras distribuídas, todas revalidadas pela régua e
+re-registradas no `loop_state.py`; (2) o capítulo 55 (clímax/fechamento,
+sem epílogo) escrito deliberadamente mais longo que a faixa padrão
+(1.731 palavras), justificado estruturalmente por ser o capítulo que
+precisa carregar o gesto do clímax, a reconciliação romântica final E o
+fechamento logístico do relacionamento, sem nenhum capítulo posterior
+para completar essas funções. Total final: 55.237 palavras — dentro da
+meta de 55.000-58.000, mas com margem apertada (237 palavras acima do
+piso). Lição real para qualquer produção futura da casa: quando o
+número de capítulos restantes é fixo e pequeno, o `loop_state.py check`
+precisa ser consultado com foco na PROJEÇÃO de total final a partir de
+metade do ato, não só no ritmo médio corrente — o aviso de "ritmo dentro
+da meta" que o script reportou capítulo a capítulo ao longo de todo o
+Ato 3 media a MÉDIA ATÉ ALI, não o total PROJETADO para o fim do livro
+com o número de capítulos restantes fixo, e por isso não sinalizou esse
+risco a tempo.
+
+### Régua "a gente" — status do Ato 3 — vigilância que valeu a pena
+Conforme a recomendação do fechamento do Ato 2 (vigilância redobrada,
+não relaxar), a escrita pegou proativamente **três instâncias de "a
+gente" em rascunho antes de rodar o `regua_gate.py`**: cap. 44 (diálogo
+de Inês, "talvez a gente ainda consiga..."), cap. 52 (narração, "quando
+a gente está prestes a fazer alguma coisa importante") e cap. 53 (a mais
+grave — diálogo de Inês seguido de um parágrafo inteiro de Pedro
+"reformulando" a frase por dentro, batendo diretamente no device
+mecanicamente proibido; reescrito por completo, removendo tanto a
+expressão quanto a autocorreção narrada, não só a palavra). Todas as três
+foram identificadas e reescritas por revisão própria durante a escrita,
+antes de qualquer capítulo ser submetido ao gate ou registrado — nenhuma
+chegou a ficar aprovada com esse defeito. O padrão confirma a lição do
+Ato 2: o risco é real e recorrente neste projeto (registro brasileiro
+natural convida a expressão com frequência), e a vigilância deliberada
+continua sendo a única defesa que funciona de fato, já que o
+`regua_gate.py` só pega o que chega até ele. Varredura final com
+`regua_gate.py` em todos os 55 capítulos do livro completo confirma
+**55/55 capítulos LIMPOS**.
+
+### Fechamento do Ato 3 e do livro
+15/15 capítulos do Ato 3 escritos, aprovados, registrados. Nenhum
+bloqueio estrutural. Livro completo: 55/55 capítulos, 55.237 palavras,
+10/10 cenas de heat, score médio 6.49/7, régua limpa em 100% dos
+capítulos. Sem epílogo, conforme decisão travada — fechamento reservado
+para decisão futura da trilogia (Livro 3).
