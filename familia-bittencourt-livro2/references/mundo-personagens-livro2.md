@@ -216,3 +216,179 @@ device proibido. Varredura final confirma 18/18 capítulos LIMPOS.
 estrutural. Ato 2 (consequências do passado de Pedro alcançando o
 presente, revelação por terceiros antes dele conseguir contar) pronto
 para começar no capítulo 19, POV Pedro.
+
+## Log de decisões de escrita (capítulos 19-40, Ato 2)
+
+### Elenco e fatos novos fixados na escrita
+- **Dr. Anselmo Kroeff** — auditor externo contratado pelo conselho do
+  Grupo Bittencourt pra revisar os registros antigos do Fundo
+  Travessia (cap. 21); confirma "defasagem de sistema legado", não
+  fraude, depois de Pedro explicar o padrão. Relatório final absolve
+  formalmente (cap. 25).
+- **Nelson Vasconcelos** (pai de Leo) — aparece em cena pela primeira
+  vez (cap. 31): Pedro viaja até a fazenda dele pra confessar,
+  pessoalmente, que foi quem vazou detalhes do processo antigo dele
+  pra imprensa na época da gala do L1. Nelson não perdoa de imediato,
+  mas aceita depoimento público de Pedro como "primeiro passo" —
+  elemento concreto de reparação por ação, não só discurso, coerente
+  com a régua do livro ("Pedro não pode ser perdoado com facilidade
+  demais").
+- Nova consultoria de Pedro no Fundo Travessia (cap. 25): o conselho,
+  a pedido de Isabela e Dona Sofia, oferece papel de consultor técnico
+  sem cargo executivo — Pedro aceita, marcando o novo tipo de
+  pertencimento do arco (útil sem poder formal).
+- Proposta de colaboração editorial de veículo internacional pro Fenda
+  (cap. 32) — arco profissional próprio de Inês avançando em paralelo
+  à crise pessoal, conforme a bíblia exige (ela não é só "objeto de
+  redenção do Pedro").
+
+### O mecanismo da revelação (dark moment do Ato 2)
+Decidido na escrita, seguindo a bíblia: gatilho misto, não só um ou
+outro. Inês reabre a busca antiga por conta própria (cap. 22, cede ao
+instinto profissional depois de Sara comentar de passagem sobre a
+"família grande" de Pedro) e finalmente clica na foto que vinha
+evitando desde o cap. 18 — mas o fragmento que encontra sozinha (uma
+legenda parcial de coluna social) não fecha o quadro completo. Pede
+ajuda formal a Sara (cap. 24), que, usando ferramenta e rede de
+jornalista profissional, entrega o dossiê completo (cap. 26): a coluna
+anônima da Vidraça Social insinuando fraude no casamento de Isabela, o
+confronto público na gala com fotos fora de contexto, e o vazamento
+calculado do processo antigo de Nelson Vasconcelos como arma contra a
+família de Leo. Pedro descobre pelo silêncio dela (cap. 27) e, ao
+ligar, é confrontado com os três fatos específicos que ainda não tinha
+contado — a crise de confiança começa em cima dele sendo julgado, eco
+temático deliberado do L1 (onde ele era quem desconfiava).
+
+### Pedro — confissão completa
+Pedro conta a Isabela e Leo a verdade completa em cap. 29 (antes
+mesmo de saber se Inês vai continuar a conversa), decide viajar até
+Nelson Vasconcelos pessoalmente (cap. 31), e só depois disso, a pedido
+explícito de Inês ("Conta-me o resto. Do início ao fim, sem editar
+nada", cap. 32), narra a história inteira pra ela por chamada de vídeo
+(cap. 33) — a coluna anônima, a gala, o vazamento do processo. Ordem
+deliberada: reparação de ação primeiro (família, Nelson), palavra
+depois — coerente com a régua "redenção mostrada em ação, não numa
+cena só".
+
+### Reação de Inês — não ruptura total, mágoa real
+Conforme a diretriz do usuário: Inês não rompe definitivamente. Fica
+em silêncio um dia inteiro (cap. 26), confronta Pedro por chamada
+(cap. 27), pede espaço explícito ("não me liga essa semana", cap. 27),
+processa com Sara e Dona Amélia o eco do trauma com Duarte (caps. 28,
+30, 34), guarda e depois devolve a miniatura de andorinha pra estante
+(cap. 30, gesto de recusa a fingir que nada aconteceu, sem ser
+perdão), e só depois de ouvir a confissão completa (cap. 33) escreve
+pra ele pedindo encontro presencial (cap. 36) em vez de resolver tudo
+por chamada de vídeo.
+
+### Fechamento do Ato 2 (caps. 39-40)
+Pedro viaja a Lisboa (cap. 39): conversa presencial, os dois combinam
+tentar "devagar, um passo de cada vez" — não é reconciliação instant-
+ânea nem declaração de volta ao namoro formal, é acordo cauteloso de
+tentativa. Segue cena de heat (a 5ª do livro) marcando reconexão física
+real. Na madrugada seguinte (cap. 40), ligação de Isabela: Dona Sofia
+teve nova crise cardíaca, cirurgia de emergência marcada — Pedro parte
+de volta a São Paulo horas depois de reatar, a visita interrompida
+antes de qualquer teste real da promessa. O Ato 2 fecha não em ruptura
+declarada, mas em distância física reimposta sobre uma reconciliação
+ainda não testada — Inês sozinha na varanda, a miniatura de andorinha
+na mão, sem saber se a promessa de "tentar devagar" sobrevive a mais
+uma separação abrupta. Gancho pro Ato 3: Pedro precisa provar a
+mudança com ação sustentada ao longo do tempo, não com um único gesto
+ou confissão — exatamente a régua que a bíblia pede pro ato final.
+
+### Heat — cadência no Ato 2
+Três cenas novas: cap. 20 (Inês, chamada de vídeo, gap de 5 desde o
+cap. 15), cap. 23 (Pedro, chamada de vídeo depois do almoço de
+família, gap de 3) e cap. 39 (Pedro, reencontro presencial em Lisboa,
+gap de 16 desde o cap. 23). Total do livro ao fim do Ato 2: 5/10
+cenas em 40/55 capítulos.
+
+O gap de 16 capítulos entre os caps. 23 e 39 excede deliberadamente o
+máximo de 6 definido na bíblia — decisão consciente, não descuido: os
+caps. 24-38 cobrem a descoberta, a confrontação, o pedido de espaço, o
+processamento da mágoa e a reconstrução de confiança familiar, período
+em que uma cena de heat não sustentaria a dramaturgia (a própria
+diretriz do usuário autorizou hiato documentado nesse trecho,
+"não force nenhuma durante o período de maior crise de confiança").
+O `loop_state.py check` sinalizou o gap excedido e o atraso de cadência
+repetidamente a partir do cap. 30 — o aviso ficou ativo e visível o
+ato inteiro por escolha deliberada, não por a inconsistência ter
+passado despercebida. Recomendação pro Ato 3: com a crise de confiança
+resolvida o suficiente pra permitir aproximação de novo, encaixar a
+6ª cena cedo, dentro do gap de 6, pra recuperar a cadência antes do
+final do livro.
+
+### Ritmo de extensão — status honesto ao fim do Ato 2
+21.171 palavras em 22 capítulos, média de **962,3 palavras/capítulo**
+— na prática igual (levemente abaixo, ~0,6%) à média de 967,7 do Ato 1
+deste mesmo livro, apesar da instrução explícita de tentar uma técnica
+nova: incluir pelo menos 2 parágrafos de desenvolvimento sensorial/
+reflexivo substanciais já na Abertura, antes de considerar a Abertura
+"terminada". Total do livro (Atos 1+2): 38.590 palavras em 40
+capítulos, média 964,75/capítulo.
+
+Honestidade total sobre a técnica nova: **não funcionou como
+esperado**. Em nenhum dos 22 capítulos deste ato o primeiro `Write`
+(Abertura + Desenvolvimento) atingiu o piso intermediário de ~575-605
+palavras — a faixa real do primeiro rascunho ficou entre 220 e 453
+palavras, na prática *mais curta* que a faixa observada no Ato 1
+(200-570). A intenção de "já escrever 2 parágrafos substanciais na
+abertura" não se traduziu em prática consistente: o hábito de escrever
+cena por beat dramático (não por meta de palavras) continuou
+dominando o primeiro rascunho, e as aberturas seguiram compactas por
+padrão. Resultado prático: **22 de 22 capítulos (100%) precisaram de
+pelo menos uma rodada de `Edit` de expansão** além do processo mínimo
+de duas chamadas — taxa idêntica à do Ato 1 (também 100%), sem
+melhora mensurável. Pior ainda num ponto específico: **12 dos 22
+capítulos (55%)** precisaram de uma expansão adicional *depois* da
+Virada+Saída, porque o rascunho pós-virada ainda ficava abaixo do piso
+duro de 873 palavras (85% da média-alvo) — nesses casos o processo
+levou 3 rodadas de edição em vez de 2. Isso é pior, em número de
+rodadas por capítulo, do que o Ato 1 registrou.
+
+Conclusão honesta: a técnica recomendada ("incluir mais substância já
+na primeira chamada de Write") não foi executada com disciplina
+suficiente na prática de escrita real, apesar da intenção declarada no
+início do ato. O piso duro do `loop_state.py record` continuou
+funcionando perfeitamente como rede de segurança (nenhum capítulo foi
+registrado abaixo de 873 palavras), mas o objetivo de *reduzir* a
+necessidade de expansão, especificamente, não foi alcançado. Para o
+Ato 3, a recomendação mais honesta não é repetir a mesma instrução
+("escrever mais na abertura") — já testada e não cumprida duas vezes
+— mas mudar o processo mecânico: escrever a Abertura+Desenvolvimento
+com uma meta de palavras explícita e visível (ex: "não parar de
+escrever até bater 650 palavras", medida a cada poucos parágrafos, em
+vez de confiar em "escrever mais substância" como orientação
+qualitativa).
+
+### Régua "a gente" — status do Ato 2
+Mais vigilância necessária neste ato do que no Ato 1. Um hit real
+pego pela trava mecânica do `regua_gate.py` (cap. 21, fala de Leo:
+"não precisa provar nada pra gente toda reunião") — corrigido na hora.
+Além disso, **cinco instâncias adicionais de "a gente" foram escritas
+em rascunho e detectadas por revisão própria antes de rodar o gate**
+(caps. 28, 29, 32, 37, 40) — nunca chegaram a ser submetidas ao
+`regua_gate.py` nem ao registro, mas o número é notavelmente mais alto
+que o do Ato 1 (que teve só 1 hit de gate + 1 risco evitado
+proativamente). Mais grave: em **três dessas cinco ocorrências (caps.
+28, 32, 40)**, o primeiro rascunho também incluiu, momentaneamente, o
+device mecanicamente proibido — um personagem ou a narração notando
+ou "corrigindo" o uso de "a gente" em vez de simplesmente não usar a
+expressão. As três ocorrências foram reescritas por completo (não só
+a palavra trocada, o parágrafo inteiro) antes de qualquer gate rodar,
+então **nenhuma chegou a ficar registrada como aprovada com esse
+defeito** — mas o padrão indica que a vigilância contra esse device
+específico precisa ser redobrada no Ato 3, não relaxada. Varredura
+final com `regua_gate.py` + grep manual confirma **22/22 capítulos
+LIMPOS** no texto publicado.
+
+### Fechamento do Ato 2
+22/22 capítulos escritos, aprovados, registrados. Nenhum bloqueio
+estrutural. `loop_state.py check` reporta aviso ativo e documentado de
+atraso/gap de cadência de heat (deliberado, ver seção acima) — não um
+erro não percebido. Ato 3 (caps. 41-55) pronto para começar,
+com a régua da bíblia para o ato final: Pedro precisa provar mudança
+real com ação concreta sustentada ao longo do tempo, envolvendo
+Isabela, Leo e Dona Sofia, culminando em reconciliação romântica
+genuína e reconciliação familiar mais completa (mas não perfeita).
