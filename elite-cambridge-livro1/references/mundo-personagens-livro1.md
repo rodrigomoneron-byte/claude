@@ -42,4 +42,45 @@ fictícias (nenhuma Big Tech real nomeada como vilã).
   articulada em cena, não caricatura vazia.
 
 ## Log de decisões de escrita (preencher durante a produção)
-- (a preencher conforme os capítulos forem escritos)
+- **Helena Costa**, 27 anos, de Juiz de Fora (Minas Gerais). Pai Ricardo,
+  contador; mãe Marta, professora de escola pública — família de classe
+  média que financiou o inglês e o intercâmbio dela. Veio com bolsa
+  fictícia "Bolsa Alvorada" + financiamento de Harvard, visto F-1.
+  Mora num apartamento pequeno perto de Central Square (Cambridge).
+- **Arthur Mendes**, 28 anos, do Rio de Janeiro (Zona Norte). Criado pela
+  mãe, Dona Célia (costureira), autodidata em programação desde os 14
+  anos, campeão de hackathons antes da graduação. Veio com bolsa
+  fictícia "Bolsa Ascende" (ONG brasileira de fomento a talentos em
+  tecnologia) + financiamento de Harvard, visto F-1.
+- **Professor Elias Sterling** — orientador dos dois, 60 e poucos anos,
+  tweed surrado, hábito de falar por enigmas/parábolas, consultor
+  informal de comitês de ética em IA do governo americano (não
+  nomeado/real — mantido vago de propósito).
+- **Dr. Marcus Harrison** — chefe do departamento, ternos caros,
+  consultor pago de empresas de tecnologia FICTÍCIAS: **Solvix
+  Corporation** (principal) e **Meridian Analytics** (secundária).
+  Motivação articulada: décadas de carreira acadêmica brilhante mas sem
+  equity/patrimônio equivalente ao dos ex-alunos que "ficaram ricos" no
+  mercado; racionaliza a venda de dados de pesquisa como "salvar" o
+  financiamento do departamento inteiro diante de cortes federais.
+- **Sofia Reyes** — melhor amiga de Helena, colombiana (Bogotá),
+  doutoranda em Interação Humano-Computador. Mora perto de Helena.
+- **Gabriel Cross** — colega/confidente de Arthur, americano (Chicago),
+  doutorando em IA, leal mas competitivo — quer crédito pelo próprio
+  trabalho.
+- **Algoritmo Janus** — nome do projeto/algoritmo de pesquisa que Helena
+  e Arthur desenvolveram de forma independente e que carrega o erro
+  crítico — símbolo central do livro (duas faces, passado/futuro,
+  rivalidade que é também espelho). Ganha peso simbólico crescente.
+- Conferência/publicação do Ato 1: submissão ao "Journal of Adaptive
+  Systems" (fictício) e ao "Simpósio Anual de Inteligência Computacional
+  de Cambridge" (fictício, evento do próprio departamento). A grande
+  conferência do Ato 2 (Vale do Silício) será a "NexusAI Summit"
+  (fictícia) — não usar nomes de empresas/conferências reais.
+- Prédio do laboratório: Maxwell Dworkin (real, cenário de Harvard,
+  sem função de vilão — igual ao uso de "Harvard" como pano de fundo
+  real permitido pela bíblia).
+- Gancho de fim de Ato 1 (cap. 18): assinatura digital oculta nos
+  metadados/commits do Janus aponta pra um domínio de e-mail externo
+  ligado à Solvix Corporation — não é bug aleatório, é manipulação
+  deliberada.

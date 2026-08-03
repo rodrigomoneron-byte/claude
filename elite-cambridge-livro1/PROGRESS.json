@@ -10,18 +10,163 @@
     "Arthur"
   ],
   "status": "Em andamento",
-  "next_chapter": 1,
+  "next_chapter": 19,
   "next_pov": "Helena",
-  "updated": "2026-08-03 22:08",
-  "chapters": [],
+  "updated": "2026-08-03 22:37",
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Helena",
+      "words": 1009,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 2,
+      "pov": "Arthur",
+      "words": 962,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 3,
+      "pov": "Helena",
+      "words": 980,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 4,
+      "pov": "Arthur",
+      "words": 943,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 5,
+      "pov": "Helena",
+      "words": 947,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 6,
+      "pov": "Arthur",
+      "words": 913,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 7,
+      "pov": "Helena",
+      "words": 912,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 8,
+      "pov": "Arthur",
+      "words": 942,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 9,
+      "pov": "Helena",
+      "words": 913,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 10,
+      "pov": "Arthur",
+      "words": 967,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 11,
+      "pov": "Helena",
+      "words": 871,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 12,
+      "pov": "Arthur",
+      "words": 873,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 13,
+      "pov": "Helena",
+      "words": 865,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 14,
+      "pov": "Arthur",
+      "words": 907,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 15,
+      "pov": "Helena",
+      "words": 882,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 16,
+      "pov": "Arthur",
+      "words": 870,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 17,
+      "pov": "Helena",
+      "words": 875,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 18,
+      "pov": "Arthur",
+      "words": 947,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    }
+  ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
-    "heat_scenes_done": 0,
-    "last_heat_chapter": null
+    "chapters_done": 18,
+    "total_words": 16578,
+    "pages_kdp": 55,
+    "avg_score": 7.0,
+    "pct_to_target": 29,
+    "heat_scenes_done": 1,
+    "last_heat_chapter": 10
   }
 }
