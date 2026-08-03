@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Helena)
-- Última atualização: 2026-08-03 22:37
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Helena)
+- Última atualização: 2026-08-03 23:12
 
 ## Placar
-- Palavras: 16578
-- Páginas KDP (~palavras/300): 55
-- Score médio: 7.0
-- Meta de palavras: 56500 (29%)
-- Cenas de heat: 1 / meta 11 (última no cap. 10)
+- Palavras: 36368
+- Páginas KDP (~palavras/300): 121
+- Score médio: 6.91
+- Meta de palavras: 56500 (64%)
+- Cenas de heat: 8 / meta 11 (última no cap. 37)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
