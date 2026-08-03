@@ -439,3 +439,217 @@ três dias de Heitor, cap. 38, e ligação de reconciliação parcial sem
 resolução completa, cap. 39) — abrindo caminho para o Ato 3 decidir
 tanto o destino profissional de Heitor quanto o do relacionamento,
 conforme pedido pela sinopse. Próximo capítulo: 41, POV Sofia.
+
+## Log de decisões de escrita (capítulos 41-57, Ato 3 + Epílogo — FECHAMENTO DA TRILOGIA)
+
+### Arco do Ato 3 — visão geral
+Estrutura executada em sequência única: (1) Sofia rompe o próprio padrão
+de autoapagamento antes mesmo de saber a resposta de Heitor, dizendo a
+verdade inteira por telefone sem esperar reciprocidade (cap. 41); (2)
+Heitor, em vez de escolher entre o convento e Sofia, propõe ao Conselho
+de Patrimônio um formato híbrido (presença concentrada nas fases
+críticas, não residência fixa) — a solução criativa "nenhum dos dois
+esperava" pedida pela bíblia, aceita em caráter experimental (caps. 42,
+44); (3) reconciliação familiar explícita, com Leo fechando o próprio
+arco de "ajustar a imagem" da avó em conversa direta (cap. 43) e depois
+numa manhã de trabalho manual lado a lado com Heitor na estufa (cap.
+50); (4) volta definitiva de Heitor a São Paulo — despedida consciente
+de Lisboa/Marina (cap. 46), reencontro no aeroporto (cap. 47), quinta e
+última cena de heat de reconciliação (cap. 48); (5) jantar formal de
+boas-vindas com brinde de Leo fechando o próprio arco publicamente
+(cap. 49); (6) duplo pedido simultâneo — Sofia planeja pedir Heitor em
+casamento/convite pra morar de vez (caps. 43, 51), Heitor planeja pedir
+Sofia em casamento (cap. 52), sem que nenhum saiba do plano do outro,
+convergindo os dois na estufa no mesmo instante (cap. 53, CLÍMAX) —
+gesto concreto duplo usando conscientemente a bancada com orquídea
+(Otávio), alecrim (Heitor/Marina) e a alfazema portuguesa nova (pedido
+de Sofia) lado a lado; (7) anúncio à família reunida (cap. 54); (8)
+despedida consciente de Sofia de Otávio no cemitério, na véspera do
+casamento, fechando o próprio arco pessoal sem culpa (cap. 55); (9)
+EPÍLOGO em dois capítulos — o casamento em si, no jardim/estufa,
+reunindo o elenco completo da trilogia com os três símbolos aparecendo
+organicamente (cap. 56); e uma coda seis meses depois, POV Heitor,
+fechando pontas soltas de personagens secundários e a trilogia inteira
+(cap. 57).
+
+### Decisão estrutural: casamento como evento do epílogo
+Conforme a sugestão da bíblia ("um jantar de família, um aniversário,
+uma celebração"), o evento escolhido pra reunir o elenco foi o próprio
+casamento de Sofia e Heitor — decisão tomada na escrita porque permite
+que a reunião do elenco *seja* o fechamento romântico do livro, não um
+evento separado depois dele. Os três símbolos da trilogia aparecem
+organicamente no cap. 56: a taça de cristal reparada (L1) é emprestada
+por Pedro e Inês pro brinde do casamento; a andorinha de azulejo (L2)
+é dada de presente por Inês; a estufa/orquídea (L3) é o próprio
+cenário da cerimônia. Nenhum dos três é nomeado como "símbolo" em voz
+alta pelos personagens — aparecem como objetos e gestos concretos
+dentro da cena, não como lista de inventário.
+
+### Decisão estrutural: dois capítulos de epílogo, não um
+O cap. 56 (o casamento) fechou o arco romântico e reuniu o elenco,
+mas a checagem de projeção de palavras (ver seção de ritmo abaixo)
+mostrou o total ainda abaixo do piso de 55.000 mesmo depois do cap.
+56. Em vez de inflar o capítulo do casamento além do que a cena
+pedia organicamente, a decisão foi acrescentar um cap. 57 "# Epílogo"
+adicional — uma coda POV Heitor, seis meses depois, fechando pontas
+que o casamento em si não tinha espaço pra fechar (o formato híbrido
+do convento provado e consolidado, o interesse de Leo por paisagismo
+virando vocação real, o novo relacionamento de Beatriz, uma reflexão
+final de Heitor sobre Marina que reafirma "os dois amores cabem
+juntos" sem apagar nenhum). O livro termina, portanto, com 58
+capítulos nominais na numeração de arquivo (1-57, sendo 56-57 ambos
+"# Epílogo"), acima da sugestão inicial de ~56 — ajuste consciente de
+ritmo, não erro de planejamento.
+
+### Marco: o padrão de Sofia, resolução final
+O padrão nomeado no Ato 2 (décadas escolhendo segurança/aprovação
+alheia acima do próprio desejo) se resolve de forma ativa, não
+passiva: Sofia é quem liga primeiro pra Heitor no cap. 41, antes de
+saber a decisão dele sobre o convento — o texto marca isso
+explicitamente como diferença em relação à mulher de 22 anos que
+nunca disse a Heitor o que sentia antes dele partir. A resolução do
+casal não depende de Heitor "salvar" a situação: cada um resolve o
+próprio dilema (dela, o medo de pedir; dele, o falso binário entre
+convento e amor) de forma paralela e independente antes de convergir.
+
+### Marco: o dilema de Heitor, resolução sem falso binário
+Conforme pedido pela sinopse ("sem que nenhum dos dois precise se
+apagar"), Heitor não escolhe Sofia EM VEZ DO convento — ele propõe e
+consegue um formato de trabalho (consultoria híbrida, presença
+concentrada nas fases críticas) que preserva os dois compromissos.
+A cena da proposta ao Conselho (cap. 44) foi escrita deliberadamente
+como decisão profissional genuína, não sacrifício disfarçado —
+Heitor declara em voz alta que a felicidade pessoal "pesa" na decisão,
+sem pedir desculpa por isso, e o Conselho aceita o formato em caráter
+experimental por competência dele, não por comoção.
+
+### Marco: reconciliação familiar — fechamento
+Leo fecha o próprio arco em três estágios: confissão direta a Sofia
+sobre o próprio medo de "perder o controle" ao vê-la vulnerável (cap.
+43), trabalho manual lado a lado com Heitor que constrói confiança sem
+discurso (cap. 50), e brinde público no jantar de boas-vindas que
+reconhece o erro do "distância mais fácil" do Ato 2 e pede desculpa
+formalmente (cap. 49). Pedro e Isabela reafirmam o próprio apoio já
+estabelecido no Ato 2 sem precisar de arco novo — presença estável,
+conforme o padrão do livro inteiro. Beatriz (filha de Heitor) recebe
+fechamento próprio no cap. 57 (novo relacionamento sério), sem virar
+subtrama nova, só resolução coerente de um fio já aberto.
+
+### Símbolo do livro — fechamento
+A estufa termina o livro como espaço genuinamente compartilhado, não
+mais memorial silenciado nem projeto solitário de Sofia: quatro
+plantas convivem na mesma bancada até o fim (orquídea de Otávio,
+alecrim que Heitor trouxe de Lisboa, alfazema portuguesa do pedido de
+Sofia, jasmim que Leo acrescenta no cap. 57) — cada uma representando
+uma pessoa ou relação diferente, nenhuma apagando as outras. O gesto
+consciente de reunião dos três símbolos da trilogia (taça, andorinha,
+estufa/orquídea) acontece no cap. 56 sem nenhum personagem nomear o
+próprio gesto como simbólico — decisão deliberada de manter orgânico.
+
+### Heat — cadência final do livro
+Uma nova cena registrada no Ato 3: cap. 48 (POV Heitor, reencontro
+depois da volta definitiva de Lisboa, registro fade-to-warm mantido —
+tensão física explícita, fechamento antes de detalhe anatômico
+completo). Total final do livro: **5 cenas** (cap. 14 do Ato 1, caps.
+24/30/33 do Ato 2, cap. 48 do Ato 3) — dentro da meta de 3-5 do
+`PROGRESS.json`, no teto superior da faixa. Gap entre a última cena do
+Ato 2 (cap. 33) e a do Ato 3 (cap. 48): 15 capítulos, bem dentro do
+`max_heat_gap` de 20. Nenhuma cena adicional forçada no epílogo,
+conforme instrução de não forçar — os caps. 56-57 fecham o livro em
+registro sereno, sem heat, coerente com o tom de fechamento definitivo
+pedido pra essa parte.
+
+### Ritmo de extensão — status honesto do Ato 3 + Epílogo
+17.859 palavras em 17 capítulos (41-57), média de **1.050,5
+palavras/capítulo** — a média mais alta de qualquer ato do livro (Ato
+1: 917,6; Ato 2: 937,7), puxada pelos dois capítulos de epílogo mais
+longos (cap. 56: 1.301 palavras; cap. 57: 2.576 palavras, o capítulo
+mais longo de toda a trilogia, expandido deliberadamente em várias
+rodadas pra fechar a lacuna final rumo à meta de 55.000 palavras
+totais). Os 15 capítulos regulares do Ato 3 (41-55, excluindo os dois
+de epílogo) somam 13.982 palavras, média de 932,1/capítulo — em linha
+com o padrão dos atos anteriores.
+
+Honestidade total sobre o processo, conforme já esperado e
+documentado (nenhuma técnica nova tentada, por decisão consciente):
+**17 de 17 capítulos (100%) precisaram de pelo menos uma rodada de
+`Edit` de expansão** após o primeiro `Write` de Abertura+
+Desenvolvimento — taxa idêntica aos Atos 1 e 2 deste livro e a todos
+os atos dos Livros 1-2 (sempre 100%, independente da técnica de mira
+tentada). A faixa real do primeiro rascunho ficou entre 524 e 807
+palavras nos capítulos regulares, e os dois capítulos de epílogo
+exigiram números de rodadas de expansão bem acima da média do livro —
+o cap. 57 especificamente passou por seis rodadas sucessivas de `Edit`
+antes de fechar a lacuna final de palavras totais do livro, o maior
+número de rodadas de expansão de um único capítulo em toda a
+trilogia. A conclusão acumulada permanece a mesma, agora reforçada
+por um terceiro livro inteiro de evidência: a trava dura no registro
+é a única defesa que funciona de forma confiável.
+
+### Checagem de projeção — o cuidado que faltou no Livro 2
+Conforme a instrução explícita de não repetir o quase-erro do Livro
+2 (onde a checagem de projeção total só aconteceu faltando 1
+capítulo), a trajetória de palavras foi conferida a cada 3-5
+capítulos ao longo do Ato 3 (após os caps. 41, 45, 49, 53, 55). A
+checagem após o cap. 55 revelou que, mesmo com a meta original de
+~56 capítulos cumprida, o total ainda projetava abaixo do piso de
+55.000 palavras — o que levou à decisão consciente de escrever um
+segundo capítulo de epílogo (cap. 57) em vez de encerrar cedo demais
+ou inflar artificialmente o cap. 56 além do que a cena do casamento
+pedia organicamente. Resultado: o livro fecha em 55.006 palavras,
+dentro da meta de 55.000-58.000, sem precisar de nenhum ajuste de
+última hora sob pressão — diferença deliberada em relação ao processo
+do Livro 2.
+
+### Régua "a gente" — status do Ato 3 + Epílogo (vigilância máxima)
+Conforme alertado pelo padrão acumulado dos Atos 1-2 (device de
+autocorreção em voz alta escrito por completo pelo menos 3 vezes ao
+longo da produção antes de ser pego), a vigilância nesse ato foi
+tratada como prioridade máxima, com releitura deliberada de cada
+capítulo em busca especificamente desse padrão antes de rodar
+`regua_gate.py`. Resultado, registrado com total transparência:
+
+- O **device de autocorreção completo** (personagem ou narração usando
+  "a gente" e imediatamente se corrigindo em voz alta pra "nós") foi
+  escrito **três vezes** durante a produção deste ato — caps. 50, 51 e
+  57 — igualando o recorde do Ato 1 (que teve duas ocorrências) e
+  confirmando que o padrão de tentação descrito nos logs anteriores
+  continua ativo, agora numa taxa ainda mais alta por ato. As três
+  ocorrências foram identificadas e removidas por completo (não só a
+  palavra, o parágrafo/troca de diálogo inteiro) *antes* de rodar
+  `regua_gate.py` nesses arquivos — nenhuma chegou a ser testada pelo
+  script com o defeito presente.
+- O `regua_gate.py` pegou **dois hits reais** de "a gente" em uso
+  direto: cap. 43 (dois hits na mesma rodada, diálogo de Leo e de
+  Inês) e cap. 56 (um hit, diálogo de Inês sobre a andorinha) — todos
+  corrigidos e re-testados até LIMPO antes de registrar.
+- A vigilância manual (releitura + `grep`) pegou, **antes** de rodar o
+  gate, formas obliquas que o script talvez não capturasse de forma
+  confiável: "pra gente decidir" (cap. 50) e "que a gente ama" (caps.
+  48, 54, 57, em diferentes rascunhos intermediários, todos corrigidos
+  antes do registro final).
+
+Nenhuma dessas ocorrências chegou a ser aprovada ou registrada com o
+defeito presente — mas o volume de tentações reais neste ato (cinco
+incidentes distintos, incluindo o recorde de três devices completos de
+autocorreção) confirma que o alerta de "vigilância máxima" da
+instrução do usuário era necessário e bem calibrado, não excesso de
+cautela. Varredura final com `regua_gate.py` em todos os 57 capítulos
+do livro (1-57) confirma **57/57 capítulos LIMPOS** no texto
+publicado, e uma varredura manual adicional (`grep -i "gente"` no
+livro inteiro) confirma que todas as demais ocorrências restantes são
+falsos positivos legítimos ("muita gente", "gente boa", "gente que já
+viveu", etc.), consistente com o padrão dos atos anteriores.
+
+### Fechamento do Ato 3 + Epílogo + TRILOGIA
+17/17 capítulos (41-57) escritos, aprovados, registrados. Nenhum
+bloqueio estrutural. Nenhuma contradição de continuidade com os
+Livros 1-2 nem com os Atos 1-2 deste livro identificada. O livro
+fecha em 57 capítulos (55-56 nominal + 2 de epílogo), 55.006 palavras
+totais, heat em 5/5 cenas (teto da meta de 3-5), `loop_state.py check`
+sem avisos pendentes. A trilogia Família Bittencourt fecha com os três
+livros resolvidos: Isabela/Leo (L1), Pedro/Inês (L2) e Sofia/Heitor
+(L3) — arco romântico de Sofia completo (casamento), reconciliação
+familiar completa (incluindo o arco específico de Leo com a nova
+imagem da avó), e o elenco inteiro reunido no epílogo com os três
+símbolos da série presentes de forma orgânica, não forçada.

@@ -9,10 +9,10 @@
     "Sofia",
     "Interesse"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
   "next_pov": "Sofia",
-  "updated": "2026-08-03 12:07",
+  "updated": "2026-08-03 12:38",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Sofia",
+      "words": 1223,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Interesse",
+      "words": 990,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Sofia",
+      "words": 927,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Interesse",
+      "words": 899,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Sofia",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Interesse",
+      "words": 921,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Sofia",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Interesse",
+      "words": 930,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 49,
+      "pov": "Sofia",
+      "words": 890,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Interesse",
+      "words": 868,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Sofia",
+      "words": 903,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Interesse",
+      "words": 911,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Sofia",
+      "words": 934,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Interesse",
+      "words": 869,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Sofia",
+      "words": 881,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Sofia",
+      "words": 1301,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 57,
+      "pov": "Interesse",
+      "words": 2576,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 37147,
-    "pages_kdp": 124,
-    "avg_score": 6.59,
-    "pct_to_target": 65,
-    "heat_scenes_done": 4,
-    "last_heat_chapter": 33
+    "chapters_done": 57,
+    "total_words": 55006,
+    "pages_kdp": 183,
+    "avg_score": 6.7,
+    "pct_to_target": 97,
+    "heat_scenes_done": 5,
+    "last_heat_chapter": 48
   }
 }

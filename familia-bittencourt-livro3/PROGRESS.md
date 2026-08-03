@@ -1,17 +1,17 @@
 # Progresso do Loop — Família Bittencourt - Livro 3 (Dona Sofia)
 
 ## Estado atual
-- Status: Em andamento
-- Capítulos concluídos: 40 / 56
-- Próximo: Capítulo 41 (POV Sofia)
-- Última atualização: 2026-08-03 12:07
+- Status: Manuscrito completo — revisão/formatação pendentes
+- Capítulos concluídos: 57 / 56
+- Próximo: Capítulo 58 (POV Sofia)
+- Última atualização: 2026-08-03 12:38
 
 ## Placar
-- Palavras: 37147
-- Páginas KDP (~palavras/300): 124
-- Score médio: 6.59
-- Meta de palavras: 57000 (65%)
-- Cenas de heat: 4 / meta 4 (última no cap. 33)
+- Palavras: 55006
+- Páginas KDP (~palavras/300): 183
+- Score médio: 6.7
+- Meta de palavras: 57000 (97%)
+- Cenas de heat: 5 / meta 4 (última no cap. 48)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
