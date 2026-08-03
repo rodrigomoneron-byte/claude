@@ -1,0 +1,27 @@
+{
+  "book": "Família Bittencourt - Livro 3 (Dona Sofia)",
+  "target": 56,
+  "word_target": 57000,
+  "heat_target": 4,
+  "max_heat_gap": 20,
+  "first_heat_by": 15,
+  "povs": [
+    "Sofia",
+    "Interesse"
+  ],
+  "status": "Em andamento",
+  "next_chapter": 1,
+  "next_pov": "Sofia",
+  "updated": "2026-08-03 11:08",
+  "chapters": [],
+  "blocks": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes_done": 0,
+    "last_heat_chapter": null
+  }
+}
