@@ -26,7 +26,7 @@ O chão parece desaparecer de vez debaixo dos meus pés, cada palavra dele baten
 
 — Você está blefando — Arthur diz, mas a voz dele também carrega a mesma rachadura que sinto por dentro.
 
-— Estou dizendo a verdade, Sr. Mendes, o que talvez seja pior do que blefe. — Harrison ajeita a gravata, o gesto quase casual, como se a conversa inteira não passasse de negócio rotineiro. — Vocês dois têm até amanhã à noite pra decidir. Entreguem qualquer material que tenham reunido, assinem um acordo de confidencialidade padrão, e eu garanto que ambos terminam o doutorado sem mancha nenhuma no histórico. Ou sigam em frente com a denúncia, e descubram exatamente quanto tempo leva o sistema pra destruir duas carreiras promissoras enquanto resolve se a acusação de vocês procede.
+— Estou dizendo a verdade, Sr. Mendes, o que talvez seja pior do que blefe. — Harrison ajeita a gravata, o gesto quase casual, como se a conversa inteira não passasse de negócio rotineiro. — Vocês dois têm setenta e duas horas pra decidir. Entreguem qualquer material que tenham reunido, assinem um acordo de confidencialidade padrão, e eu garanto que ambos terminam o doutorado sem mancha nenhuma no histórico. Ou sigam em frente com a denúncia, e descubram exatamente quanto tempo leva o sistema pra destruir duas carreiras promissoras enquanto resolve se a acusação de vocês procede.
 
 Ele se afasta antes que qualquer um de nós dois consiga formular resposta, deixando pra trás um silêncio pesado demais pro barulho alegre da conferência ao redor. Sinto as pernas fracas, a mão de Arthur segurando meu braço antes que eu perceba que estava prestes a cambalear.
 

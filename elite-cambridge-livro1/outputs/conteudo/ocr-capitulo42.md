@@ -2,7 +2,7 @@
 
 Cambridge nos recebe com neve nova cobrindo o pátio de Harvard Yard, o tipo de branco imaculado que sempre me faz lembrar como esse lugar inteiro parece projetado pra esconder qualquer coisa suja debaixo de superfície bonita. A ironia não me escapa enquanto atravesso o campus com Helena ao lado, as malas ainda nas mãos, direto pro laboratório antes mesmo de passar em casa.
 
-Sinto o peso familiar assim que a bota afunda na primeira camada de neve fresca — não frio exatamente, mais uma espécie de vigília automática, o corpo lembrando sozinho de todos os invernos que passei aqui aprendendo que elegância e hospitalidade não são a mesma coisa. Harvard me aceitou de portas abertas há quatro anos. Levei o mesmo tempo pra entender que aceitação e pertencimento também não são sinônimos, por mais que o marketing do lugar insista que são.
+Sinto o peso familiar assim que a bota afunda na primeira camada de neve fresca — não frio exatamente, mais uma espécie de vigília automática, o corpo lembrando sozinho de todos os invernos que passei aqui aprendendo que elegância e hospitalidade não são a mesma coisa. Harvard me aceitou de portas abertas há dois anos. Levei o mesmo tempo pra entender que aceitação e pertencimento também não são sinônimos, por mais que o marketing do lugar insista que são.
 
 É lá que encontro Gabriel, sentado sozinho numa mesa no canto, o laptop fechado à frente dele como se não confiasse em si mesmo pra abrir de novo. Ele levanta quando me vê, o rosto carregando um cansaço que não é só físico.
 
