@@ -10,18 +10,163 @@
     "Interesse"
   ],
   "status": "Em andamento",
-  "next_chapter": 1,
+  "next_chapter": 19,
   "next_pov": "Pedro",
-  "updated": "2026-08-03 01:16",
-  "chapters": [],
+  "updated": "2026-08-03 01:44",
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Pedro",
+      "words": 1054,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 2,
+      "pov": "Interesse",
+      "words": 1061,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 3,
+      "pov": "Pedro",
+      "words": 1053,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 4,
+      "pov": "Interesse",
+      "words": 1054,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 5,
+      "pov": "Pedro",
+      "words": 1041,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 6,
+      "pov": "Interesse",
+      "words": 972,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 7,
+      "pov": "Pedro",
+      "words": 971,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 8,
+      "pov": "Interesse",
+      "words": 899,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 9,
+      "pov": "Pedro",
+      "words": 930,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 10,
+      "pov": "Interesse",
+      "words": 935,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 11,
+      "pov": "Pedro",
+      "words": 895,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 12,
+      "pov": "Interesse",
+      "words": 947,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 13,
+      "pov": "Pedro",
+      "words": 932,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 14,
+      "pov": "Interesse",
+      "words": 946,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 15,
+      "pov": "Pedro",
+      "words": 952,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 16,
+      "pov": "Interesse",
+      "words": 928,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 17,
+      "pov": "Pedro",
+      "words": 928,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 18,
+      "pov": "Interesse",
+      "words": 921,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    }
+  ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
-    "heat_scenes_done": 0,
-    "last_heat_chapter": null
+    "chapters_done": 18,
+    "total_words": 17419,
+    "pages_kdp": 58,
+    "avg_score": 6.47,
+    "pct_to_target": 31,
+    "heat_scenes_done": 2,
+    "last_heat_chapter": 15
   }
 }
