@@ -30,6 +30,8 @@ O chão parece desaparecer de vez debaixo dos meus pés, cada palavra dele baten
 
 Ele se afasta antes que qualquer um de nós dois consiga formular resposta, deixando pra trás um silêncio pesado demais pro barulho alegre da conferência ao redor. Sinto as pernas fracas, a mão de Arthur segurando meu braço antes que eu perceba que estava prestes a cambalear.
 
+Setenta e duas horas. Repito o número mentalmente, tentando encaixar ele em alguma escala que já conheço — não é tempo suficiente pra terminar um artigo, mal é tempo suficiente pra arrumar mala direito, e ainda assim é o prazo inteiro que resta entre a vida que construí aqui e um voo de volta que ninguém na minha família teria condição de comprar de última hora.
+
 — Helena. — A voz dele soa distante, como se viesse de dentro de um túnel. — Respira. Nós dois vamos resolver isso.
 
 Mas pela primeira vez desde que tudo começou, não consigo encontrar dentro de mim a certeza necessária pra acreditar nisso — só o peso frio e concreto de setenta e duas horas, contando regressivamente contra tudo que meus pais sacrificaram pra me trazer até aqui.

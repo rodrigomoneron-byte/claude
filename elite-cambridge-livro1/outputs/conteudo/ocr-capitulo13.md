@@ -22,6 +22,8 @@ Ele me encara por um tempo longo demais, e por um instante acho que ele vai disc
 
 — Combinado — ele diz, finalmente. — Trabalho primeiro.
 
+Ele estende a mão, formal demais pro gesto pequeno que estamos fazendo, e eu aperto, sentindo o absurdo de selar com aperto de mão o mesmo impulso que, ontem à noite, nenhum aperto de mão teria contido. A sala 214 não ajuda nada — tijolo aparente numa parede, cano exposto correndo pelo teto, o tipo de sala que a universidade reserva pra projeto que não quer ser encontrado por acidente, longe o bastante do resto do departamento pra que ninguém apareça sem avisar. Perfeita pra guardar segredo de pesquisa. Perigosa demais pra guardar qualquer outro tipo de segredo que os dois estejamos tentando não admitir. Solto a mão dele antes que o aperto dure um segundo a mais do que qualquer regra profissional justificaria, e me sento na cadeira mais distante que a mesa permite, como se centímetros extras entre nós dois pudessem compensar tudo que já não cabe mais dentro de uma regra escrita a toque de caixa numa manhã fria.
+
 Trabalhamos. Passamos duas horas isolando o bloco suspeito, testando hipótese atrás de hipótese sobre como ele entrou nos dois repositórios, e é bom — genuinamente bom, o tipo de colaboração que só funciona quando duas pessoas param de competir por quem está certo e começam a competir contra o problema em si. Ele enxerga padrão onde eu enxergo risco. Eu enxergo risco onde ele enxerga velocidade. Juntos, encontramos um caminho no meio que nenhum dos dois teria achado sozinho.
 
 Ele encontra o primeiro fio de resposta real depois de uma hora: um timestamp no bloco suspeito que não bate com o fuso horário de Cambridge, nem com o de nenhum dos dois países onde já moramos.

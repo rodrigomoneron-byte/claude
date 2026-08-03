@@ -16,6 +16,8 @@ Arthur ri baixinho, o primeiro som leve depois de tanto peso acumulado.
 
 — E a minha me ensinou que mostrar medo era luxo que eu não podia pagar. — Ele segura meu rosto com as duas mãos, o polegar acariciando de leve minha bochecha. — Então quando fiquei com raiva de você ontem, uma parte disso era raiva de mim mesmo, por reconhecer no seu jeito de esconder o mesmo hábito que eu tenho de sumir.
 
+Penso na Dona Célia, que ele menciona tão pouco e tão intensamente ao mesmo tempo, costurando de madrugada pra pagar conta que filho nenhum devia saber que existia, e entendo, de repente, que os dois carregamos a mesma herança disfarçada de país diferente: aprendemos cedo demais que amor, pra sobreviver, precisa parecer invisível. Ninguém nos ensinou que existia outro jeito. Estamos aprendendo agora, tarde, atrasados, mas juntos.
+
 Fico em silêncio por um momento, deixando as palavras dele se acomodarem, e sinto alguma coisa se soltar dentro do peito, um nó apertado há anos afrouxando devagar.
 
 — Nós dois aprendemos errado — digo, finalmente, escolhendo a palavra com cuidado. — Mas ainda dá tempo de aprender diferente.

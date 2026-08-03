@@ -10,6 +10,8 @@ Ainda sinto o braço formigando quando Sofia me puxa pra um canto do salão, ta�
 
 Ela não está errada, e é exatamente por isso que eu não respondo, só bebo o resto da minha água mineral fingindo que a conversa acabou ali. Sofia ri, baixinho, e me solta com um aperto rápido no ombro — o jeito dela de dizer "vou deixar por isso hoje, mas não esqueci" sem gastar mais nenhuma palavra.
 
+Fico mais um instante encostada na parede do salão, olhando o resto da recepção se dissolver em grupinhos de taça erguida e sotaque de internato caro, e penso, não pela primeira vez, em quantas versões de mim aprendi a fabricar só pra caber nessas salas. Há a Helena que cumprimenta reitor com aperto de mão firme e frase pronta em inglês sem sotaque perceptível, treinada horas na frente do espelho do meu primeiro apartamento em Cambridge. Há a que ri baixo das piadas de departamento sem entender direito a referência cultural por trás, porque rir junto sempre pareceu mais seguro do que perguntar. E há essa aqui, agora, ainda vestida de formalidade mas já cansada demais pra sustentar o sorriso, esperando o momento certo de desaparecer sem que ninguém repare. Nenhuma das três é mentira. Só nenhuma delas basta sozinha.
+
 Saio da recepção antes das dez, porque três horas de sorriso profissional esgotam uma parte de mim que nenhum café consegue reabastecer, e a neve lá fora caiu o suficiente pra cobrir os degraus da entrada com uma camada limpa, intocada, que eu quase tenho pena de pisar. Estou ajustando o cachecol quando ouço passos atrás de mim, rápidos demais pra ser coincidência.
 
 — Você também está fugindo — Arthur diz, alcançando a porta, o casaco fino de mais pro frio que faz, as mãos enfiadas nos bolsos.

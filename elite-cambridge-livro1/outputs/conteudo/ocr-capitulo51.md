@@ -22,6 +22,8 @@ O riso baixo que escapa de mim carrega mais nervosismo do que humor de verdade, 
 
 — Estamos — confirmo, respirando fundo, sentindo o coração bater firme demais pro corpo conseguir fingir calma por muito mais tempo.
 
+Penso, por um instante fora de lugar mas impossível de afastar, nos meus pais assistindo essa apresentação por streaming, sem fazer ideia do que realmente está prestes a acontecer no palco — achando que vão ver a filha apresentar mais um trabalho técnico incompreensível, não testemunhar, ao vivo, o momento em que ela aposta o próprio futuro inteiro numa única cartada. Queria poder avisar. Não posso. Então guardo o pensamento junto com o resto do medo, e levanto quando Arthur levanta.
+
 O mestre de cerimônias anuncia o nome de Harrison, aplauso educado ecoando pelo auditório inteiro, e observo o homem que passou meses tentando destruir a carreira dos dois subir ao palco com o mesmo sorriso confiante de sempre, sem fazer ideia nenhuma do que está prestes a acontecer nos próximos minutos da própria vida.
 
 — Bem-vindos ao vigésimo terceiro Simpósio Anual de Inteligência Computacional de Cambridge — Harrison começa, a voz projetando autoridade sem esforço nenhum, décadas de prática tornando cada gesto natural. — Estamos aqui pra celebrar o que há de melhor na fronteira entre ética, inovação e responsabilidade científica.

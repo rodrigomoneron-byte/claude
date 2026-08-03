@@ -20,6 +20,8 @@ Não é pergunta. Arthur assente, o rosto fechado.
 
 Sterling não se abala com a acusação. — Eu suspeitava, Srta. Costa. Suspeita não é prova, e agir sobre suspeita sem prova costuma acabar em acusação injusta ou em alvo alertado cedo demais. Preferi observar. Vocês dois acabaram de confirmar o que a observação sozinha não conseguia.
 
+Entendo a lógica dele, fria e correta do jeito que só uma vida inteira de comitê consegue ser, mas isso não tira o gosto amargo de ter confiado a própria vulnerabilidade a um homem que sabia mais do que deixou transparecer. Penso em quantas vezes contei pra Gabriel um detalhe pequeno demais pra parecer perigoso — um horário, uma hipótese ainda não confirmada, uma reclamação boba sobre o clima de Cambridge — sem imaginar que cada fragmento ia direto pro ouvido errado. Confiar nunca foi fácil pra mim. Agora entendo, com um peso novo, por quê.
+
 — O que fazemos agora? — Arthur pergunta, a voz ainda pesada.
 
 — Agora usamos o que Harrison não sabe que sabemos. — Sterling se levanta, andando até a janela, as mãos cruzadas atrás das costas. — Ele acredita que a informação dele ainda é fresca, ainda é vantagem. Vou adiantar a viagem pro NexusAI Summit em cinco dias. Menos tempo pra Harrison se preparar, menos tempo pro Sr. Cross decidir se conta pro chefe dele que foi descoberto.

@@ -8,6 +8,8 @@ Gabriel me encontra na copa do departamento, os dois sozinhos entre a máquina d
 
 — Ou quanto menos gente sabe, menos gente divide o crédito quando der certo. — Ele fala baixo, mas a acusação pesa alto, e por um segundo vejo, atrás do orgulho ferido, o mesmo medo que eu sinto sobre não conseguir provar meu valor sozinho — só que nele, o medo tem outra forma, moldado por anos de segundo lugar atrás de mim em todo ranking que Harvard produz.
 
+Nunca tinha pensado nisso dessa forma até agora — que o mesmo sistema que me fez sentir outsider por vir de escola pública também fez Gabriel sentir outsider de um jeito diferente, mais silencioso, o filho de família de classe média alta que nunca é excepcional o bastante pra ser o melhor da sala, só competente o bastante pra nunca sair dela. Somos os dois produtos do mesmo ranking obsessivo, só que carregando pesos diferentes: eu, provar que mereço estar aqui; ele, provar que estar aqui já não basta mais.
+
 O silêncio que se instala entre nós dois carrega anos de amizade real, competições reais, favores reais trocados — e é justamente esse peso que me faz ceder um centímetro que devia ter segurado.
 
 — Encontramos uma segunda empresa — digo, baixo, sabendo que estou cruzando uma linha antes mesmo da frase terminar. — Meridian Analytics. Mesmo conselho, dinheiro trocando de mão pelo mesmo canal que a Solvix usa.

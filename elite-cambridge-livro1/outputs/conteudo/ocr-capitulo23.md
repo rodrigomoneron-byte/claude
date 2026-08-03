@@ -8,6 +8,8 @@ Harrison sobe no palco sem microfone, como se a própria presença já bastasse 
 
 O termo "vistos patrocinados" pousa em cima de mim como se ele tivesse mirado a frase inteira só pra chegar até esse ponto exato, e sinto uma dúzia de olhares se voltarem discretamente na minha direção — os poucos outros internacionais na sala reconhecendo o próprio medo espelhado, os americanos apenas curiosos sobre quem, entre nós, vai sobrar.
 
+Conto, sem querer, quantos rostos internacionais existem naquele auditório — sete, talvez oito, entre mais de cem cadeiras ocupadas —, e me pergunto se Harrison sabe esse número de cor, se escolheu a palavra "vistos" sabendo exatamente quantas pessoas na sala sentiriam o chão inclinar. Não existe estatística que descreva esse tipo de medo direito. Só existe a sensação física de fazer as contas em tempo real: quanto tempo até a bolsa acabar, quanto tempo até o visto virar problema, quanto tempo até a palavra "reavaliação" parar de ser abstrata.
+
 Arthur encosta o joelho um pouco mais firme no meu, e é só isso, nenhuma palavra, mas basta pra eu conseguir respirar de novo.
 
 Depois do seminário, fugimos pra sala trancada antes que qualquer colega tente puxar conversa sobre o próprio pânico, e é ali, entre as anotações espalhadas sobre Solvix e Meridian, que consigo transformar o medo em alguma coisa produtiva de novo — o único jeito que sempre soube fazer. Cruzamos os registros de patente das duas empresas com os nomes dos consultores externos listados nos relatórios anuais do próprio departamento, e o padrão que emerge é preciso demais pra ser coincidência: três consultorias "independentes" contratadas por Harvard nos últimos dois anos compartilham, todas, o mesmo escritório de advocacia registrado como agente legal.

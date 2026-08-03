@@ -26,6 +26,8 @@ Sofia aparece de novo, dessa vez puxando Arthur e eu pros lados, longe do fluxo 
 
 — Não era esse o plano — Arthur murmura, mas o sorriso que escapa dele carrega o mesmo misto de alívio e incredulidade que sinto crescendo dentro de mim.
 
+Não era, de fato — o plano era só sobreviver ao próprio doutorado sem naufragar, publicar o suficiente pra manter bolsa e visto intactos, talvez, com muita sorte, deixar uma marca pequena e honesta num campo que despreza os dois adjetivos ao mesmo tempo. Ninguém no auditório sabe que a garota parada aqui, cercada de gente repetindo apelido de manchete, também é a mesma que decorou linha de apresentação de manhã cedo durante dois anos inteiros só pra nunca soar insegura numa língua que não é a sua. Talvez seja essa a parte mais estranha de sobreviver: o mundo lá fora finalmente aplaude, e a pessoa por dentro de mim continua sendo a mesma que sempre precisou provar que merecia estar na sala.
+
 Olho pro corredor lotado, pro burburinho crescente, pro peso de semanas inteiras finalmente começando a se dissolver em alguma coisa mais parecida com esperança, e sinto a mão de Arthur encontrar a minha, os dois ainda de pé no meio do caos, prontos, agora, pra descobrir o que vem depois de sobreviver ao que parecia impossível de sobreviver.
 
 Sterling nos encontra alguns minutos depois, o rosto carregando um cansaço satisfeito que nunca vi nele antes, décadas de expressão contida finalmente cedendo espaço pra alguma coisa mais parecida com alívio genuíno.

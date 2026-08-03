@@ -36,6 +36,8 @@ Sterling não confirma. Não nega, também — só sustenta o silêncio tempo su
 
 É o elogio mais estranho que já recebi — nenhuma palavra bonita nele, só um voto de confiança embrulhado em aviso — e ainda assim sinto o peito esquentar de um jeito que não sinto há tempo, desde antes de Cambridge, desde os cadernos de prova em Juiz de Fora que minha mãe guardava debaixo do colchão pra eu não achar que ela estava competindo comigo também.
 
+Lembro exatamente do porquê ela escondia daquele jeito — não vergonha da própria nota, longe disso, mas medo de que eu enxergasse aquilo como régua permanente, prova impressa de um limite que eu precisaria superar pra sempre. Ela nunca disse isso em voz alta. Só guardava os cadernos debaixo do colchão do quarto dela, não do meu, como se escondendo o objeto conseguisse também esconder a pressão que o objeto carregava. Eu sempre soube que estavam lá. Nunca contei que sabia. Algumas heranças chegam assim, silenciosas, sem consentimento — e ficamos carregando do jeito que dá.
+
 — Uma última coisa — ele diz, já com a mão na maçaneta, como se tivesse esperado o momento em que eu estivesse mais desarmada pra soltar isso. — Se em algum momento vocês dois encontrarem alguma coisa no código de vocês que não bate, que parece velha demais, ou que ninguém dos dois lembra de ter escrito — me tragam antes de levar pra qualquer outra pessoa deste prédio. Antes de qualquer outra pessoa, Helena.
 
 Não pergunto o que ele quer dizer com isso. Alguma coisa em mim já sabe que a resposta não ia caber no tempo que resta do nosso horário.

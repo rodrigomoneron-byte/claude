@@ -40,6 +40,8 @@ Hesito um segundo a mais do que deveria, o hábito de confiar nele mais forte do
 
 Fico olhando a porta fechada por mais tempo do que deveria, tentando entender a própria reação. Gabriel é a pessoa que segurou minha barra em três hackathons antes de Harvard existir na minha cabeça como possibilidade real, o único colega que nunca fez questão de lembrar que eu vim de um colégio público na Zona Norte enquanto ele veio de um subúrbio chique de Chicago. Não é ele que eu devia estar duvidando. E ainda assim o corpo reagiu antes da lealdade conseguir argumentar contra.
 
+Lembro do primeiro hackathon que fizemos juntos, os dois com vinte e poucos anos, eu dormindo no chão do ginásio emprestado porque a passagem de ônibus até em casa custava mais do que eu tinha disposição de gastar numa madrugada de sábado, ele aparecendo às seis da manhã com dois cafés e perguntando, sem nenhuma pena na voz, só curiosidade genuína, como eu tinha resolvido o problema de otimização que travou o time inteiro a noite inteira. Nunca tratou minha origem como currículo de superação pra impressionar ninguém. Só tratou como fato, do jeito que trata qualquer outra variável. É por isso que a suspeita dói tanto agora — porque significa duvidar da única amizade em Harvard que nunca precisei explicar de onde eu vim.
+
 Helena espera a porta fechar antes de falar, a voz baixa.
 
 — Você não contou pra ele sobre a Meridian.

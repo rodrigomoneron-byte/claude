@@ -8,6 +8,8 @@ Encontro o estande da Solvix no fim do segundo corredor, impossível de ignorar 
 
 Puxo o celular, fingindo checar mensagem, e uso a câmera pra capturar dois quadros rápidos — Harrison e a diretora lado a lado, o logotipo da Solvix visível ao fundo, prova pequena mas real de proximidade que ele jamais admitiria em nenhuma entrevista institucional. As mãos tremem um pouco enquanto guardo o telefone de volta na bolsa, adrenalina e medo disputando o mesmo espaço no peito.
 
+Guardo o telefone e fico ali mais um segundo, fingindo interesse na tela vazia de um totem publicitário próximo, e penso, rápido, na distância entre essa versão de mim — infiltrada, fotografando prova secreta num evento de bilhões de dólares — e a garota que decorava fórmula de física até decorar demais, com medo de errar na frente do professor errado. As duas cabem no mesmo corpo. Só levou dois anos de Cambridge pra eu aprender que cabem.
+
 Arthur me encontra dez minutos depois, vindo do lado oposto do centro de convenções, os olhos acesos com a mesma urgência contida que reconheço de quando ele encontra padrão novo em código.
 
 — Encontrei o estande da Meridian também. Menor, mais discreto, mas o mesmo logotipo de conselho compartilhado aparece bordado numa faixa lateral. — Ele mostra a própria foto no celular. — E acabei de ouvir dois funcionários comentando sobre uma "reunião de fechamento" marcada pra amanhã à noite, num salão privado do hotel principal da conferência.

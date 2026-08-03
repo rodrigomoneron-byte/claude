@@ -12,7 +12,7 @@
   "status": "Manuscrito completo — revisão/formatação pendentes",
   "next_chapter": 59,
   "next_pov": "Helena",
-  "updated": "2026-08-03 23:39",
+  "updated": "2026-08-03 23:48",
   "chapters": [
     {
       "n": 1,
@@ -33,7 +33,7 @@
     {
       "n": 3,
       "pov": "Helena",
-      "words": 980,
+      "words": 1067,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -49,7 +49,7 @@
     {
       "n": 5,
       "pov": "Helena",
-      "words": 947,
+      "words": 1041,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -65,7 +65,7 @@
     {
       "n": 7,
       "pov": "Helena",
-      "words": 912,
+      "words": 1051,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -81,7 +81,7 @@
     {
       "n": 9,
       "pov": "Helena",
-      "words": 913,
+      "words": 1058,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -113,7 +113,7 @@
     {
       "n": 13,
       "pov": "Helena",
-      "words": 865,
+      "words": 1025,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -129,7 +129,7 @@
     {
       "n": 15,
       "pov": "Helena",
-      "words": 882,
+      "words": 975,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -169,7 +169,7 @@
     {
       "n": 20,
       "pov": "Arthur",
-      "words": 907,
+      "words": 1030,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -185,7 +185,7 @@
     {
       "n": 22,
       "pov": "Arthur",
-      "words": 895,
+      "words": 983,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -193,7 +193,7 @@
     {
       "n": 23,
       "pov": "Helena",
-      "words": 863,
+      "words": 952,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -225,7 +225,7 @@
     {
       "n": 27,
       "pov": "Helena",
-      "words": 857,
+      "words": 951,
       "score": 6.5,
       "status": "aprovado",
       "heat": false
@@ -249,7 +249,7 @@
     {
       "n": 30,
       "pov": "Arthur",
-      "words": 876,
+      "words": 988,
       "score": 6.5,
       "status": "aprovado",
       "heat": false
@@ -257,7 +257,7 @@
     {
       "n": 31,
       "pov": "Helena",
-      "words": 858,
+      "words": 934,
       "score": 6.5,
       "status": "aprovado",
       "heat": false
@@ -289,7 +289,7 @@
     {
       "n": 35,
       "pov": "Helena",
-      "words": 861,
+      "words": 943,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -321,7 +321,7 @@
     {
       "n": 39,
       "pov": "Helena",
-      "words": 952,
+      "words": 1014,
       "score": 7.0,
       "status": "aprovado",
       "heat": false
@@ -345,7 +345,7 @@
     {
       "n": 42,
       "pov": "Arthur",
-      "words": 927,
+      "words": 1005,
       "score": 6.7,
       "status": "aprovado",
       "heat": false
@@ -369,7 +369,7 @@
     {
       "n": 45,
       "pov": "Helena",
-      "words": 961,
+      "words": 1088,
       "score": 6.5,
       "status": "aprovado",
       "heat": false
@@ -401,7 +401,7 @@
     {
       "n": 49,
       "pov": "Helena",
-      "words": 916,
+      "words": 983,
       "score": 6.8,
       "status": "aprovado",
       "heat": false
@@ -417,7 +417,7 @@
     {
       "n": 51,
       "pov": "Helena",
-      "words": 880,
+      "words": 960,
       "score": 6.6,
       "status": "aprovado",
       "heat": false
@@ -433,7 +433,7 @@
     {
       "n": 53,
       "pov": "Helena",
-      "words": 864,
+      "words": 984,
       "score": 6.7,
       "status": "aprovado",
       "heat": false
@@ -473,7 +473,7 @@
     {
       "n": 58,
       "pov": "Arthur",
-      "words": 892,
+      "words": 1005,
       "score": 6.8,
       "status": "aprovado",
       "heat": false
@@ -482,10 +482,10 @@
   "blocks": [],
   "scoreboard": {
     "chapters_done": 58,
-    "total_words": 53621,
-    "pages_kdp": 179,
+    "total_words": 55650,
+    "pages_kdp": 186,
     "avg_score": 6.86,
-    "pct_to_target": 95,
+    "pct_to_target": 98,
     "heat_scenes_done": 11,
     "last_heat_chapter": 55
   }

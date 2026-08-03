@@ -10,6 +10,8 @@ Sterling não parece surpreso, nem ofendido, só cansado de um jeito que carrega
 
 — É. — Ele não desvia o olhar. — Também é fácil de verificar, se vocês dois quiserem gastar tempo comparando meus extratos financeiros de doação declarada com os registros públicos do comitê. Convido vocês a fazerem exatamente isso, se a confiança precisar de prova em vez de palavra.
 
+Olho pra ele por um instante mais longo do que educado, tentando decidir se a firmeza na voz dele é a mesma firmeza de quem diz a verdade ou a mesma firmeza de quem pratica mentira há tempo suficiente pra ela soar limpa. Não sei mais separar as duas coisas com a certeza que costumava ter — outra baixa silenciosa dessas últimas semanas, aprender que confiança não é binária, é espectro, e cada pessoa que atravessamos nesse caminho ocupa um ponto diferente dele, nenhum totalmente seguro.
+
 Arthur chega nesse momento, sentando ao lado sem preâmbulo, e mostro pra ele a terceira mensagem também, a que revela o horário e o local: Salão Pacífico, vinte horas, essa noite. Sterling lê a tela duas vezes, o rosto endurecendo aos poucos.
 
 — Isso é sério — ele diz, finalmente. — O Salão Pacífico fica no terceiro andar do hotel principal, reservado exclusivamente pra eventos corporativos privados. Se Harrison e a Solvix estão fechando alguma coisa lá dentro essa noite, é o tipo de reunião que não aparece em nenhuma programação oficial da conferência.

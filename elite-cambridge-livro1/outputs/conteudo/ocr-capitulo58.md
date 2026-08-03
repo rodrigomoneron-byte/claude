@@ -34,6 +34,8 @@ Ela ri, esticando a mão pra entrelaçar os dedos nos meus, e por um longo momen
 
 Levantamos juntos, e saímos do laboratório de mãos dadas, atravessando o corredor familiar do Maxwell Dworkin até chegar na porta de vidro que dá pro pátio principal de Harvard Yard. Lá fora, a primavera finalmente começa a derreter os últimos restos de neve acumulada em Cambridge, os primeiros brotos verdes furando a terra dura entre os tijolos vermelhos das bibliotecas antigas, o campus inteiro ganhando cor nova depois de meses de branco e cinza que pareciam definitivos demais pra algum dia acabar.
 
+Penso na minha mãe, na máquina de costura que ainda ronca até tarde da noite lá no Rio mesmo agora que já não preciso mais do dinheiro extra que ela insiste em mandar, teimosa, todo mês. Vou ligar pra ela hoje à noite, contar que o departamento aprovou financiamento novo, que Helena e eu vamos continuar juntos o projeto e, se ela deixar, a vida também. Dona Célia nunca entendeu direito o que é um algoritmo, mas sempre entendeu perfeitamente o que é começar de novo depois de um erro — costurou a vida inteira em cima dessa lição. Acho que fui buscar exatamente essa mesma lição, sem saber, em cada linha de código que já escrevi.
+
 — Sabe o que é engraçado? — Helena pergunta, parando no meio do pátio, o vento fresco bagunçando o cabelo dela. — Daqui a alguns anos, quando alguém perguntar como nós dois nos conhecemos, vamos ter que contar a história inteira. Erro no algoritmo, conspiração, quase deportação, simpósio virado palco de confronto público.
 
 — Vamos precisar editar bastante pra caber numa festa de jantar — concordo, rindo. — "Nos conhecemos competindo" soa bem mais simples.

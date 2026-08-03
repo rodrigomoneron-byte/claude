@@ -22,6 +22,8 @@ Ela não precisa dizer mais que isso. Nós duas sabemos os números: quantas mul
 
 Sofia sabe do que fala. Veio de Bogotá com uma bolsa parecida com a minha, prazo parecido, o mesmo tipo de carta em espanhol que a família dela lê em voz alta pros vizinhos como se fosse prova de que a aposta valeu a pena. Nós duas aprendemos, no primeiro inverno, que existe uma versão de nós que o departamento prefere: quieta, grata, impressionante sem ser incômoda. E existe a versão real, que discorda em seminário e exige crédito — essa versão custa caro, ela sempre me lembra, mesmo quando tem razão. Sobretudo quando tem razão.
 
+Fico pensando nisso a noite inteira, sozinha, depois que Sofia vai embora — na palavra "incômoda" que ela usou, tão precisa que dói, porque reconheço nela cada vez que suavizei uma discordância em seminário só pra não correr o risco de soar difícil demais, cada vez que sorri em vez de corrigir um professor errado só pra manter a temperatura da sala baixa. Não lembro de decidir isso conscientemente. Foi se acumulando, ajuste por ajuste, do jeito que aprendemos sotaque novo: sem perceber exatamente quando paramos de errar.
+
 Na manhã seguinte, encontro Arthur na biblioteca antes mesmo de procurar por ele — ele está na mesa perto da janela que dá pro pátio coberto de neve, computador aberto, dois cafés na mesa como se tivesse chegado esperando companhia. Um deles, eu descubro quando me sento sem ser convidada, é meu, do jeito que eu bebo: sem açúcar, canela por cima. Ele não pergunta como eu gosto. Ele sabe, de algum semestre inteiro me observando na fila do café do departamento sem que eu notasse.
 
 — Recebi o mesmo e-mail — ele diz, sem rodeios, o que já é raro nele.

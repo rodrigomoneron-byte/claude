@@ -2,6 +2,8 @@
 
 Chego em casa depois das dez, os dedos ainda formigando no lugar onde a mão de Arthur apertou a minha por baixo da mesa, um segredo pequeno demais pra contar e grande demais pra guardar sozinha. Sofia está na minha cozinha quando entro — tem uma chave reserva desde o segundo semestre, um acordo tácito de que nenhuma das duas devia processar crise sem testemunha — mexendo numa panela de sopa que cheira a alho e cebola refogados devagar, do jeito que só quem aprendeu a cozinhar com saudade sabe fazer.
 
+O cheiro me leva direto pra cozinha da minha mãe em Juiz de Fora, o mesmo refogado, a mesma sequência de gestos — alho primeiro, cebola depois, nunca ao contrário —, como se comida boa carregasse um código-fonte próprio, transmitido de mão em mão sem nunca precisar de manual escrito. Sofia aprendeu a cozinhar assim com a avó, em Bogotá, mas as duas receitas se parecem mais do que deviam, como se metade do continente tivesse decidido, sem combinar, que alho e cebola bem dourados resolvem o que nenhuma palavra em inglês consegue resolver.
+
 — Não perguntei se você ia jantar, só fiz o suficiente pras duas — ela diz, sem se virar.
 
 — Como você sabia que eu precisava disso hoje?

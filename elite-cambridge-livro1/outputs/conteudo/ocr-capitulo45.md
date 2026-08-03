@@ -8,7 +8,11 @@ A resposta que recebo confirma exatamente o que temia: revisão automática, sus
 
 Desligo o telefone com as mãos tremendo, um cálculo silencioso tomando forma dentro de mim que não divido com ninguém, nem com Sofia, muito menos com Arthur. Se eu assumir sozinha a autoria da denúncia, se eu apresentar tudo em meu próprio nome sem envolver Arthur formalmente no documento, talvez o risco recaia só sobre mim — meu visto, minha bolsa, meu nome no processo disciplinar. Ele, cidadão americano, sai limpo, a carreira intocada, o futuro dele preservado mesmo se tudo desandar pra mim.
 
-A ideia me persegue o dia inteiro, crescendo com cada hora que passa, disfarçada de estratégia racional quando na verdade é só medo vestido de sacrifício. No laboratório, Arthur trabalha ao meu lado sem perceber nada, ajustando o último gráfico da apresentação real, o humor leve de sempre voltando conforme o plano ganha forma final.
+A ideia me persegue o dia inteiro, crescendo com cada hora que passa, disfarçada de estratégia racional quando na verdade é só medo vestido de sacrifício.
+
+Reconheço o padrão, mesmo enquanto executo ele: é a mesma lógica que me fez decorar sete linhas de apresentação sozinha antes de qualquer seminário, a mesma que me fez recusar ajuda de colega de laboratório no primeiro ano porque pedir parecia admitir fraqueza demais pra sustentar. Ninguém em Harvard me ensinou isso. Vim assim, treinada desde cedo a calcular sozinha o próprio risco, porque em algum lugar da minha formação aprendi que dividir peso era luxo reservado a quem tinha rede de segurança suficiente pra se dar o direito de errar em público. Eu nunca tive essa rede, ou talvez tivesse, o tempo todo, na forma de um homem que dorme a duas quadras daqui, e eu só não soubesse reconhecer rede de segurança quando ela finalmente aparecia.
+
+No laboratório, Arthur trabalha ao meu lado sem perceber nada, ajustando o último gráfico da apresentação real, o humor leve de sempre voltando conforme o plano ganha forma final.
 
 — Terminei o quarto slide — ele anuncia, virando a tela pra mim. — Acho que ficou bom o suficiente pra derrubar um chefe de departamento inteiro.
 
