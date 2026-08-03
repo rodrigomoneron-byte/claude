@@ -1,6 +1,6 @@
 {
   "book": "O Código da Revanche",
-  "target": 56,
+  "target": 58,
   "word_target": 56500,
   "heat_target": 11,
   "max_heat_gap": 6,
@@ -9,10 +9,10 @@
     "Helena",
     "Arthur"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 59,
   "next_pov": "Helena",
-  "updated": "2026-08-03 23:12",
+  "updated": "2026-08-03 23:39",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,160 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Helena",
+      "words": 975,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Arthur",
+      "words": 927,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Helena",
+      "words": 1033,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 44,
+      "pov": "Arthur",
+      "words": 1000,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Helena",
+      "words": 961,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Arthur",
+      "words": 1046,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Helena",
+      "words": 963,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Arthur",
+      "words": 966,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Helena",
+      "words": 916,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Arthur",
+      "words": 948,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 51,
+      "pov": "Helena",
+      "words": 880,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Arthur",
+      "words": 935,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Helena",
+      "words": 864,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Arthur",
+      "words": 1030,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Helena",
+      "words": 990,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 56,
+      "pov": "Arthur",
+      "words": 960,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 57,
+      "pov": "Helena",
+      "words": 967,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 58,
+      "pov": "Arthur",
+      "words": 892,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 36368,
-    "pages_kdp": 121,
-    "avg_score": 6.91,
-    "pct_to_target": 64,
-    "heat_scenes_done": 8,
-    "last_heat_chapter": 37
+    "chapters_done": 58,
+    "total_words": 53621,
+    "pages_kdp": 179,
+    "avg_score": 6.86,
+    "pct_to_target": 95,
+    "heat_scenes_done": 11,
+    "last_heat_chapter": 55
   }
 }
