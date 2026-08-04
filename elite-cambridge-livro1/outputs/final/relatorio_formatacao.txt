@@ -1,0 +1,198 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Elite de Cambridge — Livro 1: O Código da Revanche
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-03
+PRIMEIRO LIVRO DE UMA SÉRIE EM ABERTO (não fecha trilogia)
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+58/58 capítulos convertidos de outputs/conteudo/ocr-capitulo01.md a
+ocr-capitulo58.md para outputs/final/manuscrito/01_capitulo.md a
+58_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Helena") separado em duas linhas: "# Capítulo N" (título) + linha em
+  branco + "*POV: Nome*" (subtítulo discreto em itálico), seguindo o
+  mesmo formato final de leitor já usado nos outros livros da casa
+  (equivalente à conversão "### POV:" -> "*POV:*" prevista no
+  kdp-specs.md — este manuscrito já trazia o POV embutido no próprio
+  cabeçalho de capítulo em vez de uma linha "### POV:" separada, então
+  a extração foi feita a partir desse formato de origem).
+- Corpo do capítulo: preservado byte a byte (script de conversão não
+  toca em nenhuma linha de prosa; verificado por leitura direta dos
+  capítulos 1, 2, 30 e 58 nos arquivos finais contra os arquivos de
+  origem).
+
+POV dual conferido nos 58 arquivos de origem e nos 58 arquivos finais:
+alternância estrita ímpar = Helena, par = Arthur, sem exceção, do
+Capítulo 1 ao Capítulo 58 (checagem automatizada por script, sem
+nenhuma falha de numeração ou de POV). Sem epílogo neste Livro 1,
+conforme decisão travada no project_dna.md (reservada para o
+fechamento de série, se "Elite de Cambridge" continuar).
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+- Manuscrito de origem (outputs/conteudo/, cabeçalho "# Capítulo N —
+  POV" em uma linha): 58.188 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  "# Capítulo N" + linha "*POV: Nome*"): 58.188 palavras (mesma
+  contagem — a quebra do cabeçalho em duas linhas não altera o total
+  de tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 57.898 palavras
+Dentro da meta de 55.000-58.000 palavras do project_dna.md deste
+livro (~55-58 capítulos), cumprida com os 58 capítulos previstos no
+limite superior da faixa.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/o-codigo-da-revanche.epub (184 KB)
+- 58 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 58, sem nenhum faltando)
+- Metadados: title "O Código da Revanche", subtitle "Algoritmos do
+  Coração", series "Elite de Cambridge" #1, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; metadados
+  DC (title/language/identifier) conferidos via get_metadata() e
+  batendo exatamente com metadata.json:
+    Título: O Código da Revanche
+    Idioma: pt-BR
+    Identifier: urn:uuid:e8cdce3f-ba93-4388-b3cd-15b0617ebee0
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 58 arquivos .md, ordenados corretamente pelo prefixo
+  numérico
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/o-codigo-da-revanche_kdp.pdf (404 KB)
+- Dimensão confirmada via pypdf: 432.0 x 648.0 pt (6" x 9" exato)
+- Total: 208 páginas
+- Página de título (não numerada) + 58 capítulos, cada um iniciando em
+  página nova, numeração árabe no rodapé a partir do Capítulo 1
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, páginas abertas e
+inspecionadas, não só geradas):
+- Página de título (página 1 do PDF): título "O Código da Revanche"
+  centralizado, subtítulo "Algoritmos do Coração" logo abaixo, nome do
+  autor "R.B. Guidenelli" e "Elite de Cambridge — Livro 1" mais
+  abaixo, tudo centralizado verticalmente na página. Sem numeração
+  (correto).
+- Primeira página do Capítulo 1 (página 2 do PDF, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Helena" em itálico
+  discreto logo abaixo, corpo em fonte serif (Times-Roman) justificado
+  com recuo de primeira linha, espaçamento entre linhas confortável.
+  Layout correto, batendo com a especificação do kdp-specs.md.
+- Página do meio do livro (página 100 do PDF, "Capítulo 30", numerada
+  "99"): mesmo padrão de layout mantido de forma consistente — título
+  centralizado, "POV: Arthur" em itálico, corpo justificado, numeração
+  de página no rodapé. Nenhum problema de quebra de página, margem ou
+  fonte encontrado no meio do manuscrito.
+- Nenhum problema de layout encontrado em nenhuma das três páginas
+  inspecionadas.
+
+TESTE ESPECÍFICO DE NEGRITO (bug histórico documentado no Livro 1 de
+Família Bittencourt — "**-18,4%**" virava "<i>*-18,4%</i>*", itálico
+com asterisco literal residual):
+- O manuscrito deste livro NÃO usa **negrito** markdown em nenhum dos
+  58 capítulos (varredura `grep -c '\*\*'` em todos os arquivos de
+  outputs/conteudo/: zero ocorrências em todos). Não havia, portanto,
+  nenhuma página real do livro para reproduzir o bug histórico a
+  partir do conteúdo publicado.
+- Para confirmar que a correção segue em vigor no script atual, foi
+  revisado o código-fonte de scripts/build_pdf.py
+  (`_markdown_inline_to_reportlab`): a conversão de **negrito** para
+  <b> continua acontecendo ANTES da conversão de *itálico* para <i>
+  (com o comentário explicativo do bug original preservado no
+  docstring da função) — a ordem correta que evita o "asterisco
+  sobrando".
+- Além disso, foi rodado um teste sintético isolado (fora da árvore do
+  projeto, em pasta temporária) com um capítulo de teste contendo
+  **negrito de verdade**, *itálico simples*, e o caso exato do bug
+  histórico (**-18,4%**, número negativo dentro de negrito). O PDF de
+  teste foi gerado com o mesmo scripts/build_pdf.py e a página
+  resultante foi convertida em PNG e inspecionada visualmente:
+  negrito renderiza como negrito de verdade, itálico como itálico,
+  "-18,4%" aparece em negrito limpo sem nenhum asterisco literal
+  sobrando. CONFIRMADO: a correção do bug segue em vigor no script
+  usado por este livro.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 58 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 58 (RESULTADO: LIMPO —
+  pode avançar)
+- grep -niE "\ba gente\b|pra gente|da gente|na gente|com a gente" em
+  outputs/final/manuscrito/*.md: nenhuma ocorrência encontrada.
+Régua 100% limpa nos 58 arquivos finais entregues, inclusive nas cenas
+de código-switching em português entre Helena e Arthur (checagem
+específica pedida pelo project_dna.md deste livro).
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_o-codigo-da-
+revanche.json é um UUID gerado automaticamente
+(urn:uuid:e8cdce3f-ba93-4388-b3cd-15b0617ebee0) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação — a KDP aceita o livro sem ISBN próprio, atribuindo
+automaticamente.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_o-codigo-da-revanche.txt,
+seguindo o tom "dark academia"/"light academia" pedido no briefing do
+project_dna.md: janela de biblioteca de Harvard à noite de inverno,
+tijolo vermelho, neve, luz quente de luminária de biblioteca em
+contraste com o frio azulado do lado de fora, reflexo sutil e ilegível
+de código no vidro (referência discreta ao Algoritmo Janus, símbolo
+central do livro, sem nunca mostrar tela ou texto técnico real). Capa
+deliberadamente diferente de todas as outras já produzidas pela casa
+— nenhum elemento visual (paleta, textura, objeto simbólico) é
+reaproveitado de A Mão na Alavanca (clube de carvalho), Jogo Infinito
+(relógio de bolso), Gelo e Sangue (gelo/tundra) ou de nenhum dos três
+livros de Família Bittencourt (taça de cristal, azulejo português,
+estufa/orquídea) — checagem feita lendo os sete prompts de capa
+anteriores do catálogo antes de escrever este.
+
+===============================================================
+8. SÉRIE EM ABERTO — NOTA (sem fechamento de trilogia)
+===============================================================
+Diferente de Família Bittencourt L3 (que fechou uma trilogia), este é
+o Livro 1 de "Elite de Cambridge", uma série nova sem número de
+volumes travado. A bíblia (references/arco-trama-livro1.md) registra
+potencial de continuação com outros pares de rivais em outros
+departamentos de Harvard em livros futuros, cada um podendo variar o
+elemento técnico refletido na janela e a estação do ano na capa (nota
+deixada também no próprio prompt de capa, seção final). Não há,
+portanto, relatório de fechamento de série nesta entrega — apenas a
+formatação deste primeiro volume.
+
+===============================================================
+9. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, último commit anterior a esta formatação).
+Esta etapa (bia-ferreira-formatter) não reabriu revisão de prosa —
+tratou o texto de outputs/conteudo/ como final, limitando-se a
+conversão de formato, empacotamento e QA técnico (régua, negrito,
+layout, metadados).
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-codigo-da-revanche.epub
+- outputs/final/o-codigo-da-revanche_kdp.pdf
+- outputs/final/prompt_capa_o-codigo-da-revanche.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-codigo-da-revanche.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 58_capitulo.md
+- outputs/final/manuscrito/metadata.json

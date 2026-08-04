@@ -1,0 +1,102 @@
+TÍTULO: Elite de Cambridge — Livro 1: O Código da Revanche (Algoritmos do Coração)
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Este é o primeiro livro de uma série NOVA da casa R.B. Guidenelli —
+"Elite de Cambridge" — deliberadamente diferente de TODAS as outras
+capas do catálogo: não é o branding "The Old English Gentleman's Club"
+(clube de carvalho/whiskey, ver references/branding-rbg.md, que NÃO se
+aplica aqui), não é o glamour corporativo paulistano de Família
+Bittencourt L1 ("Acordo de Vidro"), não é a Lisboa/Alfama de Família
+Bittencourt L2 nem a estufa/jardim de Família Bittencourt L3, não é o
+gelo/tundra/floresta de Gelo e Sangue, não é o relógio de bolso de Jogo
+Infinito, não é a alavanca industrial de A Mão na Alavanca. O tom pedido
+no briefing é "dark academia" / "light academia": Harvard no inverno de
+Massachusetts, tijolo vermelho, neve, luz quente de biblioteca contra o
+frio azulado lá fora, e um traço tecnológico sutil (código de
+computador) que marca este como o único romance de elite acadêmica de
+IA da casa — nenhum outro livro do catálogo usa esse elemento. Só a
+identidade de autor (monograma R·B·G) é mantida como fio de
+continuidade discreto entre séries — não a paleta, não a textura, não a
+iluminação de nenhuma capa anterior.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), fotografada à noite de inverno
+em Cambridge, Massachusetts. Em primeiro plano, uma grande janela de
+biblioteca universitária (vitral de caixilho antigo, moldura de madeira
+escura) vista de dentro para fora, ou de fora para dentro — o vidro
+levemente embaçado nas bordas pelo contraste de temperatura. Do lado de
+dentro, luz quente e âmbar de luminária de mesa (o clássico abajur verde
+e latão de biblioteca acadêmica) ilumina o canto inferior do quadro,
+onde se vê, desfocada e parcial, a tela de um notebook com linhas de
+código monoespaçado em verde/âmbar pálido refletidas no vidro da janela
+— o código nunca é legível como texto real, é textura, um padrão de
+linhas e cursores, um lampejo do "algoritmo" mais do que uma
+demonstração técnica. Do lado de fora do vidro, neve caindo devagar
+contra um fundo desfocado de fachada de tijolo vermelho de Harvard —
+arcos, hera seca de inverno presa na parede, um lampião de rua acendendo
+um círculo pequeno de luz amarela em meio ao azul-acinzentado do
+crepúsculo nevado. A composição dramatiza o contraste entre o calor de
+dentro (a luz da biblioteca, o código, o trabalho, a proximidade
+forçada) e o frio de fora (a neve, o tijolo, a distância acadêmica que
+os dois personagens fingem manter) — duas temperaturas de luz que se
+encontram exatamente na linha do vidro, sem nunca se misturar de todo.
+Sem rostos, sem casal, sem pose romântica — o foco é a janela, a luz e o
+código refletido, não pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+O reflexo de código no vidro da janela — uma referência discreta ao
+Algoritmo Janus (duas faces, passado e futuro, o erro que uniu os dois
+protagonistas) sem nunca mostrar tela nítida ou texto legível; o
+reflexo dobrado do código sobre o próprio vidro sugere, sem explicar, a
+ideia de duas faces/dois autores independentes chegando ao mesmo lugar.
+
+PALETA:
+Frio dominante do lado de fora — azul-acinzentado de neve ao
+entardecer, branco gelado, tijolo vermelho amortecido pela luz baixa
+(não vermelho vivo, um vermelho-tijolo escurecido pelo crepúsculo) —
+contra o acento quente pontual do lado de dentro: âmbar/dourado da
+luminária de biblioteca e um verde-fósforo pálido e discreto do texto
+de código refletido no vidro. Nenhuma cor viva ou saturada; tudo
+passado por um filtro de luz de inverno, noturno, contido.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em serif display elegante e contemporânea (peso semibold, não a
+serif ultra-dramática do clube de carvalho nem a serif comercial leve
+de "Acordo de Vidro") — algo entre acadêmico e editorial, como se fosse
+o nome gravado numa placa de bronze de biblioteca, mas moderno.
+Monograma R·B·G discreto, em dourado frio/prateado (não ouro
+envelhecido quente), posicionado de forma minúscula junto ao nome do
+autor — mantém a identidade da casa sem repetir a paleta de nenhuma
+série anterior.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano, biblioteca de carvalho escuro, couro capitonê, veludo bordô,
+cristal de whiskey, abotoaduras, relógio de bolso, taças de cristal,
+azulejo português, estufa de jardim, orquídea, gelo rachado de rinque,
+tundra industrial, alavanca de metal industrial, skyline de São Paulo,
+terno executivo corporativo, tela de computador com texto de código
+legível/didático, interface de programação realista tipo screenshot,
+néon, luz branca fria de escritório moderno, fonte serifada dourada de
+romance histórico, brasão de família, texto incorporado além de
+título/autor, estética de campus universitário genérico tipo panfleto,
+bandeiras, símbolos partidários
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: editorial, cinematic, fotografia noturna de inverno, dark
+academia / light academia, contraste de temperatura de luz (frio
+exterior x quente interior), atmosférico e contido — mais still de
+filme sobre Ivy League no inverno do que capa de romance corporativo
+ou histórico; elegante, intelectual, levemente melancólico, com o
+código como textura, nunca como protagonista visual.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Este é o primeiro livro de uma série em aberto — "Elite de Cambridge"
+tem potencial de continuar com outros pares de rivais em outros
+departamentos de Harvard em volumes futuros (ver
+references/arco-trama-livro1.md). Se a série continuar, o elemento
+"janela com reflexo de código + tijolo/neve" pode servir de motivo
+recorrente (como o relógio de bolso em Jogo Infinito), variando o
+elemento técnico refletido no vidro e a estação do ano conforme o
+departamento/dupla de protagonistas de cada novo volume.
