@@ -1,17 +1,17 @@
 # Progresso do Loop — Elite de Cambridge L2 (Mariana/Nico)
 
 ## Estado atual
-- Status: Em andamento
-- Capítulos concluídos: 40 / 56
-- Próximo: Capítulo 41 (POV Mariana)
-- Última atualização: 2026-08-05 20:43
+- Status: Manuscrito completo — revisão/formatação pendentes
+- Capítulos concluídos: 56 / 56
+- Próximo: Capítulo 57 (POV Mariana)
+- Última atualização: 2026-08-05 21:12
 
 ## Placar
-- Palavras: 39809
-- Páginas KDP (~palavras/300): 133
-- Score médio: 6.7
-- Meta de palavras: 56500 (70%)
-- Cenas de heat: 5 / meta 11 (última no cap. 36)
+- Palavras: 55646
+- Páginas KDP (~palavras/300): 185
+- Score médio: 6.71
+- Meta de palavras: 56500 (98%)
+- Cenas de heat: 9 / meta 11 (última no cap. 53)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

@@ -9,10 +9,10 @@
     "Mariana",
     "Nico"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 57,
   "next_pov": "Mariana",
-  "updated": "2026-08-05 20:43",
+  "updated": "2026-08-05 21:12",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,144 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Mariana",
+      "words": 985,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Nico",
+      "words": 941,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 43,
+      "pov": "Mariana",
+      "words": 1009,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Nico",
+      "words": 1119,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 45,
+      "pov": "Mariana",
+      "words": 959,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Nico",
+      "words": 1119,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Mariana",
+      "words": 960,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Nico",
+      "words": 1018,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Mariana",
+      "words": 995,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 50,
+      "pov": "Nico",
+      "words": 935,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Mariana",
+      "words": 919,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Nico",
+      "words": 1020,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Mariana",
+      "words": 947,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 54,
+      "pov": "Nico",
+      "words": 884,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Mariana",
+      "words": 1009,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Nico",
+      "words": 1018,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 39809,
-    "pages_kdp": 133,
-    "avg_score": 6.7,
-    "pct_to_target": 70,
-    "heat_scenes_done": 5,
-    "last_heat_chapter": 36
+    "chapters_done": 56,
+    "total_words": 55646,
+    "pages_kdp": 185,
+    "avg_score": 6.71,
+    "pct_to_target": 98,
+    "heat_scenes_done": 9,
+    "last_heat_chapter": 53
   }
 }
