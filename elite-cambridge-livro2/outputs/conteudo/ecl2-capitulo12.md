@@ -2,7 +2,7 @@
 
 Fico acordado até tarde lendo o processo simulado inteiro pela terceira vez, o caderno de capa dura aberto ao lado do laptop, ainda com só uma linha escrita — o nome do caso, minha letra maior do que devia, como se eu tivesse hesitado antes de assinar aquela página em branco com qualquer coisa definitiva.
 
-*Estado v. Halstrom Technologies.* Quanto mais releio os fatos simulados, mais reconheço, desconfortável, os contornos exatos do caso que Otávio mencionou no jantar — a engenheira demitida, a empresa que prefere calar a admitir erro. A diferença é que aqui, dessa vez, sou eu quem vai construir a defesa mais persuasiva possível a favor do silêncio corporativo, com a mesma habilidade que herdei sem escolher, treinada geração após geração numa sala de reuniões na Faria Lima.
+*Estado v. Halstrom Corporation.* Quanto mais releio os fatos simulados, mais reconheço, desconfortável, os contornos exatos do caso que Otávio mencionou no jantar — a engenheira demitida, a empresa que prefere calar a admitir erro. A diferença é que aqui, dessa vez, sou eu quem vai construir a defesa mais persuasiva possível a favor do silêncio corporativo, com a mesma habilidade que herdei sem escolher, treinada geração após geração numa sala de reuniões na Faria Lima.
 
 Não durmo direito. Às seis da manhã já estou de pé, revisando anotações, tentando decidir qual argumento processual seria mais forte pra abrir a defesa — se atacar a legitimidade da denúncia interna, ou focar na ausência de dano concreto comprovado. Chego em Langdell às sete e quarenta, vinte minutos adiantado, e encontro Mariana já sentada na sala de estudo em grupo reservada, três cadernos abertos à sua frente, como se tivesse chegado ainda mais cedo do que eu.
 

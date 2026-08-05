@@ -6,7 +6,7 @@ Nico entra dois minutos depois de mim, sozinho, e escolhe a cadeira do outro ext
 
 A professora Whitfield-Reyes sobe ao palco pontualmente, uma urna de madeira escura sobre a mesa ao seu lado — o mesmo tipo de urna que já vi em fotos históricas do programa, usada, segundo dizem, desde os anos oitenta pra esse mesmo ritual.
 
-— Boa tarde. — A voz dela enche o auditório sem esforço aparente. — Nos últimos vinte anos, a rodada final do nosso moot court formou duplas do mesmo jeito que formamos qualquer time de litígio de verdade: sem escolher os parceiros que preferimos, só os que o caso exige que aprendamos a trabalhar. Oito nomes nessa urna. Quatro pares. Dois lados do caso *Estado v. Halstrom Technologies*. Vamos começar.
+— Boa tarde. — A voz dela enche o auditório sem esforço aparente. — Nos últimos vinte anos, a rodada regional do nosso moot court formou duplas do mesmo jeito que formamos qualquer time de litígio de verdade: sem escolher os parceiros que preferimos, só os que o caso exige que aprendamos a trabalhar. Oito nomes nessa urna. Quatro pares. Dois lados do caso *Estado v. Halstrom Corporation*. Vamos começar.
 
 Ela sorteia o primeiro par — dois nomes que reconheço de vista, colegas de outra seção — e o auditório aplaude baixo, risadinhas nervosas correndo pelas fileiras. Sorteia o segundo. Sinto minhas próprias mãos suando, enroladas uma na outra no colo, enquanto tento não olhar pra Nico e falho miseravelmente.
 
@@ -20,9 +20,9 @@ O auditório inteiro reage antes que eu consiga reagir — um misto de risada su
 
 Viro a cabeça, quase sem controle sobre o próprio pescoço, e encontro Nico já olhando pra mim do outro lado da fileira. Ele não sorri, exatamente — o rosto dele está processando alguma coisa complicada demais pra caber num sorriso fácil — mas também não desvia o olhar, e por um segundo interminável ficamos ali, presos um no outro, enquanto Whitfield-Reyes continua sorteando os últimos pares como se acabasse de anunciar algo perfeitamente rotineiro.
 
-— Vocês representam o lado da defesa — anuncia ela, olhando diretamente pra nós dois com um brilho nos olhos que só reconheço agora, tarde demais, como cálculo pedagógico deliberado. — Halstrom Technologies. Terão seis semanas pra construir o argumento, com sessões de orientação obrigatórias comigo às terças e quintas. A rodada final acontece no primeiro sábado de outubro.
+— Vocês representam o lado da defesa — anuncia ela, olhando diretamente pra nós dois com um brilho nos olhos que só reconheço agora, tarde demais, como cálculo pedagógico deliberado. — Halstrom Corporation. Terão seis semanas pra construir o argumento, com sessões de orientação obrigatórias comigo às terças e quintas. A rodada regional acontece no primeiro sábado de outubro.
 
-A informação leva um segundo inteiro pra atravessar o choque do próprio sorteio e chegar até mim com todo o peso que merece. Defesa. Halstrom Technologies. A empresa. Não a engenheira demitida por dizer a verdade — a corporação que a demitiu.
+A informação leva um segundo inteiro pra atravessar o choque do próprio sorteio e chegar até mim com todo o peso que merece. Defesa. Halstrom Corporation. A empresa. Não a engenheira demitida por dizer a verdade — a corporação que a demitiu.
 
 Sinto o estômago virar de um jeito que não tem nada a ver com nervosismo de plateia. Passei a vida inteira do outro lado dessa equação — defendendo quem não tinha voz contra quem tinha advogado suficiente pra calar qualquer um. E agora, pelo acaso frio de um cartão dobrado dentro de uma urna de madeira, vou passar seis semanas construindo o argumento mais persuasivo possível a favor exatamente do tipo de empresa que minha mãe passou a carreira inteira enfrentando.
 

@@ -18,7 +18,7 @@ Ela se retira pouco depois, deixando a festa nas mãos mais jovens, e o volume d
 
 — Então essa é a Mariana que meu filho não para de mencionar — comenta a mãe de Nico, sorrindo genuína pela tela pixelada. — Prazer finalmente ver seu rosto de verdade, não só em fotos que ele mostra escondido.
 
-— O prazer é meu, Dona Beatriz — respondo, sentindo o coração apertar de um jeito bom, inesperado.
+— O prazer é meu, Dona Cristina — respondo, sentindo o coração apertar de um jeito bom, inesperado.
 
 Minha mãe e Henrique trocam poucas palavras, educadas, cautelosas — dois mundos completamente diferentes tentando encontrar linguagem comum numa tela de computador emprestada —, mas é o suficiente, e sinto Nico apertar minha mão por baixo da mesa, o mesmo gesto de sempre, agora carregando um peso diferente, mais leve.
 

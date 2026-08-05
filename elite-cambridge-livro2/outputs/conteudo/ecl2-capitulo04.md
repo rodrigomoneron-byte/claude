@@ -4,7 +4,7 @@ Corro pela margem do rio Charles até as pernas doerem o suficiente pra calar a 
 
 Não devia significar nada. Já ouvi elogio disfarçado de provocação a vida inteira — é praticamente o dialeto oficial da minha família, o jeito que meu pai diz "orgulho" sem nunca usar a palavra. Mas vindo dela, com aquele brilho de quem se arrependeu no mesmo segundo em que a frase escapou, significou alguma coisa que ainda não sei nomear direito. Sei só que passei a tarde inteira revivendo o momento em que ela desviou o olhar rápido demais, como se tivesse mostrado uma carta que não queria mostrar.
 
-Paro na ponte, mãos nos joelhos, o suor esfriando rápido no vento de agosto que já começa a lembrar Cambridge de que o outono existe. O celular vibra no bolso do corta-vento. Não é meu pai, dessa vez — é Rafael, colega de escritório de verão, com quem dividi estágio dois anos atrás, texto curto: *Soube que passou pra final. Parabéns, herdeiro.*
+Paro na ponte, mãos nos joelhos, o suor esfriando rápido no vento de agosto que já começa a lembrar Cambridge de que o outono existe. O celular vibra no bolso do corta-vento. Não é meu pai, dessa vez — é Rafael, colega de escritório de verão, com quem dividi estágio dois anos atrás, texto curto: *Soube que passou pra regional. Parabéns, herdeiro.*
 
 "Herdeiro." Uso a palavra pra brincar com meus amigos antes que alguém use pra me ferir. Funciona bem quando eu escolho o momento. Funciona mal quando vem de fora, sem aviso, e me lembra que em Harvard também sou conhecido primeiro pelo sobrenome, mesmo tendo atravessado o oceano justamente pra escapar disso.
 
@@ -12,11 +12,11 @@ Digito uma resposta qualquer — *valeu* — e guardo o celular sem reler. Fico 
 
 Volto andando devagar, deixando o corpo esfriar, e passo pelo pátio da Faculdade de Direito quando encontro o professor Aldous Kane, coordenador do programa de moot court, saindo do prédio administrativo com uma pasta debaixo do braço.
 
-— Ferraz. Bom trabalho hoje — cumprimenta, sem parar de andar, mas com um gesto de cabeça que me convida a acompanhá-lo. — Já viu o formato da rodada final?
+— Ferraz. Bom trabalho hoje — cumprimenta, sem parar de andar, mas com um gesto de cabeça que me convida a acompanhá-lo. — Já viu o formato da rodada regional?
 
 — Só sei que avancei. Não sei os detalhes.
 
-— Esse ano mudou. Whitfield-Reyes insistiu, e o comitê aceitou: os quatro semifinalistas de cada chave não continuam com o mesmo parceiro que tiveram nas rodadas eliminatórias. Pra final, sorteiam duplas entre os oito classificados — dois de cada chave por lado do caso. Ideia é testar adaptabilidade, não só preparo. — Ele sorri de leve, como quem sabe exatamente o efeito da informação. — Você e a senhorita Azevedo estão entre os oito, pelo que ouvi. Vai ser um sorteio interessante de assistir.
+— Esse ano mudou. Whitfield-Reyes insistiu, e o comitê aceitou: os quatro semifinalistas de cada chave não continuam com o mesmo parceiro que tiveram nas rodadas eliminatórias. Pra regional, sorteiam duplas entre os oito classificados — dois de cada chave por lado do caso. Ideia é testar adaptabilidade, não só preparo. — Ele sorri de leve, como quem sabe exatamente o efeito da informação. — Você e a senhorita Azevedo estão entre os oito, pelo que ouvi. Vai ser um sorteio interessante de assistir.
 
 Sinto o estômago descer um andar inteiro.
 
@@ -34,7 +34,7 @@ Chego em casa, jogo as chaves na mesa de centro e vejo, de novo, o nome do meu p
 
 — Nicolau. Finalmente. — A voz dele chega firme, satisfeita antes mesmo de saber os detalhes. — Soube que passou. Já providenciei que o escritório mande flores pro seu apartamento amanhã. Boa visibilidade, isso, pro currículo.
 
-— Ainda nem sei quem vai ser meu parceiro na final, pai.
+— Ainda nem sei quem vai ser meu parceiro na regional, pai.
 
 — Não importa quem — ele responde, num tom que fecha a frase como se fechasse um contrato. — Importa que você ganhe. É isso que sempre importou.
 

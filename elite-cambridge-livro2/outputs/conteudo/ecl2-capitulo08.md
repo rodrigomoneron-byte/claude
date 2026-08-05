@@ -28,7 +28,7 @@ Deshawn assobia baixo, genuinamente impressionado.
 
 — Se passar, o quê?
 
-— Se passar, o juiz Okonkwo vai querer ver desempenho recente em litígio real, mesmo que simulado. Uma final de moot court de peso, com distinção individual, é exatamente o tipo de linha extra que separa quem entra na lista curta de quem fica de fora. — Encaro Deshawn, sentindo o peso da própria confissão pela primeira vez em voz alta. — Então essa final não é só orgulho, nem é só sobre vencer a Mariana Azevedo, como todo mundo parece achar. É sobre ter, talvez pela primeira vez na vida, uma prova concreta de que consigo abrir uma porta que meu pai nunca abriria pra mim.
+— Se passar, o juiz Okonkwo vai querer ver desempenho recente em litígio real, mesmo que simulado. Uma rodada regional de moot court de peso, com distinção individual, é exatamente o tipo de linha extra que separa quem entra na lista curta de quem fica de fora. — Encaro Deshawn, sentindo o peso da própria confissão pela primeira vez em voz alta. — Então essa rodada não é só orgulho, nem é só sobre vencer a Mariana Azevedo, como todo mundo parece achar. É sobre ter, talvez pela primeira vez na vida, uma prova concreta de que consigo abrir uma porta que meu pai nunca abriria pra mim.
 
 Deshawn fica em silêncio um instante, girando o próprio copo, e quando fala de novo a voz perdeu a leveza de antes.
 
@@ -52,4 +52,4 @@ Ele levanta o copo antes de virar em direção ao balcão, e sorri de um jeito q
 
 Deshawn ri, chama o garçom, e a conversa desliza pra assuntos mais leves — futebol, uma festa de sábado, o clima impossível de Boston no fim de agosto —, mas alguma coisa dentro de mim continua presa na própria confissão, girando devagar como o copo suado na mesa. Amanhã às dezesseis horas, um sorteio vai decidir se compartilho essa verdade inteira com a única pessoa em Harvard capaz de entender exatamente o peso dela — ou se sigo carregando sozinho, como sempre carreguei tudo que realmente importa.
 
-Termino a segunda cerveja mais devagar do que planejava, sentindo, pela primeira vez desde que soube do formato da final, que já não sei mais qual resultado do sorteio eu temo mais: sair sorteado com ela, ou não sair. Pago a conta antes que Deshawn tente, guardo o troco no bolso do casaco e saio pro frio de agosto sentindo o peso de duas verdades escondidas — o clerkship e o que quer que isso seja que sinto por Mariana Azevedo — pesando exatamente igual dentro do peito.
+Termino a segunda cerveja mais devagar do que planejava, sentindo, pela primeira vez desde que soube do formato da regional, que já não sei mais qual resultado do sorteio eu temo mais: sair sorteado com ela, ou não sair. Pago a conta antes que Deshawn tente, guardo o troco no bolso do casaco e saio pro frio de agosto sentindo o peso de duas verdades escondidas — o clerkship e o que quer que isso seja que sinto por Mariana Azevedo — pesando exatamente igual dentro do peito.

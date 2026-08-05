@@ -66,6 +66,6 @@ Bia sorri, encostando a cabeça no meu ombro por um segundo, sem precisar dizer 
 
 — Talvez seja por isso que você desconfia tanto de homem que promete ficar — diz Bia, gentil, sem soar como diagnóstico barato. — Faz sentido. Só não deixa isso decidir por você antes da hora.
 
-— Estou tentando não deixar. — Termino o sanduíche, sentindo a determinação antiga voltar, mais afiada agora, misturada com alguma coisa nova que ainda não sei nomear direito. — Vou deixar meu trabalho falar em Nova York. E o resto, vou descobrir andando, por mais que isso me assuste.
+— Estou tentando não deixar. — Termino o sanduíche, sentindo alguma coisa nova se assentar por cima da determinação antiga, ainda incerta, mas real. — Vou pra Nova York decidida a não fugir de nada. Do caso, da vaga, dele. Do resto, vou descobrir andando, por mais que isso me assuste.
 
 Marcus provavelmente já está ensaiando o próprio discurso de vitória em algum lugar da cidade, sem imaginar o tamanho real do que ainda vou precisar carregar pra chegar até Nova York inteira — o caso, a vaga, a mãe do outro lado da linha, e o rapaz complicado que decidiu, sem pedir licença, virar parte importante demais da equação pra eu continuar fingindo que é só distração passageira.

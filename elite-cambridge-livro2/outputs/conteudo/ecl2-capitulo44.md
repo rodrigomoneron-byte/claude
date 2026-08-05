@@ -44,7 +44,7 @@ Acordo de madrugada com o celular vibrando na mesa de cabeceira, e Mariana se me
 
 *Seu pai leu a contraproposta. Não gostou. Quer falar com você pessoalmente, não por telefone. Vem pra Boston sexta-feira.*
 
-Sexta-feira é daqui a dois dias. Dez antes do prazo de 15 de dezembro, seis antes da final.
+Sexta-feira é daqui a dois dias. Três antes do prazo de 15 de dezembro, seis antes da final.
 
 Encaro a tela por um longo momento, o corpo de Mariana quente contra o meu, a paz de minutos atrás já cedendo espaço pra um nervoso novo, diferente — não mais o nervoso de esconder, mas o de finalmente ter que sustentar, cara a cara, a decisão que tomei sozinho.
 

@@ -10,7 +10,7 @@ Não conversamos sobre o que quase aconteceu naquela sala de estudos. Combinamos
 
 Whitfield-Reyes entra pontualmente, fecha a porta atrás de si e senta atrás da mesa com a postura ereta de quem nunca aprendeu a se acomodar de qualquer outro jeito.
 
-— Vamos direto ao ponto — começa, abrindo uma pasta grossa entre nós dois. — Seis semanas até a rodada final. Isso significa duas sessões de orientação comigo por semana, terças e quintas, além de todo o trabalho de preparação que vocês precisam fazer sozinhos entre uma sessão e outra. Espero um memorial escrito completo até a quarta semana, e as duas últimas semanas inteiramente dedicadas a ensaio de argumentação oral.
+— Vamos direto ao ponto — começa, abrindo uma pasta grossa entre nós dois. — Seis semanas até a rodada regional. Isso significa duas sessões de orientação comigo por semana, terças e quintas, além de todo o trabalho de preparação que vocês precisam fazer sozinhos entre uma sessão e outra. Espero um memorial escrito completo até a quarta semana, e as duas últimas semanas inteiramente dedicadas a ensaio de argumentação oral.
 
 Anoto tudo, a caneta correndo rápido pela margem do caderno que trouxe.
 
@@ -20,7 +20,7 @@ Anoto tudo, a caneta correndo rápido pela margem do caderno que trouxe.
 
 — Espero que não. — Whitfield-Reyes tira da gaveta um caderno de capa dura, encadernação simples, e empurra sobre a mesa até o meio do caminho entre nós dois. — Cada dupla recebe um desses. É onde documentam estratégia, divergências, rascunhos de argumento — tudo, sem exceção, porque quero acompanhar não só o resultado final, mas o processo de raciocínio de vocês semana a semana. Dividam a caneta. Literalmente.
 
-— Uma última coisa — acrescenta Whitfield-Reyes, antes de guardar a pasta de vez. — Sei que os dois têm motivos pessoais fortes envolvidos nessa final. Não vou perguntar quais são, porque não é da minha conta, mas vou dizer isto: os professores que decidem a vaga da clínica de litígio de interesse público e os parceiros de escritório que acompanham essas finais em busca de talento não distinguem entre performance excelente e performance apaixonada. Só enxergam o resultado. Se vocês dois deixarem o que sentem um pelo outro — seja lá o que for isso — atrapalhar o trabalho, quem paga o preço não sou eu. São vocês dois, e as portas que essa rodada pode abrir ou fechar.
+— Uma última coisa — acrescenta Whitfield-Reyes, antes de guardar a pasta de vez. — Sei que os dois têm motivos pessoais fortes envolvidos nessa regional. Não vou perguntar quais são, porque não é da minha conta, mas vou dizer isto: os professores que decidem a vaga da clínica de litígio de interesse público e os parceiros de escritório que acompanham essas rodadas em busca de talento não distinguem entre performance excelente e performance apaixonada. Só enxergam o resultado. Se vocês dois deixarem o que sentem um pelo outro — seja lá o que for isso — atrapalhar o trabalho, quem paga o preço não sou eu. São vocês dois, e as portas que essa rodada pode abrir ou fechar.
 
 A frase pousa entre nós com um peso quase físico, e sinto Nico se mexer de leve na cadeira ao lado, tão desconfortável quanto eu com a precisão cirúrgica da observação dela.
 

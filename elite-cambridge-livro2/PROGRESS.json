@@ -348,7 +348,7 @@
       "words": 941,
       "score": 6.5,
       "status": "aprovado",
-      "heat": true
+      "heat": false
     },
     {
       "n": 43,
@@ -470,7 +470,7 @@
     "pages_kdp": 185,
     "avg_score": 6.71,
     "pct_to_target": 98,
-    "heat_scenes_done": 9,
+    "heat_scenes_done": 8,
     "last_heat_chapter": 53
   }
 }

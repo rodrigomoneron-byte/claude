@@ -50,7 +50,7 @@ Kavya me alcança perto da saída, o próprio time também avançando de fase se
 
 Saímos do prédio federal já escurecendo lá fora, o frio de outubro mordendo mais forte perto do rio, e sinto o peso do dia inteiro começar a ceder lugar pra um cansaço bom, satisfeito, do tipo que só vem depois de um trabalho bem feito.
 
-Whitfield-Reyes anuncia, antes de nos liberar pro jantar de comemoração, que a final do moot court vai acontecer em dezembro, em Cambridge, com convidados de peso no painel de juízes — e a menção do prazo, ainda distante mas já concreto, me lembra de tudo que ainda falta resolver antes de chegar lá: a vaga da clínica, o caso inteiro, e o peso silencioso da família de Nico que insiste em se fazer presente mesmo de longe.
+Whitfield-Reyes anuncia, antes de nos liberar pro jantar de comemoração, que a final nacional do moot court vai acontecer em dezembro, em Washington D.C., com convidados de peso no painel de juízes — e a menção do prazo, ainda distante mas já concreto, me lembra de tudo que ainda falta resolver antes de chegar lá: a vaga da clínica, o caso inteiro, e o peso silencioso da família de Nico que insiste em se fazer presente mesmo de longe.
 
 — Você está bem? — pergunta ele, notando minha expressão mudar.
 

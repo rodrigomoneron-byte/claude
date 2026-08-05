@@ -2,11 +2,11 @@
 
 A professora Whitfield-Reyes entra na sala de seminário três minutos antes do horário, como sempre, e o barulho de conversas cai pela metade só com o som da porta se fechando atrás dela. Não precisa erguer a voz. Nunca precisou.
 
-— Bom dia. Antes de começarmos a discussão de hoje, quero adiantar o material do caso que a rodada final vai usar, já que amanhã vocês oito estarão ocupados demais com o sorteio pra prestar atenção em qualquer coisa além do próprio nervosismo.
+— Bom dia. Antes de começarmos a discussão de hoje, quero adiantar o material do caso que a rodada regional vai usar, já que amanhã vocês oito estarão ocupados demais com o sorteio pra prestar atenção em qualquer coisa além do próprio nervosismo.
 
 Um riso baixo percorre a sala. Ela distribui as pastas com a paciência de quem já fez isso muitas vezes, e quando a minha chega às mãos, sinto o peso do papel como se já soubesse, de algum jeito supersticioso, que aquele caso vai definir mais da minha vida do que qualquer nota que já tirei.
 
-*Caso hipotético: Estado v. Halstrom Technologies.* Abro a primeira página, seguindo com os olhos o resumo dos fatos simulados. Uma engenheira de software, funcionária da Halstrom havia seis anos, descobre que o algoritmo de triagem de crédito da empresa discrimina sistematicamente bairros de baixa renda — e que a diretoria sabia disso há dezoito meses antes de qualquer correção ser sequer discutida internamente. Ela denuncia. É demitida três semanas depois, sob pretexto de "reestruturação". A ação que chega ao tribunal simulado discute se a lei de proteção a denunciantes protege revelações feitas primeiro internamente, antes de qualquer órgão regulador, ou se essa proteção só nasce no momento em que a denúncia se torna pública.
+*Caso hipotético: Estado v. Halstrom Corporation.* Abro a primeira página, seguindo com os olhos o resumo dos fatos simulados. Uma engenheira de software, funcionária da Halstrom havia seis anos, descobre que o algoritmo de triagem de crédito da empresa discrimina sistematicamente bairros de baixa renda — e que a diretoria sabia disso há dezoito meses antes de qualquer correção ser sequer discutida internamente. Ela denuncia. É demitida três semanas depois, sob pretexto de "reestruturação". A ação que chega ao tribunal simulado discute se a lei de proteção a denunciantes protege revelações feitas primeiro internamente, antes de qualquer órgão regulador, ou se essa proteção só nasce no momento em que a denúncia se torna pública.
 
 É o tipo de caso que eu escolheria escrever, se algum dia me dessem o poder de inventar um problema jurídico do zero.
 
@@ -22,7 +22,7 @@ Ergo a mão antes de decidir conscientemente que ia fazer isso.
 
 Whitfield-Reyes observa a troca sem interromper, um leve movimento de cabeça, como se estivesse anotando mentalmente cada argumento pra usar depois contra nós dois.
 
-— Interessante — ela diz, por fim, quando finalmente entra na conversa. — Vocês dois acabam de esboçar, sem perceber, os dois lados exatos que a rodada final vai exigir que alguém defenda com igual convicção, quer concorde pessoalmente ou não. Guardem essa discussão. Vai ser útil.
+— Interessante — ela diz, por fim, quando finalmente entra na conversa. — Vocês dois acabam de esboçar, sem perceber, os dois lados exatos que a rodada regional vai exigir que alguém defenda com igual convicção, quer concorde pessoalmente ou não. Guardem essa discussão. Vai ser útil.
 
 A aula segue por mais quarenta minutos, e Whitfield-Reyes conduz a turma inteira pelos precedentes de proteção a denunciantes com uma clareza que faz até os alunos mais dispersos prestarem atenção. Não é à toa que ela é considerada, sem disputa, a maior referência viva de litígio de interesse público da faculdade — passou quinze anos representando comunidades inteiras contra corporações que tinham advogados suficientes pra afundar qualquer processo em anos de recursos, e ganhou mais vezes do que qualquer estatística razoável deveria permitir. Sempre que ela fala, anoto tudo, mesmo o que já sei, só pelo prazer de ver como ela organiza a mesma informação de um jeito que eu nunca tinha pensado antes.
 

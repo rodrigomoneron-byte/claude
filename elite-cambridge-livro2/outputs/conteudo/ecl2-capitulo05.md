@@ -14,7 +14,7 @@ Rio, mesmo sem vontade real de rir, e pego um punhado de pipoca só pra ter algu
 
 — As duas — admito, e ela solta uma risada curta, satisfeita por ter me arrancado alguma verdade sem precisar torturar demais.
 
-A verdade inteira é mais complicada do que eu consigo formatar em frase fácil pra Bia, mesmo sendo ela a única pessoa em Cambridge que eu deixo ver o tamanho real da minha ambição. Essa final não é só sobre orgulho acadêmico. A vaga de bolsista-associada na clínica de litígio de interesse público — a única, no país inteiro, que financia dois anos inteiros de trabalho direto com defensorias estaduais — vai pra quem se destacar mais na rodada final deste ano. Não é regra escrita, mas todo mundo no programa sabe: os professores que decidem essa bolsa são os mesmos que vão assistir sentados na primeira fila.
+A verdade inteira é mais complicada do que eu consigo formatar em frase fácil pra Bia, mesmo sendo ela a única pessoa em Cambridge que eu deixo ver o tamanho real da minha ambição. Essa rodada não é só sobre orgulho acadêmico. A vaga de bolsista-associada na clínica de litígio de interesse público — a única, no país inteiro, que financia dois anos inteiros de trabalho direto com defensorias estaduais — vai pra quem se destacar mais na rodada regional deste ano. Não é regra escrita, mas todo mundo no programa sabe: os professores que decidem essa bolsa são os mesmos que vão assistir sentados na primeira fila.
 
 Se eu ganhar essa clínica, minha mãe finalmente vai poder mostrar pros colegas dela na Defensoria que existe um caminho de volta pro Brasil que não passa por abandonar tudo que aprendi aqui. Não é sobre currículo. É sobre provar, pra mim mesma antes de qualquer um, que dá pra sair de Harvard sem virar as costas pro motivo que me trouxe até ela.
 
@@ -40,7 +40,7 @@ Abro a boca pra rebater e não sai nada — porque, pela primeira vez desde que 
 
 — Viu só — ela diz, baixinho, sem nenhuma provocação na voz dessa vez, só constatação gentil. — Nem você discorda.
 
-O celular vibra na mesinha de centro antes que eu precise responder — e sou grata pela interrupção mais do que deveria admitir. É um e-mail institucional, remetente Adaora Whitfield-Reyes, assunto em letras diretas: *Sorteio da Rodada Final — Auditório Wasserstein, sexta, 16h. Presença obrigatória de todos os oito finalistas.* Releio duas vezes, sentindo o estômago apertar num nó que não é só ansiedade acadêmica.
+O celular vibra na mesinha de centro antes que eu precise responder — e sou grata pela interrupção mais do que deveria admitir. É um e-mail institucional, remetente Adaora Whitfield-Reyes, assunto em letras diretas: *Sorteio da Rodada Regional — Auditório Wasserstein, sexta, 16h. Presença obrigatória de todos os oito finalistas.* Releio duas vezes, sentindo o estômago apertar num nó que não é só ansiedade acadêmica.
 
 — É oficial — falo, virando a tela pra Bia ver.
 

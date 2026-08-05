@@ -2,7 +2,7 @@
 
 Whitfield-Reyes convoca todos os finalistas pra uma última sessão de preparação antes da viagem, a sala de moot court lotada de nervosismo contido, mapas do trajeto até Washington D.C. espalhados na mesa comprida junto com o roteiro logístico da Federal Bar Association.
 
-— A final nacional acontece no dia 18, na sede do tribunal, diante de uma banca de três juízes federais aposentados — anuncia ela, a voz carregando o mesmo rigor de sempre, sem nenhuma concessão à proximidade da data. — Vocês partem no dia 16. Isso dá dois dias inteiros de ensaio final antes da audiência real. Usem bem.
+— A final nacional acontece no dia 18, na sede do tribunal, diante de uma banca de três juízes federais aposentados — anuncia ela, a voz carregando o mesmo rigor de sempre, sem nenhuma concessão à proximidade da data. — Vocês partem no dia 15. Isso dá dois dias inteiros de ensaio final antes da audiência real. Usem bem.
 
 Bia me cutuca de leve, sentada ao meu lado.
 
