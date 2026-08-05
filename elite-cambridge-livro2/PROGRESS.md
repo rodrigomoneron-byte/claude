@@ -1,9 +1,16 @@
 # Progresso do Loop — Elite de Cambridge L2 (Mariana/Nico)
 
 ## Estado atual
-- Status: Revisão global (bia-ferreira-editor-global) concluída — pronto para formatação
+- Status: FORMATAÇÃO FINAL CONCLUÍDA (bia-ferreira-formatter) — pronto para KDP
+- Título final: "O Argumento Final" (subtítulo: "Veredito do Coração") —
+  decidido nesta etapa (ver outputs/final/relatorio_formatacao.txt, seção 0)
 - Capítulos concluídos: 56 / 56
-- Última atualização: 2026-08-05 (revisão global)
+- Entregáveis: outputs/final/o-argumento-final.epub,
+  outputs/final/o-argumento-final_kdp.pdf (220 págs, 6"x9"),
+  outputs/final/prompt_capa_o-argumento-final.txt,
+  outputs/final/metadata.json, outputs/final/metadados_o-argumento-final.json,
+  outputs/final/relatorio_formatacao.txt, outputs/final/manuscrito/*.md
+- Última atualização: 2026-08-05 (formatação final)
 
 ## Placar
 - Palavras: ~55700 (após correções pontuais da revisão global)

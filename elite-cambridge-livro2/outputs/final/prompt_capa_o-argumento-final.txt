@@ -1,0 +1,121 @@
+TÍTULO: Elite de Cambridge — Livro 2: O Argumento Final (Veredito do Coração)
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Este é o segundo livro da série "Elite de Cambridge" da casa
+R.B. Guidenelli. Cada livro da série tem capa própria, ligada ao
+departamento de Harvard do par de rivais daquele volume — não existe
+um "branding único" da série que se repete de capa em capa (mesma
+lógica de casa de capa própria por livro adotada em todo o catálogo).
+Esta capa é DELIBERADAMENTE DIFERENTE de todas as outras já produzidas
+pela casa:
+- NÃO é a capa "dark academia / light academia" do Livro 1 desta
+  mesma série (O Código da Revanche) — nada de tijolo vermelho, neve,
+  reflexo de código de computador no vidro, ou luminária verde e latão
+  de biblioteca de Ciência da Computação.
+- NÃO é o branding "The Old English Gentleman's Club" (clube de
+  carvalho/whiskey — couro capitonê, veludo bordô, cristal de whiskey,
+  abotoaduras, relógio de bolso) usado em A Mão na Alavanca — esse
+  universo é masculino/clube privado, não jurídico/acadêmico.
+- NÃO é o glamour corporativo paulistano de Família Bittencourt L1
+  ("Acordo de Vidro"), nem a Lisboa/Alfama do L2, nem a estufa/jardim
+  do L3.
+- NÃO é o gelo/tundra de Gelo e Sangue, nem a alavanca industrial de
+  Jogo Infinito.
+O tom pedido para este volume é "elite jurídica": mármore, madeira
+escura de tribunal, luz dourada de biblioteca de Direito — um mundo de
+salas de audiência simuladas, becas emprestadas e bibliotecas de
+jurisprudência, não de escritório de tecnologia nem de clube privado.
+Só a identidade de autor (monograma R·B·G) atravessa como fio de
+continuidade discreto entre séries e volumes — não a paleta, não a
+textura, não o objeto simbólico de nenhuma capa anterior do catálogo.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), fotografada ao entardecer,
+dentro de uma sala de tribunal simulado (moot court) de faculdade de
+Direito americana antiga — o tipo de sala com bancada elevada de
+mármore claro veado de cinza, balaustrada de madeira escura maciça
+(carvalho ou nogueira, quase preta de tão envelhecida, diferente do
+carvalho quente de A Mão na Alavanca — aqui a madeira é mais fria,
+mais institucional, sem veludo nem couro por perto) e fileiras de
+bancos vazios desfocados ao fundo. Em primeiro plano, sobre a bancada
+de mármore, um martelo de juiz (gavel) de madeira escura repousa ao
+lado de uma pilha de autos processuais amarrados com fita, a luz de
+uma luminária de latão de biblioteca jurídica (cúpula verde-escura ou
+âmbar, no estilo clássico das bibliotecas de Direito americanas)
+projetando um círculo de luz dourada quente exatamente sobre o
+martelo e os papéis, enquanto o resto do ambiente mergulha em sombra
+azul-acinzentada de mármore frio — o contraste entre a frieza
+institucional do espaço (mármore, madeira escura, hierarquia,
+tribunal) e o calor pontual da luz dourada é a espinha visual da
+capa, ecoando (sem repetir) a lógica de "dois mundos" que atravessa a
+série. Ao fundo, desfocada, uma janela alta em arco deixa entrar o
+último raio horizontal de sol do fim de tarde, cortando o mármore em
+diagonal. Sem rostos, sem casal, sem pose romântica — o foco é o
+objeto (o martelo, os autos, a luz) e o espaço, não pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+O martelo do juiz (gavel) sobre a bancada de mármore, com a luz
+dourada da luminária de biblioteca pousando só sobre ele e os autos
+amarrados ao lado — referência direta ao ritual do moot court que une
+os dois protagonistas (o mesmo objeto que abre e fecha cada rodada de
+audiência simulada do livro), sem nunca precisar mostrar pessoas para
+sugerir a disputa, a parceria forçada e o veredito que os espera.
+
+PALETA:
+Frio dominante do ambiente — mármore cinza-claro/branco-acinzentado,
+madeira de tribunal quase preta, sombra azulada de fim de tarde —
+contra o acento quente pontual e concentrado da luz de biblioteca de
+Direito: dourado/âmbar profundo, como latão polido e verniz antigo.
+Nada de verde-floresta, carvalho claro quente, vinho-borgonha ou
+pergaminho (paleta do branding "clube de carvalho", que não se aplica
+aqui); nada de azul-acinzentado gelado de neve nem verde-fósforo de
+código (paleta do Livro 1 desta série). A luz é sempre pontual e
+dourada — nunca branca, nunca fria por completo, nunca difusa cobrindo
+a cena inteira.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em serif display de tribunal/institucional — mais próxima de
+uma placa gravada em bronze de faculdade de Direito centenária do que
+da serif ultra-dramática do clube de carvalho ou da serif
+acadêmico-editorial do Livro 1. Peso semibold, letras um pouco mais
+espaçadas, sugerindo formalidade jurídica sem cair em fonte serifada
+dourada de romance histórico. Monograma R·B·G discreto, em dourado
+frio ou prateado envelhecido (não o ouro quente do clube de carvalho),
+posicionado de forma minúscula junto ao nome do autor.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano, tijolo vermelho, neve, reflexo de código de computador, tela de
+notebook, biblioteca de carvalho escuro com couro capitonê, veludo
+bordô, cristal de whiskey, abotoaduras, relógio de bolso, taças de
+cristal, azulejo português, estufa de jardim, orquídea, gelo rachado
+de rinque, tundra industrial, alavanca de metal industrial, skyline de
+São Paulo, terno executivo corporativo genérico, bandeira americana,
+bandeira de qualquer país, símbolos partidários, urna eleitoral,
+estátua da justiça de corpo inteiro (clichê), balança da justiça em
+close genérico tipo clip-art, fonte serifada dourada de romance
+histórico, brasão de família, texto incorporado além de
+título/autor/subtítulo, estética de campus universitário tipo
+panfleto, luz branca fria de escritório moderno, néon
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: editorial, cinematic, fotografia de fim de tarde/entardecer,
+elite jurídica, contraste de temperatura de luz (mármore e madeira
+frios x luz dourada pontual de biblioteca de Direito), atmosférico e
+contido — mais still de filme sobre tribunal simulado de Ivy League do
+que capa de suspense jurídico ou romance histórico; elegante,
+institucional, levemente solene, com o martelo e a luz como
+protagonistas visuais, nunca pessoas.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Segundo livro de "Elite de Cambridge", série em andamento (Livro 1, "O
+Código da Revanche", já publicado). Mantém a lógica de capa própria
+por volume, ligada ao departamento de Harvard do par de protagonistas
+daquele livro (Ciência da Computação no L1, Direito no L2) — não um
+branding único e repetido dentro da série. Se a série continuar com
+outros departamentos (ver references/arco-trama-livro2.md e a bíblia
+do Livro 1), cada novo volume deve receber tratamento visual igualmente
+distinto, evitando reaproveitar paleta, textura ou objeto simbólico de
+qualquer capa anterior do catálogo — checagem obrigatória contra todos
+os prompts de capa já produzidos antes de escrever o próximo.

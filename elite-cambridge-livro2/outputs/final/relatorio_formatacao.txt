@@ -1,0 +1,243 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Elite de Cambridge — Livro 2: O Argumento Final
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-05
+SEGUNDO LIVRO DE UMA SÉRIE EM ANDAMENTO (Livro 1, "O Código da
+Revanche", já publicado) — série sem número de volumes travado.
+
+===============================================================
+0. TÍTULO — DECISÃO TOMADA NESTA ETAPA
+===============================================================
+A bíblia de arco/trama (references/arco-trama-livro2.md, seção "Título
+e série") chegou a esta etapa com o título "a definir na escrita" e
+três sugestões a testar: "O Argumento Final", "A Tese que Nos Une",
+"Alegações Finais". Decisão tomada agora, no fechamento de formatação,
+com o manuscrito completo em mãos:
+
+TÍTULO ESCOLHIDO: "O Argumento Final"
+SUBTÍTULO: "Veredito do Coração" (cunhado nesta etapa, seguindo o
+padrão do Livro 1 — termo técnico do universo + "do Coração" —, ver
+"Algoritmos do Coração" no L1)
+
+Por quê:
+- A frase "o argumento final" aparece literalmente no cap. 28, na cena
+  em que Mariana e Nico terminam sozinhos, de madrugada, "o argumento
+  final espalhado na cama entre nós dois" — o objeto do caso jurídico
+  e o objeto emocional do livro convergem na mesma imagem. O título
+  não é uma etiqueta externa: nasce de dentro do próprio texto.
+- Funciona em dois registros ao mesmo tempo, como o título do Livro 1
+  ("O Código da Revanche" = termo técnico + ferida pessoal): "argumento
+  final" é ao mesmo tempo o documento jurídico que os dois escrevem
+  juntos para a final do moot court E a discussão/confronto pessoal
+  definitivo que os dois têm ao longo do Ato 3, antes de decidirem
+  ficar juntos.
+- Ecoa a estrutura de 3 atos da bíblia, que culmina exatamente na
+  "FINAL do moot court" (Ato III) — o título aponta direto pro clímax
+  estrutural do livro.
+- "Alegações Finais" foi descartado por colisão de sentido: no
+  cap. 51, "alegações" aparece no manuscrito com o sentido de
+  acusação/denúncia infundada ("alegações de conflito de interesse
+  levantadas anonimamente"), não no sentido de arrazoado final de
+  litígio — usar esse termo no título criaria uma leitura ambígua
+  indesejada, coincidindo com a palavra errada do próprio livro.
+- "A Tese que Nos Une" foi descartado por ser menos preciso: "tese" no
+  manuscrito se refere sobretudo à tese acadêmica pessoal de Mariana
+  sobre acesso à justiça (cap. 43/45), um fio secundário, não ao
+  núcleo do caso do moot court nem ao clímax do casal.
+
+Este título é ajustável se o dono do projeto discordar ao ver o
+resultado — decisão documentada aqui e nos metadados, não travada de
+forma irreversível.
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+56/56 capítulos convertidos de outputs/conteudo/ecl2-capitulo01.md a
+ecl2-capitulo56.md para outputs/final/manuscrito/01_capitulo.md a
+56_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Mariana") separado em duas linhas: "# Capítulo N" (título) + linha
+  em branco + "*POV: Nome*" (subtítulo discreto em itálico) — mesmo
+  formato final de leitor já usado no Livro 1 desta série.
+- Corpo do capítulo: preservado byte a byte. Verificado por diff
+  automatizado do corpo de todos os 56 arquivos de origem contra os
+  56 arquivos finais (único diferencial encontrado: presença/ausência
+  de newline final no arquivo, sem nenhuma alteração de conteúdo) e
+  conferência visual direta dos capítulos 1, 30 e 56.
+
+POV dual conferido nos 56 arquivos de origem e nos 56 arquivos finais
+por checagem automatizada: alternância estrita ímpar = Mariana, par =
+Nico, sem exceção, do Capítulo 1 ao Capítulo 56, zero mismatches. Sem
+epílogo neste Livro 2, conforme decisão travada no project_dna.md.
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+(Contagem via Python, str.split() — a ferramenta `wc -w` do sistema
+usa locale POSIX/C, que subcontava palavras com acentuação/UTF-8 neste
+ambiente; todas as contagens abaixo já usam o método correto.)
+
+- Manuscrito de origem (outputs/conteudo/): 58.751 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, com título +
+  linha de POV): 58.751 palavras (idêntico — quebrar o cabeçalho em
+  duas linhas não altera a contagem de tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 58.471 palavras
+
+Meta do project_dna.md: ~55.000-58.000 palavras totais. O livro fechou
+levemente acima do topo da faixa (58.471-58.751 conforme o corte),
+consistente com a orientação explícita do próprio project_dna.md
+(seção 3) de mirar o topo da faixa nos últimos capítulos de cada ato
+para evitar repetir o padrão do Livro 1 (que fechou abaixo do piso e
+precisou de reforço pós-fechamento) — aqui o resultado foi o oposto:
+uma margem confortavelmente acima do piso, sem necessidade de nenhum
+passe de reforço nesta etapa de formatação.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/o-argumento-final.epub (184.706 bytes / ~180 KB)
+- 56 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 56, sem nenhum faltando)
+- Metadados: title "O Argumento Final", subtitle "Veredito do
+  Coração", series "Elite de Cambridge" #2, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; metadados
+  DC conferidos via get_metadata() e batendo exatamente com
+  metadata.json:
+    Título: O Argumento Final
+    Idioma: pt-BR
+    Identifier: urn:uuid:9f6300eb-243e-4b43-b7df-340f968b1d12
+    Autor: R.B. Guidenelli
+- 59 itens no pacote EPUB, 57 documentos XHTML (56 capítulos + nav) —
+  contagem batendo com o esperado.
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 56 arquivos .md, ordenados corretamente pelo prefixo
+  numérico.
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/o-argumento-final_kdp.pdf (422.768 bytes / ~413 KB)
+- Dimensão confirmada via pypdf: 432.0 x 648.0 pt (6" x 9" exato)
+- Total: 220 páginas físicas (página de título não numerada + 219
+  páginas numeradas, do Capítulo 1 ao fim do Capítulo 56)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, 4 páginas abertas e
+inspecionadas, não só geradas):
+- Página de título (página física 1): "O Argumento Final" centralizado
+  em destaque, "Veredito do Coração" logo abaixo, "R.B. Guidenelli" e
+  "Elite de Cambridge — Livro 2" mais abaixo, tudo centralizado
+  verticalmente. Sem numeração de rodapé (correto).
+- Primeira página do Capítulo 1 (página física 2, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Mariana" em itálico
+  discreto logo abaixo, corpo em Times-Roman justificado com recuo de
+  primeira linha, espaçamento confortável. Layout batendo com
+  kdp-specs.md.
+- Página com **negrito** real (página física 147, "Capítulo 38",
+  numerada "146"): trecho "**15 de dezembro**" do manuscrito de origem
+  renderiza como negrito de verdade, sem nenhum asterisco literal
+  sobrando — confirma que a correção documentada no histórico do
+  catálogo (ordem bold-antes-de-itálico em
+  `_markdown_inline_to_reportlab`) segue em vigor. Este manuscrito tem
+  negrito real em 3 dos 56 capítulos (38, 39 e 42, todos ligados à
+  mesma carta de intenção da banca do pai de Nico), diferente do
+  Livro 1 (que não usava **negrito** em nenhum capítulo) — foi
+  possível, portanto, testar o caso real do manuscrito, não só um
+  teste sintético isolado.
+- Última página do livro (página física 220, numerada "219"): fecha
+  exatamente no final do Capítulo 56 sem corte nem página em branco
+  inesperada, texto batendo com o final do arquivo de origem
+  (ecl2-capitulo56.md).
+- Nenhum problema de layout, margem, fonte ou quebra de página
+  encontrado em nenhuma das quatro páginas inspecionadas.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 56 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 56 (RESULTADO: LIMPO —
+  pode avançar, exit code 0)
+Régua 100% limpa nos 56 arquivos finais entregues, inclusive nas cenas
+de código-switching em português entre Mariana e Nico.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_o-argumento-final.json
+é um UUID gerado automaticamente
+(urn:uuid:9f6300eb-243e-4b43-b7df-340f968b1d12) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_o-argumento-final.txt,
+seguindo o tom "elite jurídica" pedido no briefing do project_dna.md
+(seção 0): mármore, madeira escura de tribunal, luz dourada de
+biblioteca de Direito — deliberadamente diferente da capa "dark/light
+academia" (tijolo/neve/reflexo de código) do Livro 1 desta mesma
+série, e também diferente do branding "The Old English Gentleman's
+Club" (clube de carvalho/whiskey) e de todas as capas de Jogo Infinito,
+Família Bittencourt e Gelo e Sangue — checagem feita lendo os prompts
+de capa anteriores do catálogo (incluindo o do próprio Livro 1 desta
+série) antes de escrever este, mesma lógica de "casa de capa própria
+por livro" documentada em project_dna.md.
+
+===============================================================
+8. SÉRIE EM ANDAMENTO — NOTA (sem fechamento de trilogia)
+===============================================================
+Este é o Livro 2 de "Elite de Cambridge", série em andamento sem
+número de volumes travado (Livro 1, "O Código da Revanche", já
+publicado). A bíblia (references/arco-trama-livro2.md) preserva a
+possibilidade de novos volumes com outros pares de rivais em outros
+departamentos de Harvard, cada um com capa própria ligada ao seu
+departamento — não há, portanto, relatório de fechamento de série
+nesta entrega, apenas a formatação deste segundo volume.
+
+===============================================================
+9. PONTO DE ATENÇÃO HERDADO DA REVISÃO GLOBAL — CADÊNCIA DE HEAT
+===============================================================
+A revisão editorial global (bia-ferreira-editor-global, commit
+28a48db) documentou que a cadência real de cenas de heat do
+manuscrito fechou em 8 cenas (última no cap. 53), contra a meta
+travada de 10-12 no project_dna.md — o cap. 42, antes marcado
+"heat: true" no PROGRESS.json, foi recontado como cena de reconciliação
+profissional (Mariana pedindo mais tempo), não cena de intimidade,
+corrigindo a contagem de 9 para 8.
+
+Essa é uma DECISÃO EDITORIAL CONSCIENTE registrada na revisão global,
+não um bug de formatação: nenhuma cena nova foi adicionada nem
+removida nesta etapa de formatação (fora do escopo desta skill, que
+trata o texto de outputs/conteudo/ como final e não reabre revisão de
+prosa). Fica documentado aqui, na entrega de formatação, como ressalva
+não-bloqueante para o dono do projeto — o livro está formatado e
+pronto para KDP com essa cadência de 8 cenas, caso a decisão de não
+adicionar cenas extras seja mantida.
+
+===============================================================
+10. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit 28a48db, anterior a esta
+formatação). Esta etapa (bia-ferreira-formatter) não reabriu revisão
+de prosa — tratou o texto de outputs/conteudo/ como final, limitando-se
+a: decisão de título/subtítulo (pendente até esta etapa, ver seção 0),
+conversão de formato, empacotamento e QA técnico (régua, negrito,
+layout, metadados).
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-argumento-final.epub
+- outputs/final/o-argumento-final_kdp.pdf
+- outputs/final/prompt_capa_o-argumento-final.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-argumento-final.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 56_capitulo.md
+- outputs/final/manuscrito/metadata.json
