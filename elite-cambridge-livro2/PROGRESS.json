@@ -10,9 +10,9 @@
     "Nico"
   ],
   "status": "Em andamento",
-  "next_chapter": 18,
-  "next_pov": "Nico",
-  "updated": "2026-08-04 01:17",
+  "next_chapter": 41,
+  "next_pov": "Mariana",
+  "updated": "2026-08-05 20:43",
   "chapters": [
     {
       "n": 1,
@@ -149,16 +149,200 @@
       "score": 6.5,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 18,
+      "pov": "Nico",
+      "words": 1315,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 19,
+      "pov": "Mariana",
+      "words": 1071,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 20,
+      "pov": "Nico",
+      "words": 954,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 21,
+      "pov": "Mariana",
+      "words": 947,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 22,
+      "pov": "Nico",
+      "words": 956,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 23,
+      "pov": "Mariana",
+      "words": 1061,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 24,
+      "pov": "Nico",
+      "words": 986,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 25,
+      "pov": "Mariana",
+      "words": 918,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "Nico",
+      "words": 993,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 27,
+      "pov": "Mariana",
+      "words": 928,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 28,
+      "pov": "Nico",
+      "words": 961,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "Mariana",
+      "words": 1040,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "Nico",
+      "words": 958,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 31,
+      "pov": "Mariana",
+      "words": 924,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 32,
+      "pov": "Nico",
+      "words": 953,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 33,
+      "pov": "Mariana",
+      "words": 954,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 34,
+      "pov": "Nico",
+      "words": 973,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 35,
+      "pov": "Mariana",
+      "words": 1019,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "Nico",
+      "words": 938,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 37,
+      "pov": "Mariana",
+      "words": 993,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "Nico",
+      "words": 890,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 39,
+      "pov": "Mariana",
+      "words": 1051,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "Nico",
+      "words": 991,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 17,
-    "total_words": 17035,
-    "pages_kdp": 57,
-    "avg_score": 6.35,
-    "pct_to_target": 30,
-    "heat_scenes_done": 1,
-    "last_heat_chapter": 10
+    "chapters_done": 40,
+    "total_words": 39809,
+    "pages_kdp": 133,
+    "avg_score": 6.7,
+    "pct_to_target": 70,
+    "heat_scenes_done": 5,
+    "last_heat_chapter": 36
   }
 }
