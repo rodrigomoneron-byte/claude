@@ -1,0 +1,136 @@
+TÍTULO: Elite de Cambridge — Livro 3: O Diagnóstico do Coração (Protocolo Callahan)
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Este é o terceiro livro da série "Elite de Cambridge" da casa
+R.B. Guidenelli. Cada livro da série tem capa própria, ligada ao
+departamento de Harvard do par de rivais daquele volume — não existe
+um "branding único" da série que se repete de capa em capa (mesma
+lógica de casa de capa própria por livro, já adotada nos Livros 1 e 2).
+Esta capa é DELIBERADAMENTE DIFERENTE de todas as outras já produzidas
+pela casa:
+- NÃO é a capa "dark academia / light academia" do Livro 1 desta mesma
+  série (O Código da Revanche) — nada de tijolo vermelho, neve caindo,
+  reflexo de código de computador no vidro, luminária verde e latão de
+  biblioteca de Ciência da Computação.
+- NÃO é a capa "elite jurídica" do Livro 2 desta série (O Argumento
+  Final) — nada de mármore de tribunal, martelo de juiz (gavel), autos
+  processuais amarrados, balaustrada de madeira quase preta de moot
+  court.
+- NÃO é o branding "The Old English Gentleman's Club" (clube de
+  carvalho/whiskey — couro capitonê, veludo bordô, cristal de whiskey,
+  abotoaduras, relógio de bolso) usado em A Mão na Alavanca — esse
+  universo é masculino/clube privado, não hospitalar.
+- NÃO é o glamour corporativo paulistano de Família Bittencourt L1
+  ("Acordo de Vidro"), nem a Lisboa/Alfama do L2, nem a estufa/jardim
+  do L3.
+- NÃO é o gelo/tundra de Gelo e Sangue, nem a alavanca industrial de
+  Jogo Infinito.
+O tom pedido para este volume é "elite médica": branco clínico e azul
+frio de hospital-escola de elite, cortado por um único acento quente —
+a luz de plantão noturno. Um mundo de corredores de hospital-escola
+americano, luz fluorescente controlada, monitores, e o peso silencioso
+da vida-ou-morte real — não de escritório de tecnologia, não de sala de
+tribunal, não de clube privado. Só a identidade de autor (monograma
+R·B·G) atravessa como fio de continuidade discreto entre séries e
+volumes — não a paleta, não a textura, não o objeto simbólico de
+nenhuma capa anterior do catálogo.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), fotografada de madrugada num
+corredor de hospital-escola americano de elite (tipo Harvard Medical
+School) — piso claro polido refletindo levemente a luz de cima, paredes
+brancas foscas com uma faixa fina azul-institucional na altura do
+peitoril, o tipo de corredor genérico-porém-imponente de hospital
+universitário afiliado a Ivy League, desfocado ao fundo com portas de
+enfermaria fechadas e o brilho frio e uniforme de luzes fluorescentes
+de teto, ainda ligadas às três da manhã. Em primeiro plano, sobre um
+carrinho de metal de enfermagem ou uma bancada de posto de enfermagem,
+repousam um estetoscópio pendurado ao lado de um prontuário de papel
+fechado com um clipe metálico, e uma pequena caneta de prata alinhada
+sobre a capa do prontuário — o único ponto do quadro banhado por uma luz
+quente, âmbar/dourada baixa, vinda de uma luminária pequena de mesa de
+posto de enfermagem (o tipo de luz que um residente acende de madrugada
+pra não acordar o corredor inteiro), círculo pequeno e concentrado de
+calor no meio de um ambiente inteiramente frio e clínico. O resto do
+quadro — o corredor, as paredes, o piso, o brilho distante dos
+monitores — permanece em tons de branco levemente azulado e cinza-azul
+hospitalar, quase clínico demais, até esse único ponto de luz quente
+quebrar a frieza. A composição dramatiza o contraste entre a máquina
+(o protocolo, a disciplina, o branco-e-azul institucional que nunca
+dorme) e o calor humano pontual (a luz de plantão, o objeto pessoal, o
+gesto de cuidado) — a mesma tensão de dois mundos que atravessa a série,
+adaptada ao ambiente hospitalar. Sem rostos, sem casal, sem pose
+romântica — o foco é o estetoscópio, o prontuário, a caneta e a luz,
+nunca pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+A pequena caneta de prata sobre o prontuário fechado, iluminada pela
+luz quente e solitária do posto de enfermagem de madrugada — a caneta
+que pertenceu à mãe de Camila, carregada todo plantão como lembrete
+silencioso de que displicência custa vidas, ao lado do estetoscópio que
+representa a leitura instintiva de Rafael; os dois objetos juntos, sob
+a mesma luz pequena e quente, sugerem sem explicar a síntese entre
+protocolo e instinto que dá nome ao protocolo nascido no livro, sem
+precisar mostrar nenhum dos dois personagens.
+
+PALETA:
+Frio dominante do ambiente — branco clínico levemente azulado, cinza-
+azul hospitalar, o brilho neutro e uniforme da luz fluorescente de
+corredor — contra o acento quente pontual e concentrado da luminária de
+plantão: âmbar/dourado baixo, nunca amplo, sempre um círculo pequeno e
+íntimo de calor no meio do frio. Nada de verde-floresta, carvalho
+quente ou vinho-borgonha (paleta do branding "clube de carvalho", que
+não se aplica aqui); nada de mármore cinza-claro ou madeira quase preta
+de tribunal (paleta do Livro 2 desta série); nada de tijolo vermelho,
+neve ou verde-fósforo de código (paleta do Livro 1 desta série). A luz
+quente é sempre pontual e pequena — nunca cobre a cena inteira, nunca
+compete com o azul-branco clínico dominante.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em serif display limpa e contemporânea, mais precisa e
+"clínica" que dramática — peso semibold, traços regulares, como se
+fosse uma placa de sinalização hospitalar de elite elevada a tipografia
+editorial, diferente da serif institucional-jurídica do Livro 2 e da
+serif acadêmico-noturna do Livro 1. Monograma R·B·G discreto, em
+prateado frio (ecoando a caneta de prata, não o ouro quente do clube de
+carvalho nem o dourado frio do Livro 2), posicionado de forma minúscula
+junto ao nome do autor.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano, tijolo vermelho, neve, reflexo de código de computador, tela de
+notebook, biblioteca de carvalho escuro com couro capitonê, veludo
+bordô, cristal de whiskey, abotoaduras, relógio de bolso, mármore de
+tribunal, martelo de juiz, autos processuais, balaustrada de madeira
+escura de moot court, taças de cristal, azulejo português, estufa de
+jardim, orquídea, gelo rachado de rinque, tundra industrial, alavanca
+de metal industrial, skyline de São Paulo, terno executivo corporativo
+genérico, bandeira americana, bandeira de qualquer país, símbolos
+partidários, urna eleitoral, cruz vermelha genérica de clip-art, sangue
+visível, cena de trauma explícita, equipamento cirúrgico em uso, néon,
+luz branca fria cobrindo o quadro inteiro sem contraste, fonte
+serifada dourada de romance histórico, brasão de família, texto
+incorporado além de título/autor/subtítulo, estética de panfleto
+hospitalar corporativo
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: editorial, cinematic, fotografia de madrugada/plantão noturno,
+elite médica, contraste de temperatura de luz (branco-azul clínico
+dominante x luz âmbar pontual de posto de enfermagem), atmosférico e
+contido — mais still de filme sobre residência médica de elite do que
+capa de drama hospitalar comercial ou suspense médico; elegante,
+silencioso, levemente solene, com o estetoscópio, o prontuário e a
+caneta de prata como protagonistas visuais, nunca pessoas.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Terceiro livro de "Elite de Cambridge", série em andamento (Livro 1,
+"O Código da Revanche", e Livro 2, "O Argumento Final", já publicados).
+Mantém a lógica de capa própria por volume, ligada ao departamento de
+Harvard do par de protagonistas daquele livro (Ciência da Computação no
+L1, Direito no L2, Medicina no L3) — não um branding único e repetido
+dentro da série. Se a série continuar com outros departamentos, cada
+novo volume deve receber tratamento visual igualmente distinto,
+evitando reaproveitar paleta, textura ou objeto simbólico de qualquer
+capa anterior do catálogo — checagem obrigatória contra todos os
+prompts de capa já produzidos antes de escrever o próximo.

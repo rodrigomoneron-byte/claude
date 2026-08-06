@@ -1,0 +1,267 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Elite de Cambridge — Livro 3: O Diagnóstico do Coração
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-06
+TERCEIRO LIVRO DA SÉRIE — fecha (por ora) a sequência de 3 volumes de
+Elite de Cambridge produzidos nesta sessão (Livro 1 "O Código da
+Revanche" e Livro 2 "O Argumento Final" já publicados/formatados).
+
+===============================================================
+0. TÍTULO — DECISÃO TOMADA NESTA ETAPA
+===============================================================
+A bíblia de arco/trama (references/arco-trama-livro3.md, seção "Título
+e série") chegou a esta etapa com o título "a definir na escrita" e
+três sugestões a testar: "O Diagnóstico do Coração", "Sob Plantão", "A
+Prova dos Dois". Decisão tomada agora, no fechamento de formatação, com
+o manuscrito completo em mãos:
+
+TÍTULO ESCOLHIDO: "O Diagnóstico do Coração"
+SUBTÍTULO: "Protocolo Callahan" (cunhado nesta etapa — nome do
+protocolo hospitalar batizado dentro do próprio livro, cap. 50, em
+homenagem à paciente-índice; segue o padrão dos Livros 1-2 de subtítulo
+= objeto/conquista concreta nascida da história, mas sem repetir a
+fórmula literal "X do Coração" já usada nos subtítulos anteriores
+— "Algoritmos do Coração" no L1, "Veredito do Coração" no L2 —, porque
+neste livro a palavra "coração" já está no título principal, não no
+subtítulo)
+
+Por quê:
+- "Diagnóstico" e "coração" aparecem repetidamente colados no mesmo
+  fôlego de frase ao longo do livro, sempre no ponto exato onde o caso
+  clínico e o romance se cruzam: cap. 6 ("mais perigoso pra mim
+  decifrar Camila Duarte do que qualquer diagnóstico raro"), cap. 7
+  ("o coração acelerando por um motivo completamente diferente [...]
+  montar um argumento diagnóstico"), cap. 19 ("o coração ainda
+  acelerado [...] pensando que talvez o maior risco desse caso inteiro
+  não seja errar o diagnóstico"). O título não é uma etiqueta externa:
+  nasce do padrão real de linguagem que o próprio manuscrito repete.
+- O caso clínico que fecha o livro (Thomas Reyes, cap. 51-52) é,
+  literalmente, um diagnóstico cardíaco — padrão de Brugada, confirmado
+  só porque Camila e Rafael integram protocolo e instinto em vez de
+  escolher um dos dois —, tornando "O Diagnóstico do Coração" literal e
+  metafórico ao mesmo tempo, exatamente como "O Código da Revanche" (L1)
+  e "O Argumento Final" (L2) funcionam em dois registros simultâneos.
+- Ecoa a logline da própria bíblia ("o diagnóstico mais difícil de
+  acertar é o do próprio coração"), sem repetir a frase de forma
+  preguiçosa — o título é a versão condensada dela.
+- "Sob Plantão" foi descartado por não aparecer nunca como colocação
+  fixa no manuscrito (a palavra "plantão" aparece dezenas de vezes,
+  "sob plantão" como expressão, nunca) e por soar mais como cenário do
+  que como núcleo emocional do livro.
+- "A Prova dos Dois" foi descartado por colisão parcial de sentido: a
+  palavra "prova" no manuscrito aparece sobretudo ligada a exames
+  acadêmicos (cap. 26) e a "prova física"/"prova concreta" de confiança
+  reconstruída (caps. 34, 44, 51) — um bom tema secundário, mas menos
+  preciso como título do que a linha diagnóstico+coração, que é a
+  imagem mais repetida e estrutural do livro inteiro.
+
+Este título é ajustável se o dono do projeto discordar ao ver o
+resultado — decisão documentada aqui e nos metadados, não travada de
+forma irreversível.
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+57/57 capítulos convertidos de outputs/conteudo/ecl3-capitulo01.md a
+ecl3-capitulo57.md para outputs/final/manuscrito/01_capitulo.md a
+57_capitulo.md.
+
+Conversão aplicada por arquivo (script Python dedicado, ver
+/tmp .../scratchpad/convert_chapters.py, execução única e verificada):
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Camila") separado em duas linhas: "# Capítulo N" (título) + linha em
+  branco + "*POV: Nome*" (subtítulo discreto em itálico) — mesmo
+  formato final de leitor já usado nos Livros 1-2 desta série.
+- Corpo do capítulo: preservado byte a byte. Verificado por comparação
+  automatizada do corpo de todos os 57 arquivos de origem contra os 57
+  arquivos finais: 0 mismatches.
+
+POV dual conferido nos 57 arquivos de origem e nos 57 arquivos finais
+por checagem automatizada: alternância estrita ímpar = Camila, par =
+Rafael, sem exceção, do Capítulo 1 ao Capítulo 57, zero mismatches. Sem
+epílogo neste Livro 3, conforme decisão travada no project_dna.md
+(último capítulo é o Capítulo 57, POV Camila, sem marcação de epílogo).
+
+===============================================================
+2. CONTAGEM DE PALAVRAS
+===============================================================
+(Contagem via Python, `len(texto.split())` — a ferramenta `wc -w` do
+sistema pode subcontar palavras acentuadas em UTF-8 dependendo do
+locale, bug já documentado no formatador do Livro 2; todas as
+contagens abaixo usam o método Python correto.)
+
+- Manuscrito de origem (outputs/conteudo/): 57.020 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, com título +
+  linha de POV): 57.020 palavras (idêntico — quebrar o cabeçalho em
+  duas linhas não altera a contagem de tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 56.735 palavras
+
+Meta do project_dna.md: ~55.000-58.000 palavras totais, mirando o topo
+da faixa desde o Ato 1 (lição acumulada dos Livros 1-2). O livro fechou
+em 57.020 palavras — dentro da faixa, próximo do topo, consistente com
+a orientação de mirar o topo desde o início; não foi necessário nenhum
+passe de reforço nesta etapa de formatação.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/o-diagnostico-do-coracao.epub (180.642 bytes /
+~176 KB)
+- 57 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 57, sem nenhum faltando)
+- Metadados: title "O Diagnóstico do Coração", subtitle "Protocolo
+  Callahan", series "Elite de Cambridge" #3, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; metadados DC
+  conferidos via get_metadata() e batendo exatamente com metadata.json:
+    Título: O Diagnóstico do Coração
+    Idioma: pt-BR
+    Identifier: urn:uuid:cff965bb-0ad6-4169-bd4b-f767329cbb66
+    Autor: R.B. Guidenelli
+    Descrição: presente
+- 60 itens no pacote EPUB, 58 documentos XHTML (57 capítulos + nav) —
+  contagem batendo com o esperado.
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a partir
+  dos 57 arquivos .md, ordenados corretamente pelo prefixo numérico.
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/o-diagnostico-do-coracao_kdp.pdf (415.793 bytes
+/ ~406 KB)
+- Dimensão confirmada via pypdf: 432.0 x 648.0 pt (6" x 9" exato)
+- Total: 220 páginas físicas (página de título não numerada + 219
+  páginas numeradas, do Capítulo 1 ao fim do Capítulo 57)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, 4 páginas abertas e
+inspecionadas com a ferramenta de visualização de imagem, não só
+geradas):
+- Página de título (página física 1): "O Diagnóstico do Coração"
+  centralizado em destaque, "Protocolo Callahan" logo abaixo, "R.B.
+  Guidenelli" e "Elite de Cambridge — Livro 3" mais abaixo, tudo
+  centralizado verticalmente. Sem numeração de rodapé (correto).
+- Primeira página do Capítulo 1 (página física 2, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Camila" em itálico
+  discreto logo abaixo, corpo em Times-Roman justificado com recuo de
+  primeira linha, espaçamento confortável, travessão de diálogo (—)
+  preservado. Layout batendo com kdp-specs.md.
+- Página intermediária (página física 110, numerada "109", dentro do
+  Capítulo 19): parágrafos de narração e diálogo alternados renderizam
+  corretamente, sem problema de quebra de linha, hifenização ou
+  justificação.
+- Última página do livro (página física 220, numerada "219"): fecha
+  exatamente no final do Capítulo 57 sem corte nem página em branco
+  inesperada, texto batendo com o final do arquivo de origem
+  (ecl3-capitulo57.md: "...exatamente o tipo de médico que sempre
+  quiseram ser.").
+- Nenhum problema de layout, margem, fonte ou quebra de página
+  encontrado em nenhuma das quatro páginas inspecionadas.
+
+NOTA — NEGRITO: este manuscrito não usa **negrito** em nenhum dos 57
+capítulos (verificado por grep em todo outputs/conteudo/ antes da
+conversão: 0 ocorrências de "**"), diferente do Livro 2 (que tinha
+negrito em 3 capítulos). Não havia, portanto, página com negrito real
+para inspecionar nesta entrega — a função de conversão
+`_markdown_inline_to_reportlab` (mesmo script usado nos Livros 1-2,
+sem alteração) segue presente e testada nos livros anteriores do
+catálogo, apenas não exercitada por este manuscrito específico.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 57 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 57 (RESULTADO: LIMPO —
+  pode avançar, exit code 0)
+Régua 100% limpa nos 57 arquivos finais entregues, inclusive nas cenas
+de código-switching em português entre Camila e Rafael.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/
+metadados_o-diagnostico-do-coracao.json é um UUID gerado
+automaticamente (urn:uuid:cff965bb-0ad6-4169-bd4b-f767329cbb66) — NÃO é
+um ISBN real. Antes de publicar na Amazon KDP, substituir por um ISBN
+próprio (se o autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN
+grátis no fluxo de publicação.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em
+outputs/final/prompt_capa_o-diagnostico-do-coracao.txt, seguindo o tom
+"elite médica" pedido no briefing do project_dna.md (seção 0): branco
+clínico, azul frio de hospital, acento quente pontual de luz de
+plantão noturno — deliberadamente diferente da capa "dark/light
+academia" do Livro 1 e "elite jurídica" (mármore/madeira) do Livro 2
+desta mesma série, e também diferente do branding "The Old English
+Gentleman's Club" (clube de carvalho/whiskey) e de todas as capas de
+Jogo Infinito, Família Bittencourt e Gelo e Sangue — checagem feita
+lendo os prompts de capa anteriores do catálogo (incluindo os dos
+Livros 1 e 2 desta série) antes de escrever este, mesma lógica de "casa
+de capa própria por livro" documentada em project_dna.md. Elemento
+simbólico central: a pequena caneta de prata da mãe de Camila, ao lado
+do estetoscópio, sobre o prontuário fechado, iluminados pela luz de
+plantão de madrugada.
+
+===============================================================
+8. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit efa92a2, anterior a esta formatação).
+Esta etapa (bia-ferreira-formatter) não reabriu revisão de prosa —
+tratou o texto de outputs/conteudo/ como final, limitando-se a: decisão
+de título/subtítulo (pendente até esta etapa, ver seção 0), conversão
+de formato, empacotamento e QA técnico (régua, negrito, layout,
+metadados).
+
+===============================================================
+9. FECHAMENTO DA SÉRIE (3 LIVROS PRODUZIDOS NESTA SESSÃO)
+===============================================================
+Este Livro 3 fecha, por ora, a sequência de três volumes de "Elite de
+Cambridge" produzidos nesta sessão — cada um com par de rivais e
+departamento de Harvard diferentes, elenco novo por volume, mesmo mundo
+compartilhado (Cambridge/Boston, mesma elite acadêmica), mesmo
+pseudônimo (R.B. Guidenelli) e mesma régua absoluta de voz (só "nós",
+nunca "a gente"). A série permanece em aberto — sem número de volumes
+travado — caso o autor decida continuar com outros departamentos de
+Harvard em livros futuros.
+
+RESUMO DA SÉRIE — 3 LIVROS:
+
+  Livro 1 — "O Código da Revanche" (Algoritmos do Coração)
+    Par: Helena Costa x Arthur Mendes
+    Departamento: Ciência da Computação / Inteligência Artificial
+    Palavras (manuscrito de origem): 58.188
+
+  Livro 2 — "O Argumento Final" (Veredito do Coração)
+    Par: Mariana Azevedo x Nicolau "Nico" Ferraz
+    Departamento: Direito (Harvard Law, LL.M.)
+    Palavras (manuscrito de origem): 58.751
+
+  Livro 3 — "O Diagnóstico do Coração" (Protocolo Callahan)
+    Par: Camila Duarte x Rafael Amaral
+    Departamento: Medicina Interna (Harvard Medical School)
+    Palavras (manuscrito de origem): 57.020
+
+  TOTAL COMBINADO DOS 3 LIVROS: 173.959 palavras
+
+Nota de leitura: os três títulos compartilham a fórmula "[termo técnico
+do departamento] + do Coração" no título ou subtítulo — Algoritmos do
+Coração (L1, subtítulo), Veredito do Coração (L2, subtítulo), O
+Diagnóstico do Coração (L3, título principal) — um fio de identidade de
+série reconhecível mesmo com capas, elenco e departamento diferentes em
+cada volume.
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-diagnostico-do-coracao.epub
+- outputs/final/o-diagnostico-do-coracao_kdp.pdf
+- outputs/final/prompt_capa_o-diagnostico-do-coracao.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-diagnostico-do-coracao.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 57_capitulo.md
+- outputs/final/manuscrito/metadata.json
