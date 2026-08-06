@@ -1,6 +1,6 @@
 # Capítulo 39 — Camila
 
-A ressonância de controle de Nora, três dias depois do sangramento, mostra o que a neurocirurgiã já esperava: a hemorragia estabilizou, sem crescimento, mas deixou uma área pequena de dano permanente na mesma região que antes carregava só o edema reversível da síndrome posterior.
+A ressonância de controle de Nora, três dias depois do sangramento, mostra o que a neurocirurgiã já esperava: a hemorragia estabilizou, sem crescimento, mas deixou uma área pequena de dano permanente exatamente no território do infarto que a anticoagulação deveria ter contido — vizinho, mas distinto, da região parietal onde o edema reversível da síndrome posterior já tinha resolvido semanas antes.
 
 — Ela vai ter alguma limitação motora residual no braço direito — a neurocirurgiã explica, mostrando a imagem. — Nada incapacitante, com fisioterapia intensiva. Mas não vai ser exatamente a mesma mão que segurava pincel antes de tudo isso começar.
 

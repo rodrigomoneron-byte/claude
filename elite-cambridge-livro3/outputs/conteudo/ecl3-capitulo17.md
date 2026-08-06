@@ -26,8 +26,6 @@ A confissão dele pesa entre nós dois, porque eu sinto exatamente o mesmo medo,
 
 — Já é sério — ele responde, sem hesitar. — Pergunta é só se nós dois vamos ter coragem de admitir isso em voz alta pro Lindqvist, ou vamos esconder feito adolescente até alguém descobrir do jeito errado.
 
-— Já é sério — ele responde, sem hesitar. — Pergunta é só se nós dois vamos ter coragem de admitir isso em voz alta pro Lindqvist, ou vamos esconder feito adolescente até alguém descobrir do jeito errado.
-
 — Não estou pronta pra admitir nada em voz alta ainda. Nem sei o que eu diria.
 
 — Diria a verdade. Que dois residentes concorrendo pela mesma vaga se apaixonaram no meio de um caso complicado, e que isso não muda o mérito de nenhum dos dois, só muda o tanto que vamos precisar confiar um no outro pra não deixar isso virar desculpa nem pra ganhar nem pra perder.

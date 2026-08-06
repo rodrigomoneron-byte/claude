@@ -54,7 +54,7 @@ Na sala de tomografia, os segundos esticam de um jeito cruel enquanto a máquina
 
 — Vamos aguentar. Os dois. Não importa o que a imagem mostrar.
 
-As primeiras fatias aparecem na tela, e o radiologista de plantão franze a testa, apontando uma área pequena, mas visível, de sangramento na mesma região onde antes havia edema de PRES resolvendo.
+As primeiras fatias aparecem na tela, e o radiologista de plantão franze a testa, apontando uma área pequena, mas visível, de sangramento exatamente no território do infarto agudo que identificamos horas atrás — a mesma lesão nova que a heparina deveria conter, agora sangrando em vez de cicatrizar.
 
 — Hemorragia intraparenquimatosa pequena, sem efeito de massa significativo ainda — ele anuncia, o alívio na própria voz dele quase palpável. — Não é o pior cenário possível. Mas precisa de neurocirurgia avaliando agora, e controle rigoroso de qualquer novo sangramento.
 

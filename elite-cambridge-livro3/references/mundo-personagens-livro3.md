@@ -264,3 +264,71 @@ incluir congresso médico fora de Boston no Ato 2 se fizer sentido).
   página" foi mantido no texto aprovado — todas as instâncias foram
   reescritas para nunca exibir a forma proibida nem narrar o deslize,
   conforme a instrução travada no Ato 2.
+
+### Revisão global (bia-ferreira-editor-global) — correções aplicadas
+
+- **Régua "a gente"**: `regua_gate.py` rodado no diretório inteiro —
+  100% LIMPO nos 57 capítulos. Varredura manual complementar
+  (`grep -n "a gente"` + todas as formas oblíquas + toda ocorrência
+  isolada de "gente") confirmou zero pronome proibido; os únicos hits
+  de "gente" encontrados (caps. 2, 3, 4, 9, 16, 23, 25, 30, 32, 33, 39,
+  40, 45, 55, 56) são todos falsos positivos legítimos ("gente de
+  protocolo", "tanta gente estranha", "gente que carrega", etc.) —
+  sentido de "pessoas", não o pronome "we".
+- **Duplicação de texto (expansão de emergência)**: cap. 17 — parágrafo
+  inteiro duplicado verbatim ("Já é sério — ele responde, sem
+  hesitar...") repetido em sequência, linhas 27 e 29. Corrigido:
+  removida a cópia redundante, mantido um único parágrafo. Varredura
+  automatizada de parágrafos e sentenças duplicadas/quase-duplicadas
+  rodada no corpus inteiro (57 capítulos) não encontrou nenhuma outra
+  instância.
+- **Inconsistência clínica/geográfica no caso Callahan (prioridade
+  alta)**: o cap. 30 estabelece explicitamente, duas vezes, que o
+  infarto agudo do Ato 2 (ponto de virada, erro de anticoagulação) fica
+  em "território diferente da lesão anterior" / "não é a mesma região
+  do parietal que já resolveu" (i.e., diferente da lesão antiga da
+  PRES). Os caps. 32 e 39, porém, descreviam a hemorragia resultante e
+  o dano permanente subsequente como estando "na mesma região onde
+  antes havia edema de PRES" — contradizendo diretamente o que o cap.
+  30 tinha acabado de estabelecer duas cenas antes. Corrigido em ambos
+  os capítulos: a hemorragia (cap. 32) e o dano permanente residual
+  (cap. 39) agora são descritos como localizados no território do
+  infarto agudo recente (o mesmo que a heparina deveria ter contido),
+  vizinho mas distinto da região parietal antiga da PRES — consistente
+  com o que o cap. 30 já tinha fixado, e clinicamente mais coerente
+  (transformação hemorrágica do infarto anticoagulado, não sangramento
+  espontâneo num território antigo e não relacionado).
+- **Vazamento de nomes de outras séries da casa**: grep de todos os
+  nomes proibidos (Devon Ashworth, Alexandra Voss Whitfield, Julian
+  Halloway, Isabela/Pedro/Dona Sofia Bittencourt, Inês Costa, Heitor
+  Salgado Bastos, Bishop, Sinclair, Thorne, Margaux, Tessa, "Cami",
+  "Leo") — zero ocorrências reais confirmadas (falsos positivos de
+  substring em "caminho"/"caminhamos" descartados).
+- **Elenco dos Livros 1-2**: grep de Helena Costa, Arthur Mendes,
+  Professor Sterling, Dr. Harrison, Sofia Reyes, Gabriel Cross, Mariana
+  Azevedo, Nicolau Ferraz, Professora Whitfield-Reyes, Beatriz Salomão,
+  Henrique Ferraz — zero ocorrências. Nenhum cameo foi usado neste
+  livro (opção permitida pela bíblia — "se não aparecerem, tudo bem
+  também"). Observação: cap. 23 tem uma mulher não nomeada, vagamente
+  descrita como "do círculo de Direito de Harvard", num evento social —
+  nunca nomeada, nunca interage com a trama, não constitui aparição de
+  personagem nenhum.
+- **Hospital fictício**: grep de hospitais reais de Boston (Mass
+  General, Brigham, Beth Israel, Tufts Medical, Boston Medical Center,
+  Mount Auburn, Cambridge Health Alliance) — zero ocorrências. Fenwick
+  Memorial Hospital usado de forma consistente nos 3 capítulos em que é
+  citado nominalmente (1, 55, 56).
+- **Observação não-bloqueante (símbolo pessoal solto)**: a caneta de
+  prata da mãe de Camila é estabelecida no cap. 1 como objeto que ela
+  "carrega todo santo dia" e reaparece uma vez no cap. 5 — depois
+  disso, nunca mais é mencionada nos 52 capítulos restantes, mesmo em
+  cenas de alta carga emocional sobre a mãe (caps. 31, 53, 55) onde
+  faria sentido reaparecer. Não é uma contradição factual (nada
+  contradiz o objeto existir), só uma promessa simbólica não paga — o
+  símbolo central que realmente se sustentou do início ao fim, com
+  aparições recorrentes e culminância clara, foi o pincel/quadro de
+  Nora Callahan (caps. 9, 17, 20, 29, 39, 40, 43, 46, 50, 56, 57,
+  culminando no quadro pendurado na sala do piloto de pesquisa no cap.
+  57). Não corrigido por edição — fica registrado para o dono do
+  projeto decidir se vale a pena amarrar a caneta em uma revisão
+  futura.
