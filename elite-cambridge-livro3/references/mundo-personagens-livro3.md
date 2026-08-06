@@ -181,16 +181,17 @@ incluir congresso médico fora de Boston no Ato 2 se fizer sentido).
 - **Régua absoluta — quase-erros pegos na escrita (Ato 2)**: o device
   proibido de autocorreção ("a gente" escrito literalmente na página,
   inclusive como fala de personagem "corrigida" em seguida) foi
-  cometido por reflexo e pego em revisão em PRATICAMENTE TODOS os
-  capítulos do Ato 2 (caps. 19, 21, 23, 26 [2x], 27, 28, 31, 32, 33,
-  35, 38, 40) — sempre detectado e corrigido antes do registro final,
-  nunca chegou a ficar num capítulo aprovado. Frequência MAIOR que no
-  Ato 1 (que teve 7 ocorrências em 18 capítulos; o Ato 2 teve
-  ocorrências em pelo menos 12 dos 22 capítulos) — o padrão de
-  autocorreção diegética ("personagem quase diz 'a gente', pega o
-  próprio erro, corrige pra 'nós'") é um ímã de recaída especialmente
-  forte e deve ser EVITADO como técnica de escrita daqui pra frente,
-  não só revisado depois: qualquer beat que exigiria mostrar um
-  personagem cometendo esse deslize deve ser reescrito para nunca
-  digitar a forma proibida na página, nem para corrigi-la na mesma
-  frase.
+  cometido por reflexo e pego em revisão em 11 dos 22 capítulos do Ato
+  2 (caps. 19, 21, 23, 26 [2x], 27, 28 [2x], 31, 32 [2x], 33, 38, 40
+  [2x] — 15 instâncias no total) — sempre detectado e corrigido antes
+  do registro final, nunca chegou a ficar num capítulo aprovado.
+  Frequência proporcionalmente maior que no Ato 1 (7 ocorrências em 18
+  capítulos, ~39%; o Ato 2 teve ocorrências em 50% dos capítulos) — o
+  padrão de autocorreção diegética ("personagem quase diz 'a gente',
+  pega o próprio erro, corrige pra 'nós', às vezes até narrando o
+  próprio deslize") é um ímã de recaída especialmente forte e deve ser
+  EVITADO como técnica de escrita daqui pra frente, não só revisado
+  depois: qualquer beat que exigiria mostrar um personagem cometendo
+  esse deslize deve ser reescrito para nunca digitar a forma proibida
+  na página, nem para corrigi-la na mesma frase — nem em narração
+  meta-comentando o deslize.
