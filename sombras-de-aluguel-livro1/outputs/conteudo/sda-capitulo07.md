@@ -20,7 +20,7 @@ Minha respiração leva um tempo longo demais pra normalizar, mas a voz dele fun
 
 — Não peça desculpa por isso. — Ele diz com uma firmeza que corta qualquer espaço pra dúvida. — Reagir assim não é fraqueza, é o corpo lembrando de algo que o mantinha vivo antes. Não existe cronograma certo pra parar de reagir. Existe só o trabalho de ensinar o corpo, aos poucos, que o perigo específico já passou.
 
-Volto pro carro em silêncio, processando o fato estranho de que ninguém — nem a psicóloga que eu via às escondidas, nem Marina através da tela — nunca explicou desse jeito, sem pena, sem drama, só como informação prática que eu podia usar.
+Volto pro carro em silêncio, processando o fato estranho de que ninguém — nem a psicóloga que eu via às escondidas, nem Bianca através da tela — nunca explicou desse jeito, sem pena, sem drama, só como informação prática que eu podia usar.
 
 — Como você sabe disso? — pergunto, já dentro do carro, a estrada de volta engolindo o nevoeiro. — Sobre o corpo lembrando.
 

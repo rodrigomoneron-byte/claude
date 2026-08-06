@@ -26,13 +26,13 @@ Sinto o comentário acertar em algum lugar que não esperava, mas não desvio, p
 
 — Então me questione. — Olho pra ela um segundo, rápido, antes de voltar os olhos pra estrada. — Agora mesmo. Qual regra específica parece controle, e não proteção?
 
-Ela hesita, pega de surpresa pela pergunta direta. — O contato zero. Cinco anos sem falar com quem eu quisesse já foi minha vida. Não posso nem mandar mensagem pra Marina, que foi quem me ajudou a chegar até você?
+Ela hesita, pega de surpresa pela pergunta direta. — O contato zero. Cinco anos sem falar com quem eu quisesse já foi minha vida. Não posso nem mandar mensagem pra Bianca, que foi quem me ajudou a chegar até você?
 
-— Marina sabe seu nome verdadeiro?
+— Bianca sabe seu nome verdadeiro?
 
 — Sabe.
 
-— Então ela é um ponto de rastreamento, mesmo sem querer ser. — Explico devagar, sem pressa, porque a diferença entre mim e o marido dela não está em nunca impor regra nenhuma — está em nunca impor sem justificar, e em ceder quando o motivo não se sustenta. — Se o telefone dela for rastreado, comprometido, clonado, qualquer contato leva Rodrigo até você. Não é sobre desconfiar de Marina. É sobre matemática de risco. Passado o período mais quente da busca, posso montar um canal seguro entre vocês duas — encriptado, sem histórico rastreável. Isso resolve sua objeção sem eliminar a regra?
+— Então ela é um ponto de rastreamento, mesmo sem querer ser. — Explico devagar, sem pressa, porque a diferença entre mim e o marido dela não está em nunca impor regra nenhuma — está em nunca impor sem justificar, e em ceder quando o motivo não se sustenta. — Se o telefone dela for rastreado, comprometido, clonado, qualquer contato leva Rodrigo até você. Não é sobre desconfiar de Bianca. É sobre matemática de risco. Passado o período mais quente da busca, posso montar um canal seguro entre vocês duas — encriptado, sem histórico rastreável. Isso resolve sua objeção sem eliminar a regra?
 
 Ela pensa por um instante mais longo do que eu esperava, processando de verdade, não só engolindo. — Resolve. Desde que seja canal de verdade, não promessa que nunca acontece.
 

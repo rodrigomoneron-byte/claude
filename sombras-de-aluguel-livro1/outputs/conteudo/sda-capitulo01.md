@@ -16,7 +16,7 @@ Guardo o envelope na bolsa que uso pra caminhada — a única saída que ele ain
 
 O elevador desce em silêncio. Cumprimento o porteiro, Seu Almir, com o mesmo sorriso de sempre. Ele não sabe que decorei o intervalo entre as rondas dele. Ninguém sabe de nada, e é exatamente assim que precisa continuar até eu estar longe o bastante pra que a pergunta "onde ela está" não tenha resposta.
 
-Sento num banco da praia, longe das câmeras do quiosque, e ligo o chip virgem. Foi Marina — não uma amiga, uma desconhecida que conheci numa rede anônima de apoio, uma voz sem rosto que jurou nunca revelar como nos falamos — quem me passou o contato. "Ele não vai perguntar por que você quer sumir," ela escreveu. "Só vai perguntar se você tem certeza."
+Sento num banco da praia, longe das câmeras do quiosque, e ligo o chip virgem. Foi Bianca — não uma amiga, uma desconhecida que conheci numa rede anônima de apoio, uma voz sem rosto que jurou nunca revelar como nos falamos — quem me passou o contato. "Ele não vai perguntar por que você quer sumir," ela escreveu. "Só vai perguntar se você tem certeza."
 
 Tenho certeza há dois anos. Só não tinha coragem. A coragem chegou devagar, feita de pequenas contas escondidas e recibos rasgados, não de um estalo repentino de bravura — ninguém me avisou que sobreviver seria uma planilha, não um filme.
 

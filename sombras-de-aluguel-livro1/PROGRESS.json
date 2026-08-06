@@ -10,9 +10,9 @@
     "Julian"
   ],
   "status": "Em andamento",
-  "next_chapter": 19,
+  "next_chapter": 41,
   "next_pov": "Clara",
-  "updated": "2026-08-06 15:45",
+  "updated": "2026-08-06 16:16",
   "chapters": [
     {
       "n": 1,
@@ -157,16 +157,192 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 19,
+      "pov": "Clara",
+      "words": 1086,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 20,
+      "pov": "Julian",
+      "words": 948,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 21,
+      "pov": "Clara",
+      "words": 1017,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 22,
+      "pov": "Julian",
+      "words": 934,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 23,
+      "pov": "Clara",
+      "words": 859,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 24,
+      "pov": "Julian",
+      "words": 867,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 25,
+      "pov": "Clara",
+      "words": 1073,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "Julian",
+      "words": 945,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 27,
+      "pov": "Clara",
+      "words": 887,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 28,
+      "pov": "Julian",
+      "words": 937,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "Clara",
+      "words": 951,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "Julian",
+      "words": 1071,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 31,
+      "pov": "Clara",
+      "words": 903,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 32,
+      "pov": "Julian",
+      "words": 867,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 33,
+      "pov": "Clara",
+      "words": 967,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 34,
+      "pov": "Julian",
+      "words": 872,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 35,
+      "pov": "Clara",
+      "words": 912,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "Julian",
+      "words": 909,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 37,
+      "pov": "Clara",
+      "words": 885,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "Julian",
+      "words": 908,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 39,
+      "pov": "Clara",
+      "words": 990,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "Julian",
+      "words": 949,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 18,
-    "total_words": 18133,
-    "pages_kdp": 60,
-    "avg_score": 6.61,
-    "pct_to_target": 32,
-    "heat_scenes_done": 0,
-    "last_heat_chapter": null
+    "chapters_done": 40,
+    "total_words": 38870,
+    "pages_kdp": 130,
+    "avg_score": 6.69,
+    "pct_to_target": 69,
+    "heat_scenes_done": 3,
+    "last_heat_chapter": 34
   }
 }
