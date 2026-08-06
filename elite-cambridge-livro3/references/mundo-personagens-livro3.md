@@ -110,3 +110,87 @@ incluir congresso médico fora de Boston no Ato 2 se fizer sentido).
   chegou a ficar num capítulo aprovado. Confirma o padrão descrito em
   project_dna.md: tratar como certeza estatística, não risco
   hipotético, em todo capítulo restante da série.
+
+### Ato 2 (caps. 19-40) — decisões travadas na escrita
+
+- **Lesão na ressonância (gancho do Ato 1) — RESOLVIDA**: diagnosticada
+  como **síndrome da encefalopatia posterior reversível (PRES)**,
+  secundária aos picos hipertensivos da instabilidade autonômica de
+  Nora (já estabelecida no Ato 1) somados à fragilidade endotelial da
+  microangiopatia trombótica de base — não uma terceira doença
+  isolada, mas uma consequência plausível da combinação das duas
+  complicações já em cena. Localização parieto-occipital (consistente
+  com PRES real). Hipótese levantada por Rafael (cruzou o padrão de
+  picos de pressão arterial com os episódios de instabilidade
+  autonômica, cap. 20), confirmada por Camila (descartou
+  sistematicamente vasculite/infecção/processo autoimune primário,
+  caps. 19-21) — decisão médica sempre conjunta, sem um método
+  "vencendo" o outro. Controle rigoroso de pressão + ressonâncias
+  seriadas confirmaram resolução quase completa (90%) até o cap. 25.
+- **Congresso médico (proximidade forçada do Ato 2)**: congresso
+  nacional de Medicina Interna em Chicago (nome genérico, sem
+  organização real nomeada), caps. 26-28. Camila, Rafael e (não) Marco
+  foram selecionados por Lindqvist pra apresentar o caso Callahan como
+  síntese de protocolo + intuição; Marco ficou em Boston liderando
+  sozinho um caso de transplante renal — decisão de Lindqvist
+  deliberadamente não humilhante pra Marco, reforçando que ele não é
+  vilão.
+- **Primeiro momento de intimidade real**: cap. 27 (POV Camila), noite
+  após a apresentação em Chicago, quarto de hotel — consumação
+  completa pela primeira vez, conforme combinado no Ato 1 (cap. 16).
+  Cena de heat completa, com vulnerabilidade explícita (mãe de Camila,
+  Boa Vista do Sertão de Rafael) entrelaçada.
+- **Ponto de virada do Ato 2 — o erro real**: de volta de Chicago, a
+  contagem de plaquetas de Nora (já em queda desde o Ato 1, atribuída
+  a relapso da microangiopatia trombótica) continua caindo; surge um
+  déficit neurológico transitório (fala arrastada, fraqueza focal) que
+  a ressonância com difusão confirma como infarto agudo pequeno em
+  território vascular novo (não a mesma região do PRES já resolvido).
+  Camila e Rafael, sozinhos (Ibekwe fora do hospital), decidem juntos
+  iniciar anticoagulação (heparina) presumindo evento tromboembólico
+  ligado ao estado de hipercoagulabilidade da microangiopatia — mas
+  usam uma contagem de plaquetas de OITO HORAS antes (62 mil) em vez
+  de esperar a repetição (fila de laboratório de duas horas), decisão
+  consciente e conjunta, não erro isolado de um método sobre o outro.
+  A plaqueta real, quando finalmente sai, já tinha caído pra 18 mil —
+  a heparina, somada à trombocitopenia crítica não detectada a tempo,
+  causa hemorragia intraparenquimatosa pequena na mesma região que
+  antes tinha o PRES (vascularmente já fragilizada). Código de
+  emergência, reversão com protamina + plaqueta + TC de crânio,
+  neurocirurgia decide por manejo clínico (sem indicação cirúrgica).
+  Nora sobrevive, mas fica com déficit motor residual permanente na
+  mão direita (relevante por ela ser professora de artes) — o "custo
+  real" que a resolução do caso vai exigir carregar daqui pra frente.
+  O erro é EXPLICITAMENTE de responsabilidade conjunta (nenhum dos
+  dois decidiu sozinho) — mas a causa raiz (confiança mútua recém-
+  construída substituindo a checagem cruzada rigorosa que faziam
+  antes) expõe o medo central de cada um: Camila revive o medo de
+  repetir a história da própria mãe ("ninguém verificou duas vezes" —
+  dessa vez foi ela quem não verificou); Rafael confirma o medo de que
+  a própria intuição, mesmo compartilhada, pode matar.
+- **Fechamento do Ato 2 (cap. 40)**: Nora estável, alta da UTI, com
+  sequela motora permanente reconhecida e aceita por ela mesma ("mão
+  que sobrou"). Confiança entre Camila e Rafael visivelmente abalada,
+  não rompida — cap. 35-39 mostram o afastamento (Camila pede espaço,
+  quase-beijo interrompido conscientemente no cap. 38), sem separação
+  definitiva. Ato fecha em suspensão emocional deliberada: gesto físico
+  pequeno (mãos se tocando no corredor, cap. 40) mantém o fio aberto
+  pro Ato 3, sem resolver a crise de confiança. Decisão do fellowship
+  de Lindqvist antecipada pra três semanas após o fim do Ato 2 —
+  pressão estrutural elevada entrando no Ato 3.
+- **Régua absoluta — quase-erros pegos na escrita (Ato 2)**: o device
+  proibido de autocorreção ("a gente" escrito literalmente na página,
+  inclusive como fala de personagem "corrigida" em seguida) foi
+  cometido por reflexo e pego em revisão em PRATICAMENTE TODOS os
+  capítulos do Ato 2 (caps. 19, 21, 23, 26 [2x], 27, 28, 31, 32, 33,
+  35, 38, 40) — sempre detectado e corrigido antes do registro final,
+  nunca chegou a ficar num capítulo aprovado. Frequência MAIOR que no
+  Ato 1 (que teve 7 ocorrências em 18 capítulos; o Ato 2 teve
+  ocorrências em pelo menos 12 dos 22 capítulos) — o padrão de
+  autocorreção diegética ("personagem quase diz 'a gente', pega o
+  próprio erro, corrige pra 'nós'") é um ímã de recaída especialmente
+  forte e deve ser EVITADO como técnica de escrita daqui pra frente,
+  não só revisado depois: qualquer beat que exigiria mostrar um
+  personagem cometendo esse deslize deve ser reescrito para nunca
+  digitar a forma proibida na página, nem para corrigi-la na mesma
+  frase.
