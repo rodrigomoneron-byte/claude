@@ -227,3 +227,79 @@ físicos (casa, perímetro de segurança) a definir na escrita.
   rastrear metadados no cap. 29). Delegado Antunes não reaparece
   fisicamente neste ato (ameaça institucional plantada no Ato I segue
   latente, não puxada ainda).
+
+### Ato III (caps. 41-58) — decisões travadas na escrita, 2026-08-06
+
+- **Local de cativeiro**: cobertura no 39º andar da **Torre
+  Vasconcelos**, sede da incorporadora, na Barra — Rodrigo escolhe
+  exibir Clara no centro do próprio poder, não escondê-la. Prazo
+  estabelecido no cap. 41: três dias até a cerimônia de assinatura do
+  contrato do **Complexo Habitacional Vista Verde** (sexta-feira,
+  governador presente, imprensa completa) — Rodrigo pretende exibi-la
+  publicamente como prova de "reconciliação". Nenhuma cena de
+  violência física gráfica contra Clara em tempo real: ameaça
+  psicológica, controle (roupão trocado nela desacordada, comprimido
+  ansiolítico, fechadura biométrica), e menção não-gráfica ao hematoma
+  do pulso (consequência do aperto de contenção do cap. 39, já
+  ocorrido antes do início do Ato III).
+- **Evidência secreta de Clara**: pen drive escondido há mais de um
+  ano atrás de um azulejo solto no apartamento de **Bianca**, na
+  Tijuca — documentação financeira e política que Clara copiou do
+  escritório de Rodrigo (empresas de fachada, contas no exterior,
+  esquema de propina ligado à comissão de obras públicas), guardada
+  como seguro sem nunca ter sido usada até o Ato III. Revelada
+  internamente no cap. 41, recuperada em cena no cap. 49.
+- **Resgate**: infiltração noturna na Torre Vasconcelos nos caps.
+  44-45 (Julian com apoio remoto de Dante e logística de Bete),
+  incluindo confronto com **Ubiratã Correia** (reintroduzido, ainda
+  convalescendo do ferimento do cap. 38, recontratado por Rodrigo).
+  Clara tem agência ativa na própria fuga: solta o parafuso da
+  ventilação, provoca alarme de incêndio controlado com fósforo
+  escondido, força a fechadura com alavanca improvisada — não é
+  resgatada passivamente.
+- **Heat no Ato III**: 3 cenas — cap. 47 (madrugada após o resgate,
+  alívio emocional, gap de 13 caps. desde o cap. 34, deliberadamente
+  acima do máximo de 6 por impossibilidade estrutural de cena
+  consensual durante o cativeiro; documentado aqui como exceção
+  justificada, não descuido), cap. 51 (noite antes da cerimônia
+  pública, gap de 4) e cap. 57 (semanas depois, já no Vale das
+  Pedras, gap de 6). Total do livro: 6 cenas (26, 31, 34, 47, 51, 57)
+  — abaixo da meta de 8-10; ver relatório final da sessão para detalhe
+  do déficit.
+- **Queda de Rodrigo**: confrontado publicamente por Clara na
+  cerimônia do Vista Verde (cap. 53), evidência disparada
+  simultaneamente pra três redações e um jornalista investigativo via
+  Dante (cap. 52, plano; cap. 53, execução) enquanto o Delegado
+  Antunes aciona a promotoria federal (fora do alcance político local
+  de Rodrigo) pra prisão imediata. Clímax físico Julian x Rodrigo no
+  cap. 54 — ação/suspense (arma disparada pro ar, imobilização
+  controlada, guarda desarmado), não abuso doméstico reencenado; Clara
+  quebra o próprio aperto de Rodrigo com um golpe de cotovelo
+  aprendido com Julian (agência ativa no próprio clímax, não resgate
+  passivo). Prisão preventiva confirmada definitiva no cap. 56.
+- **Cena obrigatória de distinção proteção-vs-controle (seção 2b) no
+  Ato III**: cap. 46 (Julian articula em voz alta a diferença com
+  Rodrigo antes da primeira cena de heat do ato), cap. 50 (Julian
+  expressa medo de deixar Clara ir ao evento público mas cede à
+  decisão dela sem impor), cap. 53 (contraste direto em cena entre o
+  aperto controlador de Rodrigo e a escolha livre que Clara reivindica
+  publicamente).
+- **Desfecho**: sem epílogo — cap. 58 é o capítulo final, três semanas
+  após a queda de Rodrigo, Clara e Julian reconstruindo o Vale das
+  Pedras como lar (porta-retrato de Marina exposto na sala, não mais
+  escondido). Gancho final adaptado pra abertura de futuro em vez de
+  perigo: uma nova cliente liga pedindo ajuda, e Clara escolhe
+  atendê-la ativamente, fechando o arco dela de sobrevivente resgatada
+  para parceira ativa da agência — sem deixar ameaça real não
+  resolvida em aberto.
+- **Quase-erros de régua pegos e corrigidos no Ato III**: o device
+  proibido de autocorreção ("a gente" → "nós") foi escrito por engano
+  em rascunho quatro vezes durante a produção deste ato (caps. 45, 48,
+  49 e 57) — todas as quatro reescritas para remover completamente a
+  ocorrência (nunca registradas como "correção em cena", só removidas)
+  antes do registro do capítulo; nenhuma chegou a ficar no texto
+  publicado. Uma forma oblíqua solta ("dessa gente") também apareceu
+  no cap. 53 e foi corrigida antes do registro. `regua_gate.py` rodado
+  em 100% dos 58 capítulos do livro (Atos I-III) confirma LIMPO em
+  todos, exit code 0; grep manual com `\b` confirma zero ocorrências
+  de "a gente" ou formas oblíquas em todo o `outputs/conteudo/`.
