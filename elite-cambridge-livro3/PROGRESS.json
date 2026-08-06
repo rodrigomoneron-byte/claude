@@ -9,10 +9,10 @@
     "Camila",
     "Rafael"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Camila",
-  "updated": "2026-08-06 12:17",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
+  "next_pov": "Rafael",
+  "updated": "2026-08-06 12:43",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Camila",
+      "words": 965,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Rafael",
+      "words": 1017,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Camila",
+      "words": 984,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Rafael",
+      "words": 1023,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 45,
+      "pov": "Camila",
+      "words": 1006,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Rafael",
+      "words": 1058,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Camila",
+      "words": 1022,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Rafael",
+      "words": 979,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Camila",
+      "words": 985,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 50,
+      "pov": "Rafael",
+      "words": 974,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Camila",
+      "words": 987,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Rafael",
+      "words": 994,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Camila",
+      "words": 970,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 54,
+      "pov": "Rafael",
+      "words": 981,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Camila",
+      "words": 1004,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Rafael",
+      "words": 966,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 57,
+      "pov": "Camila",
+      "words": 975,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 40135,
-    "pages_kdp": 134,
+    "chapters_done": 57,
+    "total_words": 57025,
+    "pages_kdp": 190,
     "avg_score": 7.0,
-    "pct_to_target": 71,
-    "heat_scenes_done": 7,
-    "last_heat_chapter": 38
+    "pct_to_target": 101,
+    "heat_scenes_done": 11,
+    "last_heat_chapter": 56
   }
 }

@@ -195,3 +195,72 @@ incluir congresso médico fora de Boston no Ato 2 se fizer sentido).
   esse deslize deve ser reescrito para nunca digitar a forma proibida
   na página, nem para corrigi-la na mesma frase — nem em narração
   meta-comentando o deslize.
+
+### Ato 3 (caps. 41-57) — decisões travadas na escrita, FECHAMENTO DO LIVRO
+
+- **Estrutura**: livro fechado em 57 capítulos (16 além dos 40 do fim do
+  Ato 2), dentro da faixa 55-58 travada. Separação profissional
+  temporária (Ibekwe determina serviços diferentes até a revisão de
+  morbimortalidade) serve de mecanismo institucional pro período real
+  de distanciamento pedido pelo brief — caps. 41-43 mostram os dois
+  errando sozinhos por excesso de cautela (espelhados: Rafael hesita
+  com paciente séptico cap. 42, Camila hesita com síndrome
+  serotoninérgica inicial cap. 43), demonstrando que desconfiança de si
+  mesmo é tão perigosa quanto confiança cega.
+- **M&M (revisão de morbimortalidade)**: caps. 47 (apresentação formal
+  diante do departamento, Lindqvist presidindo) — sem punição
+  individual, resulta na implementação obrigatória do "Protocolo
+  Callahan" (verificação dupla de plaquetas antes de terapia de risco
+  alto baseada em contagem alterada).
+- **Decisão do fellowship (cap. 48, 54)**: Lindqvist propõe estrutura
+  dividida — fellowship tradicional (financiamento completo, prestígio,
+  vaga única) vai pra Marco Tanaka, que venceu com um caso limpo de
+  transplante, sem mácula. Camila e Rafael abrem mão da candidatura
+  tradicional em favor de um piloto de pesquisa aplicada (financiamento
+  parcial, sem garantia além do primeiro ano, sem título de "fellow")
+  pra formalizar e implementar o protocolo nascido do próprio erro —
+  decisão consciente, ligada por escrito ao nome dos dois, publicamente
+  responsabilizados até se falhar. Marco entra como consultor formal do
+  piloto, a pedido de Lindqvist — reforça o não-vilão. Custo real:
+  nenhum dos dois leva o prêmio que perseguiu o livro inteiro; o que
+  levam foi construído, não dado.
+- **Nora Callahan — arco de adaptação (não "cura")**: caps. 43 (terapia
+  ocupacional, "a raiva não pinta o quadro"), 50 (recebe cópia do
+  Protocolo Callahan com o próprio nome, presente de pincéis
+  adaptados), 55 (alta hospitalar definitiva), 56-57 (quadro pintado
+  com a mão adaptada, enviado por correio, pendurado na sala do piloto
+  de pesquisa como símbolo permanente). Nora nunca recupera a mão
+  dominante — o livro não oferece cura, só dignidade e reconstrução.
+- **Heat (Ato 3)**: 4 cenas novas — cap. 44 (lavanderia/apartamento,
+  reencontro físico não resolvido, ainda sem palavra), cap. 49
+  (reconciliação real, primeira declaração de amor mútua), cap. 53
+  (véspera da decisão do fellowship, vulnerabilidade profunda), cap. 56
+  (celebração privada, fade-to-black). Total do livro: 11 cenas (7 do
+  Ato 1-2 + 4 do Ato 3), batendo a meta de 10-12. Gaps todos dentro do
+  máximo de 6 (38→44: 6; 44→49: 5; 49→53: 4; 53→56: 3).
+- **Resolução da crise de confiança**: não "eles nunca mais erram" — os
+  dois formalizam verificação cruzada obrigatória (assinatura dupla em
+  decisão de risco alto) como parte do próprio ritual de trabalho,
+  demonstrado em cena com o paciente Thomas Reyes (cap. 51-52, padrão
+  de Brugada confirmado por leitura de padrão de Rafael + rigor de
+  confirmação de Camila, nenhum método vencendo sozinho).
+- **Fechamento (cap. 57, sem epílogo)**: gesto que reabre o jogo — os
+  dois inauguram a sala vazia do piloto de pesquisa (nomeado
+  "Duarte-Amaral"), penduram o quadro de Nora, e são interrompidos por
+  um código de emergência antes de qualquer resolução "final" — saem
+  correndo de mãos dadas até o último segundo, sem epílogo, sem cena de
+  "anos depois".
+- **Régua absoluta — quase-erros pegos na escrita (Ato 3)**: o device
+  proibido de autocorreção diegética foi cometido por reflexo e pego em
+  revisão em 10 dos 17 capítulos do Ato 3 (caps. 43, 44, 45, 46, 48, 49,
+  52, 55 [2x], 56, 57 — 11 instâncias no total, todas detectadas via
+  `regua_gate.py` e/ou releitura manual antes do registro) — sempre
+  removido antes do capítulo ser aprovado, nunca chegou a ficar num
+  capítulo final aprovado. Frequência maior que nos dois atos
+  anteriores combinados (Ato 1: 7 em 18 caps.; Ato 2: 15 em 11 de 22
+  caps.) — confirma a previsão do brief de tratar o device como certeza
+  estatística por capítulo neste ato final, não risco hipotético. Em
+  nenhum caso o padrão de "personagem quase erra e se autocorrige na
+  página" foi mantido no texto aprovado — todas as instâncias foram
+  reescritas para nunca exibir a forma proibida nem narrar o deslize,
+  conforme a instrução travada no Ato 2.
