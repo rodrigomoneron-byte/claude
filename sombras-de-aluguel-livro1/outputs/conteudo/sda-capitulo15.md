@@ -40,7 +40,7 @@ Algo se ilumina no rosto dele, orgulho misturado com um respeito que sinto até 
 
 — Vou explicar sempre. — A resposta vem sem hesitação, como se ele já tivesse pensado nessa pergunta antes de eu fazê-la. — Posso discordar, posso argumentar contra, posso até me recusar a participar de algo que considero suicídio disfarçado de coragem. Mas nunca vou decidir por você sem te dar o motivo primeiro, e nunca vou fingir que a decisão final é sua quando na verdade já tomei ela sozinho. Isso é a diferença entre proteger e possuir, e é uma linha que não cruzo, nem por medo de te perder.
 
-A distância entre nós encolhe de novo, o mesmo magnetismo de antes voltando com força redobrada, e dessa vez não existe alarme nenhum pra interromper — só nossos olhos presos um no outro, a respiração dela sincronizando com a minha, o silêncio da casa carregado de possibilidade.
+A distância entre nós encolhe de novo, o mesmo magnetismo de antes voltando com força redobrada, e dessa vez não existe alarme nenhum pra interromper — só nossos olhos presos um no outro, a respiração dele sincronizando com a minha, o silêncio da casa carregado de possibilidade.
 
 — Julian — sussurro, o nome dele soando diferente na minha própria boca, mais íntimo do que qualquer coisa que já disse a outro homem em anos.
 
