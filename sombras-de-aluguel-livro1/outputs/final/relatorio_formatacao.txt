@@ -1,0 +1,231 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Sombras de Aluguel — Livro 1: O Preço do Silêncio
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-07
+PRIMEIRO LIVRO DE DARK ROMANCE/SUSPENSE DA CASA (série em potencial aberta)
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+58/58 capítulos convertidos de outputs/conteudo/sda-capitulo01.md a
+sda-capitulo58.md para outputs/final/manuscrito/01_capitulo.md a
+58_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Clara") separado em duas linhas: "# Capítulo N" (título) + linha em
+  branco + "*POV: Nome*" (subtítulo discreto em itálico), seguindo o
+  mesmo formato final de leitor já usado nos outros livros da casa —
+  este manuscrito já trazia o POV embutido no próprio cabeçalho de
+  capítulo em vez de uma linha "### POV:" separada, então a extração
+  foi feita a partir desse formato de origem.
+- Corpo do capítulo: preservado byte a byte (script de conversão não
+  toca em nenhuma linha de prosa; verificado por comparação
+  automatizada do corpo de texto de todos os 58 pares de arquivo
+  origem/destino — 0 divergências).
+
+POV dual conferido nos 58 arquivos de origem e nos 58 arquivos finais:
+alternância estrita ímpar = Clara, par = Julian, sem exceção, do
+Capítulo 1 ao Capítulo 58 (checagem automatizada por script, sem
+nenhuma falha de numeração ou de POV). Sem epílogo neste Livro 1,
+conforme decisão travada no project_dna.md (mesma lógica do resto do
+catálogo — reservada para eventual fechamento/continuação de série).
+
+===============================================================
+2. CONTAGEM DE PALAVRAS (via Python — ver nota sobre bug de wc -w)
+===============================================================
+- Manuscrito de origem (outputs/conteudo/, cabeçalho "# Capítulo N —
+  POV" em uma linha): 57.012 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  "# Capítulo N" + linha "*POV: Nome*"): 57.012 palavras (mesma
+  contagem — quebrar o cabeçalho em duas linhas não altera o total de
+  tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 56.722 palavras
+Dentro da meta de 55.000-58.000 palavras do project_dna.md/TASK.md
+deste livro (~55-58 capítulos), cumprida a ~98% do topo da faixa, como
+planejado desde o Ato 1.
+
+Nota sobre método de contagem: `wc -w` sobre os mesmos 58 arquivos
+finais reporta 54.352 palavras — divergência de ~4,7% em relação à
+contagem via Python, confirmando o bug de locale/UTF-8 já documentado
+no project_dna.md (seção 3) deste projeto e no restante do catálogo.
+A contagem oficial usada neste relatório é a via Python
+(`len(texto.split())`), não `wc -w`.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/sombras-de-aluguel.epub (180 KB)
+- 58 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 58, sem nenhum faltando)
+- Metadados: title "Sombras de Aluguel", subtitle "O Preço do
+  Silêncio", series "Sombras de Aluguel" #1, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; metadados
+  DC conferidos via get_metadata() e batendo exatamente com
+  metadata.json:
+    Título: Sombras de Aluguel
+    Idioma: pt-BR
+    Identifier: urn:uuid:4d38bd62-52d7-400f-9165-95c36cac9149
+    Autor: R.B. Guidenelli
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 58 arquivos .md, ordenados corretamente pelo prefixo
+  numérico (61 itens totais no pacote; 59 documentos XHTML = 58
+  capítulos + 1 nav)
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/sombras-de-aluguel_kdp.pdf (396 KB)
+- Dimensão confirmada via pypdf: 432.0 x 648.0 pt (6" x 9" exato)
+- Total: 204 páginas (página de título não numerada + 203 páginas
+  numeradas, do Capítulo 1 ao fim do Capítulo 58 — bate com o "203" no
+  rodapé da última página)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, páginas abertas e
+inspecionadas, não só geradas):
+- Página de título (página 1 do PDF): título "Sombras de Aluguel"
+  centralizado em negrito, subtítulo "O Preço do Silêncio" logo abaixo,
+  nome do autor "R.B. Guidenelli" e "Sombras de Aluguel — Livro 1" mais
+  abaixo, tudo centralizado verticalmente na página. Sem numeração
+  (correto).
+- Primeira página do Capítulo 1 (página 2 do PDF, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Clara" em itálico
+  discreto logo abaixo, corpo em fonte serif (Times-Roman) justificado
+  com recuo de primeira linha, espaçamento entre linhas confortável.
+  Layout correto, batendo com a especificação do kdp-specs.md.
+- Página do meio do livro (página 100 do PDF, numerada "99", dentro do
+  Capítulo 29): mesmo padrão de layout mantido de forma consistente —
+  corpo justificado, numeração de página no rodapé. Nenhum problema de
+  quebra de página, margem ou fonte encontrado no meio do manuscrito.
+- Última página (página 204 do PDF, numerada "203", fim do Capítulo
+  58): última linha de prosa do livro seguida de espaço em branco e
+  numeração de rodapé — fechamento correto, sem conteúdo cortado.
+- Nenhum problema de layout encontrado em nenhuma das quatro páginas
+  inspecionadas.
+
+TESTE ESPECÍFICO DE NEGRITO (bug histórico documentado no Livro 1 de
+Família Bittencourt — "**-18,4%**" virava "<i>*-18,4%</i>*", itálico
+com asterisco literal residual):
+- O manuscrito deste livro NÃO usa **negrito** markdown em nenhum dos
+  58 capítulos (varredura `grep -c '\*\*'` em todos os arquivos de
+  outputs/conteudo/: zero ocorrências em todos). Não havia, portanto,
+  nenhuma página real do livro para reproduzir o bug histórico a
+  partir do conteúdo publicado.
+- Foi rodado um teste sintético isolado (fora da árvore do projeto, em
+  pasta temporária, removida ao final) com um capítulo de teste
+  contendo **negrito de verdade**, *itálico simples*, e o caso exato
+  do bug histórico (**-18,4%**, número negativo dentro de negrito). O
+  PDF de teste foi gerado com o mesmo scripts/build_pdf.py e a página
+  resultante foi convertida em PNG e inspecionada visualmente:
+  negrito renderiza como negrito de verdade, itálico como itálico,
+  "-18,4%" aparece em negrito limpo sem nenhum asterisco literal
+  sobrando. CONFIRMADO: a correção do bug (conversão de **negrito**
+  antes de *itálico* em `_markdown_inline_to_reportlab`) segue em
+  vigor no script usado por este livro.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 58 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 58 (RESULTADO: LIMPO —
+  pode avançar, exit code 0)
+- grep -noiP '\ba gente\b' em outputs/conteudo/*.md e em
+  outputs/final/manuscrito/*.md: nenhuma ocorrência real da expressão
+  proibida. As 3 ocorrências brutas de substring "a gente" encontradas
+  numa varredura inicial menos precisa (capítulos 16, 22 e 28) foram
+  checadas manualmente e são falsos positivos por concatenação de
+  palavras ("contra gente poderosa", "contrata gente assim", "essa
+  gente bata na porta") — não é o pronome proibido.
+Régua 100% limpa nos 58 arquivos finais entregues.
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_sombras-de-aluguel.json
+é um UUID gerado automaticamente
+(urn:uuid:4d38bd62-52d7-400f-9165-95c36cac9149) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação — a KDP aceita o livro sem ISBN próprio, atribuindo
+automaticamente.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_sombras-de-aluguel.txt,
+seguindo o tom "dark romance" pedido no briefing do usuário e no
+project_dna.md (seção 0): preto e cinza dominantes, acento pontual em
+vermelho-sangue OU dourado-âmbar (não os dois juntos), silhueta
+solitária dissolvida na névoa de uma estrada de serra à noite, faróis
+distantes sugerindo perseguição, um fio de luz cortando o breu como
+elemento simbólico central. PRIMEIRO livro da casa neste registro
+visual — checagem feita revisando os quinze prompts de capa anteriores
+do catálogo antes de escrever este (A Mão na Alavanca L3/branding
+padrão de carvalho e whiskey, Jogo Infinito 1-5/mármore negro e
+relógio de bolso, Família Bittencourt 1-3/vidro-glamour paulistano,
+azulejo de Alfama, estufa e orquídea, Elite de Cambridge 1-3/tijolo,
+neve e reflexo de código, Gelo e Sangue 1-3/gelo de rinque, tundra
+industrial e aurora boreal) — nenhum elemento de paleta, textura ou
+objeto simbólico foi reaproveitado de nenhuma capa anterior.
+
+===============================================================
+8. CADÊNCIA DE HEAT — NOTA DE CONTINUIDADE (repassada, não é bug de
+   formatação)
+===============================================================
+A revisão editorial global (bia-ferreira-editor-global, commit
+anterior a esta formatação) já registrou e aprovou o seguinte desvio
+de cadência de heat, documentado aqui apenas para transparência do
+pacote final — não foi reaberto nem alterado nesta etapa de
+formatação:
+- Meta do project_dna.md: ~8-10 cenas de heat.
+- Realizado: 6 cenas, nos capítulos 26, 31, 34, 47, 51 e 57.
+- Gaps entre cenas: 5, 3, 13, 4 e 6 capítulos.
+- O gap de 13 capítulos (entre o Cap. 34 e o Cap. 47) excede o teto de
+  6 capítulos travado no project_dna.md, mas foi justificado e
+  aprovado na revisão global pelo período de cativeiro/captura
+  temporária da protagonista nesse trecho do Ato III (Clara nas mãos
+  de Rodrigo), intervalo em que uma cena de intimidade entre Clara e
+  Julian seria dramaticamente incoerente com o enredo. Este relatório
+  apenas repassa a informação já registrada — nenhuma ação de
+  formatação foi necessária ou tomada em cima desse ponto.
+
+===============================================================
+9. PRIMEIRO LIVRO DE DARK ROMANCE/SUSPENSE DA CASA — NOTA DE CATÁLOGO
+===============================================================
+"Sombras de Aluguel" é o primeiro livro da casa R.B. Guidenelli no
+registro Dark Romance/Suspense Romântico (mais sombrio e visceral que
+os registros "clean-to-warm"/"explícito-elegante" de Jogo Infinito,
+Família Bittencourt e Elite de Cambridge) — quinta série do catálogo.
+O briefing do usuário sinalizou potencial de série futura no universo
+da agência clandestina "Vance Security & Recovery", com livros focados
+em outros agentes/aliados de Julian (ex.: Dante, personagem já
+estabelecido com potencial de spin-off — ver
+references/arco-trama-livro1.md). A decisão de dar continuidade a essa
+série, e em que personagem focar um eventual Livro 2, fica em aberto
+para o usuário; esta entrega cobre apenas o Livro 1, completo e
+fechado em si mesmo (sem gancho de epílogo pendente).
+
+===============================================================
+10. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit "Revisão global (bia-ferreira-
+editor-global): manuscrito completo Livro 1", anterior a esta
+formatação). Esta etapa (bia-ferreira-formatter) não reabriu revisão
+de prosa — tratou o texto de outputs/conteudo/ como final, limitando-
+se a conversão de formato, empacotamento e QA técnico (régua, negrito,
+layout, metadados, contagem de palavras).
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/sombras-de-aluguel.epub
+- outputs/final/sombras-de-aluguel_kdp.pdf
+- outputs/final/prompt_capa_sombras-de-aluguel.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_sombras-de-aluguel.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 58_capitulo.md
+- outputs/final/manuscrito/metadata.json

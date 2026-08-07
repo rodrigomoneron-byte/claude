@@ -1,0 +1,113 @@
+TÍTULO: Sombras de Aluguel — Livro 1: O Preço do Silêncio
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Este é o primeiro livro de dark romance/suspense romântico da casa
+R.B. Guidenelli — registro visual inteiramente NOVO, que não repete
+NENHUMA capa anterior do catálogo. Não é o branding padrão "The Old
+English Gentleman's Club" (clube de whiskey inglês, carvalho, couro
+capitonê, veludo bordô — ver references/branding-rbg.md, que NÃO se
+aplica aqui). Não é o mármore negro polido de Jogo Infinito. Não é o
+tijolo vermelho/neve/reflexo de código de Elite de Cambridge. Não é o
+glamour urbano paulistano de "Acordo de Vidro" (Família Bittencourt
+L1), nem o azulejo de Alfama de "O Caminho de Volta" (L2), nem a
+estufa/orquídea de "O Que Ainda Floresce" (L3). Não é o gelo de arena,
+a tundra industrial ou a aurora boreal de Gelo e Sangue. O briefing do
+usuário pede um tom explicitamente sombrio e ameaçador: preto e cinza
+dominantes, com um único acento em vermelho OU dourado, silhuetas
+dissolvidas na névoa, transmitindo mistério e perigo — o oposto do
+calor de vela/latão do branding padrão da casa. Só a identidade de
+autor (monograma R·B·G) atravessa como fio discreto de continuidade —
+não a paleta, não a textura, não a iluminação de nenhuma capa anterior.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), fotografada de noite numa
+estrada de terra estreita que sobe a Serra dos Órgãos, cercada de mata
+densa. Névoa espessa e baixa cobre quase todo o quadro, tão densa que
+engole os contornos da floresta ao fundo e reduz tudo a camadas de
+cinza-chumbo se afastando em profundidade — a mata mais próxima em
+silhueta quase sólida, a mais distante quase invisível, dissolvida no
+nevoeiro. Em primeiro plano, ligeiramente fora de centro, a silhueta
+recortada de uma figura solitária parada de costas ou de perfil —
+sem rosto visível, sem feição legível, só o contorno de um casaco
+comprido e o peso de alguém vigiando algo que ainda não se vê — presa
+entre a névoa que se abre atrás dela e a escuridão do primeiro plano.
+Ao fundo, muito ao longe, quase absorvido pelo nevoeiro, o brilho fraco
+e frio de dois faróis de carro subindo a estrada — o único indício de
+perigo se aproximando, pequeno o bastante para inquietar sem explicar.
+No canto inferior do quadro, parcialmente visível entre as pedras da
+estrada, um único fio de luz corta a névoa: um risco fino e nítido —
+vermelho-sangue OU dourado-âmbar (escolher um dos dois, nunca os dois
+ao mesmo tempo, para manter o acento estritamente pontual) — que pode
+ser lido como o facho cortado de uma lanterna tática, o brilho de uma
+mira, ou simplesmente uma fresta de luz artificial rasgando o
+breu-cinza da névoa. Esse fio de cor é o único ponto quente/vivo da
+composição inteira; todo o resto vive em tons de preto, chumbo e
+cinza-azulado frio. Sem rostos explícitos, sem casal, sem pose
+romântica — o quadro é sobre a ameaça que se aproxima e a vigilância
+silenciosa, não sobre duas pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+O fio de luz vermelho/dourado cortando a névoa cinza — o "preço do
+silêncio" do subtítulo tornado imagem: a única verdade nítida em meio
+a uma vida inteira de sombras encobertas. Serve também de eco visual
+ao objeto de segurança que atravessa o livro (a arma que Julian ensina
+Clara a usar, a lanterna tática de vigia do perímetro) sem nunca
+mostrar a arma em si — só o traço de luz que ela sugere.
+
+PALETA:
+Preto e cinza-chumbo dominantes (mata, névoa, estrada, silhueta,
+noite) — frio, denso, quase monocromático — cortados por UM único
+acento pontual: vermelho-sangue profundo (perigo, o passado violento
+de Clara) OU dourado-âmbar contido (proteção, a promessa de refúgio de
+Julian). Escolher apenas um dos dois para a versão final da capa; não
+misturar as duas cores de acento na mesma composição. Nenhuma luz
+branca ou quente generalizada — a névoa em si já é a fonte de luz
+difusa, fria, sem calor.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em serif display de alto contraste, peso forte, cor branco-osso
+ou cinza muito claro quase fantasma contra o fundo escuro — legível à
+distância de thumbnail, sem ornamento decorativo de romance histórico.
+Monograma R·B·G discreto, na mesma cor do acento pontual escolhido
+(vermelho ou dourado), posicionado minúsculo junto ao nome do autor —
+mantém a identidade da casa sem repetir a paleta quente de nenhuma
+série anterior.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano com feições visíveis, biblioteca de carvalho, couro capitonê,
+veludo bordô, cristal de whiskey, abotoaduras, relógio de bolso,
+mármore negro polido, skyline de Manhattan, tijolo vermelho, neve,
+reflexo de código de computador, azulejo português, andorinha,
+estufa de vidro, orquídea, gelo rachado de rinque, tundra industrial,
+aurora boreal, torres de petróleo, luz branca clínica de hospital, azul
+frio de ambiente hospitalar, néon, arma em close realista e explícita,
+sangue visível, ferimento explícito, violência gráfica, fundo branco
+genérico, fonte serifada dourada de romance histórico, brasão de
+família, texto incorporado além de título/subtítulo/autor, estética de
+cartaz de filme de ação genérico, capangas armados em primeiro plano
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, dark romance/suspense romântico,
+fotografia noturna de floresta com névoa densa, atmosférico e contido,
+tensão silenciosa mais do que ação explícita — mais still de thriller
+psicológico de prestígio (tipo pôster de filme de suspense
+atmosférico) do que capa de romance histórico ou contemporâneo leve;
+sombrio, elegante, ameaçador sem ser gráfico.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+PRIMEIRO livro da casa R.B. Guidenelli neste registro visual (preto/
+cinza + acento vermelho ou dourado, silhuetas na névoa) — nenhum
+elemento de nenhuma capa anterior do catálogo foi reaproveitado
+(checagem feita revisando os quinze prompts de capa anteriores do
+catálogo antes de escrever este: A Mão na Alavanca L3/branding padrão,
+Jogo Infinito 1-5, Família Bittencourt 1-3, Elite de Cambridge 1-3,
+Gelo e Sangue 1-3).
+O briefing do usuário sinaliza potencial de série futura no universo
+"Vance Security & Recovery" (outros agentes/aliados da agência de
+Julian, com potencial de protagonizar spin-offs) — decisão de
+continuar ou não fica em aberto para o usuário; se a série avançar,
+este mesmo motivo (silhueta na névoa + fio de luz vermelho/dourado)
+pode servir de padrão visual recorrente da série, variando o cenário
+de fundo e a cor do acento conforme o par protagonista de cada volume.
