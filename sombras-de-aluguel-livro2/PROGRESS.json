@@ -1,0 +1,27 @@
+{
+  "book": "Sombras de Aluguel L2 (Fernanda/Dante)",
+  "target": 56,
+  "word_target": 56500,
+  "heat_target": 9,
+  "max_heat_gap": 6,
+  "first_heat_by": 12,
+  "povs": [
+    "Fernanda",
+    "Dante"
+  ],
+  "status": "Em andamento",
+  "next_chapter": 1,
+  "next_pov": "Fernanda",
+  "updated": "2026-08-07 18:11",
+  "chapters": [],
+  "blocks": [],
+  "scoreboard": {
+    "chapters_done": 0,
+    "total_words": 0,
+    "pages_kdp": 0,
+    "avg_score": 0,
+    "pct_to_target": 0,
+    "heat_scenes_done": 0,
+    "last_heat_chapter": null
+  }
+}
