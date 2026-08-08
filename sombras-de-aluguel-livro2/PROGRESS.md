@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Fernanda)
-- Última atualização: 2026-08-08 02:26
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Fernanda)
+- Última atualização: 2026-08-08 02:57
 
 ## Placar
-- Palavras: 18400
-- Páginas KDP (~palavras/300): 61
-- Score médio: 6.69
-- Meta de palavras: 56500 (33%)
-- Cenas de heat: 2 / meta 9 (última no cap. 17)
+- Palavras: 39005
+- Páginas KDP (~palavras/300): 130
+- Score médio: 6.73
+- Meta de palavras: 56500 (69%)
+- Cenas de heat: 5 / meta 9 (última no cap. 33)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

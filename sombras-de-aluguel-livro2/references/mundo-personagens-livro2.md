@@ -139,3 +139,79 @@ fechando o Ato 1 em cliffhanger).
     verdade pela primeira vez enquanto Dante está fora buscando
     suprimento — cliffhanger estrutural que abre o Ato 2 (Forced
     Proximity), sem resolver se é ataque real ou falso alarme.
+
+## Log de decisões de escrita (Ato 2 completo, caps. 19-40)
+
+12. **Resolução do cliffhanger "luz vermelha"** (caps. 19-20):
+    reconhecimento à distância de um batedor da equipe de Bruno
+    Tavares — mediu alcance de sinal por 23 minutos rente à cerca,
+    sabotou fisicamente a câmera 3 (cabo cortado, não defeito) antes
+    de recuar quando o perímetro disparou luz automática. Confirma
+    ameaça real e escalada iminente sem ainda ser confronto físico.
+13. **Traição/vazamento interno #1: Ivo**, técnico que instalou o
+    sistema de satélite do refúgio há 4 anos — vendeu a posição das
+    câmeras sob coação (ameaça à filha dele feita pela equipe de
+    Tavares), não por ganância. Decisão deliberada de humanizar sem
+    redimir a operação de Salgado. Realocado em segurança pelo
+    Antunes (cap. 24); reduziu o raio de busca do refúgio de 40 pra
+    12 km ao cruzar nota fiscal de equipamento com câmera de estrada
+    (cap. 32).
+14. **Traição/vazamento interno #2: Rafael Dourado**, analista sênior
+    de risco da Lumen (10 anos de casa) — identificado como suspeito
+    de vazar calendário de auditoria fraca pra Salgado, confirmado
+    por reação evasiva numa ligação disfarçada de RH (cap. 23). Fio
+    aberto, não resolvido narrativamente — disponível pro Ato 3 se
+    necessário.
+15. **Aprofundamento do luto de Dante** (cap. 28): revela o primeiro
+    protótipo de sensor de proximidade que ele e Theo construíram
+    juntos aos 15/17 anos, guardado numa caixa de metal no galpão —
+    símbolo recorrente que liga toda a tecnologia da Vance Security
+    ao trauma original; a régua de segurança de Dante descende
+    literalmente dessa peça.
+16. **Ataque real ao refúgio** (caps. 26-27): reconhecimento armado de
+    3 pontos simultâneos (cerca leste, cerca norte, portão) pela
+    equipe de Bruno Tavares — testado e repelido com contramedida
+    tática (clarão de luzes de perímetro sincronizado) sem confronto
+    direto nem violência contra Fernanda; Dante ferido levemente
+    (corte na mão em arame farpado). Confirmado como teste de tempo
+    de resposta, não tentativa de invasão total.
+17. **Prova decisiva contra Salgado** (cap. 25): assinatura digital
+    pessoal dele (sem proxy nem SPV escondendo o rastro) autorizando
+    repasse de R$200 milhões pra conta de fuga pessoal — encontrada
+    por Fernanda, entregue fisicamente ao Delegado Antunes no
+    escritório dele em São Paulo (cap. 36).
+18. **Sequestro de Fernanda e clímax do Ato 2** (caps. 36-40):
+    emboscada de furgão na saída do escritório do Antunes; Fernanda
+    levada pra um galpão perto da represa Billings (mesmo local onde
+    o corpo de Ricardo Anselmo apareceu, cap. 18) — escolha
+    deliberada de eco visual. Otávio Salgado confronta ela
+    pessoalmente pela primeira vez em cena, confirma que já está
+    fugindo do país independente do resultado (motivação
+    transacional reafirmada, não obsessão pessoal). Resgate liderado
+    por Dante — primeira vez em 6 anos que ele age fisicamente em
+    campo por escolha própria — com apoio de Julian, Antunes e
+    Marcão, usando o rastreador que Fernanda carregava costurado no
+    casaco (estabelecido como medida de segurança consentida, não
+    imposta, no cap. 22). Bruno Tavares foge pela vegetação, Salgado
+    foge de carro — nenhum dos dois capturado no fim do Ato 2: gancho
+    pro Ato 3 (mandado de prisão já confirmado, mas Salgado ativamente
+    em fuga do país).
+19. **Novo personagem: Marcão**, contato de confiança do Delegado
+    Antunes, reforço de segurança físico no refúgio a partir do
+    cap. 25 — presença recorrente no Ato 2, não desenvolvido
+    romanticamente, função pura de apoio tático.
+20. **Cena de reforço do princípio "protetor que nunca controla"**
+    (cap. 22, ver seção 2b): Dante e Fernanda negociam explicitamente
+    uma decisão de risco dela (ligação de teste pra suspeito da
+    Lumen) — ele nunca impõe veto, só oferece rota mais segura pro
+    mesmo plano dela, e a decisão final permanece dela. Reforçado de
+    novo no cap. 31 (decisão sobre contato com Camila).
+21. **Cadência de heat no Ato 2**: cenas nos caps. 23 (pousada não,
+    refúgio, gap 6 desde o cap. 17), 29 (gap 6, após a revelação
+    aprofundada de Theo) e 33 (gap 4, véspera da saída do refúgio) —
+    3 cenas no Ato 2, totalizando 5 de 8-10 na meta do livro inteiro
+    ao fim do Ato 2. Gap excedido entre o cap. 33 e o fim do Ato 2
+    (7 capítulos sem cena, acima do máximo de 6) devido à sequência
+    de clímax (emboscada, sequestro, resgate) não comportar heat sem
+    quebrar o tom — sinalizado como prioridade real pro início do
+    Ato 3, não como déficit a ignorar.
