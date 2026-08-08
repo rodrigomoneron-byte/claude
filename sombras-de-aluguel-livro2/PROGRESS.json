@@ -10,9 +10,9 @@
     "Dante"
   ],
   "status": "Em andamento",
-  "next_chapter": 16,
-  "next_pov": "Dante",
-  "updated": "2026-08-08 02:21",
+  "next_chapter": 19,
+  "next_pov": "Fernanda",
+  "updated": "2026-08-08 02:26",
   "chapters": [
     {
       "n": 1,
@@ -133,16 +133,40 @@
       "score": 6.2,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 16,
+      "pov": "Dante",
+      "words": 1092,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 17,
+      "pov": "Fernanda",
+      "words": 1101,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 18,
+      "pov": "Dante",
+      "words": 1075,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 15,
-    "total_words": 15132,
-    "pages_kdp": 50,
-    "avg_score": 6.7,
-    "pct_to_target": 27,
-    "heat_scenes_done": 1,
-    "last_heat_chapter": 12
+    "chapters_done": 18,
+    "total_words": 18400,
+    "pages_kdp": 61,
+    "avg_score": 6.69,
+    "pct_to_target": 33,
+    "heat_scenes_done": 2,
+    "last_heat_chapter": 17
   }
 }
