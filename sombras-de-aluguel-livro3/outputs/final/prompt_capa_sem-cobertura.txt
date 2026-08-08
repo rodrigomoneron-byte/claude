@@ -1,0 +1,127 @@
+TÍTULO: Sombras de Aluguel — Livro 3: Sem Cobertura (Sem Roteiro)
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Terceiro livro da série "Sombras de Aluguel" (universo Vance Security &
+Recovery) — capa NOVA, mesma linha "dark romance/suspense" da série,
+mas com paleta e elemento visual DIFERENTES dos dois volumes
+anteriores. Livro 1 ("O Preço do Silêncio") usou preto/cinza-chumbo com
+névoa de floresta de serra e um único fio de luz vermelho-sangue OU
+dourado-âmbar. Livro 2 ("Firewall") usou registro "tech noir": verde-
+neon OU azul-elétrico de tela/monitor sobre preto-marinho quase-negro,
+propriedade rural isolada, grade de perímetro digital. Este volume muda
+de registro para "camuflagem urbana/imprensa": cinza-jornal (tom de
+papel de jornal e chumbo de gráfica, não o preto-marinho do Livro 2),
+ambiente de cidade grande à noite em vez de floresta ou propriedade
+rural, elementos de câmera/microfone/disfarce em vez de tela/código,
+e um acento frio DIFERENTE dos dois já usados na série — branco-prata
+de flash/estúdio, não vermelho/dourado (Livro 1) nem verde-neon/azul-
+elétrico de monitor (Livro 2). Reflete o protagonismo de Aline
+(infiltração/disfarce) cruzado com o de Thiago (jornalismo
+investigativo/imprensa). NÃO é o branding padrão "The Old English
+Gentleman's Club" da casa (clube de whiskey inglês, carvalho, couro
+capitonê, veludo bordô). NÃO reaproveita elementos de nenhuma outra
+capa do catálogo: nem o tijolo vermelho/neve/reflexo de código de "O
+Código da Revanche" (Elite de Cambridge L1), nem o mármore/madeira de
+"O Argumento Final" (Elite de Cambridge L2), nem o branco clínico/azul
+hospital de "O Diagnóstico do Coração" (Elite de Cambridge L3), nem o
+mármore negro polido de Jogo Infinito, nem o glamour urbano/vidro
+paulistano, azulejo de Alfama ou estufa/orquídea de Família
+Bittencourt, nem o gelo de rinque/tundra industrial/aurora boreal de
+Gelo e Sangue.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), rua de cidade grande à noite,
+vista de ângulo baixo — asfalto molhado refletindo luzes distantes,
+prédios altos desfocados ao fundo em silhueta cinza-chumbo, textura
+sutil de trama de meio-tom (halftone) de impressão de jornal aplicada
+sobre toda a imagem, como se a cena fosse ela mesma uma fotografia de
+capa de jornal ampliada. No centro do quadro, DUAS SILHUETAS em dupla
+exposição, sobrepostas uma sobre a outra sem se tocarem — não um casal
+abraçado, mas dois perfis quase idênticos, levemente desalinhados, como
+se fossem a mesma pessoa fotografada em dois instantes diferentes: uma
+silhueta carrega, na altura do rosto, o contorno de um microfone de
+gravação e o brilho frio de um crachá de imprensa pendurado no peito;
+a outra, exatamente na mesma pose, tem o contorno substituído por um
+óculos escuro, um brinco que não é bem um brinco (a câmera disfarçada)
+e o brilho quase idêntico de um crachá diferente, com outro nome. Onde
+as duas silhuetas se cruzam, a trama de meio-tom se rompe numa fresta
+fina de luz branco-prateada — um único flash de câmera capturado no
+instante exato, cortando as duas figuras como uma linha de exposição.
+Sem rostos explícitos, sem casal em pose romântica, sem beijo — o
+quadro é sobre duas identidades tentando ocupar o mesmo contorno.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+A silhueta dupla que se sobrepõe sem se fundir — duas identidades (a
+"cobertura" que Thiago precisa como alvo público e o disfarce que Aline
+usa como ofício) disputando o mesmo contorno de corpo, com uma única
+fresta de luz de flash marcando o ponto exato onde as duas mentiras
+param e a pessoa real aparece. Serve de eco visual direto ao título:
+"sem cobertura, sem roteiro" é o momento em que as duas silhuetas
+finalmente coincidem.
+
+PALETA:
+Cinza-jornal dominante — do cinza claro de papel-jornal ao cinza-chumbo
+quase preto de tinta de gráfica, textura de meio-tom (halftone)
+perceptível em toda a composição — cortado por UM único acento frio:
+branco-prata de flash de câmera/luz de estúdio (nunca dourado, nunca
+vermelho, nunca verde-neon, nunca azul-elétrico de monitor). Nenhuma
+luz quente em nenhum ponto da imagem. Diferente do Livro 1 (preto/
+cinza-chumbo com um fio de luz quente) e do Livro 2 (azul-marinho
+quase-negro com acento elétrico verde ou azul), aqui a paleta é mais
+clara e mais "impressa" que "iluminada" — sensação de papel, não de
+tela.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em fonte condensada de manchete de jornal (serifada de alto
+contraste, peso forte, levemente condensada, sem virar clichê de
+"jornal antigo" nem gótico) — branco-gelo ou cinza muito claro contra
+o fundo cinza-chumbo, legível à distância de thumbnail. Monograma
+R·B·G discreto na mesma cor branco-prata do acento de flash,
+posicionado minúsculo junto ao nome do autor — mantém a identidade da
+casa sem repetir a paleta de nenhuma capa anterior da série ou do
+catálogo.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, feições visíveis, pessoas
+em primeiro plano identificáveis, névoa de floresta, serra, mata densa,
+propriedade rural, cerrado, antenas, grade de perímetro digital verde-
+neon, tela de monitor, código na tela, biblioteca de carvalho, couro
+capitonê, veludo bordô, cristal de whiskey, abotoaduras, relógio de
+bolso, mármore negro polido, mármore branco, madeira nobre, skyline de
+Manhattan, tijolo vermelho, neve, azulejo português, andorinha, estufa
+de vidro, orquídea, gelo rachado de rinque, tundra industrial, aurora
+boreal, torres de petróleo, luz branca clínica de hospital, corredor
+hospitalar, néon rosa/roxo genérico de cyberpunk, arma em primeiro
+plano, sangue visível, ferimento explícito, violência gráfica, fundo
+branco genérico, fonte serifada dourada de romance histórico, brasão de
+família, texto incorporado além de título/subtítulo/autor, estética de
+cartaz de filme de ação genérico, acento de cor quente (vermelho,
+dourado, âmbar), acento verde-neon ou azul-elétrico de monitor
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, foto-jornalismo noturno, suspense
+romântico contemporâneo, textura de impressão de jornal (halftone),
+atmosférico e contido, tensão silenciosa mais do que ação explícita —
+mais still de thriller de imprensa investigativa de prestígio do que
+capa de romance histórico ou capa genérica de espionagem; elegante,
+preciso, quase documental na composição, mas com um único ponto de
+vulnerabilidade humana visível na fresta de luz onde as duas silhuetas
+se cruzam.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Terceiro livro da série "Sombras de Aluguel" — muda deliberadamente de
+paleta/elemento visual em relação ao Livro 1 (névoa/vermelho-dourado) e
+ao Livro 2 (tech noir/verde-azul elétrico), mesma lógica de "capa
+evolui, série se mantém reconhecível pela tipografia de manchete e pelo
+monograma R·B·G, não pela paleta repetida". Checagem feita revisando os
+prompts de capa anteriores do catálogo antes de escrever este: Livro 1
+e Livro 2 desta série, branding padrão "The Old English Gentleman's
+Club", Elite de Cambridge 1-3, Jogo Infinito, Família Bittencourt, Gelo
+e Sangue — nenhum elemento de paleta, textura ou objeto simbólico foi
+reaproveitado de nenhuma capa anterior. Este é o TERCEIRO e (por ora)
+último volume da série produzido nesta sessão — se a série avançar
+futuramente, o motivo "silhueta dupla em meio-tom de jornal" pode
+servir de padrão visual recorrente, variando o par de crachás/objetos
+de disfarce e o acento frio conforme o par protagonista de cada novo
+volume.

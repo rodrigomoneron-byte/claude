@@ -1,0 +1,323 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Sombras de Aluguel — Livro 3: Sem Cobertura (Sem Roteiro)
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-08
+TERCEIRO E (POR ORA) ÚLTIMO LIVRO DA SÉRIE "SOMBRAS DE ALUGUEL"
+PRODUZIDO NESTA SESSÃO (universo Vance Security & Recovery)
+
+===============================================================
+0. TÍTULO ESCOLHIDO — JUSTIFICATIVA
+===============================================================
+Título final: "Sem Cobertura" — subtítulo: "Sem Roteiro".
+
+As três sugestões da bíblia (references/arco-trama-livro3.md, seção
+"TÍTULO E SÉRIE": "Sob Disfarce", "A Fonte Que Resta", "Cobertura
+Perfeita") foram testadas contra o texto pronto (grep sobre os 55
+capítulos em outputs/conteudo/) e NENHUMA tem ocorrência literal ou
+quase-literal:
+- "Sob Disfarce": zero ocorrências (existe "disfarce" 27x, mas nunca
+  precedido de "sob").
+- "A Fonte Que Resta": zero ocorrências ("fonte" aparece 12x, sempre no
+  sentido jornalístico de fonte de reportagem; "resta"/"restou" não
+  aparece nenhuma vez no manuscrito).
+- "Cobertura Perfeita": zero ocorrências (existe "cobertura" 36x, mas
+  nunca com "perfeita" ao lado).
+
+Como nenhuma sugestão da bíblia sobreviveu ao teste literal, foi
+proposto um título novo, seguindo o mesmo critério da casa (frase
+literal do próprio texto, funcionando em registro duplo). A palavra
+"cobertura" é a mais repetida do manuscrito com carga temática dupla
+real: cobertura JORNALÍSTICA (o ofício de Thiago, ex.: cap. 3 — "A
+cobertura da matéria dele depende de...") e cobertura DE SEGURANÇA/
+disfarce (o ofício de Aline, ex.: cap. 3 — "Estrutura de cobertura" /
+"Cobertura plausível"). Ao longo do livro, "cobertura" também vira o
+termo que os dois usam para testar se a intimidade entre eles é real
+ou só trabalho — literalmente no cap. 9: "Sou eu. Só eu. Sem roteiro,
+sem cobertura, sem ninguém olhando pra confirmar que estamos
+representando bem um papel" — e de novo nos caps. 51 e 54: "Sem
+cobertura, sem cliente, sem protocolo. Só eu, escolhendo você" (cap.
+51); "sem nenhuma sombra de cobertura" (cap. 54). A expressão irmã "sem
+roteiro" aparece de forma consistente em cinco capítulos (7, 9, 29, 51,
+54), sempre no mesmo sentido: existir sem o papel decorado, sem
+personagem. As duas expressões aparecem JUNTAS na mesma frase do cap.
+9 ("Sem roteiro, sem cobertura..."), o que confirma que title+subtitle
+formam uma citação real e coesa do próprio livro, não uma montagem
+artificial.
+Isso cumpre o padrão da casa (mesmo critério usado em "Firewall/O
+Perímetro do Coração" no Livro 2): um termo do universo profissional
+dos protagonistas (jornalismo/segurança — encaixa nos dois ofícios
+cruzados deste livro, diferente do Livro 2, focado só no ofício de
+Dante) usado em registro duplo, com o subtítulo funcionando como eco
+emocional direto da mesma cena-chave. Também encaixa no tom de capa
+pedido ("camuflagem urbana/imprensa") sem precisar forçar: "cobertura"
+é literalmente o vocabulário de imprensa E de disfarce ao mesmo tempo.
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+55/55 capítulos convertidos de outputs/conteudo/sda3-capitulo01.md a
+sda3-capitulo55.md para outputs/final/manuscrito/01_capitulo.md a
+55_capitulo.md (script de conversão dedicado, não manual, para evitar
+erro humano em 55 arquivos).
+
+Conversão aplicada por arquivo:
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Aline") separado em duas linhas: "# Capítulo N" (título) + linha em
+  branco + "*POV: Nome*" (subtítulo discreto em itálico) — mesmo
+  formato final de leitor já usado nos Livros 1 e 2 desta série.
+- Corpo do capítulo: preservado byte a byte (verificado por comparação
+  automatizada do corpo de texto dos 55 pares de arquivo origem/
+  destino — 0 divergências).
+
+POV dual conferido nos 55 arquivos de origem e nos 55 arquivos finais:
+alternância estrita ímpar = Aline, par = Thiago, sem exceção, do
+Capítulo 1 ao Capítulo 55 (checagem automatizada por script, sem
+nenhuma falha de numeração ou de POV). Sem epílogo neste Livro 3,
+conforme decisão travada no project_dna.md/TASK.md (mesma lógica dos
+Livros 1 e 2).
+
+===============================================================
+2. CONTAGEM DE PALAVRAS (via Python — ver nota sobre bug de wc -w)
+===============================================================
+Contagem feita com `len(open(f, encoding="utf-8").read().split())` em
+Python (padrão do project_dna.md, seção 3), não `wc -w`.
+
+- Manuscrito de origem (outputs/conteudo/): 57.095 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/): 57.095
+  palavras (mesma contagem — separar o cabeçalho em duas linhas não
+  altera o total de tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 56.820 palavras
+Dentro da meta de 55.000-58.000 palavras do project_dna.md/TASK.md
+(~55-58 capítulos), a 98% do topo da faixa — cumprindo a disciplina
+travada desde o Livro 2 de mirar o topo da faixa desde o Ato 1.
+
+Nota sobre método de contagem: `wc -w` sobre os 55 arquivos finais
+reporta 53.996 palavras — divergência de ~5,4% em relação à contagem
+via Python, confirmando de novo o bug de locale/UTF-8 já documentado
+no project_dna.md (seção 3) e no restante do catálogo (Livro 1: ~4,7%
+de divergência). A contagem oficial usada neste relatório é a via
+Python, não `wc -w`.
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/sem-cobertura.epub (180 KB)
+- 55 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 55, sem nenhum faltando)
+- Metadados: title "Sem Cobertura", subtitle "Sem Roteiro", series
+  "Sombras de Aluguel" #3, author "R.B. Guidenelli", language pt-BR,
+  identifier urn:uuid (placeholder, ver seção 6)
+- ABERTO E VALIDADO com ebooklib (`epub.read_epub()` — abre sem erro).
+  Metadados DC conferidos via get_metadata() e batendo exatamente com
+  metadata.json:
+    Título: Sem Cobertura
+    Idioma: pt-BR
+    Identifier: urn:uuid:185c0744-08b6-488f-938a-60f81bcbb4ce
+    Autor: R.B. Guidenelli
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 55 arquivos .md, ordenados corretamente pelo prefixo
+  numérico (58 itens totais no pacote: 55 capítulos + nav + NCX + CSS)
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/sem-cobertura_kdp.pdf (401 KB)
+- Dimensão confirmada via pypdf: 432 x 648 pt (6" x 9" exato)
+- Total: 216 páginas (página de título não numerada + 215 páginas
+  numeradas, do Capítulo 1 ao fim do Capítulo 55 — bate com o "215" no
+  rodapé da última página)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, páginas abertas e
+inspecionadas visualmente com a ferramenta de leitura de imagem, não
+só geradas — PNGs temporários gerados fora da árvore do projeto,
+removidos depois da inspeção, não fazem parte da entrega):
+- Página de título (página 1 do PDF): "Sem Cobertura" centralizado em
+  negrito, subtítulo "Sem Roteiro" logo abaixo, nome do autor "R.B.
+  Guidenelli" e "Sombras de Aluguel — Livro 3" mais abaixo, tudo
+  centralizado verticalmente na página. Sem numeração (correto).
+- Primeira página do Capítulo 1 (página 2 do PDF, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Aline" em itálico
+  discreto logo abaixo, corpo em fonte serif (Times-Roman) justificado
+  com recuo de primeira linha, travessão de diálogo (—) correto.
+  Layout correto, batendo com a especificação do kdp-specs.md.
+- Página do meio do livro (página 108 do PDF, numerada "107", início
+  do Capítulo 28): mesmo padrão de layout mantido de forma
+  consistente — corpo justificado, numeração de página no rodapé.
+  Nenhum problema de quebra de página, margem ou fonte encontrado no
+  meio do manuscrito.
+- Última página (página 216 do PDF, numerada "215", fim do Capítulo
+  55): última linha de prosa do livro ("...qualquer próximo capítulo
+  dessa vida inteira ainda por escrever.") seguida de espaço em branco
+  e numeração de rodapé — fechamento correto, sem conteúdo cortado.
+- Nenhum problema de layout encontrado em nenhuma das quatro páginas
+  inspecionadas.
+
+TESTE DE NEGRITO: o manuscrito deste livro NÃO usa **negrito** markdown
+em nenhum dos 55 capítulos (varredura `grep -c '\*\*'` em todos os
+arquivos de outputs/conteudo/ e outputs/final/manuscrito/: zero
+ocorrências em todos, mesmo padrão dos Livros 1 e 2 desta série). Não
+havia, portanto, nenhuma página real do livro publicado para
+inspecionar negrito — não foi gerada nenhuma página fictícia extra
+para este teste, já que o código de conversão de negrito/itálico do
+build_pdf.py (`_markdown_inline_to_reportlab`, que já corrige o bug
+histórico de asterisco órfão documentado no catálogo) não foi alterado
+em relação ao script usado nos Livros 1 e 2, ambos já testados e
+confirmados corretos. O texto em itálico existente (linha de POV,
+pensamento interno pontual) foi conferido visualmente nas quatro
+páginas inspecionadas e renderiza corretamente.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 55 arquivos de
+  outputs/conteudo/ E sobre os 55 arquivos de
+  outputs/final/manuscrito/: LIMPO em ambos os conjuntos (RESULTADO:
+  LIMPO — pode avançar, exit code 0)
+- grep -rnoiP '\ba gente\b' (word-boundary) em ambos os conjuntos de
+  arquivos: ZERO ocorrências.
+Régua 100% limpa nos 55 arquivos finais entregues (já confirmado
+também na revisão editorial global anterior a esta formatação, commit
+5b5c375).
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_sem-cobertura.json é
+um UUID gerado automaticamente
+(urn:uuid:185c0744-08b6-488f-938a-60f81bcbb4ce) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação — a KDP aceita o livro sem ISBN próprio, atribuindo
+automaticamente.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_sem-cobertura.txt, seguindo
+o tom "camuflagem urbana/imprensa" pedido no project_dna.md (seção 0)
+e no TASK.md: cinza-jornal com textura de meio-tom (halftone) de
+impressão, ambiente de rua de cidade grande à noite (em vez de floresta
+enevoada do Livro 1 ou propriedade rural do Livro 2), silhueta dupla em
+dupla exposição sugerindo duas identidades se sobrepondo (crachá de
+imprensa vs. crachá forjado, microfone vs. brinco-câmera), acento frio
+branco-prata de flash de câmera/estúdio como elemento simbólico
+central — DELIBERADAMENTE diferente dos dois volumes anteriores da
+série (nem vermelho/dourado sobre névoa de serra do Livro 1, nem verde-
+neon/azul-elétrico "tech noir" do Livro 2). Checagem feita revisando os
+prompts de capa anteriores do catálogo antes de escrever este: Livro 1
+e Livro 2 desta série, branding padrão "The Old English Gentleman's
+Club" (carvalho/couro/veludo bordô), Elite de Cambridge L1 "O Código da
+Revanche" (tijolo/neve/código), Elite de Cambridge L2 "O Argumento
+Final" (mármore/madeira), Elite de Cambridge L3 "O Diagnóstico do
+Coração" (branco clínico/azul hospital), Jogo Infinito (mármore negro
+polido), Família Bittencourt (vidro-glamour paulistano/azulejo de
+Alfama/estufa-orquídea), Gelo e Sangue (gelo de rinque/tundra
+industrial/aurora boreal) — nenhum elemento de paleta, textura ou
+objeto simbólico foi reaproveitado de nenhuma capa anterior.
+
+===============================================================
+8. CADÊNCIA DE HEAT — NOTA DE CONTINUIDADE (repassada, não é bug de
+   formatação)
+===============================================================
+A revisão editorial global (bia-ferreira-editor-global, commit
+5b5c375, anterior a esta formatação) já registrou e aprovou a cadência
+de heat, repassada aqui apenas para transparência do pacote final — não
+foi reaberta nem alterada nesta etapa de formatação:
+- Meta do project_dna.md: ~8-10 cenas de heat.
+- Realizado: 8 cenas, nos capítulos 9, 21, 30, 41, 47, 51, 54 e 55 —
+  dentro da meta, com a primeira cena antes do cap. 12 conforme trava
+  do project_dna.md (seção 4).
+- Atenção especial deste livro (clareza de consentimento real vs.
+  "parte da cobertura") já verificada e aprovada na revisão global —
+  nenhuma ambiguidade de consentimento identificada nas cenas.
+
+===============================================================
+9. TERCEIRO LIVRO DA SÉRIE — NOTA DE CATÁLOGO E FECHAMENTO (POR ORA)
+===============================================================
+"Sem Cobertura" é o TERCEIRO livro da série "Sombras de Aluguel"
+(universo da agência clandestina "Vance Security & Recovery"), depois
+do Livro 1 "O Preço do Silêncio" (Julian x Clara) e do Livro 2
+"Firewall" (Dante x Fernanda) — que fazem cameo confirmado neste
+Livro 3 em papel de apoio/mentoria, sem reabrir os próprios arcos
+românticos. O Capítulo 55 (final) fecha o arco de Aline e Thiago de
+forma completa e sem gancho de epílogo pendente, mas termina, como nos
+dois volumes anteriores, num alerta explícito de caso novo chegando
+pra Vance Security & Recovery — mesmo dispositivo de fechamento usado
+nos Livros 1 e 2 para sinalizar potencial de continuidade de série. A
+decisão de dar continuidade à série (e em que personagem/par focar um
+eventual Livro 4) fica em aberto para o usuário; esta entrega cobre
+apenas o Livro 3, completo e fechado em si mesmo.
+
+Este é o terceiro e, por ora, ÚLTIMO livro da série "Sombras de
+Aluguel" produzido nesta sessão de trabalho.
+
+===============================================================
+9b. RESUMO DA SÉRIE "SOMBRAS DE ALUGUEL" (Livros 1-3, produzidos nesta
+    sessão)
+===============================================================
+Universo: agência clandestina "Vance Security & Recovery", pseudônimo
+R.B. Guidenelli.
+
+  Livro 1 — "O Preço do Silêncio"
+    Par protagonista: Julian Vance x Clara Silveira
+    Capítulos: 58 | Palavras: 57.012
+
+  Livro 2 — "Firewall" (O Perímetro do Coração)
+    Par protagonista: Dante x Fernanda Rocha
+    Capítulos: 58 | Palavras: 56.985
+
+  Livro 3 — "Sem Cobertura" (Sem Roteiro)
+    Par protagonista: Aline Moura x Thiago Serra
+    Capítulos: 55 | Palavras: 57.095
+
+  TOTAL COMBINADO DOS 3 LIVROS: 171 capítulos | 171.092 palavras
+  (contagem via Python sobre outputs/final/manuscrito/ de cada
+  projeto — mesmo método em todos os três, sem uso de `wc -w`)
+
+Progressão editorial deliberada entre os três volumes: par protetor/
+protegido invertido a cada livro em relação ao anterior no que diz
+respeito a domínio de competência (Julian/proteção física-isolamento,
+Dante/proteção técnica-remota, Aline/proteção por infiltração social),
+estrutura de proximidade sempre nova (refúgio isolado no L1, refúgio
+off-grid no L2, cobertura pública em cidade grande no L3), e capa que
+evolui a cada volume mantendo apenas tipografia de título e monograma
+R·B·G como fio condutor visual — nenhuma paleta repetida entre os três.
+
+===============================================================
+10. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit 5b5c375 "Revisão editorial global
+(bia-ferreira-editor-global) — Sombras de Aluguel L3", anterior a esta
+formatação) — aprovado com 2 correções de nome já aplicadas antes desta
+etapa. Esta etapa (bia-ferreira-formatter) não reabriu revisão de
+prosa — tratou o texto de outputs/conteudo/ como final, limitando-se a
+conversão de formato, empacotamento e QA técnico (régua, negrito/
+itálico, layout, metadados, contagem de palavras, escolha de título e
+capa).
+
+===============================================================
+PROBLEMAS ENCONTRADOS DURANTE A FORMATAÇÃO
+===============================================================
+Nenhum problema técnico encontrado no manuscrito ou nos scripts do
+skill que exigisse correção — 0 divergências na comparação automatizada
+de corpo de texto origem/destino, POV alternado sem falha nos 55
+capítulos, régua "a gente" limpa nos dois conjuntos de arquivos, EPUB e
+PDF gerados e validados sem erro na primeira tentativa. O único trabalho
+de decisão desta etapa foi a escolha do título final (seção 0 acima),
+já que nenhuma das três sugestões da bíblia sobreviveu ao teste literal
+contra o texto pronto, e a bíblia deixou essa decisão explicitamente em
+aberto para a formatação.
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/sem-cobertura.epub
+- outputs/final/sem-cobertura_kdp.pdf
+- outputs/final/prompt_capa_sem-cobertura.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_sem-cobertura.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 55_capitulo.md
+- outputs/final/manuscrito/metadata.json
