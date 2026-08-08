@@ -2,15 +2,15 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 13 / 56
-- Próximo: Capítulo 14 (POV Dante)
-- Última atualização: 2026-08-07 18:32
+- Capítulos concluídos: 15 / 56
+- Próximo: Capítulo 16 (POV Dante)
+- Última atualização: 2026-08-08 02:21
 
 ## Placar
-- Palavras: 13066
-- Páginas KDP (~palavras/300): 44
-- Score médio: 6.75
-- Meta de palavras: 56500 (23%)
+- Palavras: 15132
+- Páginas KDP (~palavras/300): 50
+- Score médio: 6.7
+- Meta de palavras: 56500 (27%)
 - Cenas de heat: 1 / meta 9 (última no cap. 12)
 
 ## Capítulos com ressalva (refinar no final)
