@@ -1,6 +1,6 @@
 {
   "book": "Sombras de Aluguel L3 (Aline/Thiago)",
-  "target": 56,
+  "target": 55,
   "word_target": 56500,
   "heat_target": 9,
   "max_heat_gap": 6,
@@ -9,10 +9,10 @@
     "Aline",
     "Thiago"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Aline",
-  "updated": "2026-08-08 21:03",
+  "status": "Concluído",
+  "next_chapter": null,
+  "next_pov": null,
+  "updated": "2026-08-08 21:28",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,136 @@
       "score": 6.5,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Aline",
+      "words": 1111,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 42,
+      "pov": "Thiago",
+      "words": 1095,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Aline",
+      "words": 963,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Thiago",
+      "words": 1021,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Aline",
+      "words": 1007,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Thiago",
+      "words": 1049,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Aline",
+      "words": 998,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 48,
+      "pov": "Thiago",
+      "words": 955,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Aline",
+      "words": 978,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Thiago",
+      "words": 1013,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Aline",
+      "words": 1000,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 52,
+      "pov": "Thiago",
+      "words": 1028,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Aline",
+      "words": 976,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Thiago",
+      "words": 975,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 55,
+      "pov": "Aline",
+      "words": 1026,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 41900,
-    "pages_kdp": 140,
-    "avg_score": 6.5,
-    "pct_to_target": 74,
-    "heat_scenes_done": 3,
-    "last_heat_chapter": 30
+    "chapters_done": 55,
+    "total_words": 57095,
+    "pages_kdp": 190,
+    "avg_score": 6.52,
+    "pct_to_target": 101,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 55
   }
 }

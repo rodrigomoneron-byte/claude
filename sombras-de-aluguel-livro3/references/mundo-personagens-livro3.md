@@ -195,3 +195,62 @@ isolamento em refúgio — diferente estruturalmente dos Livros 1-2.
   como gesto de escolher Thiago sem lente no meio — símbolo reservado
   pra pagar de vez no Ato 3. Caderno de campo de Thiago introduzido no
   Ato 2 (cap. 24) como objeto paralelo.
+
+### Ato 3 (caps. 41-55) — decisões travadas na escrita — LIVRO COMPLETO
+
+- **Decodificação da lista**: Dante identifica que a lista usa o mesmo
+  padrão de rotação dos códigos de despacho aduaneiro do galpão de
+  Rangel (cap. 41). Revela em camadas: um operador financeiro
+  internacional, **Otávio Klein** (escritório de fachada no Panamá,
+  contas em Miami e Caribe) recebendo de **Marcos Villalba** (operador
+  direto de Ciudad del Este); e um segundo infiltrado além de Camila —
+  **Rogério Aguilar**, fotógrafo freelancer que Thiago contratou em
+  viagens à fronteira, vendendo informação por dinheiro (não coação,
+  perfil deliberadamente distinto de Camila).
+- **Crise de confiança (caps. 43-44)**: ao saber que desarticular a
+  rede em múltiplos países exige ~72h de coordenação, Aline quase pede
+  a Thiago que espere — reconhecendo em si mesma, em tempo real, o
+  eco exato do erro que matou Lívia. Thiago não a impede de hesitar,
+  mas articula a diferença central: espera com equipe e trabalho ativo
+  (segurança real) não é o mesmo que espera passiva e solitária
+  (silêncio). Resolvido como decisão CONJUNTA (nenhum dos dois decide
+  sozinho pelo outro), reforçando "protetora que nunca controla" nos
+  dois sentidos.
+- **Aguilar interceptado (cap. 46)**: foge em direção à fronteira, não
+  para longe dela — capturado sem confronto por Osvaldo. Revela ponto
+  de encontro de fuga em Ciudad del Este, adiantando a operação de 72h
+  prevista para 24h.
+- **Queda da rede (caps. 48-49)** — desarticulação REAL e proporcional,
+  não captura única: operação simultânea em três frentes — prisões em
+  São Paulo (elos remanescentes), batida em Ciudad del Este com
+  autoridade paraguaia (Villalba preso), congelamento internacional de
+  contas (Klein, via Fernanda) — coordenada com a publicação da
+  segunda parte da matéria de Thiago (Marisa/Ponto Cego). **Cauã
+  Ibarra Duque** é capturado tentando cruzar a fronteira fora do posto
+  controlado (fechando seu arco, sem violência gráfica — "sem
+  ferimento nenhum" explicitado em cena). Resíduo reconhecido
+  explicitamente em cena (Aline e Julian, cap. 49): nem toda a rede
+  cai; alguns elos vão reorganizar em outro lugar, sob outro nome —
+  vitória real, não vitória completa.
+- **Publicação**: Thiago publica com Aline viabilizando segurança do
+  processo, nunca impedindo ou atrasando por decisão unilateral dela —
+  decisão sempre revisitada como escolha conjunta.
+- **Arco de identidade de Aline fechado**: grava episódio de podcast
+  usando o próprio nome verdadeiro pela primeira vez (cap. 52,
+  cameo-reunião de Julian/Clara/Dante/Fernanda no estúdio; brincos-
+  câmera entregues a Fernanda como símbolo, não mais em uso operacional
+  pessoal); apresenta a mãe (Regina) a Thiago em pessoa (cap. 53),
+  contando a própria história sem versão editada.
+- **Heat Ato 3**: cap. 41 (reencontro pós-resgate, textualmente
+  distinguido de adrenalina — "isso não é o medo da noite passada
+  falando?"), cap. 47 (véspera da operação final, também distinguido
+  explicitamente do medo), cap. 51 (após decisão de assumir nome
+  verdadeiro), cap. 54 (cena-marco explícita da transição "calculando"
+  → "identidade real assumida" — "nada disso é personagem, Aline"),
+  cap. 55 (fechamento, tom mais suave). Total do livro: 8 cenas (caps.
+  9, 21, 30, 41, 47, 51, 54, 55) — bate a meta de 8-10.
+- **Fechamento sem epílogo**: cap. 55 (POV Aline) termina com a chegada
+  de um caso novo pela Vance Security — "gesto que reabre o jogo"
+  adaptado do padrão da série — Aline aceita, dessa vez com equipe,
+  com identidade real disponível, sem disfarce escondendo quem ela é
+  fora de serviço.
