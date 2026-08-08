@@ -21,7 +21,7 @@ separado de logística, logística separada de fronteira.
 — É exatamente por isso que precisamos derrubar tudo simultâneo. —
 Julian entra na sala, puxando cadeira pra acompanhar a chamada, olhar
 sério fixo na tela. — Prender Villalba sem congelar as contas de Klein
-avisa o resto em minutos. Congelar as contas sem prender Aguilar deixa
+avisa o resto em minutos. Congelar as contas sem prender Prado deixa
 ele livre pra alertar todo mundo através do próprio celular.
 
 — Setenta e duas horas ainda de pé? — Pergunto, verificando o
@@ -116,6 +116,6 @@ vez, sem versão editada no meio.
 
 Desligo, respirando fundo, e o celular vibra de novo antes mesmo de
 guardar no bolso — Dante, mensagem curta, tensão evidente até no
-texto sem voz nenhuma pra carregar entonação: "Aguilar saiu de casa
+texto sem voz nenhuma pra carregar entonação: "Prado saiu de casa
 correndo, sem bagagem visível, direção norte. Pode ter percebido que
 estamos de olho."

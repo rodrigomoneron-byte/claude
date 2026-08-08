@@ -1,7 +1,7 @@
 # Capítulo 43 — Aline
 
 O nome aparece na tela às quatro da tarde, cruzamento de dados que
-Dante confirma duas vezes antes de mostrar pra nós: Rogério Aguilar,
+Dante confirma duas vezes antes de mostrar pra nós: Rogério Prado,
 fotógrafo freelancer que Thiago contratou em pelo menos três viagens à
 fronteira, presente exatamente nos dias em que informação sensível
 sobre os movimentos dele vazou pra estrutura.
@@ -58,13 +58,13 @@ Julian entra na sala nesse momento, celular na mão, expressão séria o
 suficiente pra eu reconhecer notícia grande antes mesmo de ele falar.
 
 — Falei com o contato da Polícia Federal. — Ele avisa, sentando de
-frente pra nós dois. — Pra prender Aguilar, congelar as contas
+frente pra nós dois. — Pra prender Prado, congelar as contas
 internacionais, e coordenar batida simultânea em Ciudad del Este com
 autoridade paraguaia, precisamos de no mínimo setenta e duas horas.
 Papelada, mandado internacional, articulação diplomática. Isso não
 acontece em uma tarde.
 
-— Setenta e duas horas é tempo suficiente pra Aguilar sumir, se
+— Setenta e duas horas é tempo suficiente pra Prado sumir, se
 desconfiar de alguma coisa. — Thiago protesta, batendo o punho de leve
 na mesa, frustração vazando por cada palavra.
 
@@ -103,7 +103,7 @@ tivesse coragem de encarar.
 Isso é diferente, tento me convencer, mãos ainda tremendo contra o
 tecido frio da própria calça. Setenta e duas horas com Polícia
 Federal mobilizada, mandado internacional em andamento, vigilância
-ativa sobre Aguilar o tempo inteiro — não é silêncio esperando por
+ativa sobre Prado o tempo inteiro — não é silêncio esperando por
 sorte. É trabalho acontecendo enquanto o relógio corre.
 
 Mas a dúvida não sai fácil assim, gelada demais pra qualquer

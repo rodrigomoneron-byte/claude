@@ -3,7 +3,7 @@
 Encontro Aline no corredor, costas contra a parede, respiração ainda
 irregular demais pra alguém que normalmente controla até o próprio
 pulso em situação de risco, e o medo que sinto ao ver ela assim pesa
-mais do que qualquer coisa que Rogério Aguilar já me custou até agora.
+mais do que qualquer coisa que Rogério Prado já me custou até agora.
 
 — O que foi? — Pergunto, baixo, mão pousando devagar no ombro dela,
 cuidado suficiente pra não assustar quem parece prestes a quebrar
@@ -38,7 +38,7 @@ alguma coisa além de coragem cega pra resolver isso.
 — Porque dessa vez espera não significa silêncio. — Respondo,
 puxando ela pra sentar comigo na cadeira mais próxima, mãos entrelaçadas.
 — Significa Julian mobilizando autoridade federal. Dante vigiando cada
-movimento de Aguilar em tempo real. Você planejando extração se
+movimento de Prado em tempo real. Você planejando extração se
 qualquer coisa sair errado. Isso não é esperar por sorte. É trabalho
 acontecendo em cada hora do relógio.
 
@@ -68,7 +68,7 @@ pra carregar sozinho.
 — Então vamos fazer isso direito. — Decido, sentindo a certeza
 assentar mais firme do que qualquer pressa que já me empurrou antes. —
 Setenta e duas horas, coordenação completa, vigilância ativa sobre
-Aguilar. E quando o prazo terminar, publicamos tudo de uma vez, junto
+Prado. E quando o prazo terminar, publicamos tudo de uma vez, junto
 com a operação inteira caindo ao mesmo tempo.
 
 Aline aperta minha mão, respiração finalmente normalizando, e no
@@ -97,7 +97,7 @@ nesse momento.
 próprio corpo relaxar um pouco também, cada peça do plano se encaixando
 num jeito que finalmente parece sustentável em vez de desesperado. —
 E você, o que precisa fazer com essas setenta e duas horas, além de
-vigiar Aguilar?
+vigiar Prado?
 
 — Preciso ligar pra minha mãe. — Ela admite, surpreendendo a mim e,
 pelo jeito que pisca rápido depois de dizer, a ela mesma também. —

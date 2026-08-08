@@ -7,7 +7,7 @@ não estando ferido, enquanto Aline, Dante e um terceiro agente que não
 conheço revisam o papel encontrado no bolso do homem preso.
 
 — O suspeito não fala. — O terceiro agente, apresentado só como
-"Rocha", fecha o notebook com força controlada. — Nome falso no
+"Farias", fecha o notebook com força controlada. — Nome falso no
 documento, celular limpo, sem histórico de mensagem. Alguém treinou
 ele pra não deixar rastro nenhum se fosse pego.
 
@@ -45,7 +45,7 @@ está pensando?
 — Estou pensando que da última vez que subestimei o quanto uma rede
 sabia sobre mim, alguém morreu. — A resposta sai crua, sem o
 polimento de sempre, e o resto da sala parece perceber que interrompeu
-algo íntimo demais pra continuar ali dentro. Dante e Rocha se afastam,
+algo íntimo demais pra continuar ali dentro. Dante e Farias se afastam,
 fingindo revisar outro dossiê, dando o espaço que nenhum dos dois
 precisa pedir em voz alta.
 

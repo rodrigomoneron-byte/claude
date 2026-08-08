@@ -6,7 +6,7 @@ da matéria, e o estômago aperta de um jeito que reconheço bem demais
 quando cada notícia nova parecia carregar peso demais pra processar
 rápido o suficiente.
 
-— Aguilar não foi pro aeroporto. — Aline entra correndo na sala de
+— Prado não foi pro aeroporto. — Aline entra correndo na sala de
 operações, celular colado no ouvido, voz baixa e rápida com quem
 coordena movimento em tempo real. — Comprou passagem de ônibus pra
 Foz do Iguaçu. Osvaldo já tem contato posicionado no terminal de
@@ -62,7 +62,7 @@ chegarmos.
 sido decifrada. — Ela lê a mensagem que acabou de receber, testa
 franzindo devagar enquanto processa o conteúdo. — E que existe um
 ponto de encontro marcado em Ciudad del Este pra qualquer operador que
-precise fugir rápido. Aguilar recebeu instrução de estar lá até
+precise fugir rápido. Prado recebeu instrução de estar lá até
 amanhã à noite.
 
 Sinto o próprio corpo tenso de novo, cada peça se encaixando de um

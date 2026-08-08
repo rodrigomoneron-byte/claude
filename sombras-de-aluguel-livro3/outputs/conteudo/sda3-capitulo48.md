@@ -115,6 +115,6 @@ ponto controlado. Osvaldo está indo atrás agora.
 
 — Ainda não confirmado. — Ela responde, já de pé, ligando pro rádio
 de campo com a mesma urgência que usou na noite em que me tirou
-daquele galpão. — Mas o horário bate exatamente com o que Aguilar
+daquele galpão. — Mas o horário bate exatamente com o que Prado
 revelou sobre o ponto de encontro. Se for Ibarra tentando escapar
 agora, essa pode ser nossa única chance real de fechar isso de vez.
