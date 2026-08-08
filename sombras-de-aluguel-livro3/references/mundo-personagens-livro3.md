@@ -51,4 +51,72 @@ isolamento em refúgio — diferente estruturalmente dos Livros 1-2.
   ficar articulada em cena — não maldade vazia.
 
 ## Log de decisões de escrita (preencher durante a produção)
-- (a preencher conforme os capítulos forem escritos)
+
+### Ato 1 (caps. 1-18) — decisões travadas na escrita
+
+- **Motivo pessoal de Aline (fachada de controle absoluto)**: antes de
+  entrar pra Vance, Aline passou meses infiltrada sob identidade falsa
+  numa operação anterior (fora desta agência). Uma informante dentro
+  da casa do alvo pediu ajuda, assustada; Aline, pra não queimar a
+  cobertura da operação, pediu que ela esperasse mais um dia. A
+  informante foi morta antes desse dia terminar. Desde então, Aline
+  nunca mais deixou a manutenção de um personagem pesar mais que uma
+  pessoa real — e é essa regra, não vaidade profissional, que sustenta
+  a "fachada de controle absoluto": se ela nunca sente nada de verdade
+  dentro do papel, nunca mais vai repetir o erro. Fragmento revelado
+  parcialmente no cap. 9 (heat) e cap. 10; nome da informante e detalhe
+  completo do caso reservados pra reveal maior no Ato 2, conforme
+  estrutura da bíblia (arco-trama-livro3.md).
+- **Caso anterior de Thiago**: Ivo Cardozo, funcionário da prefeitura
+  que vazou documento sobre desvio de verba em obra portuária. Thiago
+  levou onze dias confirmando cada detalhe antes de publicar,
+  seguindo protocolo de responsabilidade jornalística; no décimo
+  segundo dia, antes da publicação, Ivo foi encontrado morto em casa
+  (laudo oficial: acidente; Thiago nunca acreditou nisso). Desde
+  então, Thiago publica assim que a matéria "aguenta o peso de sair",
+  recusando esperar mais tempo do que o estritamente necessário — o
+  que explica sua recusa a recuar mesmo sob ameaça concreta. Revelado
+  integralmente no cap. 10.
+- **Antagonista — organização**: rede internacional de tráfico de
+  armas sem nome público fixo, chamada internamente de "a estrutura"
+  pelos próprios operadores; sem chefe único, operando em cadeia de
+  elos que só se conhecem parcialmente (proteção mútua por
+  compartimentação). Fachada logística usa nomes de "consultoria" e
+  "transportadora" registrados no Paraná/zona sul de São Paulo, com
+  ligação a Ciudad del Este (Paraguai) como hub. Representante em
+  campo no Brasil: **Heitor Rangel** (nome operacional, sem registro
+  público confirmado — possivelmente codinome compartilhado por mais
+  de uma pessoa, indício levantado no cap. 12, a explorar no Ato 2).
+  Motivação sistêmica articulada em cena no cap. 14: lucro e proteção
+  mútua entre elos da cadeia, não crueldade pessoal.
+- **Redação e cobertura de Aline**: Thiago trabalha na **Ponto Cego**,
+  redação de jornalismo investigativo independente em São Paulo,
+  editora-chefe **Marisa Coutinho**. Aline é contratada oficialmente
+  pelo veículo como consultora de segurança editorial, com atribuição
+  extra de apoio a um projeto de podcast investigativo — cobertura
+  plausível que justifica presença constante ao lado de Thiago em
+  reuniões, eventos e produção, sem levantar suspeita de segurança
+  pessoal formal.
+- **Nomenclatura evitada por colisão com Livro 2**: o nome "Bianca" já
+  pertence à irmã de Fernanda Rocha (Livro 2, cap. 58) — não reutilizado
+  para nenhuma identidade forjada de Aline neste livro.
+- **Heat**: 1ª cena no cap. 9 (Aline, com Thiago), consentimento
+  verbal explícito antes do contato físico, marcado textualmente como
+  realidade e não parte da cobertura ("Não estou aqui de plantão",
+  "Sem roteiro, sem cobertura"). Gesto de mão dada em público no cap.
+  7 é sinalizado explicitamente como cálculo de cobertura ATÉ o
+  momento em que o polegar de Thiago se move sem instrução — marcado
+  na prosa como o primeiro instante não-roteirizado. Gap de heat
+  excedido entre cap. 9 e cap. 18 (decisão consciente: caps. 16-18 são
+  a escalada e o ataque do incidente incitante, incompatíveis com cena
+  de intimidade sem confundir adrenalina de perigo com escolha
+  genuína) — retomar a cadência logo no início do Ato 2.
+- **Vazamento/infiltrado**: origem inicial rastreada a uma empresa
+  terceirizada de verificação de antecedentes invadida (cap. 13) — não
+  há traidor interno nessa camada. O ataque do painel (cap. 17) revela
+  uma segunda camada: informação do protocolo interno (rota de saída,
+  camarim) que só circulava dentro da Vance Security, e a perícia do
+  cap. 18 confirma impressão digital de alguém com credencial ATIVA
+  dentro da própria agência — identidade do infiltrado reservada como
+  reveal do Ato 2, conforme "traição ou infiltração" já previsto na
+  bíblia de arco.
