@@ -215,3 +215,71 @@ fechando o Ato 1 em cliffhanger).
     de clímax (emboscada, sequestro, resgate) não comportar heat sem
     quebrar o tom — sinalizado como prioridade real pro início do
     Ato 3, não como déficit a ignorar.
+
+## Log de decisões de escrita (Ato 3 completo, caps. 41-58 — FINAL)
+
+22. **Resolução do gap de heat herdado do Ato 2**: cena de heat
+    inserida já no cap. 41 (a primeira possível do Ato 3), noite
+    imediatamente após o resgate, vulnerabilidade pós-trauma com
+    consentimento explícito nos dois sentidos. Gap real de 8 capítulos
+    entre cap. 33 e cap. 41 (herdado, inevitável, sinalizado desde o
+    Ato 2) — todos os gaps subsequentes ficaram dentro do máximo de 6
+    (41→47: 6; 47→53: 6; 53→56: 3).
+23. **Rafael Dourado (fio aberto do Ato 2) resolvido**: confirmado
+    como suspeito por ganância pura (não coação, ao contrário de Ivo)
+    — doze mil reais de propina rastreados, delação assinada em troca
+    de redução de pena (caps. 43-44, formalizada no cap. 49),
+    confirmando conhecimento prévio de Salgado sobre cada auditoria
+    evitada.
+24. **Crise de confiança do casal (caps. 45-47)**: não resolvida de
+    forma limpa. Fernanda insiste em ir pessoalmente conferir registro
+    físico da marina (cap. 45); durante a operação, Dante ultrapassa a
+    própria régua e ordena remotamente que a escolta a retire do local
+    sem aguardar confirmação de ameaça real (cap. 46) — quebra real e
+    reconhecida da distinção "proteger sem controlar", não amenizada;
+    Fernanda pede espaço; reconciliação honesta no cap. 47, com heat,
+    sem apagar o conflito.
+25. **Rota de fuga de Salgado**: marina pequena próxima a Ubatuba
+    (litoral norte de SP), embarcação registrada em nome de terceiro
+    ("o homem do barco", mencionado por Rafael Dourado), cruzada por
+    Fernanda (nota fiscal de manutenção) e Dante (plano de voo
+    cancelado, corretora de câmbio) nos caps. 44-45.
+26. **Clímax e queda de Salgado (caps. 50-52)**: prisão em flagrante
+    durante tentativa de embarque de madrugada na marina. Dante, fora
+    do carro de apoio por decisão própria, intercepta Bruno Tavares
+    tentando fugir com Salgado pela trilha lateral — captura os dois
+    sem violência gráfica (imobilização rápida, sem tiro disparado,
+    sem ferimento grave). Salgado e Tavares presos definitivamente,
+    sem fio solto de fuga pro exterior. Decisão editorial: sem
+    ambiguidade nem fuga parcial — resolução completa do antagonista
+    principal e do chefe de segurança, coerente com o pedido de
+    fechamento definitivo do Ato 3.
+27. **Blindagem jurídica da prova (Fernanda)**: cadeia de custódia
+    notarizada, depoimento formal gravado com promotor ainda na noite
+    do resgate marinho (cap. 49), audiência de instrução com prisão
+    preventiva mantida e julgamento marcado pra 4 meses depois
+    (cap. 55) — reforça que a vitória não é só midiática/afastamento,
+    é prova que sustenta em juízo.
+28. **Arco de Dante fechado**: decisão explícita e verbalizada de
+    continuar em campo por escolha (cap. 48, reafirmada em cena de
+    ação real nos caps. 50-52); símbolo do protótipo de sensor
+    construído com Theo sai da caixa fechada no galpão e vai pra um
+    suporte de exibição visível (cap. 56) — de luto escondido a
+    presença assumida. Segunda base física da Vance Security em São
+    Paulo anunciada no cap. 58 (final).
+29. **Arco de Fernanda fechado**: retorno formal à Lumen Capital como
+    consultora externa de compliance (não como funcionária), oferece
+    mentoria/indicação a Camila (cap. 57); aceita liderar a perícia
+    forense da nova base da Vance Security (cap. 58), unindo
+    justiça-por-evidência ao relacionamento sem abrir mão da carreira
+    própria.
+30. **Fechamento sem epílogo (cap. 58, gancho final)**: alerta de caso
+    novo chega no celular de Dante no exato momento do brinde de
+    comemoração no refúgio — "o gesto que reabre o jogo" — os dois se
+    levantam pra atender juntos, sem resolver o caso novo em cena,
+    ecoando a lógica de fechamento do Livro 1 (sem epílogo, gancho de
+    continuidade de série em vez de encerramento total).
+31. **Cadência de heat final do livro**: 9 cenas totais (caps. 12, 17,
+    23, 29, 33, 41, 47, 53, 56) — dentro da meta de 8-10.
+32. **Extensão final do livro**: 58 capítulos, 56.985 palavras — dentro
+    da faixa de 55.000-58.000 travada no `project_dna.md`.

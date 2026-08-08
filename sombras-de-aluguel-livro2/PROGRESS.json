@@ -9,10 +9,10 @@
     "Fernanda",
     "Dante"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 59,
   "next_pov": "Fernanda",
-  "updated": "2026-08-08 02:57",
+  "updated": "2026-08-08 03:26",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,160 @@
       "score": 6.9,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Fernanda",
+      "words": 1080,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 42,
+      "pov": "Dante",
+      "words": 1005,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Fernanda",
+      "words": 1021,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Dante",
+      "words": 992,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Fernanda",
+      "words": 999,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Dante",
+      "words": 996,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Fernanda",
+      "words": 1083,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 48,
+      "pov": "Dante",
+      "words": 982,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Fernanda",
+      "words": 966,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Dante",
+      "words": 984,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Fernanda",
+      "words": 967,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Dante",
+      "words": 974,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Fernanda",
+      "words": 952,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 54,
+      "pov": "Dante",
+      "words": 969,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Fernanda",
+      "words": 1075,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Dante",
+      "words": 967,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 57,
+      "pov": "Fernanda",
+      "words": 957,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 58,
+      "pov": "Dante",
+      "words": 1011,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 39005,
-    "pages_kdp": 130,
-    "avg_score": 6.73,
-    "pct_to_target": 69,
-    "heat_scenes_done": 5,
-    "last_heat_chapter": 33
+    "chapters_done": 58,
+    "total_words": 56985,
+    "pages_kdp": 190,
+    "avg_score": 6.71,
+    "pct_to_target": 101,
+    "heat_scenes_done": 9,
+    "last_heat_chapter": 56
   }
 }
