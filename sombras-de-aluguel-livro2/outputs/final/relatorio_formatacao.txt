@@ -1,0 +1,266 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+Sombras de Aluguel — Livro 2: Firewall (O Perímetro do Coração)
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-08
+SEGUNDO LIVRO DA SÉRIE "SOMBRAS DE ALUGUEL" (universo Vance Security & Recovery)
+
+===============================================================
+0. TÍTULO ESCOLHIDO — JUSTIFICATIVA
+===============================================================
+Título final: "Firewall" — subtítulo: "O Perímetro do Coração".
+
+As três sugestões da bíblia ("Firewall", "Código Sem Rastro", "A Rede
+que Nos Protege") foram testadas contra o texto pronto (grep sobre os
+58 capítulos em outputs/conteudo/):
+- "Código Sem Rastro" e "A Rede que Nos Protege": nenhuma ocorrência
+  literal ou quase-literal no texto (buscas por "rastro" retornam só
+  "sem deixar rastro", nunca "código sem rastro"; buscas por "rede que"
+  não retornam nenhuma frase equivalente a "a rede que nos protege").
+- "Firewall": ocorre literalmente DUAS vezes, nos dois pontos-chave do
+  arco de Dante:
+  - Cap. 2 (estabelece a ferida): "Prefiro ser o cérebro atrás de sete
+    camadas de firewall do que o corpo que chega correndo tarde
+    demais — pelo menos daqui, os meus erros só derrubam sistema, não
+    gente." — a defesa técnica como metáfora explícita da defesa
+    emocional.
+  - Cap. 42 (paga a dívida): "Não foi o cara que decifra firewall em
+    três minutos sentado numa cadeira confortável. Foi outro
+    completamente..." — o mesmo termo usado para marcar que Dante saiu
+    de trás da própria blindagem.
+Isso cumpre exatamente o padrão da casa (mesmo critério usado nos
+Livros 2-3 de Elite de Cambridge): uma frase literal do próprio texto
+que funciona em registro duplo — aqui, termo técnico de segurança
+digital (encaixa no protagonismo de hacker de Dante e no tom "tech
+noir" da capa) E metáfora emocional central do livro inteiro (a
+"blindagem emocional real" da marca de voz #2 do project_dna.md).
+Subtítulo "O Perímetro do Coração" foi escolhido pela mesma lógica —
+"perímetro" é o termo de segurança física/digital mais repetido do
+manuscrito (dezenas de ocorrências, sempre com a dupla leitura de
+território vigiado e território emocional, ex. cap. 20: "Salgado não
+comprou informação de estranho. Comprou de alguém que eu mesmo levei
+pra dentro do meu próprio perímetro") — e segue o padrão formal já
+usado pela casa em "Veredito do Coração" (Elite de Cambridge L2) e
+"Protocolo Callahan" (Elite de Cambridge L3): termo do universo
+profissional do protagonista + eco romântico direto.
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+58/58 capítulos convertidos de outputs/conteudo/sda2-capitulo01.md a
+sda2-capitulo58.md para outputs/final/manuscrito/01_capitulo.md a
+58_capitulo.md.
+
+Conversão aplicada por arquivo (script de conversão dedicado, não
+manual, para evitar erro humano em 58 arquivos):
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 —
+  Fernanda") separado em duas linhas: "# Capítulo N" (título) + linha
+  em branco + "*POV: Nome*" (subtítulo discreto em itálico) — mesmo
+  formato final de leitor já usado no Livro 1 desta série.
+- Corpo do capítulo: preservado integralmente (nenhuma linha de prosa
+  tocada pelo script além da separação do cabeçalho).
+
+POV dual conferido nos 58 arquivos de origem e nos 58 arquivos finais:
+alternância estrita ímpar = Fernanda, par = Dante, sem exceção, do
+Capítulo 1 ao Capítulo 58. Sem epílogo neste Livro 2, conforme decisão
+travada no project_dna.md (mesma lógica do Livro 1 — reservada para
+eventual fechamento/continuação de série).
+
+===============================================================
+2. CONTAGEM DE PALAVRAS (via Python — ver nota sobre bug de wc -w)
+===============================================================
+Contagem feita com `len(open(f, encoding="utf-8").read().split())` em
+Python (padrão do project_dna.md, seção 3), não `wc -w` (bug de
+locale/UTF-8 já documentado no catálogo, divergência de até ~4,7%
+confirmada no Livro 1 desta mesma série).
+
+- Manuscrito de origem (outputs/conteudo/): 56.985 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/): 56.985
+  palavras (mesma contagem — separar o cabeçalho em duas linhas não
+  altera o total de tokens)
+Dentro da meta de 55.000-58.000 palavras do project_dna.md/TASK.md
+(~55-58 capítulos), a 98% do topo da faixa — cumprindo a lição
+explícita do Livro 1 de mirar o topo da faixa desde o Ato 1 (placar em
+PROGRESS.md confirma: 56.985 palavras / meta interna 56.500 = 101%).
+
+===============================================================
+3. EPUB
+===============================================================
+Arquivo: outputs/final/firewall.epub (184 KB)
+- 58 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 58, sem nenhum faltando)
+- Metadados: title "Firewall", subtitle "O Perímetro do Coração",
+  series "Sombras de Aluguel" #2, author "R.B. Guidenelli", language
+  pt-BR, identifier urn:uuid (placeholder, ver seção 6)
+- ABERTO E VALIDADO com ebooklib (`epub.read_epub()` — abre sem erro).
+  Metadados DC conferidos via get_metadata() e batendo exatamente com
+  metadata.json:
+    Título: Firewall
+    Autor: R.B. Guidenelli
+    Idioma: pt-BR
+    Identifier: urn:uuid:95fb8d9c-abc5-4f0d-bdce-d5ee0057a723
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 58 arquivos .md, ordenados corretamente pelo prefixo
+  numérico (61 itens totais no pacote: 58 capítulos + nav + NCX + CSS)
+
+===============================================================
+4. PDF (KDP paperback 6"x9")
+===============================================================
+Arquivo: outputs/final/firewall_kdp.pdf (400 KB)
+- Dimensão confirmada via pdfinfo: 432 x 648 pt (6" x 9" exato)
+- Total: 210 páginas (página de título não numerada + 209 páginas
+  numeradas, do Capítulo 1 ao fim do Capítulo 58 — bate com o "209" no
+  rodapé da última página)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, páginas abertas e
+inspecionadas visualmente, não só geradas — PNGs temporários removidos
+depois da inspeção, não fazem parte da entrega):
+- Página de título (página 1 do PDF): "Firewall" centralizado em
+  negrito, subtítulo "O Perímetro do Coração" logo abaixo, autor
+  "R.B. Guidenelli" e "Sombras de Aluguel — Livro 2" mais abaixo, tudo
+  centralizado verticalmente. Sem numeração (correto).
+- Primeira página do Capítulo 1 (página 2 do PDF, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Fernanda" em
+  itálico discreto logo abaixo, corpo em Times-Roman justificado com
+  recuo de primeira linha. Layout correto, batendo com kdp-specs.md.
+- Página do meio do livro (página 60 do PDF, numerada "59", dentro do
+  Capítulo 12): mesmo padrão de layout mantido de forma consistente —
+  corpo justificado, travessão de diálogo (—) correto, numeração de
+  página no rodapé, sem quebra de página, margem ou fonte com
+  problema.
+- Última página (página 210 do PDF, numerada "209", fim do Capítulo
+  58): última linha de prosa do livro ("— Então vamos — ela fala...")
+  seguida de espaço em branco e numeração de rodapé — fechamento
+  correto, sem conteúdo cortado.
+- Nenhum problema de layout encontrado em nenhuma das quatro páginas
+  inspecionadas.
+
+TESTE DE NEGRITO: o manuscrito deste livro NÃO usa **negrito** markdown
+em nenhum dos 58 capítulos (varredura `grep -c '\*\*'` em todos os
+arquivos de outputs/conteudo/ e outputs/final/manuscrito/: zero
+ocorrências de negrito real em todos). Não havia, portanto, nenhuma
+página do livro publicado para inspecionar negrito. Em vez disso, foi
+feita uma checagem de PAREAMENTO de asterisco (itálico) em todos os 58
+arquivos finais — contagem de "*" por arquivo é sempre par (nenhum
+asterisco órfão que pudesse gerar o bug histórico de "<i>*texto</i>*"
+documentado no catálogo) — e o próprio texto em itálico (falas de POV,
+mensagens de texto entre personagens) foi conferido visualmente na
+página do meio inspecionada, renderizando corretamente.
+
+===============================================================
+5. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- grep -inw "a gente" em outputs/conteudo/*.md e em
+  outputs/final/manuscrito/*.md: ZERO ocorrências em ambos os
+  conjuntos de arquivos.
+Régua 100% limpa nos 58 arquivos finais entregues (já confirmado
+também na revisão editorial global anterior a esta formatação).
+
+===============================================================
+6. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_firewall.json é um
+UUID gerado automaticamente (urn:uuid:95fb8d9c-abc5-4f0d-bdce-
+d5ee0057a723) — NÃO é um ISBN real. Antes de publicar na Amazon KDP,
+substituir por um ISBN próprio (se o autor tiver um) ou deixar a KDP
+atribuir um ASIN/ISBN grátis no fluxo de publicação.
+
+===============================================================
+7. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_firewall.txt, seguindo o
+tom "tech noir" pedido no project_dna.md (seção 0) e no TASK.md: verde
+-neon ou azul-elétrico sobre preto/azul-marinho quase-negro, brilho
+de monitores como única fonte de luz viva, propriedade rural isolada
+no cerrado com antenas discretas e galpão tecnológico (elementos
+confirmados no próprio texto — cap. 13: "antenas discretas no telhado,
+um galpão anexo que claramente esconde mais tecnologia do que qualquer
+coisa rural deveria ter"), grade de perímetro de segurança digital que
+se rompe e vira linha de batimento cardíaco como elemento simbólico
+central. DELIBERADAMENTE DIFERENTE do Livro 1 desta série (preto/
+cinza-chumbo, névoa de floresta, acento vermelho-sangue OU
+dourado-âmbar) — nenhuma cor quente usada nesta capa. Checagem feita
+revisando os prompts de capa anteriores do catálogo antes de escrever
+este: Livro 1 desta série (névoa/vermelho-dourado), branding padrão
+"The Old English Gentleman's Club" (carvalho/couro/veludo bordô),
+Elite de Cambridge L1 "O Código da Revanche" (tijolo/neve/código),
+Elite de Cambridge L2 "O Argumento Final" (mármore/madeira), Elite de
+Cambridge L3 "O Diagnóstico do Coração" (branco clínico/azul
+hospital), Jogo Infinito (mármore negro polido), Família Bittencourt
+(vidro-glamour paulistano/azulejo de Alfama/estufa-orquídea), Gelo e
+Sangue (gelo de rinque/tundra industrial/aurora boreal) — nenhum
+elemento de paleta, textura ou objeto simbólico foi reaproveitado de
+nenhuma capa anterior.
+
+===============================================================
+8. CADÊNCIA DE HEAT — NOTA DE CONTINUIDADE (repassada, não é bug de
+   formatação)
+===============================================================
+A revisão editorial global (bia-ferreira-editor-global, commit fbe20da,
+anterior a esta formatação) já registrou e aprovou a cadência de heat,
+repassada aqui apenas para transparência do pacote final — não foi
+reaberta nem alterada nesta etapa de formatação:
+- Meta do project_dna.md: ~8-10 cenas de heat.
+- Realizado: 9 cenas, nos capítulos 12, 17, 23, 29, 33, 41, 47, 53 e
+  56 — dentro da meta, melhora explícita em relação ao Livro 1 (que
+  fechou com 6 de 8-10), cumprindo a lição travada no project_dna.md
+  de planejar a cadência desde o Ato 1.
+- Um gap de 8 capítulos entre o cap. 33 e o cap. 41 (acima do teto de
+  6 travado no project_dna.md) foi identificado, sinalizado e
+  justificado já durante a escrita do Ato 2/Ato 3 (ver
+  references/mundo-personagens-livro2.md): a sequência de clímax do
+  Ato 2 (emboscada, sequestro, resgate) não comportava heat sem
+  quebrar o tom, e a primeira cena possível do Ato 3 (cap. 41, mesma
+  noite do resgate) foi usada para resolver o débito o quanto antes.
+  Todos os demais gaps ficaram dentro do máximo de 6 capítulos.
+
+===============================================================
+9. SEGUNDO LIVRO DA SÉRIE — NOTA DE CATÁLOGO E GANCHO FINAL
+===============================================================
+"Firewall" é o SEGUNDO livro da série "Sombras de Aluguel" (universo
+da agência clandestina "Vance Security & Recovery"), depois do Livro 1
+"O Preço do Silêncio" (já publicado, protagonizado por Julian e
+Clara — que fazem cameo confirmado neste Livro 2 em papel de apoio/
+mentoria, sem reabrir o próprio arco romântico). O Capítulo 58 (final)
+fecha o arco de Dante e Fernanda de forma completa e sem gancho de
+epílogo pendente, mas termina num alerta explícito de caso novo
+chegando pra Vance Security & Recovery — mesmo dispositivo de fechamento
+usado no Livro 1 para sinalizar potencial de continuidade de série. A
+decisão de dar continuidade à série (e em que personagem/par focar um
+eventual Livro 3) fica em aberto para o usuário; esta entrega cobre
+apenas o Livro 2, completo e fechado em si mesmo.
+
+===============================================================
+10. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit fbe20da "Revisão editorial global
+(bia-ferreira-editor-global) — Sombras de Aluguel L2", anterior a esta
+formatação) — aprovado sem nenhuma correção obrigatória (limite de
+conteúdo, isolamento de universo, régua absoluta, consistência com o
+Livro 1, matemática de linha do tempo, objetos/símbolos, POV,
+lógica do esquema financeiro e voz de Dante vs. Julian, todos
+verificados e limpos). Esta etapa (bia-ferreira-formatter) não reabriu
+revisão de prosa — tratou o texto de outputs/conteudo/ como final,
+limitando-se a conversão de formato, empacotamento e QA técnico
+(régua, negrito/itálico, layout, metadados, contagem de palavras,
+escolha de título).
+
+===============================================================
+PROBLEMAS ENCONTRADOS DURANTE A FORMATAÇÃO
+===============================================================
+Nenhum problema técnico encontrado no manuscrito ou nos scripts do
+skill que exigisse correção. O único trabalho de decisão desta etapa
+foi a escolha do título final (seção 0 acima), já que a bíblia deixou
+a decisão explicitamente em aberto para a formatação.
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/firewall.epub
+- outputs/final/firewall_kdp.pdf
+- outputs/final/prompt_capa_firewall.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_firewall.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 58_capitulo.md
+- outputs/final/manuscrito/metadata.json

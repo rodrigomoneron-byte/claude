@@ -1,0 +1,115 @@
+TÍTULO: Sombras de Aluguel — Livro 2: Firewall (O Perímetro do Coração)
+
+NOTA DE DIREÇÃO DE ARTE (leia antes de gerar):
+Segundo livro da série "Sombras de Aluguel" (universo Vance Security &
+Recovery) — capa NOVA, mesma linha "dark romance/suspense" da série,
+mas com paleta e elemento visual DIFERENTES do Livro 1 ("O Preço do
+Silêncio", que usou preto/cinza-chumbo com névoa de floresta e um
+único fio de luz vermelho-sangue OU dourado-âmbar). Este volume muda
+de registro para "tech noir": verde ou azul elétrico sobre preto,
+telas/código/dados como elemento visual, ambiente rural-tecnológico
+em vez de floresta enevoada — reflete o protagonismo de Dante, o
+hacker que protege atrás de telas. NÃO é o branding padrão "The Old
+English Gentleman's Club" da casa (clube de whiskey inglês, carvalho,
+couro capitonê, veludo bordô). NÃO é o tijolo vermelho/neve/reflexo de
+código de "O Código da Revanche" (Elite de Cambridge L1). NÃO é o
+mármore/madeira de "O Argumento Final" (Elite de Cambridge L2). NÃO é
+o branco clínico/azul hospital de "O Diagnóstico do Coração" (Elite de
+Cambridge L3). NÃO é o mármore negro polido de Jogo Infinito, nem o
+glamour urbano/azulejo/estufa de Família Bittencourt, nem o gelo de
+arena/tundra/aurora boreal de Gelo e Sangue.
+
+DESCRIÇÃO VISUAL:
+Composição vertical (capa de paperback), vista noturna de uma
+propriedade rural isolada no cerrado — silhueta baixa de uma casa
+simples com um galpão anexo, antenas discretas erguidas contra um céu
+escuro salpicado de estrelas, cercada por vegetação rala e seca de
+cerrado em silhueta quase sólida no primeiro plano. Uma única janela
+do galpão está acesa, não com luz quente de lâmpada comum, mas com o
+brilho frio azul-esverdeado de múltiplos monitores — essa luz é a
+única fonte viva de cor da imagem, vazando pela janela e projetando um
+retângulo pálido e elétrico sobre o chão de terra batida. Ao redor da
+propriedade, quase imperceptível, uma grade fina de linhas verde-neon
+translúcidas (como um diagrama de perímetro de segurança digital
+projetado sobre a paisagem) contorna o terreno — sugerindo o sistema
+de vigilância que Dante mantém, mas também lendo-se como uma parede
+invisível ao redor de quem vive ali. Em um ponto do quadro, essa grade
+de linhas verdes se rompe: uma fresta única, uma linha que se abre e
+se transforma, ao se afastar da quebra, no traçado fino de um batimento
+cardíaco (o mesmo tipo de linha reta com picos que aparece num monitor
+de sinais vitais) — dado técnico e coração no mesmo traço, sem nunca
+precisar de palavras para explicar a metáfora. Sem rostos explícitos,
+sem casal, sem pose romântica — o quadro é sobre um refúgio que se
+abre pela primeira vez, não sobre duas pessoas.
+
+ELEMENTO SIMBÓLICO CENTRAL:
+A grade de perímetro verde-neon que se rompe e vira linha de batimento
+cardíaco — o "firewall" do título tornado imagem, e o exato momento em
+que a defesa técnica de Dante cede espaço para a vulnerabilidade real.
+Serve de eco visual ao próprio arco do livro: um sistema de segurança
+perfeito, com uma única porta que só abre por escolha.
+
+PALETA:
+Preto e azul-marinho quase-negro dominantes (céu noturno, silhueta da
+casa e do cerrado) — frio, denso — cortados por UM acento elétrico
+único: verde-neon de terminal de código OU azul-elétrico de tela de
+monitor (escolher apenas um dos dois para a versão final, não misturar
+os dois tons de acento na mesma composição). Nenhuma luz quente
+(âmbar, dourado, vermelho) em nenhum ponto da imagem — diferente do
+Livro 1, aqui o único calor visual é a própria linha que se transforma
+em batimento cardíaco, ainda dentro da paleta fria.
+
+TIPOGRAFIA/IDENTIDADE DE AUTOR:
+Título em serif display de alto contraste ou sans-serif geométrica
+levemente condensada (sugerindo interface/terminal sem virar clichê de
+fonte "hacker" com glitch), cor branco-gelo ou cinza muito claro contra
+o fundo escuro — legível à distância de thumbnail. Monograma R·B·G
+discreto, na mesma cor do acento elétrico escolhido (verde-neon ou
+azul-elétrico), posicionado minúsculo junto ao nome do autor — mantém
+a identidade da casa sem repetir a paleta de nenhuma capa anterior da
+série ou do catálogo.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas em primeiro
+plano com feições visíveis, névoa de floresta, serra, mata densa,
+biblioteca de carvalho, couro capitonê, veludo bordô, cristal de
+whiskey, abotoaduras, relógio de bolso, mármore negro polido, mármore
+branco, madeira nobre, skyline de Manhattan, tijolo vermelho, neve,
+azulejo português, andorinha, estufa de vidro, orquídea, gelo rachado
+de rinque, tundra industrial, aurora boreal, torres de petróleo, luz
+branca clínica de hospital, corredor hospitalar, néon rosa/roxo
+genérico de cyberpunk, capuz de moletom estilo "hacker de filme B",
+tela cheia de texto verde ilegível tipo Matrix, arma em primeiro
+plano, sangue visível, ferimento explícito, violência gráfica, fundo
+branco genérico, fonte serifada dourada de romance histórico, brasão
+de família, texto incorporado além de título/subtítulo/autor, estética
+de cartaz de filme de ação genérico, acento de cor quente (vermelho,
+dourado, âmbar)
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, tech noir, suspense romântico
+contemporâneo, fotografia/ilustração noturna de propriedade rural
+isolada com brilho eletrônico frio, atmosférico e contido, tensão
+silenciosa mais do que ação explícita — mais still de thriller
+tecnológico de prestígio do que capa de romance histórico ou capa
+genérica de hacker; sombrio, elegante, preciso, quase clínico na
+composição, mas com um único ponto de vulnerabilidade humana visível
+na linha que se rompe.
+
+OBSERVAÇÃO DE BRANDING DA CASA:
+Segundo livro da série "Sombras de Aluguel" — muda deliberadamente de
+paleta/elemento visual em relação ao Livro 1 (mesma lógica de "capa
+evolui, série se mantém reconhecível pela tipografia e pelo monograma
+R·B·G, não pela paleta repetida"). Nenhum elemento de nenhuma capa
+anterior do catálogo foi reaproveitado (checagem feita revisando os
+prompts anteriores: Livro 1 desta série — névoa/vermelho-dourado;
+Elite de Cambridge 1-3 — tijolo/neve/código, mármore/madeira, branco
+clínico/azul hospital; branding padrão "The Old English Gentleman's
+Club"; Jogo Infinito; Família Bittencourt; Gelo e Sangue).
+O gancho final do Livro 2 (cap. 58, alerta de caso novo chegando pra
+Vance Security & Recovery) sinaliza potencial de continuar a série —
+decisão de continuar ou não fica em aberto para o usuário; se a série
+avançar, o motivo "grade de perímetro que se rompe" pode servir de
+padrão visual recorrente, variando a cor do acento elétrico e o
+cenário de fundo conforme o par protagonista de cada volume.
