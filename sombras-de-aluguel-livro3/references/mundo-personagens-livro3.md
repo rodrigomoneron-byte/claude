@@ -120,3 +120,78 @@ isolamento em refúgio — diferente estruturalmente dos Livros 1-2.
   dentro da própria agência — identidade do infiltrado reservada como
   reveal do Ato 2, conforme "traição ou infiltração" já previsto na
   bíblia de arco.
+
+### Ato 2 (caps. 19-40) — decisões travadas na escrita
+
+- **Infiltrada identificada: Camila** (retaguarda técnica de São Paulo,
+  personagem menor já estabelecido nos caps. 1, 5, 9, 13 — plantação
+  usada em vez de personagem novo). Confirmação por acesso de login +
+  câmera interna no cap. 32; motivo revelado em áudio de confissão no
+  cap. 33: dívida médica do tratamento da mãe, recrutada por
+  intermediário sem rosto da estrutura há oito meses, ameaçada quando
+  tentou recuar. Vazou o protocolo do painel (rota/camarim, caps. 17-
+  18) e, antes do isolamento de acesso, o endereço do apartamento em
+  Foz do Iguaçu. Presa, processo em andamento; Aline pede que a agência
+  ajude a mãe dela com o tratamento (não é perdão — é recusa consciente
+  de repetir indiferença). Motivo pessoal ficou explicitamente separado
+  da motivação sistêmica da "estrutura" (lucro/proteção mútua),
+  conforme regra fixa do mundo.
+- **Motivo pessoal de Aline — reveal completo (cap. 29)**: nome da
+  informante morta = **Lívia Bastos**, 24 anos, empregada da casa do
+  alvo numa operação de infiltração anterior à Vance (firma menor,
+  especializada em infiltração de longo prazo, sete meses de operação).
+  Lívia descobriu informação sensível sobre um carregamento, pediu
+  ajuda assustada; Aline pediu mais um dia pra não comprometer a
+  operação; Lívia foi morta antes desse dia terminar (forjado como
+  acidente doméstico). Aline foi ao enterro sem se identificar. A
+  "fachada de controle absoluto" é penitência, não vaidade — nunca mais
+  deixar personagem pesar mais que pessoa real.
+- **"Heitor Rangel" confirmado como codinome compartilhado** (indício
+  do cap. 12 explorado no Ato 2): dois operadores usam o nome. O mais
+  velho (cabelo grisalho, cicatriz na sobrancelha) = Heitor Rangel
+  Vieira, cuida da logística pesada (galpão SP, pátio na fronteira,
+  preso no cap. 40 em operação conjunta com a polícia local). O mais
+  novo, o "perigoso de verdade" = **Cauã Ibarra Duque**, sócio
+  minoritário registrado há 8 meses no despacho aduaneiro, quem
+  articula a motivação sistêmica da estrutura em cena (cap. 38: "não
+  existe chefe único porque chefe único é vulnerabilidade única").
+  Escapou da operação de resgate no cap. 39 — segue como ameaça aberta
+  pro Ato 3, junto com uma lista codificada de nomes encontrada em
+  laptop confiscado (gancho de fechamento do Ato 2, cap. 40), sugerindo
+  mais infiltrados possíveis além de Camila.
+- **Viagem à fronteira**: Foz do Iguaçu / Ciudad del Este, caps. 25-40.
+  Fixador local: **Osvaldo**, contato de confiança de Julian há 15
+  anos. Identidades de cobertura da viagem: Thiago = "Marcelo Andrade",
+  consultor de importação; Aline reaproveita "Renata Aguilar" (cap. 1)
+  com ajuste de história.
+- **Ponto de virada 1 — exposição da cobertura**: no evento do Clube
+  Internacional (cap. 27), a cobertura de Aline é reconhecida por
+  Ibarra/Rangel; ela usa um beijo com Thiago como manobra tática (tapar
+  o rosto dos dois de câmeras de teto) que também carrega medo real de
+  perdê-lo — a MISTURA entre tática e sentimento genuíno é tema
+  explícito da cena e da conversa de processamento no cap. 28 (Aline
+  declara em voz alta o que foi cálculo e o que foi real; nunca fica
+  ambíguo pro leitor).
+- **Heat Ato 2**: cap. 21 (retomada da cadência, consentimento verbal
+  explícito, marcado como real antes do contato — mesmo padrão do cap.
+  9); cap. 30 (após o reveal completo de Lívia, conforme sugestão da
+  seção 4 do project_dna.md — "primeiro momento de intimidade real
+  depois da revelação do motivo pessoal"). Gap 9→21 e 30→fim do Ato 2
+  conscientemente estendidos por escalada de trama (fuga, revelação,
+  sequestro/resgate) — mesmo padrão de exceção documentado no Ato 1
+  (caps. 16-18). 3 cenas de heat no total até o cap. 40 (meta do livro:
+  8-10; Ato 3 precisa completar 5-6 cenas adicionais).
+- **Clímax do Ato 2 (caps. 36-39)**: Thiago sequestrado pela estrutura
+  (mecânica distinta de L1/L2) enquanto Aline está separada dele
+  (sabotagem do carro alugado); a estrutura exige toda a prova
+  coletada em troca da vida dele. Aline resgata usando disfarce de
+  funcionária de limpeza terceirizada (competência de infiltração, não
+  força bruta, coerente com "protetora que nunca controla" e com o
+  limite de violência gráfica) — corte editorial em toda ameaça física,
+  sem violência prolongada em cena.
+- **Símbolo recorrente confirmado**: brincos-câmera de Aline (cap. 1),
+  usados como objeto de identidade/disfarce ao longo do Ato 2; no
+  fechamento do ato (cap. 40) ela guarda os brincos fora de serviço
+  como gesto de escolher Thiago sem lente no meio — símbolo reservado
+  pra pagar de vez no Ato 3. Caderno de campo de Thiago introduzido no
+  Ato 2 (cap. 24) como objeto paralelo.
