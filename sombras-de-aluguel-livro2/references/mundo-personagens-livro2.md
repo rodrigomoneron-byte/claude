@@ -283,3 +283,84 @@ fechando o Ato 1 em cliffhanger).
     23, 29, 33, 41, 47, 53, 56) — dentro da meta de 8-10.
 32. **Extensão final do livro**: 58 capítulos, 56.985 palavras — dentro
     da faixa de 55.000-58.000 travada no `project_dna.md`.
+
+## Revisão editorial global (bia-ferreira-editor-global) — 2026-08-08
+
+> Manuscrito completo (58 capítulos) lido por inteiro, capítulo a
+> capítulo, na ordem. Resultado: **APROVADO PARA FORMATAÇÃO**. Nenhum
+> ajuste obrigatório encontrado — nenhuma correção foi necessária nos
+> capítulos.
+
+- **Limite de conteúdo (seção 2b, prioridade máxima)**: verificado
+  pessoalmente cap. a cap. em todos os pontos de risco. Sequestro de
+  Fernanda (caps. 36-40): nenhuma violência física gráfica mostrada em
+  tempo real contra ela — corte editorial antes de qualquer agressão,
+  ameaça tratada como risco operacional frio, não obsessão pessoal.
+  Cap. 46 (aproximação de controle coercitivo): confirmado que Dante
+  ordena remotamente a retirada de Fernanda sem esperar confirmação de
+  ameaça real, e isso é tratado em cena como ruptura reconhecida, não
+  normalizada — Fernanda confronta diretamente ("Você não confiou em
+  mim... Isso é exatamente o que você jurou nunca fazer"), Dante admite
+  a falha sem se justificar por completo, ela pede espaço, e a
+  reconciliação no cap. 47 é honesta, sem apagar o conflito. Captura
+  final de Salgado/Tavares (caps. 50-52): imobilização rápida, sem tiro
+  disparado, sem ferimento grave, coerente com o log de decisões. As 9
+  cenas de heat (caps. 12, 17, 23, 29, 33, 41, 47, 53, 56): consentimento
+  explícito verbalizado em todas ("Posso?", "Tem certeza?", "Sim",
+  confirmação renovada a cada cena), nenhuma escorregou pro
+  vulgar/mecânico.
+- **Colisão de nomes dentro do livro**: nenhuma encontrada.
+- **Isolamento de universo (outras séries da casa)**: grep de zero
+  ocorrências confirmado para Devon Ashworth, Cami (checado também por
+  word-boundary — os únicos hits de "cami" no texto são substring de
+  "caminho/camisa/Camila", falsos positivos), Alexandra Voss Whitfield,
+  Julian Halloway, Isabela/Pedro/Dona Sofia Bittencourt, Inês Costa,
+  Heitor Salgado Bastos, Bishop, Sinclair, Thorne, Margaux, Tessa,
+  Helena Costa, Arthur Mendes, Mariana Azevedo, Nicolau Ferraz, Camila
+  Duarte, Rafael Amaral, Isadora Conti, Sebastian Vance, Fort McMurray.
+  Checagem específica do nome "Dante": zero ocorrências de qualquer
+  fato da trilogia Gelo e Sangue (Marchetti, Isa Conti, Baz, Oil
+  Barons, McMurray) — a coincidência de primeiro nome com o Dante de
+  Gelo e Sangue é só isso, coincidência, sem vazamento de identidade.
+- **Consistência com o Livro 1**: Julian e Clara aparecem em cameo
+  confirmado (chamada de vídeo caps. 4, 6, 16; presencial a partir do
+  cap. 30) com caracterização consistente com o Livro 1 — Julian
+  contido/seco, Clara acolhedora e direta — em papel de apoio/mentoria,
+  sem reabrir o próprio arco romântico. Rodrigo Vasconcelos não é
+  mencionado no texto (nem precisa ser); nenhum fato do arco dele é
+  reaberto ou contradito. Delegado Antunes reaproveitado como contato
+  policial com caracterização consistente (direto, protetor, sem
+  rodeio).
+- **Matemática de linha do tempo**: "quatro anos" na Lumen e "seis
+  anos" desde a morte de Theo usados de forma consistente em todo o
+  livro (checado via grep de todas as ocorrências). Pequena folga
+  natural de aproximação de fala (a idade de Dante variando entre ~32
+  e ~33 conforme o cálculo, "dezoito anos" desde o protótipo aos 15 vs.
+  "seis anos" desde os 26) cabe dentro da faixa 30-33 anos travada no
+  DNA e é do tipo de arredondamento normal de fala em primeira pessoa,
+  não contradição de fato.
+- **Objetos/símbolos**: protótipo de sensor de proximidade (Theo)
+  rastreável do cap. 28 ao 56/58, culmina em exibição aberta no galpão;
+  alarme "luz vermelha" estabelecido no cap. 14, disparado real no cap.
+  18, resolvido nos caps. 19-20. Ambos consistentes.
+- **Consistência de POV**: verificado programaticamente nos 58
+  cabeçalhos — Fernanda em todos os capítulos ímpares, Dante em todos
+  os pares, sem exceção.
+- **Lógica do esquema financeiro**: Lumen Capital, sete SPVs, holding
+  OS Participações, assinatura pessoal de Salgado nos R$200 milhões,
+  queda via marina em Ubatuba, prisão em flagrante, blindagem jurídica
+  via notarização e depoimento formal — cadeia lógica sem furo.
+- **Régua absoluta**: `scripts/regua_gate.py` limpo nos 58 capítulos +
+  grep manual `\ba gente\b` (word-boundary) com zero ocorrências em
+  todo o manuscrito. Único hit de "pra gente" (cap. 16) é "para pessoas
+  que", uso legítimo, não o pronome proibido.
+- **Redundância/duplicação**: varredura de parágrafos duplicados
+  dentro de cada capítulo e entre capítulos — nenhuma duplicação de
+  texto de expansão de emergência encontrada.
+- **Voz de Dante vs. Julian**: voz verborrágica/irônica de Dante
+  mantida do cap. 2 ao 58, inclusive nos momentos de tensão extrema
+  (caps. 50-52), onde o próprio texto nomeia em cena a mudança
+  temporária pra comandos curtos sob pressão ("toda a verborragia
+  costumeira reduzida a comandos curtos") e volta ao registro habitual
+  logo depois (cap. 53) — não é deriva de voz, é reação de personagem
+  justificada em cena.
