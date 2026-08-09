@@ -215,3 +215,100 @@ há necessidade de refúgio isolado ou não).
   project_dna.md. PENDÊNCIA EXPLÍCITA PRO ATO 3: encaixar cena de heat
   o quanto antes nos capítulos de abertura (idealmente cap. 41 ou 42)
   pra corrigir o gap antes que se acumule mais.
+
+### Ato 3 (capítulos 41-56) — decisões travadas na escrita, LIVRO COMPLETO
+
+- **Segundo vazamento (resolvido)**: **Breno Cardoso**, oficial de
+  ligação entre a equipe de Délcio e a segurança institucional do
+  TRF3, 12 anos de casa. Diferente de Beraldo (coagido por medo),
+  Cardoso vendeu o horário da operação do armazém 14 por dinheiro puro
+  — três transferências ao longo de 6 meses, via consultoria fictícia
+  ligada a um primo de Ruy Antunes, cada valor abaixo do limite de
+  alerta bancário automático. Localizado e preso no Terminal Marítimo
+  tentando embarcar (cap. 46), confessa espontaneamente, entrega o
+  nome de Aurélio Tavares como pagador direto. Condenado a 9 anos,
+  sem atenuante de coação (cap. 55).
+- **Patrono político revelado**: **Aurélio Tavares**, Secretário de
+  Estado de Infraestrutura e Logística de São Paulo, cotado pra
+  concorrer ao governo do estado. Vera reconhece o nome de memória (um
+  coquetel de posse meses antes, discurso vago sobre "parceria
+  estratégica" com a APBS). Confirmado por: portarias de "modernização
+  logística" beneficiando a APBS, doação de campanha via holding
+  ligada à esposa de Antunes, pagamento direto a Cardoso, e delação
+  formal de Antunes. Preso em mandado cumprido no próprio escritório
+  (cap. 50), sem violência — arrogância inicial cedendo a pânico
+  contido. Tenta um último golpe processual: exceção de suspeição
+  contra Vera alegando conflito de interesse com Marcelo (cap. 48),
+  derrubada em audiência de instrução por improcedência, já que Vera
+  havia formalmente comunicado a relação à Corregedoria semanas antes
+  (decisão deliberada de mostrar Vera praticando transparência
+  proativa, não reativa). Renuncia ao cargo ao ser preso; responde a
+  julgamento formal perante foro por prerrogativa de função (mencionado
+  na sentença do cap. 55, não julgado nesta ação — plausibilidade
+  jurídica: secretário de estado não compartilha o mesmo processo dos
+  réus comuns).
+- **Crise de confiança do casal**: Marcelo omite de Vera, por 4 dias,
+  a informação (recebida de Délcio ainda no hospital) de que a delação
+  de Antunes pode expor o patrono político — decisão paternalista pra
+  "poupá-la" logo após o ferimento. Vera descobre por acaso (cap. 43),
+  confronta a omissão como eco do próprio padrão institucional que
+  sempre decidiu por ela o que "aguentava saber". Resolução não é
+  cena única, mas processo: pedido de desculpas real de Marcelo (cap.
+  43), reconhecimento do próprio instinto de "proteger = calar
+  informação" herdado da corporação (cap. 44), e prática consistente
+  de parceria plena dali em diante (compartilhar decisão de ir atrás
+  de Cardoso no Terminal Marítimo, cap. 49).
+- **Hipocrisia institucional (arco interno de Marcelo)**: dúvida real
+  sobre aceitar proteção formal da PF/consultoria depois de ter sido
+  descartado pela mesma corporação (caps. 42, 44). Resolvido não por
+  esquecimento do rancor, mas por reconhecer a diferença entre
+  reparação real (Corregedoria anula a demissão, reconhece a denúncia
+  original como correta) e capitulação. Aceita o cargo de consultor
+  técnico permanente (cap. 52).
+- **Restauração do nome de Marcelo**: Corregedoria da PF revisa a
+  sindicância original à luz da confissão de Wagner Melo e da
+  Operação Zona Cega, anula formalmente o "demitido a bem do serviço
+  público", substitui por reconhecimento de conduta ilibada, oferece
+  cargo de consultor técnico permanente remunerado (cap. 52). Reforçado
+  publicamente em ata de sentença por Vera (cap. 55) — reconhecimento
+  formal, em audiência pública, da coragem da denúncia original de
+  Marcelo. A velha carteira funcional com o carimbo é guardada, não
+  descartada — símbolo mantido como prova de sobrevivência, não vergonha
+  (cap. 52).
+- **Sentença da Operação Zona Cega (cap. 55)**: proferida sem adiar
+  nem suavizar, sob escolta reforçada. Ruy Antunes: 18 anos reduzidos a
+  12 pela colaboração premiada homologada. Wagner Melo: 22 anos
+  (organização criminosa + tentativa de homicídio qualificado + a
+  emboscada do armazém 14), sem comparecer à leitura. Breno Cardoso: 9
+  anos, sem atenuante (motivação financeira, não coação). Cássio
+  Beraldo: 4 anos em regime aberto, atenuante substancial reconhecido
+  pela coação documentada contra o pai idoso — dosimetria
+  deliberadamente diferenciada por gravidade real do papel de cada um,
+  não fórmula genérica. Aurélio Tavares: encaminhado ao foro
+  competente (prerrogativa de função), prisão preventiva mantida,
+  renúncia ao cargo já registrada.
+- **Desfecho do casal (cap. 56, sem epílogo)**: três semanas depois da
+  sentença, sem cronograma "X anos depois" — cena única, presente,
+  no píer do porto, junto ao armazém 14 reformado. Marcelo veste o
+  crachá novo de consultor; Vera segue como juíza titular. Gesto que
+  reabre o jogo: callback ao primeiro encontro tenso deles (mediado
+  por Otávio) reformulado como "um jogo novo" — aposta consciente de
+  construir vida juntos, sem prazo processual nem ameaça definindo
+  mais nada entre os dois. Loop aberto deliberado: nenhuma promessa
+  de casamento, nenhum salto no tempo — só decisão presente.
+- **Heat — cadência final do livro inteiro**: 9 cenas (caps. 11, 16,
+  22, 27, 33, 42, 47, 51, 54) — bateu o heat_target travado (9),
+  dentro da faixa 8-10 da meta, mais perto do topo do que o Livro 1
+  (que fechou em 8). Gap 33→42 = 9 capítulos, ACIMA do máximo de 6 —
+  overshoot herdado do fechamento do Ato 2 (justificado pela
+  impossibilidade de cena de intimidade plena nos capítulos imediatos
+  ao ferimento grave de Marcelo e à cirurgia; corrigido assim que
+  narrativamente plausível, dentro da janela cap. 41-43 sugerida).
+  Todos os demais gaps do Ato 3 dentro do máximo (5, 4, 3).
+- **Extensão final do livro**: 56 capítulos, 56.355 palavras — dentro
+  da faixa 55.000-58.000 travada, sem necessidade de passe de reforço
+  pós-produção. Taxa de expansão de emergência do Ato 3: 100% dos 16
+  capítulos (41-56) precisaram de pelo menos uma rodada de Edit de
+  expansão além do rascunho inicial pra bater o piso de extensão —
+  consistente com o histórico do catálogo citado na seção 3 do
+  project_dna.md.
