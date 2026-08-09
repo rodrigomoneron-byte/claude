@@ -30,7 +30,7 @@ Lembro, sem querer, do dia em que a sentença saiu — não da leitura formal, m
 
 — Você falou isso ontem também. — Ele sorri sem alegria nenhuma, o tipo de sorriso que só um homem velho sabe fazer quando percebe alguém mentindo pra si mesmo de novo. — E o aviso que você recebeu? O nome que descobriu?
 
-Fico em silêncio mais tempo do que devia. A verdade é que já juntei as duas pontas sozinho, na cabeça, antes mesmo de Tio Chico perguntar em voz alta: o nome que meu contato me mandou pertence a um operador que trabalhou, anos atrás, pra mesma engrenagem que fabricou as provas que me condenaram. Se esse nome está perguntando por mim agora, na mesma semana em que Diana Rossi levou um tiro por perseguir a mesma engrenagem — não existe coincidência boa o suficiente pra explicar isso.
+Fico em silêncio mais tempo do que devia. A verdade é que já juntei as duas pontas sozinho, na cabeça, antes mesmo de Tio Chico perguntar em voz alta: o nome que meu contato me mandou pertence a um operador que trabalhou, anos atrás, pra mesma engrenagem que fabricou as provas que me condenaram. Se esse nome está perguntando por mim agora, na mesma semana em que Diana Rossi escapou por pouco de um atentado a tiros por perseguir a mesma engrenagem — não existe coincidência boa o suficiente pra explicar isso.
 
 — Acho — digo, devagar, testando a frase antes de deixar ela sair de vez — que a mesma gente que me destruiu pode estar tentando destruir ela também.
 

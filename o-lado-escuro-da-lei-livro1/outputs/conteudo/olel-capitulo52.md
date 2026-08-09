@@ -1,6 +1,6 @@
 # Capítulo 52 — Noah
 
-O portão eletrônico da chácara cede em menos de um minuto sob as mãos do filho de Osvaldo, o clique do mecanismo soando ridiculamente pequeno perto do tamanho do que estamos prestes a fazer. Avanço agachado pela lateral da propriedade, o caderno preso contra o peito por dentro da jaqueta, a chave inglesa de Osvaldo pesando na mão direita como a única arma que aceitei carregar.
+O portão eletrônico da chácara cede em menos de um minuto sob as mãos do filho de Osvaldo, o clique do mecanismo soando ridiculamente pequeno perto do tamanho do que estamos prestes a fazer. Avanço agachado pela lateral da propriedade, o peito mais leve e mais pesado ao mesmo tempo por não carregar mais o caderno — deixei com Diana, como prova de reserva —, a chave inglesa de Osvaldo pesando na mão direita como a única arma que aceitei carregar.
 
 — Dois seguranças na entrada principal, confirmados — Foguete avisa pelo fone discreto, a voz baixa mesmo a quilômetros de distância. — Nenhum movimento na lateral que você está usando. Tem uma janela de serviço destrancada na cozinha.
 

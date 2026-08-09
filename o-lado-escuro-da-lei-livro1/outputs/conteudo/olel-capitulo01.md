@@ -20,7 +20,7 @@ O advogado de defesa se levanta, tenta interromper, algo sobre especulação. A 
 
 — E há mais, Excelência. — Faço uma pausa. Calculada, não teatral; é diferente, e eu sei a diferença. — O Ministério Público requer, com base no material colhido nesta instrução, a quebra do sigilo bancário e fiscal de mais dois beneficiários finais identificados pela perícia contábil, cujos nomes constam do anexo reservado que protocolo nesta data. Um deles ocupa cargo eletivo em exercício.
 
-A sala inteira se move ao mesmo tempo — cadeiras, respirações, o barulho seco de alguém deixando cair uma caneta. Não digo o nome do senador Aldo Bezerra em voz alta. Ainda não tenho todas as provas fechadas o bastante pra fazer isso sem risco de nulidade, e eu não jogo com risco de nulidade. Jogo com o que sustenta.
+A sala inteira se move ao mesmo tempo — cadeiras, respirações, o barulho seco de alguém deixando cair uma caneta. Não digo o nome do senador em voz alta. Ainda não tenho todas as provas fechadas o bastante pra fazer isso sem risco de nulidade, e eu não jogo com risco de nulidade. Jogo com o que sustenta.
 
 — A senhora está ciente — o defensor tenta de novo, agora mais alto — de que está fazendo uma acusação gravíssima sem nomear formalmente...
 
