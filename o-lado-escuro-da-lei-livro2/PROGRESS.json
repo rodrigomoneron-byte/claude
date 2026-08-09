@@ -10,9 +10,9 @@
     "Marcelo"
   ],
   "status": "Em andamento",
-  "next_chapter": 19,
+  "next_chapter": 41,
   "next_pov": "Vera",
-  "updated": "2026-08-09 19:50",
+  "updated": "2026-08-09 20:20",
   "chapters": [
     {
       "n": 1,
@@ -157,16 +157,192 @@
       "score": 6.5,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 19,
+      "pov": "Vera",
+      "words": 1030,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 20,
+      "pov": "Marcelo",
+      "words": 994,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 21,
+      "pov": "Vera",
+      "words": 1081,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 22,
+      "pov": "Marcelo",
+      "words": 1068,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 23,
+      "pov": "Vera",
+      "words": 1027,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 24,
+      "pov": "Marcelo",
+      "words": 972,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 25,
+      "pov": "Vera",
+      "words": 1032,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "Marcelo",
+      "words": 997,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 27,
+      "pov": "Vera",
+      "words": 968,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 28,
+      "pov": "Marcelo",
+      "words": 1082,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "Vera",
+      "words": 1024,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "Marcelo",
+      "words": 1032,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 31,
+      "pov": "Vera",
+      "words": 992,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 32,
+      "pov": "Marcelo",
+      "words": 1086,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 33,
+      "pov": "Vera",
+      "words": 1007,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 34,
+      "pov": "Marcelo",
+      "words": 1025,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 35,
+      "pov": "Vera",
+      "words": 979,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "Marcelo",
+      "words": 961,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 37,
+      "pov": "Vera",
+      "words": 958,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "Marcelo",
+      "words": 899,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 39,
+      "pov": "Vera",
+      "words": 903,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "Marcelo",
+      "words": 1118,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 18,
-    "total_words": 18042,
-    "pages_kdp": 60,
-    "avg_score": 6.5,
-    "pct_to_target": 32,
-    "heat_scenes_done": 2,
-    "last_heat_chapter": 16
+    "chapters_done": 40,
+    "total_words": 40277,
+    "pages_kdp": 134,
+    "avg_score": 6.55,
+    "pct_to_target": 71,
+    "heat_scenes_done": 5,
+    "last_heat_chapter": 33
   }
 }

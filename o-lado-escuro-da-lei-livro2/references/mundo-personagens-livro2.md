@@ -131,3 +131,87 @@ há necessidade de refúgio isolado ou não).
   1 são beijos/proximidade física carregada, sempre com consentimento
   explícito verbalizado por ambos os lados e interrupção mútua ou por
   evento externo, nunca por imposição de um sobre o outro.
+
+### Ato 2 (capítulos 19-40) — decisões travadas na escrita
+
+- **Revelação sobre o depoimento de Vera (ponto de virada 1, cap.
+  21)**: Délcio consegue, via contato na Corregedoria, o processo
+  administrativo completo da sindicância — nunca antes visto por Vera.
+  Um memorando interno, assinado por superior direto de Marcelo na
+  época, prova que a pergunta feita a Vera na oitiva foi desenhada
+  DELIBERADAMENTE pra extrair resposta tecnicamente desfavorável,
+  citando explicitamente a "reconhecida precisão técnica" dela e a
+  "baixa probabilidade de extrapolação" como critério de escolha da
+  testemunha. Vera não foi só usada — foi escolhida porque a própria
+  integridade profissional dela era previsível o suficiente pra virar
+  ferramenta. Golpe emocional real, não só informação nova: ela encara
+  que "estar tecnicamente certa" nunca a absolveu de fato. Isso abre
+  espaço, no cap. 22, pra primeira cena de intimidade plena entre Vera
+  e Marcelo (consentimento explícito verbalizado por ambos, "posso te
+  beijar?" / "tenho certeza" / "se quiser parar, eu digo").
+- **Ameaça/ataque direto mais sério (ponto de virada 2, cap. 28)**:
+  artefato explosivo de baixo poder (não letal por design — decisão
+  deliberada de quem o instalou, calibrado pra ferir sem matar,
+  evitando o custo político de assassinar juíza federal em exercício)
+  encontrado por Marcelo embaixo do carro oficial de Vera antes da
+  saída matinal pro fórum. Corte editorial total sobre a montagem/
+  desativação — cena focada em tensão e reação, não em procedimento
+  técnico de explosivo. Também nesse arco: Aldo Ferraz (inspetor
+  corrupto do Ato 1) encontrado morto por overdose de insulina
+  disfarçada de infarto (cap. 20/24) — assassinato confirmado por
+  toxicologia, sinal de que a rede está eliminando pontas soltas.
+- **Identidade do colaborador interno (ponto de virada 3, caps.
+  30-32)**: RESOLVIDO — o desembargador Norberto Aguiar é INOCENTE.
+  O vazamento real é **Cássio Beraldo**, seu chefe de gabinete (32
+  anos, 4 anos no cargo), coagido havia oito meses por um homem não
+  identificado publicamente (ligado a Ruy Antunes, confirmado pela
+  fala "doutor Ruy" ouvida por Beraldo) que ameaçava reabrir processo
+  antigo, já prescrito, contra o pai dele (ex-funcionário aposentado
+  da APBS) — motivação real, não vilania vazia: coação usando medo de
+  um homem de 72 anos, não ganância. Beraldo usava o ramal do gabinete
+  de Aguiar sempre em horários de álibi confirmado do desembargador, o
+  que gerou a suspeita equivocada sobre Aguiar ao longo do Ato 1 e
+  início do Ato 2. Confissão obtida depois que Marcelo e Délcio movem
+  o pai de Beraldo pra local seguro ANTES de qualquer confronto — gesto
+  que quebra a resistência dele. Aguiar, informado por Vera
+  pessoalmente (cap. 33), reage com mágoa breve mas colaboração real,
+  autorizando reforço policial extraordinário pra operação do cap. 35.
+- **Clímax do Ato 2 (caps. 34-40)**: cerco no porto (armazém 14),
+  variando deliberadamente a mecânica de captura do Livro 1 — não é
+  sequestro isolado, é emboscada coordenada contra Vera, Marcelo E
+  Otávio Bandeira simultaneamente, revelando um SEGUNDO vazamento (a
+  operação foi decidida em canal restrito na tarde do mesmo dia,
+  provando que Beraldo não era a única fonte — pista em aberto pro Ato
+  3, não resolvida ainda). Wagner Melo (agente corrupto do Ato 1,
+  hoje fora da corporação) comanda a emboscada pessoalmente. Marcelo
+  leva um tiro de raspão no ombro protegendo Vera do disparo de Melo —
+  ferimento sério mas não fatal, cirurgia bem-sucedida, sem sequela
+  grave esperada. Corte editorial antes de qualquer detalhe gráfico
+  prolongado do ferimento ou da luta corpo a corpo. Resolução:
+  reforço de Délcio (autorizado por Aguiar) rompe o cerco, Melo é
+  preso confessando cooperação, Ruy Antunes é capturado horas depois
+  tentando embarque clandestino em aeroporto de fronteira, sob
+  custódia federal aguardando extradição interna. Otávio confirma que
+  a prova documental (cópia física + digital criptografada) sobreviveu
+  intacta independente dos contêineres físicos.
+- **Gancho de saída do Ato 2 pro Ato 3**: o advogado de Antunes já
+  sinaliza interesse em negociar delação premiada em troca de pena
+  reduzida — se isso avançar, Antunes precisará entregar o nome do
+  patrono político, até agora apenas aludido. Délcio adianta a Marcelo,
+  em segredo (Vera ainda não sabe ao fechar o Ato 2), que o nome que já
+  circula informalmente "não é gente pequena" e pode abalar a política
+  estadual inteira — gancho aberto pro Ato 3. Também em aberto: o
+  segundo vazamento que permitiu a emboscada do armazém 14 (Beraldo
+  estava sob custódia informal havia horas quando a operação foi
+  decidida — não pode ter sido ele dessa vez).
+- **Heat — cadência real do Ato 2**: 4 cenas (cap. 22 — primeira
+  intimidade plena, logo após a revelação do cap. 21 —, cap. 27, cap.
+  33), gap máximo respeitado entre cada uma (6, 5, 6 capítulos). Total
+  acumulado no livro: 5 cenas (caps. 11, 16, 22, 27, 33). Nenhuma cena
+  de heat foi encaixada entre os caps. 34-40 por decisão deliberada de
+  ritmo (clímax de ação contínua, tonalmente incompatível com cena de
+  intimidade) — isso deixou o gap de heat em 7 capítulos ao fechar o
+  Ato 2 (cap. 33 → cap. 40), ACIMA do máximo de 6 definido no
+  project_dna.md. PENDÊNCIA EXPLÍCITA PRO ATO 3: encaixar cena de heat
+  o quanto antes nos capítulos de abertura (idealmente cap. 41 ou 42)
+  pra corrigir o gap antes que se acumule mais.
