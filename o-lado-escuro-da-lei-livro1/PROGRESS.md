@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Diana)
-- Última atualização: 2026-08-09 01:14
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Diana)
+- Última atualização: 2026-08-09 01:46
 
 ## Placar
-- Palavras: 18260
-- Páginas KDP (~palavras/300): 61
+- Palavras: 40966
+- Páginas KDP (~palavras/300): 137
 - Score médio: 6.61
-- Meta de palavras: 56500 (32%)
-- Cenas de heat: 0 / meta 9 (nenhuma ainda)
+- Meta de palavras: 56500 (73%)
+- Cenas de heat: 3 / meta 9 (última no cap. 33)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
