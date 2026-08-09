@@ -1,17 +1,17 @@
 # Progresso do Loop — O Lado Escuro da Lei
 
 ## Estado atual
-- Status: Em andamento
-- Capítulos concluídos: 40 / 56
-- Próximo: Capítulo 41 (POV Diana)
-- Última atualização: 2026-08-09 01:46
+- Status: Manuscrito completo — revisão/formatação pendentes
+- Capítulos concluídos: 57 / 56
+- Próximo: Capítulo 58 (POV Noah)
+- Última atualização: 2026-08-09 02:12
 
 ## Placar
-- Palavras: 40966
-- Páginas KDP (~palavras/300): 137
-- Score médio: 6.61
-- Meta de palavras: 56500 (73%)
-- Cenas de heat: 3 / meta 9 (última no cap. 33)
+- Palavras: 57699
+- Páginas KDP (~palavras/300): 192
+- Score médio: 6.6
+- Meta de palavras: 56500 (102%)
+- Cenas de heat: 8 / meta 9 (última no cap. 56)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

@@ -9,10 +9,10 @@
     "Diana",
     "Noah"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Diana",
-  "updated": "2026-08-09 01:46",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
+  "next_pov": "Noah",
+  "updated": "2026-08-09 02:12",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 6.8,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Diana",
+      "words": 1085,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Noah",
+      "words": 1102,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Diana",
+      "words": 950,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Noah",
+      "words": 958,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Diana",
+      "words": 976,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Noah",
+      "words": 947,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Diana",
+      "words": 1040,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 48,
+      "pov": "Noah",
+      "words": 933,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Diana",
+      "words": 933,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 50,
+      "pov": "Noah",
+      "words": 932,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Diana",
+      "words": 1038,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Noah",
+      "words": 1032,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Diana",
+      "words": 933,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 54,
+      "pov": "Noah",
+      "words": 948,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Diana",
+      "words": 939,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 56,
+      "pov": "Noah",
+      "words": 961,
+      "score": 6.6,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 57,
+      "pov": "Diana",
+      "words": 1026,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 40966,
-    "pages_kdp": 137,
-    "avg_score": 6.61,
-    "pct_to_target": 73,
-    "heat_scenes_done": 3,
-    "last_heat_chapter": 33
+    "chapters_done": 57,
+    "total_words": 57699,
+    "pages_kdp": 192,
+    "avg_score": 6.6,
+    "pct_to_target": 102,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 56
   }
 }

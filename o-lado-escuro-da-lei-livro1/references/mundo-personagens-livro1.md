@@ -205,3 +205,83 @@ na propriedade de Tio Chico — descrição física a definir na escrita.
   não serve mais pra explicar o que sente — marco de cumprimento do
   requisito de seção 2b (dívida moral evolui pra escolha mútua, nunca
   vira controle).
+- **Tio Chico sobrevive à emboscada** (confirmado nos caps. 30-31 e
+  presente ativamente em todo o Ato III): só tornozelo torcido, segue
+  como aliado até o fim do livro, inclusive como sócio formal de Noah
+  na oficina no capítulo final.
+
+### Ato III (caps. 41-57) — decisões travadas na escrita
+
+- **"O Chefe" revelado**: **Senador Aurélio Bastos**, o beneficiário
+  final não nomeado publicamente desde o cap. 1 (pedido de quebra de
+  sigilo protocolado naquele capítulo, nunca citado em audiência por
+  cautela processual de Diana) — fecha o círculo plantado no início do
+  livro. **Renan Bastos Kellner** é sobrinho de sangue do senador (daí
+  o sobrenome do meio, pista deixada cair por ele mesmo no cap. 43),
+  administrador leal do sistema de arquivo por lealdade familiar, não
+  por chantagem. Motivação de Bastos: poder político consolidado por
+  décadas, protegido por sigilo bancário e camadas de fachada
+  corporativa (Vantage/Zenith) — reveal ocorre em duas etapas: Diana
+  deduz a ligação de sangue em cativeiro (cap. 43), confirma o
+  sobrenome completo já livre (cap. 46), Noah confronta Bastos
+  pessoalmente na chácara da Holding Serra Clara (cap. 52).
+- **O resgate**: Noah mobiliza rede de contatos do submundo — Vinícius
+  "Foguete" (ex-companheiro de cela, hacker/rastreador), Osvaldo
+  (mecânico de Itapeva já estabelecido no Ato II) e o filho dele, além
+  de Tio Chico — pra rastrear o veículo do sequestro até um galpão
+  logístico desativado na saída de Itapetininga (cap. 42) e executar a
+  extração (caps. 45-46). Diana usa o tempo em cativeiro pra reunir
+  inteligência (padrão de troca de guarda, identificação de Kellner,
+  pista do "tio" senador) em vez de ficar passiva — nenhum ferimento
+  grave mostrado, corte editorial mantido (seção 2b).
+- **A transmissão**: Katia monta transmissão coordenada (redes sociais
+  + portais de imprensa + contato direto com procuradora federal fora
+  do alcance da corregedoria comprometida), com "gatilho morto" de
+  segurança. Diana apresenta as provas ao vivo no cap. 51 (confissão
+  gravada de Evandro, cruzamento ZTH-RH, elo Kellner-Bastos), a
+  procuradora confirma abertura de inquérito e de ação de revisão
+  criminal ao vivo — plausibilidade jurídica básica mantida (seção 2b).
+- **O confronto final (cap. 52)**: Noah confronta Bastos e Kellner na
+  propriedade rural da Holding Serra Clara. Resolvido sem violência
+  física prolongada — impasse verbal, Bastos impedido de destruir prova
+  no cofre, prisão feita pela Polícia Federal ao chegar (acionada por
+  Diana/procuradora), não por ação armada de Noah — respeita seção 2b.
+- **Evandro Salgado — desfecho**: colaboração premiada formalizada
+  (cap. 54), mecanismo real do direito brasileiro — redução substancial
+  de pena em troca de depoimento completo e testemunho contra Bastos,
+  mas SEM impunidade (ainda cumpre pena). Pedido dele de preservar Laura
+  da exposição pública é acolhido por Diana com sensibilidade, não
+  perdão explícito — mitigação parcial sem apagar a gravidade da
+  traição, conforme travado em project_dna 2b.
+- **Desfecho de Noah**: ação de revisão criminal julgada no cap. 55,
+  condenação anulada por vício de prova (fraude processual formalmente
+  reconhecida) — mesmo Tribunal, mesma juíza (Marisa Andrade) do
+  julgamento original, callback direto ao cap. 1.
+- **Desfecho de Diana**: aceita coordenação de nova força-tarefa de
+  combate a corrupção institucional infiltrada em segurança pública
+  (cap. 55) — "reassume o cargo" numa versão adaptada, arco de rigidez
+  moral rachando completo (de "regra escrita basta" a "reconhecer onde
+  a lei formal falha").
+- **Fechamento sem epílogo (cap. 57)**: nenhum salto temporal longo
+  anunciado como epílogo — cena de manhã comum no sítio/oficina de Tio
+  Chico (agora sociedade formal com Noah), símbolos do livro reunidos
+  (caderno de Noah e crachá antigo de Diana lado a lado numa caixa).
+  "Gesto que reabre o jogo": uma mulher desconhecida bate ao portão
+  pedindo ajuda que o sistema oficial não oferece — eco direto do
+  incidente incitante do cap. 1 (Diana batendo à porta de Noah),
+  invertido, deixando gancho aberto pra eventual série "Justiça
+  Sombria" sem fechar a história numa nota conclusiva definitiva.
+- **Heat (Ato III)**: 5 cenas novas — cap. 47 (reencontro/alívio pós-
+  resgate), cap. 49 (madrugada de trabalho jurídico antes do confronto
+  final), cap. 53 (alívio pós-prisão de Bastos), cap. 55 (celebração da
+  anulação da condenação de Noah), cap. 56 (consolidação do futuro, na
+  casa antiga do refúgio). Gap entre cap. 33 (Ato II) e cap. 47 (Ato
+  III) chegou a 13 capítulos, MUITO acima do máximo de 6 — desvio
+  consciente e necessário: Diana esteve sequestrada/em fuga de perigo
+  letal por 6 capítulos seguidos (41-46), período em que qualquer cena
+  de intimidade violaria o espírito da seção 2b (consentimento pleno,
+  ausência de coação/perigo iminente como pano de fundo). Cadência
+  reaberta assim que narrativamente possível (cap. 47, a primeira cena
+  segura após o resgate) e mantida apertada depois disso (gaps de 2, 4,
+  2 e 1 capítulos). Total do livro: 8 cenas de 8-10 — bateu o piso da
+  meta.
