@@ -1,0 +1,272 @@
+RELATÓRIO DE FORMATAÇÃO FINAL — KDP
+O Lado Escuro da Lei — Livro 1: Acima de Qualquer Suspeita
+Série: Justiça Sombria (potencial — decisão de continuar em aberto)
+Autor (pseudônimo): R.B. Guidenelli
+Data: 2026-08-09
+PRIMEIRO LIVRO DA SÉRIE "JUSTIÇA SOMBRIA" (sexta série do catálogo)
+
+===============================================================
+1. MANUSCRITO — ORGANIZAÇÃO
+===============================================================
+57/57 capítulos convertidos de outputs/conteudo/olel-capitulo01.md a
+olel-capitulo57.md para outputs/final/manuscrito/01_capitulo.md a
+57_capitulo.md.
+
+Conversão aplicada por arquivo:
+- Cabeçalho original "# Capítulo N — POV" (ex.: "# Capítulo 1 — Diana")
+  separado em duas linhas: "# Capítulo N" (título) + linha em branco +
+  "*POV: Nome*" (subtítulo discreto em itálico), seguindo o mesmo
+  formato final de leitor já usado nos outros livros da casa (ex.:
+  Sombras de Aluguel) — este manuscrito já trazia o POV embutido no
+  próprio cabeçalho de capítulo, então a extração foi feita a partir
+  desse formato de origem por script dedicado (verificação automática
+  incluída no próprio script de conversão).
+- Corpo do capítulo: preservado byte a byte (script de conversão não
+  altera nenhuma linha de prosa; verificado por comparação
+  automatizada do corpo de texto dos 57 pares de arquivo
+  origem/destino — 0 divergências).
+
+POV dual conferido nos 57 arquivos de origem e nos 57 arquivos finais:
+alternância estrita ímpar = Diana (29 capítulos), par = Noah (28
+capítulos), sem exceção, do Capítulo 1 ao Capítulo 57 (checagem
+automatizada, sem nenhuma falha de numeração ou de POV). Sem epílogo
+neste Livro 1, conforme decisão travada no project_dna.md/TASK.md
+(reservada para eventual continuação da série "Justiça Sombria").
+
+===============================================================
+2. TÍTULO E SUBTÍTULO — DECISÃO
+===============================================================
+Título "O Lado Escuro da Lei" já veio fixado pelo briefing do usuário
+(diferente dos livros anteriores da casa, onde o título inteiro
+precisava ser escolhido na escrita) — mantido sem alteração.
+
+Subtítulo: testadas as duas opções sugeridas em arco-trama-livro1.md
+contra o texto final dos 57 capítulos:
+- "Acima de Qualquer Suspeita" — grep case-insensitive: 0 ocorrências
+  literais.
+- "Linhas Cruzadas" — grep case-insensitive: 0 ocorrências literais.
+Nenhuma das duas frases aparece literalmente no manuscrito. Conforme
+instrução do usuário, o subtítulo sugerido foi mantido mesmo sem
+ocorrência literal, já que o título principal veio travado pelo
+briefing (situação diferente de livros anteriores).
+
+Escolhido: "Acima de Qualquer Suspeita". Critério de desempate:
+- Ressonância temática direta e recorrente — a palavra "suspeita"/
+  "suspeitar" aparece 6 vezes no manuscrito como mecanismo central da
+  trama (evitar levantar suspeita durante a fuga, a suspeita de Noah
+  sobre o chip de rastreamento, a suspeita sobre Evandro antes da
+  confirmação da traição), enquanto o campo semântico de "linha(s)
+  cruzada(s)" aparece de forma mais difusa (28 ocorrências da palavra
+  "linha", mas quase todas em sentidos concretos — linha do processo,
+  linha do tempo, linha de visão — não no sentido figurado de "romper
+  fronteira" que o subtítulo alternativo sugeriria).
+- Encaixe de gênero: "Acima de Qualquer Suspeita" é convenção clássica
+  de título de suspense jurídico/policial (a promotora cuja própria
+  reputação e cujo próprio sistema deveriam estar "acima de qualquer
+  suspeita" e não estão) — reforça a ironia central da sinopse: Diana
+  construiu a carreira acreditando em provas "acima de qualquer
+  dúvida", e é exatamente essa fé que a cega para a corrupção dentro
+  do próprio sistema até quase tarde demais.
+- "Linhas Cruzadas" foi descartado por soar mais genérico e por
+  competir menos claramente com o registro "suspense policial
+  noturno" pedido para a capa/branding deste livro.
+
+===============================================================
+3. CONTAGEM DE PALAVRAS (via Python — não wc -w, conforme project_dna.md seção 3)
+===============================================================
+- Manuscrito de origem (outputs/conteudo/, cabeçalho "# Capítulo N —
+  POV" em uma linha): 57.717 palavras
+- Arquivos finais formatados (outputs/final/manuscrito/, cabeçalho
+  "# Capítulo N" + linha "*POV: Nome*"): 57.717 palavras (mesma
+  contagem — quebrar o cabeçalho em duas linhas não altera o total de
+  tokens)
+- Corpo de prosa puro (excluindo título e linha de POV de cada
+  arquivo): 57.432 palavras
+Dentro da meta de 55.000-58.000 palavras do project_dna.md/TASK.md
+deste livro (~55-58 capítulos), cumprida a ~102% da meta de 56.500
+palavras registrada no PROGRESS.md, batendo perto do topo da faixa
+como planejado desde o Ato 1.
+
+Nota sobre método de contagem: `wc -w` sobre os mesmos 57 arquivos
+finais reportou também 57.717 palavras nesta rodada (sem divergência
+observada desta vez) — mesmo assim, a contagem oficial usada neste
+relatório segue sendo a via Python (`len(texto.split())`), conforme
+padrão documentado no project_dna.md (seção 3) e no restante do
+catálogo, já que o bug de locale de `wc -w` é intermitente por
+ambiente/configuração, não garantidamente ausente.
+
+===============================================================
+4. EPUB
+===============================================================
+Arquivo: outputs/final/o-lado-escuro-da-lei.epub (181 KB)
+- 57 capítulos incluídos (confirmado pela listagem do build_epub.py:
+  Capítulo 1 a Capítulo 57, sem nenhum faltando)
+- Metadados: title "O Lado Escuro da Lei", subtitle "Acima de Qualquer
+  Suspeita", series "Justiça Sombria" #1, author "R.B. Guidenelli",
+  language pt-BR, identifier urn:uuid (placeholder, ver seção 8)
+- Validado com ebooklib: `epub.read_epub()` abre sem erro; metadados
+  DC conferidos via get_metadata() e batendo exatamente com
+  metadata.json:
+    Título: O Lado Escuro da Lei
+    Idioma: pt-BR
+    Identifier: urn:uuid:d2a8c5a2-f791-4233-92d4-db9f2c42e11c
+    Autor: R.B. Guidenelli
+    Descrição: primeiros 100 caracteres conferidos manualmente, batendo
+    com o campo "description" do metadata.json
+- Sumário (nav EPUB3 + NCX) gerado automaticamente pelo script a
+  partir dos 57 arquivos .md, ordenados corretamente pelo prefixo
+  numérico (60 itens totais no pacote; 58 documentos XHTML = 57
+  capítulos + 1 nav)
+
+===============================================================
+5. PDF (KDP paperback 6"x9") — CONFERÊNCIA VISUAL
+===============================================================
+Arquivo: outputs/final/o-lado-escuro-da-lei_kdp.pdf (405 KB)
+- Dimensão confirmada via pypdf: 432.0 x 648.0 pt (6" x 9" exato)
+- Total: 212 páginas (página de título não numerada + 211 páginas
+  numeradas, do Capítulo 1 ao fim do Capítulo 57 — bate com o "211" no
+  rodapé da última página)
+
+CONFERÊNCIA VISUAL (pdftoppm -png -r 100, páginas convertidas em
+imagem e efetivamente inspecionadas, não só geradas):
+- Página de título (página 1 do PDF): título "O Lado Escuro da Lei"
+  centralizado em negrito, subtítulo "Acima de Qualquer Suspeita" logo
+  abaixo, nome do autor "R.B. Guidenelli" e "Justiça Sombria — Livro 1"
+  mais abaixo, tudo centralizado verticalmente na página. Sem
+  numeração (correto).
+- Primeira página do Capítulo 1 (página 2 do PDF, numerada "1" no
+  rodapé): título "Capítulo 1" centralizado, "POV: Diana" em itálico
+  discreto logo abaixo, corpo em fonte serif (Times-Roman) justificado
+  com recuo de primeira linha, espaçamento entre linhas confortável.
+  Layout correto, batendo com a especificação do kdp-specs.md.
+- Página com trecho de mensagem de texto/pensamento em itálico (página
+  5 do PDF, numerada "4", dentro do Capítulo 1): a frase "Você devia
+  ter parado no nome do Ricardo, Dra. Rossi." renderiza corretamente em
+  itálico, sem artefato de asterisco residual.
+- Página do meio do livro (página 106 do PDF, numerada "105", dentro
+  do Capítulo 22): mesmo padrão de layout mantido de forma consistente
+  — corpo justificado, numeração de página no rodapé. Nenhum problema
+  de quebra de página, margem ou fonte encontrado no meio do
+  manuscrito.
+- Última página (página 212 do PDF, numerada "211", fim do Capítulo
+  57): última linha de prosa do livro ("...temos as mãos livres pra
+  atender.") seguida de espaço em branco e numeração de rodapé —
+  fechamento correto, sem conteúdo cortado.
+- Nenhum problema de layout encontrado em nenhuma das cinco páginas
+  inspecionadas.
+
+TESTE ESPECÍFICO DE NEGRITO (bug histórico documentado no Livro 1 de
+Família Bittencourt): o manuscrito deste livro NÃO usa **negrito**
+markdown em nenhum dos 57 capítulos (varredura `grep -c '\*\*'` em
+todos os arquivos de outputs/final/manuscrito/: zero ocorrências em
+todos). Não havia, portanto, nenhuma página real do livro para
+verificar negrito — apenas itálico (SMS/pensamento interno), conferido
+e correto na página 5 (ver acima). O script build_pdf.py mantém a
+correção histórica do bug (conversão de **negrito** antes de *itálico*
+em `_markdown_inline_to_reportlab`) já em vigor, herdada sem alteração.
+
+===============================================================
+6. RÉGUA "A GENTE" — VARREDURA FINAL
+===============================================================
+- python3 scripts/regua_gate.py sobre os 57 arquivos de
+  outputs/final/manuscrito/: LIMPO em todos os 57 (RESULTADO: LIMPO —
+  pode avançar, exit code 0)
+- grep -noiP '\ba gente\b' em outputs/final/manuscrito/*.md: nenhuma
+  ocorrência real da expressão proibida.
+Régua 100% limpa nos 57 arquivos finais entregues.
+
+===============================================================
+7. PROBLEMAS ENCONTRADOS E RESOLVIDOS NO PROCESSO
+===============================================================
+Nenhum problema estrutural foi encontrado no manuscrito de origem ou
+nos scripts herdados. Único ponto de atenção tratado ativamente:
+- Nenhuma das duas opções de subtítulo sugeridas no briefing tinha
+  ocorrência literal no texto (ver seção 2) — resolvido escolhendo
+  "Acima de Qualquer Suspeita" por critério temático/de gênero,
+  conforme instrução explícita do usuário de que essa era uma decisão
+  aceitável mesmo sem ocorrência literal.
+Fora isso, o pipeline (conversão de capítulos, build_epub.py,
+build_pdf.py, regua_gate.py) rodou sem erros, sem necessidade de
+ajuste em nenhum script herdado do catálogo.
+
+===============================================================
+8. LEMBRETE — IDENTIFICADOR PLACEHOLDER
+===============================================================
+O campo "identifier" em metadata.json/metadados_o-lado-escuro-da-lei.json
+é um UUID gerado automaticamente
+(urn:uuid:d2a8c5a2-f791-4233-92d4-db9f2c42e11c) — NÃO é um ISBN real.
+Antes de publicar na Amazon KDP, substituir por um ISBN próprio (se o
+autor tiver um) ou deixar a KDP atribuir um ASIN/ISBN grátis no fluxo
+de publicação — a KDP aceita o livro sem ISBN próprio, atribuindo
+automaticamente.
+
+===============================================================
+9. CAPA — DIREÇÃO DE ARTE
+===============================================================
+Prompt gerado em outputs/final/prompt_capa_o-lado-escuro-da-lei.txt,
+seguindo o tom "suspense policial noturno" pedido no briefing do
+usuário e no project_dna.md (seção 0): elementos urbanos escuros,
+silhuetas em contraluz sob giroflex de viatura (vermelho e azul
+pulsando na neblina, nunca se fundindo em roxo limpo), fórum/tribunal
+desfocado ao fundo, asfalto molhado refletindo as duas cores de sirene,
+crachá funcional caído como detalhe simbólico discreto. Explicitamente
+DIFERENTE de toda capa anterior da casa — checagem feita revisando os
+prompts/registros visuais anteriores do catálogo antes de escrever
+este:
+- Sombras de Aluguel L1: preto/cinza com acento vermelho-sangue OU
+  dourado-âmbar, silhueta solitária na névoa de estrada de serra à
+  noite.
+- Sombras de Aluguel L2: tech noir verde/azul.
+- Sombras de Aluguel L3: camuflagem urbana/imprensa.
+- Elite de Cambridge: tijolo, neve e reflexo de código.
+- Jogo Infinito: mármore negro e relógio de bolso.
+- Família Bittencourt: vidro-glamour paulistano, azulejo de Alfama,
+  estufa e orquídea.
+- Gelo e Sangue: gelo de rinque, tundra industrial, aurora boreal.
+- A Mão na Alavanca / branding-base "The Old English Gentleman's
+  Club": carvalho, veludo, whiskey, chiaroscuro quente/dourado.
+Nenhum elemento de paleta, textura ou objeto simbólico foi reaproveitado
+de nenhuma capa anterior — a paleta definidora aqui (vermelho + azul de
+sirene sobre cinza-asfalto/preto-noturno) é exclusiva deste livro no
+catálogo.
+
+===============================================================
+10. PRIMEIRO LIVRO DA SÉRIE "JUSTIÇA SOMBRIA" — NOTA DE CATÁLOGO
+===============================================================
+"O Lado Escuro da Lei" é o primeiro livro da casa R.B. Guidenelli no
+universo "Justiça Sombria" (legal thriller/romantic suspense, sexta
+série do catálogo) — universo NOVO e independente de todas as outras
+séries da casa, sem cameo cruzado, conforme travado no
+project_dna.md/TASK.md. O briefing do usuário sinaliza potencial de
+série futura ("Justiça Sombria: thrillers românticos focados em casos
+de corrupção e agentes da justiça sob ameaça, cada livro com um
+par/caso diferente"), no mesmo padrão já usado em Elite de Cambridge e
+Sombras de Aluguel. A decisão de dar continuidade a essa série fica em
+aberto para o usuário — este é o primeiro livro do universo, sem
+nenhuma sequência ainda produzida; esta entrega cobre apenas o Livro 1,
+completo e fechado em si mesmo (sem gancho de epílogo pendente,
+conforme decisão travada de não incluir epílogo neste volume).
+
+===============================================================
+11. REVISÃO EDITORIAL GLOBAL — STATUS DE ENTRADA
+===============================================================
+Manuscrito recebido já com status de revisão global aprovada (branch
+claude/new-session-3oa2hn, commit 38a51ee "Revisão editorial global
+(bia-ferreira-editor-global): O Lado Escuro da Lei", anterior a esta
+formatação, com 3 correções já aplicadas). Esta etapa
+(bia-ferreira-formatter) não reabriu revisão de prosa — tratou o texto
+de outputs/conteudo/ como final, limitando-se a conversão de formato,
+empacotamento e QA técnico (régua, negrito/itálico, layout, metadados,
+contagem de palavras).
+
+===============================================================
+ARQUIVOS DE ENTREGA
+===============================================================
+- outputs/final/o-lado-escuro-da-lei.epub
+- outputs/final/o-lado-escuro-da-lei_kdp.pdf
+- outputs/final/prompt_capa_o-lado-escuro-da-lei.txt
+- outputs/final/metadata.json
+- outputs/final/metadados_o-lado-escuro-da-lei.json (cópia)
+- outputs/final/relatorio_formatacao.txt (este arquivo)
+- outputs/final/manuscrito/01_capitulo.md ... 57_capitulo.md
+- outputs/final/manuscrito/metadata.json

@@ -1,0 +1,47 @@
+TÍTULO: Justiça Sombria — Livro 1: O Lado Escuro da Lei
+
+DESCRIÇÃO VISUAL:
+Uma avenida deserta de São Paulo à noite, asfalto molhado refletindo luz,
+neblina baixa e úmida rastejando entre os prédios. No primeiro plano,
+duas silhuetas humanas em contraluz — um homem e uma mulher, costas
+paralelas ou ombro a ombro, nunca de frente um pro outro, rostos não
+identificáveis — atravessando a rua num movimento de fuga contida, quase
+uma caminhada apressada, não uma corrida em pânico. A luz que os recorta
+não é de poste comum: é o giroflex de uma viatura fora de quadro,
+pulsando vermelho e azul intermitente contra a neblina e contra a
+fachada de um prédio de fórum/tribunal ao fundo (colunas clássicas
+parcialmente visíveis, desfocadas, quase um fantasma arquitetônico atrás
+da névoa). O vermelho e o azul da sirene se misturam na bruma como duas
+cores em guerra, sem nunca se fundir num roxo limpo — a tensão visual
+central da capa. Piso molhado espelha os dois tons de luz em faixas
+longas e quebradas, como cortes. Um detalhe simbólico pequeno mas nítido
+em algum canto da composição (não centralizado, quase escondido): um
+crachá de identificação funcional caído ou pendurado torto — sugestão
+de autoridade que perdeu o controle da própria história, sem mostrar
+texto legível nele. Céu quase preto, sem estrelas, poluição luminosa
+alaranjada baixa no horizonte distante da cidade. Textura geral fosca,
+grão de foto noturna real (não polida/glossy), sensação de vigilância e
+perigo iminente, câmera na altura da rua, levemente inclinada, como
+still de perseguição. Sem rostos explícitos, sem beijo, sem abraço —
+os dois corpos comunicam aliança e urgência pela distância e pelo ritmo
+do passo, não pelo contato físico.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, rostos identificáveis,
+sorriso, pose de capa de romance clássico, fonte serifada dourada,
+carvalho, veludo, whiskey, biblioteca, vela, luz quente âmbar dominante,
+neblina de serra/montanha, floresta, estrada rural de terra, mármore
+negro polido, relógio de bolso, vidro espelhado tech noir verde/azul
+neon puro, camuflagem urbana, câmera de imprensa/flash de paparazzi,
+gelo, neve, tundra, aurora boreal, tijolo exposto estilo industrial,
+bandeira, símbolo partidário, urna eleitoral, algema em close
+explorativo, arma em destaque central, sangue visível, texto incorporado
+na imagem, fundo branco genérico, estética de cartaz policial B-movie
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: suspense policial noturno, cinematic thriller still, fotografia
+urbana granulada, iluminação de sirene vermelho-e-azul como fonte
+dominante contra neblina fria, editorial dark romantic suspense,
+tensão e urgência, nunca chiaroscuro quente/dourado da linha "The Old
+English Gentleman's Club" da casa.
