@@ -44,7 +44,7 @@ A pergunta dela me pega de surpresa, direta demais pra eu fingir que não existe
 
 — Você devia ter me contado ontem.
 
-— Você tinha acabado de descobrir que alguém tentou matar sua mãe adotiva no mesmo instante em que quase te perdi numa garagem. — A frase sai mais dura do que pretendo, mas verdadeira. — Escolhi esperar até ter certeza suficiente pra não te dar peso vago.
+— Você tinha acabado de escapar por pouco de um ataque numa garagem, no mesmo instante em que eu descobria que alguém tinha tentado invadir a casa da minha mãe. — A frase sai mais dura do que pretendo, mas verdadeira. — Escolhi esperar até ter certeza suficiente pra não te dar peso vago.
 
 Ela não responde de imediato, e no silêncio eu escuto, pela primeira vez desde que a conheço de verdade, alguma coisa que soa como ela decidindo confiar em mim mesmo sem gostar da decisão que tomei sozinho.
 

@@ -1,6 +1,6 @@
 # Capítulo 34 — Marcelo
 
-Tomás me liga antes das seis da manhã, a voz baixa e apressada do outro lado da linha, quebrando o pouco sono que consegui depois de uma noite que preferia ter durado mais.
+Nelson me liga antes das seis da manhã, a voz baixa e apressada do outro lado da linha, quebrando o pouco sono que consegui depois de uma noite que preferia ter durado mais.
 
 — Wagner Melo apareceu ontem à noite, perto do armazém onde ficam os contêineres apreendidos. — A informação sai rápida, nervosa. — Não sozinho. Trouxe mais três homens que nunca vi por aqui antes. Ficaram horas parados perto do perímetro, observando o esquema de vigilância da Polícia Federal.
 

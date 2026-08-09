@@ -8,7 +8,7 @@ Tento me lembrar da última vez que confiei assim em alguém, sem cláusula, sem
 
 Ligo pro Délcio às sete, baixinho, andando até a cozinha pra não acordar ela.
 
-— Sua mãe caminhou normal — informa ele, direto ao ponto, sem cerimônia matinal. — Nosso homem confirma que ninguém a seguiu de perto. Mas tem uma coisa que você precisa saber.
+— A mãe da Vera caminhou normal — informa ele, direto ao ponto, sem cerimônia matinal. — Nosso homem confirma que ninguém a seguiu de perto. Mas tem uma coisa que você precisa saber.
 
 — Fala.
 

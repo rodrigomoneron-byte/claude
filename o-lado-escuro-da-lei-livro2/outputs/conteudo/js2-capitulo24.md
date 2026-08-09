@@ -2,7 +2,7 @@
 
 O cais de contêineres às dez da manhã ferve com o barulho de sempre — guindastes rangendo trilho acima, buzinas de caminhão avisando manobra, o cheiro de diesel e maresia grudando na roupa antes mesmo de eu descer do carro —, e é nesse caos organizado que ainda me sinto mais competente que em qualquer sala de audiência ou gabinete climatizado.
 
-Tomás, motorista de empilhadeira que conheço desde os tempos de agente, me encontra perto do armazém 14, fingindo checar pressão de pneu enquanto conversa comigo baixo, sem olhar na minha direção mais do que o necessário.
+Nelson, motorista de empilhadeira que conheço desde os tempos de agente, me encontra perto do armazém 14, fingindo checar pressão de pneu enquanto conversa comigo baixo, sem olhar na minha direção mais do que o necessário.
 
 — Os caras da APBS andam nervosos essa semana — diz, batendo o pneu com a bota. — Reforçaram escolta em dois armazéns que nunca tiveram escolta antes. Um deles é onde ficam os contêineres retidos pra perícia complementar.
 
@@ -14,7 +14,7 @@ Anoto mentalmente cada detalhe, porque escrever ali, à vista de qualquer câmer
 
 — Precisa de mais alguma coisa? — pergunta ele, já se afastando, o nervosismo de sempre voltando assim que a conversa passa de cinco minutos.
 
-— Só isso. Valeu, Tomás.
+— Só isso. Valeu, Nelson.
 
 Sigo pro carro fazendo o trajeto mais longo de propósito, cortando por dois quarteirões de armazém vazio antes de voltar pra rua principal, verificando pelo retrovisor três vezes se algum veículo mantém distância constante demais atrás de mim. Encontro: uma picape cinza, placa parcialmente coberta de lama que não condiz com o resto da lataria limpa, mantendo exatamente cem metros de distância desde que saí do armazém 14.
 

@@ -14,7 +14,7 @@ Não recebo resposta de volta por dois minutos inteiros, tempo que parece se est
 
 — Não é.
 
-Levanto a cabeça devagar por cima do contêiner, os olhos varrendo o pátio iluminado por holofote de segurança, e é aí que vejo — silhuetas se movendo entre os contêineres empilhados, mais numerosas do que qualquer relatório de Tomás sugeriu, posicionadas de um jeito que não é acaso, é formação, é gente treinada pra cercar, não pra fugir.
+Levanto a cabeça devagar por cima do contêiner, os olhos varrendo o pátio iluminado por holofote de segurança, e é aí que vejo — silhuetas se movendo entre os contêineres empilhados, mais numerosas do que qualquer relatório de Nelson sugeriu, posicionadas de um jeito que não é acaso, é formação, é gente treinada pra cercar, não pra fugir.
 
 — Délcio, isso não é operação de destruir prova. — Sinto o corpo inteiro mudar de estado, o mesmo instinto que me manteve vivo em quinze anos de trabalho de campo assumindo controle. — Isso é emboscada. Alguém sabia que nós vínhamos.
 

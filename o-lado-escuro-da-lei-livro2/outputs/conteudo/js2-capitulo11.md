@@ -10,7 +10,7 @@ Entro, tranco a porta atrás de mim com as duas travas, gesto que nunca fiz ante
 
 — Pode ir.
 
-— Como está a segurança na casa da sua mãe? — pergunto, seguindo ele pelo corredor estreito.
+— Como está a segurança na casa da minha mãe? — pergunto, seguindo ele pelo corredor estreito.
 
 — Os homens do Délcio chegaram há duas horas. Ela nem percebeu, exatamente como pedi. — Ele para na porta do quarto, olhando pra mim por cima do ombro. — Amanhã de manhã, quando ela sair pra caminhar, vai ter alguém discreto acompanhando de longe. Prometo que ela vai ficar bem, dentro do que dá pra prometer.
 
