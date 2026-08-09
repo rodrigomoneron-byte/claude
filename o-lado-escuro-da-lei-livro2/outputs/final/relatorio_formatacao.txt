@@ -1,0 +1,193 @@
+RELATÓRIO DE FORMATAÇÃO — bia-ferreira-formatter
+Justiça Sombria, Livro 2 — "Cadeia de Custódia"
+R.B. Guidenelli
+Gerado em 2026-08-09
+
+============================================================
+1. ESCOLHA DE TÍTULO
+============================================================
+
+A bíblia (references/arco-trama-livro2.md, seção "Título e Série")
+listava três sugestões a testar contra o texto final: "Verdade sob
+Custódia", "Prova Técnica", "Zona Alfandegada".
+
+Testagem contra os 56 capítulos aprovados (busca literal):
+  - "zona alfandegada"          → 0 ocorrências (não aparece no texto)
+  - "verdade sob custódia"      → 0 ocorrências (não aparece no texto)
+  - "prova técnica"             → 1 ocorrência (cap. 07), pontual, não é
+                                   motivo recorrente
+  - "cadeia de custódia"        → 4 ocorrências, distribuídas nos três
+                                   atos (caps. 03, 21, 25, 34)
+
+Nenhuma das três sugestões originais passou no teste de "frase literal
+do próprio texto" — por isso, seguindo a instrução de propor um título
+novo quando nenhuma sugestão servir, o título final escolhido foi:
+
+  TÍTULO: Cadeia de Custódia
+  SUBTÍTULO: Prova de Confiança
+
+"Cadeia de custódia" é o motivo textual mais forte do livro: aparece
+literalmente no Ato 1 (cap. 03, o depoimento de Vera na sindicância),
+no Ato 2 (cap. 21, o memorando que revela o uso político do
+depoimento; cap. 25, quando a mesma expressão jurídica que destruiu
+Marcelo é usada pela defesa para tentar destruir o processo que agora
+o redime) e no Ato 3 (cap. 34, quando Vera insiste em acompanhar a
+operação pessoalmente "pra garantir cadeia de custódia impecável").
+O registro duplo é explícito no próprio texto (cap. 25): o termo
+técnico-jurídico (integridade da prova) dobra sobre o sentido
+emocional do livro — a custódia de uma verdade, de uma reputação, e,
+ao final, a custódia mútua de confiança entre Vera e Marcelo. Segue o
+mesmo padrão da casa usado no Livro 1 ("O Lado Escuro da Lei" /
+"Acima de Qualquer Suspeita" — idioma jurídico com leitura dupla).
+
+O subtítulo "Prova de Confiança" reforça o mesmo jogo de registro sem
+repetir a palavra "custódia": "prova" no sentido processual (evidência
+reunida ao longo do processo) e no sentido idiomático (teste de
+confiança entre os protagonistas).
+
+============================================================
+2. ARQUIVOS GERADOS
+============================================================
+
+outputs/final/manuscrito/01_capitulo.md ... 56_capitulo.md
+  - 56 arquivos, um por capítulo, copiados de outputs/conteudo/
+    js2-capituloNN.md. O formato de origem já trazia o POV integrado
+    ao título ("# Capítulo N — Vera" / "# Capítulo N — Marcelo"), sem
+    marcação crua "### POV:" — não foi necessária conversão adicional,
+    apenas renomeação para o padrão NN_capitulo.md exigido pelo
+    pipeline de build.
+
+outputs/final/manuscrito/metadata.json
+  - title, subtitle, series, series_index=2, author "R.B. Guidenelli",
+    language pt-BR, identifier placeholder (urn:uuid, ver seção 6),
+    description (sinopse de vendas) e keywords.
+
+outputs/final/cadeia-de-custodia.epub
+outputs/final/cadeia-de-custodia_kdp.pdf
+outputs/final/prompt_capa_cadeia-de-custodia.txt
+outputs/final/metadados_cadeia-de-custodia.json
+outputs/final/relatorio_formatacao.txt (este arquivo)
+
+============================================================
+3. EPUB
+============================================================
+
+Build: scripts/build_epub.py (ebooklib + markdown)
+Capítulos incluídos: 56/56 — contagem confere com os 56 arquivos .md.
+Alternância de POV confirmada pelo próprio log de build: capítulos
+ímpares = Vera, pares = Marcelo, sem quebra em nenhum ponto.
+
+Validação: aberto programaticamente com
+  python3 -c "from ebooklib import epub; epub.read_epub(...)"
+  - Título: Cadeia de Custódia
+  - Autor: R.B. Guidenelli
+  - Idioma: pt-BR
+  - Identifier: urn:uuid:41679799-5745-4b50-82ee-f2520bf44eb9
+  - 57 itens de documento (56 capítulos + nav) — abriu sem erro.
+
+Metadados de série (calibre:series / calibre:series_index) presentes.
+Sumário (nav + NCX) gerado automaticamente a partir da lista de
+capítulos.
+
+============================================================
+4. PDF (6" x 9" KDP)
+============================================================
+
+Build: scripts/build_pdf.py (reportlab)
+Tamanho de página confirmado via pdfinfo: 432 x 648 pts = exatamente
+6" x 9". 208 páginas totais (1 página de título não numerada + 207
+páginas de conteúdo numeradas a partir do Capítulo 1).
+
+Inspeção visual (pdftoppm -png -r 100, páginas convertidas em imagem e
+abertas com a ferramenta de leitura):
+  - Página 1 (título): título "Cadeia de Custódia", subtítulo "Prova
+    de Confiança", autor e "Justiça Sombria — Livro 2" centralizados,
+    sem numeração — correto.
+  - Página 2 (abertura do Capítulo 1): título de capítulo centralizado
+    ("Capítulo 1 — Vera"), corpo em serif justificado com recuo de
+    primeira linha, margens consistentes com o gutter maior à esquerda
+    (encadernação) — correto.
+  - Página 76 (dentro do Capítulo 21): parágrafo em itálico (o
+    memorando interno citado no texto) renderizado corretamente em
+    itálico corrido, sem asterisco residual — correto. OBS: o
+    manuscrito não contém nenhum trecho em **negrito** (verificado por
+    varredura em todos os 56 arquivos); a régua de ênfase deste livro
+    usa apenas itálico, por isso a checagem de negrito não se aplica a
+    esta obra.
+  - Última página de conteúdo (208, numerada 207): fecha o Capítulo 56
+    (POV Marcelo) sem corte de texto, numeração de rodapé presente e
+    correta.
+
+Nenhum ajuste foi necessário nos scripts de build — a saída bateu com
+a especificação de references/kdp-specs.md na primeira geração.
+
+============================================================
+5. CONTAGEM DE PALAVRAS (Python, não wc -w)
+============================================================
+
+Contagem feita com len(open(f, encoding="utf-8").read().split()) sobre
+os 56 arquivos finais em outputs/final/manuscrito/ (não wc -w, por
+causa do bug de locale já documentado no projeto):
+
+  Total de capítulos: 56
+  Total de palavras:  56.364
+  Média por capítulo: ~1.006,5 palavras
+  Capítulo mais curto: 863 palavras
+  Capítulo mais longo: 1.183 palavras
+
+Dentro da meta travada de 55.000-58.000 palavras (project_dna.md,
+seção 3/5), consistente com a disciplina de mirar o topo da faixa
+mantida desde o Ato 1.
+
+============================================================
+6. RÉGUA "A GENTE" — VARREDURA FINAL
+============================================================
+
+Rodada final com scripts/regua_gate.py sobre os 56 arquivos de
+outputs/final/manuscrito/*.md (word-boundary correto, cobre "a gente"
+solto e formas oblíquas coladas: "pra gente", "da gente", "na gente"
+etc.):
+
+  RESULTADO: LIMPO — pode avançar (exit code 0), 56/56 arquivos LIMPO.
+
+Confirma a aprovação já registrada na revisão editorial global
+(commit c9d1f7a) — nenhuma regressão introduzida na cópia para a pasta
+final.
+
+============================================================
+7. IDENTIFICADOR / ISBN
+============================================================
+
+O identifier usado (urn:uuid:41679799-5745-4b50-82ee-f2520bf44eb9) é
+um PLACEHOLDER gerado automaticamente. Precisa ser substituído pelo
+ISBN real antes da publicação definitiva na Amazon KDP.
+
+============================================================
+8. STATUS DA SÉRIE
+============================================================
+
+Este é o Livro 2 de uma série em andamento ("Justiça Sombria"). O
+Livro 1, "O Lado Escuro da Lei" (Diana Rossi x Noah Martins), já está
+publicado. O capítulo final deste volume (Capítulo 56, POV Marcelo)
+fecha o arco central de Vera e Marcelo mas deixa um gancho que
+sinaliza espaço narrativo para a série continuar (novo caso/par
+potencial dentro do mesmo universo "Justiça Sombria"). A decisão de
+produzir ou não um Livro 3 fica em aberto para o usuário — nenhuma
+ação de continuação foi tomada nesta formatação.
+
+============================================================
+CHECKLIST FINAL
+============================================================
+
+[x] cadeia-de-custodia.epub — abre sem erro, sumário funcional, 56/56
+    capítulos, POV alternado corretamente
+[x] cadeia-de-custodia_kdp.pdf — 6"x9" (432x648pt), 208 páginas,
+    margens corretas, cada capítulo em página nova, numeração a partir
+    do Capítulo 1, inspeção visual feita em 4 páginas
+[x] prompt_capa_cadeia-de-custodia.txt — tom "porto noturno" próprio
+    deste livro, sem reaproveitar elementos visuais de nenhuma outra
+    capa da casa
+[x] metadados_cadeia-de-custodia.json — todos os campos preenchidos
+[x] relatorio_formatacao.txt — este arquivo
+[x] régua "a gente" limpa (56/56, scripts/regua_gate.py)
+[x] contagem de palavras via Python: 56.364 palavras, dentro da meta

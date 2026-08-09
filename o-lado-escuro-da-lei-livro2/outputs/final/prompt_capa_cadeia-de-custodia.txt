@@ -1,0 +1,67 @@
+TÍTULO: Justiça Sombria — Livro 2: Cadeia de Custódia
+
+DESCRIÇÃO VISUAL:
+Vista noturna de um terminal de contêineres portuário, câmera em
+ângulo baixo/levemente contra-plongée, olhando para cima entre duas
+fileiras de contêineres empilhados que formam um corredor estreito e
+imponente — paredes de metal convergindo ao fundo, sensação de
+labirinto industrial. Ao fundo, silhuetas de guindastes portuários
+(pórticos de cais) recortadas contra um céu noturno de nuvens baixas,
+braços erguidos como estruturas de vigília. O céu é azul-marinho quase
+preto, com uma leve névoa de umidade marítima suspensa no ar,
+levemente iluminada por baixo pela cidade portuária distante.
+
+Iluminação principal: um único holofote de segurança portuária, forte
+e frio (branco-azulado), varrendo o corredor entre os contêineres
+desde um ponto alto fora de quadro — cria um cone de luz nítido que
+corta a escuridão e projeta sombras longas e duras dos contêineres
+sobre o chão molhado (leve reflexo de poça d'água, sugerindo chuva
+recente ou maresia). Dentro ou na borda desse cone de luz, DUAS
+SILHUETAS humanas indistintas, em plano bem aberto e distante — uma
+mais esguia, outra mais robusta — paradas de costas ou de perfil,
+próximas mas não se tocando, olhando na mesma direção para o breu
+adiante do corredor de contêineres, como quem enfrenta juntas o mesmo
+risco. Sem rostos visíveis, sem pose romântica — a proximidade é de
+aliança sob ameaça, não de romance explícito.
+
+Paleta: dominante fria — azul-marinho profundo, aço acinzentado, preto
+industrial — pontuada pelo branco-azulado frio do holofote de
+segurança (não pelo amarelo/âmbar quente do chiaroscuro de velas do
+"Old English Gentleman's Club"; aqui a luz é institucional, de
+vigilância, não doméstica). Um único acento de cor viva e fria pode
+aparecer em algum canto discreto do quadro — uma etiqueta ou lacre de
+contêiner num tom vermelho-ferrugem desbotado, sugerindo selo violado
+ou numeração de carga, sem nunca virar o foco da composição.
+
+Textura: metal riscado e oxidado dos contêineres, poça d'água refletindo
+o holofote, névoa marítima leve suavizando os contornos ao fundo — tudo
+com grão fotográfico sutil, sensação de fotografia noturna de longa
+exposição, não render limpo/digital.
+
+Tipografia sugerida: título em serif display de alto contraste, cor
+branco-gelo ou prateado fosco, centralizado no terço superior ou
+inferior do quadro, onde o corredor de contêineres cria naturalmente
+um espaço negativo mais escuro; nome do autor (R.B. Guidenelli) em
+serif clássica menor, mesma cor, na base.
+
+NEGATIVE PROMPT:
+giroflex, luz de viatura policial, sirene, fachada de fórum ou tribunal,
+colunas neoclássicas, toga, martelo de juiz, casal abraçado, quase-beijo,
+rostos em close, rostos visíveis, cristal de whiskey, madeira de carvalho
+polida, veludo, couro capitonê, biblioteca de clube inglês, luz de velas
+ou luz âmbar quente dominante, brasão heráldico, monograma dourado,
+símbolos de partido político, bandeiras, urna eleitoral, água de poço ou
+mar aberto, praia, pulseira de miçangas, mármore/vidro de arranha-céu
+corporativo, skyline financeiro, néon urbano colorido, textura de gelo
+ou paisagem congelada, fundo branco genérico, estética de cartaz de
+filme de ação, texto incorporado na imagem além do título indicado
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, fotografia noturna industrial, suspense
+jurídico-portuário, tensão contida, editorial e sóbrio — frio
+dominante (aço, azul-marinho, névoa) cortado por um único feixe de luz
+de vigilância branco-azulada, sem o chiaroscuro quente do branding
+"Old English Gentleman's Club" e sem repetir nenhum elemento visual do
+Livro 1 desta série (giroflex, viatura, fachada de fórum) ou de
+qualquer outra capa da casa R.B. Guidenelli.
