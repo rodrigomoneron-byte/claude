@@ -165,6 +165,131 @@ Vitória Atlético.
   iniciais mais longos para reduzir o número de rodadas de expansão e
   aproximar a média real da faixa-alvo.
 
+### Ato 3 (caps. 41-56) — decisões travadas nesta produção
+- **Consequência do afastamento forçado (caps. 41-44)**: comunicado conjunto
+  dos dois clubes, período de distanciamento público doloroso mas não
+  definitivo; auditoria interna de conduta aberta sobre Renata (cap. 43);
+  coletiva de imprensa de Léo (cap. 44) tratada com cuidado profissional,
+  sem confirmar nem negar sob orientação de assessoria.
+- **Reviravolta institucional (caps. 45-48)**: Marisa Aquino confirma que a
+  auditoria interna não encontrou nenhum comprometimento real da integridade
+  profissional de Renata (cap. 47) — mantendo-a caracterizada como
+  profissional justa do início ao fim, nunca hostil. Léo confronta o próprio
+  técnico sobre a perda de titularidade sem recorrer a acusação contra Breno
+  (cap. 48), escolha de integridade que paga o preço narrativo combinado na
+  bíblia.
+- **Decisão de não se esconder mais (cap. 49-50)**: Renata decide ir à
+  arquibancada do clássico sem se esconder; encontro com Bia, Júlia, Thiago e
+  Marcos reunidos no apartamento de Léo na véspera, consolidando o cameo
+  cruzado como apoio ativo antes do jogo decisivo.
+- **Clássico decisivo (caps. 51-52)**: cap. 51 (Renata) — manhã do jogo,
+  chegada ao estádio, reencontro com Diego (torce "pelo time, não contra o
+  namorado"), arquibancada com Bia e Júlia. Cap. 52 (Léo) — jogo em si,
+  vitória 2-1 do Metropolitano, gol de Breno assistido por Léo (reconciliação
+  de vestiário sem apagar o histórico de ciúme), reencontro público na grade
+  entre campo e arquibancada.
+- **Declaração pública (cap. 53, Renata)**: Léo interrompe a própria
+  entrevista pós-jogo pra declarar publicamente o relacionamento
+  ("Renata Duprat... eu amo você. Não é segredo, não é escândalo, não é
+  conflito de interesse nenhum"); Renata responde publicamente também, sem
+  deixar a declaração ficar só do lado dele, e defende a própria integridade
+  profissional na frente da imprensa. Reunião pós-jogo com os quatro do
+  cameo + Diego, todos com papel de apoio fiel às respectivas
+  caracterizações.
+- **Reafirmação íntima + heat scene #8 (cap. 54, Léo)**: primeira noite
+  depois do clássico, consentimento verbalizado explicitamente
+  ("Posso?"/"Pode", "Tem certeza?"/"Absoluta"), mensagem de Marcos plantando
+  o gancho da conversa "não urgente, não ruim" que se resolve no cap. 55.
+- **Resolução institucional/familiar (cap. 55, Renata)**: três semanas
+  depois — Marisa Aquino flexibiliza formalmente o protocolo de conflito de
+  interesse do Vitória Atlético citando o caso de Renata como precedente;
+  Diego liga contando que Breno renovou contrato e que ele e Léo treinam
+  juntos sem clima estranho; cena final na cafeteria de Pinheiros (onde tudo
+  começou, cap. 11) com Marcos anunciando a própria aposentadoria pro fim da
+  temporada e recomendando formalmente Léo pra liderança de vestiário.
+- **DECISÃO EDITORIAL — capítulo de fechamento adicional (cap. 56, Léo)**:
+  ao reler os caps. 53-55, confirmamos que a declaração pública (cap. 53) e a
+  reafirmação íntima (cap. 54) já cobriam boa parte do desfecho romântico,
+  mas faltava uma cena "nos próprios termos" — privada, doméstica, sem
+  público nem instituição nenhuma envolvida — espelhando a função estrutural
+  do cap. 57 de Júlia (Livro 1) e do cap. 57 de Bia (Livro 2) desta casa:
+  o capítulo final antes do epílogo como reafirmação íntima do casal, não
+  mais a resolução do conflito externo. Adicionamos o cap. 56 (Léo): ele
+  emoldura o mapa de calor original que Renata mostrou a ele no cap. 11
+  (símbolo estrutural do livro, marca 5 do project_dna.md — "dados como
+  linguagem de intimidade") e os dois reafirmam o compromisso "sem plateia
+  nenhuma" — decisão que também fechou o piso de 55.000 palavras dos
+  capítulos numerados (53.893 após o cap. 55, 55.026 após o cap. 56). Esse
+  capítulo também hospeda a 9ª e última cena de heat do livro (topo da meta
+  8-9), com o mesmo ritual de consentimento verbalizado ("Tem
+  certeza?"/"Absoluta") já estabelecido no cap. 54. Fecha em tom sereno
+  (sem gancho de perigo, por decisão editorial explícita — o conflito
+  externo já estava resolvido nos caps. 53-55), com transição temporal pro
+  evento de encerramento de temporada que ancora o epílogo.
+- **Cadência de heat do Ato 3 + fechamento**: 2 cenas (caps. 54 e 56), gap de
+  2 capítulos entre elas, dentro do máximo de 6. Total do livro: 9/9 cenas-
+  meta (topo da meta), primeira no cap. 20, última no cap. 56 — nenhum gap
+  jamais excedeu 6 capítulos ao longo do livro inteiro.
+- **"A gente" — vigilância no processo de escrita (cap. 56 e epílogo)**:
+  ocorreu em RASCUNHO no cap. 56 (duas vezes, incluindo uma reincidência do
+  device explicitamente proibido de personagem "quase" dizer "a gente" e a
+  narração comentar/corrigir em cena) e no epílogo Parte 1 (uma vez, mesmo
+  device proibido, personagem "Júlia" quase dizendo "a gente" com correção
+  narrada). Todas identificadas e removidas por completo — não só
+  substituídas por "nós", mas a auto-referência ao erro também cortada da
+  cena — ANTES do registro final, seguindo exatamente o protocolo de Ato 1 e
+  Ato 2. O `regua_gate.py` também sinalizou um falso-positivo de forma
+  oblíqua ("dessa gente toda", uso legítimo do substantivo "gente" = pessoas,
+  não o pronome proibido) no epílogo Parte 2 — reescrito por precaução mesmo
+  sem violação real da régua, para eliminar qualquer ambiguidade.
+
+### Epílogo (obrigatório, fecha a trilogia) — decisões travadas
+- **Estrutura**: 2 capítulos separados — `ut3-epilogo01.md` (Renata) e
+  `ut3-epilogo02.md` — Parte 2 (Léo) —, cabeçalhos "# Epílogo" e "# Epílogo —
+  Parte 2", NUNCA "# Capítulo N". Esta é a PRIMEIRA vez que a trilogia
+  formaliza o recurso de epílogo separado — Livros 1 e 2 fecharam a própria
+  história no capítulo 57 (Júlia e Bia, respectivamente), sem arquivo de
+  epílogo à parte.
+- **Cenário — fechamento de círculo estrutural**: Parte 1 se passa na
+  segunda edição do evento "Bola pra Frente" (o mesmo evento social que abriu
+  o livro nos caps. 1-2), três meses depois do clássico, no jantar de
+  encerramento de temporada dos dois clubes — callback estrutural
+  deliberado. Marcos anuncia a própria aposentadoria publicamente e confirma
+  a indicação de Léo pra braçadeira de capitão na próxima temporada,
+  amarrando o gancho plantado no cap. 55.
+- **Reunião dos três casais**: Léo/Renata, Thiago/Júlia (L1) e Marcos/Bia
+  (L2) fisicamente presentes nas duas partes, com Diego Duprat também
+  presente como família estendida (não um dos três casais centrais, mas
+  parte do círculo). Nenhum arco romântico próprio de Thiago/Júlia ou
+  Marcos/Bia foi reaberto — ambos os casais aparecem estabelecidos,
+  consistentes com onde os livros 1 e 2 os deixaram, sem novos marcos de
+  enredo introduzidos pra eles (nenhuma menção a noivado/casamento não
+  documentado nos livros originais).
+- **Símbolos dos 3 livros reunidos fisicamente (Parte 2)**: o apito de Júlia
+  (Livro 1, agora usado como pingente); a caixinha de madeira de Marcos
+  guardando a braçadeira de capitão + o guardanapo com a frase de Bia
+  (Livro 2); e uma cópia impressa reduzida do mapa de calor de Renata
+  (Livro 3, emoldurado no cap. 56) — os três objetos pousados lado a lado
+  na mesma caixinha, callback explícito e literal pedido no briefing.
+- **Tom**: sereno do início ao fim, SEM gancho de perigo/tensão em nenhuma
+  das duas partes — fechamento definitivo da trilogia inteira, últimas
+  linhas de Léo fecham o tema central da série (escolher a pessoa certa
+  apesar do que "deveria" ser mais seguro) sem abrir nenhum conflito novo.
+- **Cadência de heat**: NENHUMA cena de heat no epílogo, por decisão
+  editorial — a 9ª e última cena do livro já havia acontecido no cap. 56,
+  e o tom sereno de reunião coletiva dos três casais não pedia (nem
+  comportava, com Diego e crianças presentes na Parte 1) mais uma cena de
+  intimidade.
+- **"A gente"**: ver nota acima (Ato 3 + epílogo) — todas as ocorrências de
+  rascunho identificadas e removidas antes do registro; confirmado limpo via
+  `regua_gate.py` consolidado + grep manual `-ilE` em todos os 58 arquivos
+  (`ut3-capitulo01.md` a `ut3-capitulo56.md` + `ut3-epilogo01.md` e
+  `ut3-epilogo02.md`) ao final da produção.
+- **Contagem final real**: capítulos numerados (1-56) = 55.026 palavras;
+  epílogo (2 partes) = 2.039 palavras; TOTAL combinado = 57.065 palavras —
+  dentro da faixa-alvo de 55.000-58.000 mesmo somando o epílogo, e acima do
+  piso mínimo mesmo considerando só os capítulos numerados.
+
 ### Ato 2 (caps. 19-40) — decisões travadas nesta produção
 - **Consequência imediata do flagrante (cap. 19)**: abre com o
   suspense deixado no fechamento do Ato 1 — Breno some sem confirmar

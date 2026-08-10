@@ -1,17 +1,17 @@
 # Progresso do Loop — Pênalti de Ouro (Estrelas do Gramado, Livro 3 - Fechamento da Trilogia)
 
 ## Estado atual
-- Status: Em andamento
-- Capítulos concluídos: 55 / 56
-- Próximo: Capítulo 56 (POV Leo)
-- Última atualização: 2026-08-10 16:37
+- Status: Manuscrito completo — revisão/formatação pendentes
+- Capítulos concluídos: 58 / 56
+- Próximo: Capítulo 59 (POV Renata)
+- Última atualização: 2026-08-10 17:12
 
 ## Placar
-- Palavras: 53893
-- Páginas KDP (~palavras/300): 180
-- Score médio: 6.58
-- Meta de palavras: 56500 (95%)
-- Cenas de heat: 8 / meta 9 (última no cap. 54)
+- Palavras: 57065
+- Páginas KDP (~palavras/300): 190
+- Score médio: 6.6
+- Meta de palavras: 56500 (101%)
+- Cenas de heat: 9 / meta 9 (última no cap. 56)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
