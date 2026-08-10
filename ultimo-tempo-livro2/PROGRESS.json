@@ -9,10 +9,10 @@
     "Bia",
     "Marcos"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Bia",
-  "updated": "2026-08-10 12:00",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
+  "next_pov": "Marcos",
+  "updated": "2026-08-10 12:29",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 6.5,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Bia",
+      "words": 1110,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Marcos",
+      "words": 1129,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Bia",
+      "words": 1027,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Marcos",
+      "words": 1011,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Bia",
+      "words": 1004,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Marcos",
+      "words": 1025,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Bia",
+      "words": 1021,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 48,
+      "pov": "Marcos",
+      "words": 991,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Bia",
+      "words": 990,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Marcos",
+      "words": 1010,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Bia",
+      "words": 956,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Marcos",
+      "words": 1026,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 53,
+      "pov": "Bia",
+      "words": 1003,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Marcos",
+      "words": 1004,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Bia",
+      "words": 974,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 56,
+      "pov": "Marcos",
+      "words": 980,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 57,
+      "pov": "Bia",
+      "words": 1127,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 39339,
-    "pages_kdp": 131,
-    "avg_score": 6.72,
-    "pct_to_target": 70,
-    "heat_scenes_done": 4,
-    "last_heat_chapter": 32
+    "chapters_done": 57,
+    "total_words": 56727,
+    "pages_kdp": 189,
+    "avg_score": 6.81,
+    "pct_to_target": 100,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 57
   }
 }

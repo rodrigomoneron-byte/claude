@@ -209,3 +209,108 @@ patrocínio/imprensa) + uma viagem de campanha publicitária conjunta
   Marcos), inclusive dando conselho direto sobre o próprio padrão do
   irmão (cap. 38). Gancho de Léo NÃO foi plantado neste ato (não era
   obrigatório) — recomendo introduzir organicamente no Ato 3.
+
+### Ato 3 (caps. 41-57) — decisões travadas nesta produção — FIM DO LIVRO
+- **Extensão real do ato**: 17 capítulos (41-57, dentro do intervalo
+  autorizado 41-58), não os ~15 sugeridos inicialmente — ritmo natural da
+  resolução pediu mais espaço pra reconciliação genuína + fechamento de
+  Rogério + fechamento da família Silveira + Copa América + virada de
+  "namoro oficial" pra namoro real + gancho do Léo, sem apressar nenhum
+  beat. Livro fecha com 57 capítulos no total (1-57), SEM epílogo formal.
+- **Padrão de Marcos (decidir sozinho)**: tratado como mudança genuína,
+  não correção instantânea — ele erra de novo por semanas (silêncio,
+  distância), processa com Duda e o pai (caps. 42/61-...), e só demonstra
+  a mudança de fato em atos concretos e repetidos: pergunta antes de
+  decidir (cap. 42, mensagem à Bia sobre a coletiva), segura um convite
+  de patrocínio pra perguntar a ela antes (cap. 46), leva ela pra
+  negociar o fim do contrato de imagem junto (cap. 48), recusa o Al-Zafra
+  de vez sem hesitar (cap. 52).
+- **Dívida do pai assumida publicamente**: coletiva de imprensa no cap.
+  44, sem rascunho da assessoria, com Vicente presente fisicamente ao
+  lado dele — controla a própria narrativa antes que a imprensa faça
+  isso por ele, conforme o beat previsto na bíblia. Reação pública
+  majoritariamente positiva; vira, inclusive, ponto de conexão emocional
+  com Bia (ela assiste sozinha, cap. 43, e vai falar com ele por conta
+  própria no dia seguinte, cap. 45).
+- **Reconciliação**: negociada explicitamente por Bia no cap. 45 (ela
+  define os termos: devagar, sem decisão unilateral de novo, saída sem
+  segunda chance se o padrão se repetir) — nunca imposta por nenhum dos
+  dois lados, conforme o limite de conteúdo. Selo físico da
+  reconciliação (mãos, depois beijo) só depois da conversa de termos, não
+  antes.
+- **Contrato "namoro oficial" → namoro real**: encerramento formal
+  negociado com Otávio no cap. 48 (mantém o prazo contratual restante sem
+  multa, mas com aprovação prévia obrigatória de ambos pra qualquer
+  aparição, e compartilhamento imediato de qualquer documento de
+  planejamento — resposta direta à pasta de deliverables do cap. 33).
+  Otávio se desculpa formalmente pelo overbooking de Florianópolis nesta
+  mesma cena. Cena de virada do anúncio público: cap. 50, no evento de
+  arrecadação do hospital infantil — post espontâneo, foto tirada por uma
+  enfermeira (não fotógrafo contratado), legenda escrita por Bia com a
+  própria caneta (símbolo fechado aqui: a caneta que riscava releases
+  agora escreve a própria história, sem revisão de ninguém). Sem
+  aprovação prévia da Prisma, sem release oficial.
+- **Ferida do Rogério**: distinção entre "usar sem vergonha" (Rogério) e
+  "errar com vergonha e ownership" (Marcos) verbalizada explicitamente
+  por Bia com Júlia (cap. 41) e depois diretamente pra Marcos (cap. 45).
+  Fechamento final do arco no cap. 51: Rogério comenta publicamente a
+  "crise" do casal numa entrevista, tenta se reaproximar por DM depois de
+  ver a notícia da reconciliação — Bia responde com uma mensagem final
+  de fechamento (sem cena presencial, conforme a bíblia) e bloqueia,
+  sem deixar ele controlar nem esse último detalhe da própria narrativa.
+- **Copa América/Weverson**: convocação por mérito puro confirmada no
+  cap. 49 — Weverson se desculpa formalmente em público e em particular
+  pela cobrança de "imagem amaciada", reconhecendo que "competência
+  sempre devia ter sido o suficiente". Fecha o arco temático de Bia
+  citado na bíblia. Bia disputa e passa da fase de grupos da Copa América
+  (dois gols, cap. 55) antes do fechamento do livro — o torneio segue em
+  aberto (quartas de final), não foi mostrado em detalhe nem resolvido
+  (decisão editorial: não fazia parte do escopo do livro dramatizar o
+  torneio inteiro, só provar o mérito da convocação e do desempenho).
+- **Al-Zafra FC**: encerrado definitivamente no cap. 52 — última ligação
+  do empresário, recusa final sem hesitação, pedido explícito pra
+  remover o contato da lista.
+- **Vicente Silveira**: em recuperação ativa no fim do livro — grupo de
+  apoio, novo emprego leve numa oficina de um amigo, jardim da esposa
+  florescendo de novo (símbolo de recomeço usado nos caps. 40, 42, 52).
+- **Símbolos fechados**: braçadeira de capitão + guardanapo com a letra
+  de Bia guardados juntos na caixa de madeira (caps. 40→57, ganham
+  companhia de uma terceira folha escrita por Bia no capítulo final); a
+  caneta de Bia fecha o arco escrevendo a legenda do anúncio real (cap.
+  50) e uma declaração final pro próprio Marcos (cap. 57).
+- **GANCHO PRO LIVRO 3 (LÉO) — LER COM ATENÇÃO NO ONBOARDING DO LIVRO 3**:
+  Léo Andrade, lateral mais novo do elenco do São Paulo Metropolitano
+  (chegou no meio da temporada do Livro 2), introduzido como personagem
+  ativo nos caps. 54 e 56 — jovem, carisma fácil por cima de alguma coisa
+  não resolvida ("confundia intensidade com compromisso", nas palavras
+  dele mesmo), Marcos identifica nele um padrão parecido com o próprio
+  (esconder peso atrás do sorriso) e se oferece como apoio. No cap. 56,
+  na festa de encerramento do Livro 2, Léo conhece **Renata Duprat**,
+  analista de desempenho do **Vitória Atlético** — clube rival do São
+  Paulo Metropolitano no returno do campeonato — e IRMÃ MAIS VELHA de
+  **Diego Duprat**, capitão do Vitória Atlético (adversário direto do
+  time de Marcos). Química imediata, tensão de "lado errado da
+  rivalidade" explicitamente nomeada por ambos os personagens em cena
+  (Léo: "provavelmente a pior ideia que já tive na vida"). Fecha o livro
+  em aberto, sem consumação nem decisão — matéria-prima pronta pra
+  Forbidden Romance/Age Gap leve conforme a tabela de expansão do
+  briefing original ("Léo x irmã de um rival"). Sugestão pro Livro 3: a
+  "idade" de Renata não foi numericamente fixada neste livro (só
+  "profissional", "irmã mais velha do capitão rival") — quem abrir o
+  Livro 3 tem liberdade pra definir o gap exato, mantendo coerência com
+  "age gap leve".
+- **Cadência de heat do Ato 3**: 5 cenas — caps. 47 (Bia, reconciliação
+  física depois do primeiro passo real de mudança), 52 (Marcos, noite em
+  casa depois do fechamento do arco do pai/Al-Zafra), 55 (Bia, reencontro
+  depois de três semanas de concentração na Copa América), 57 (Bia,
+  manhã seguinte à festa de encerramento, capítulo final do livro).
+  Total do livro: 8 cenas de heat (4 no Ato 2 + 4 no Ato 3, incluindo a
+  cena do cap. 47 que abre o ato), abaixo da meta ideal de 9, mas dentro
+  da faixa aceitável 8-9 definida nas instruções — nenhuma cena foi
+  forçada além do que os beats de trama sustentavam.
+- **Fechamento do livro**: cap. 57 (Bia), manhã depois da festa de
+  encerramento — SEM epílogo formal, SEM salto de tempo, cena presente
+  fechando os símbolos (braçadeira, guardanapo, caneta), reafirmando o
+  namoro real e a mudança de padrão de Marcos, e citando explicitamente
+  o gancho do Léo/Renata como a última linha de diálogo do livro antes
+  do fechamento doméstico final.
