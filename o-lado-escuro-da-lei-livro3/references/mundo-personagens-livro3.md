@@ -268,3 +268,180 @@ casais dos Livros 1-2.
   confirmado: risco maior em diálogo de tensão alta/negociação entre os
   protagonistas. Vigilância redobrada recomendada para o Ato III,
   especialmente nas cenas de resgate e confronto final.
+
+### Ato III (caps. 41-55) — decisões travadas na escrita
+
+- **Resolução da captura de Caio (caps. 41-44)**: Caio é levado, sedado,
+  do galpão da armadilha (fim do Ato II) pra um segundo local — fazenda/
+  galpão rural próximo a Formosa (GO), registrado sob a Anchieta
+  Participações Patrimoniais. Régis o confronta pessoalmente, oferece
+  "saída limpa" em troca de silêncio (recusada), e revela, através da
+  parede, que Wander Coutinho está preso no cômodo ao lado havia dias —
+  resolve a pista aberta do fim do Ato II: a mensagem de madrugada que
+  atraiu Caio NÃO veio de Wander, foi forjada por alguém que estudou o
+  padrão de escrita dele (mesma "precisão cirúrgica" do e-mail forjado
+  de três anos atrás). Beatriz recusa isolamento (ao contrário do erro
+  de Caio no cap. 40), mobiliza Fontoura e Délcio imediatamente; PF
+  entra formalmente no caso (deixa de ser investigação interna). Van
+  rastreada via câmera de posto + pedágio eletrônico da BR-020. Resgate
+  no cap. 44: operação da Polícia Federal, um tiro de aviso disparado
+  no ar (nenhum ferimento além dos hematomas/marcas de abraçadeira já
+  existentes), três capturados de baixo escalão — Régis já havia saído
+  de carro, sozinho, minutos antes, sem ser localizado no local.
+- **Vera Salles/Marcelo Vieira (L2) — cameo físico**: chegam a Brasília
+  no dia do resgate (cap. 43 telefonema, presença física a partir do
+  cap. 48), trazendo documentação bancária da Operação Zona Cega que
+  cruza formalmente a holding ligada a Aurélio Tavares com a Anchieta
+  Participações. Marcelo identifica o padrão de "franquia regional" da
+  rede (mesmo modelo de fachada replicado por região, não coincidência).
+  Papel de apoio ativo consistente com o combinado no Ato II — nenhum
+  arco romântico próprio reaberto.
+- **Diana Rossi/Noah Martins (L1) — cameo físico**: chegam a Brasília
+  no cap. 46 (via canal de Katia Prado), trazendo documentação da
+  Operação Cassandra que confirma Aurélio Bastos como cotista original
+  de holding menor ligada a Régis, anos antes do próprio escândalo que
+  o derrubou — fecha formalmente a ligação dos DOIS antagonistas
+  anteriores (Bastos/L1 e Tavares/L2) à mesma estrutura de Régis,
+  consistente com o que já estava travado no log do Ato II. Diana é
+  peça central na virada de arco de Beatriz (cap. 47): a fé
+  institucional dela não é abandonada, mas passa a coexistir com a
+  necessidade de exposição pública coordenada — não é escolha entre
+  "dentro" e "fora" do sistema, é uso dos dois em conjunto.
+- **Vazamento identificado (cap. 48-49)**: estagiário da Corregedoria,
+  pago em dinheiro por intermediário pra avisar sempre que o usuário de
+  Fontoura acessasse arquivo relacionado ao nome Anchieta — resolvido
+  rápido, sem envolver Iracema (a servidora testemunha do cap. 37/43,
+  confirmada limpa). Menor risco que os vazamentos anteriores da série,
+  mas confirma que a rede ainda tinha olhos dentro da estrutura mesmo
+  depois da queda do galpão.
+- **Redenção parcial de Hélio Marconde (cap. 43 e 50)**: Iracema revela
+  que Marconde ligou pra ela na noite após o encontro do cap. 37,
+  "perguntando se tinha anotado tudo certo" — primeiro sinal de
+  reconsideração. No cap. 50, já sob proteção informal discreta
+  (providenciada por Bento Carrara), Marconde envia carta manuscrita
+  com cópia certificada do próprio processo de habilitação de Régis
+  como relator, incluindo memorando com a linguagem "acordo de proteção
+  recíproca entre magistrados de confiança comprovada" — prova
+  documental direta que fecha a lacuna entre suspeita informal e prova
+  formal. Autenticado por perícia grafotécnica expressa. Ele segue
+  respondendo processo criminal próprio (a colaboração conta como
+  atenuante formal, não como isenção) — decisão deliberada de não
+  premiar o gesto tardio com impunidade completa, mantendo a régua do
+  project_dna 2b de "motivação real, não vilania vazia, mas sem apagar
+  a gravidade".
+- **Exposição pública/formal (caps. 49-51)**: audiência pública
+  convocada no plenário do CNJ, quatro dias após o planejamento
+  (cap. 49), coordenando simultaneamente: (1) correição extraordinária
+  aberta por Bento Carrara; (2) representação criminal formal pela
+  Procuradoria Federal contra Régis Anchieta Bruno; (3) cobertura de
+  imprensa nacional coordenada por Katia Prado (jornalista de L1,
+  reativada). Beatriz apresenta o mapa completo da rede (Fundação
+  Cátedra Íntegra, Vertex Soluções, holdings ligadas a Bastos e Tavares)
+  e pede reforma estrutural, não só punição individual: sorteio
+  eletrônico obrigatório de relatoria em processos disciplinares
+  sensíveis, auditoria cruzada permanente de arquivamentos, canal de
+  denúncia protegido por lei. Diana e Vera testemunham formalmente,
+  confirmando a ligação dos próprios casos à mesma rede. Resolução do
+  CNJ publicada três semanas depois (cap. 53), aprovação unânime no
+  plenário.
+- **Captura de Régis (cap. 52)**: localizado tentando embarque em
+  aeródromo particular perto de Goiânia; mandado de prisão preventiva
+  decretado pela Justiça Federal; rende-se sem resistência física,
+  sem violência mostrada — decisão deliberada de fechar o arco do
+  antagonista de topo com contenção institucional (algemas, prisão
+  formal), não confronto armado, respeitando integralmente a seção 2b.
+  Sem foro privilegiado (aposentado do STJ há seis anos) — responde
+  como réu comum perante a Justiça Federal.
+- **Restauração do nome de Caio (cap. 53)**: ação de revisão do
+  processo disciplinar julgada procedente por unanimidade, fraude
+  processual formalmente reconhecida (citando a confissão de Wander e
+  a carta de Marconde como prova). Tribunal oferece recondução à
+  magistratura; Caio recusa formalmente (cap. 53-54), optando por
+  consultoria formal de reforma estrutural junto a Bento Carrara —
+  decisão de arco: escolhe reconstrução do sistema de proteção, não
+  retorno à bancada individual, callback direto ao tema de "isolamento
+  vs. aliança" que fecha o arco dele.
+- **Símbolo do quadro de cortiça (cap. 54)**: desmontado com cerimônia,
+  não descartado — fotografado e catalogado como arquivo, o pedaço com
+  o próprio nome de Caio isolado guardado à parte como "prova de que
+  sobrevivi" à solidão, não lembrete de vergonha (paralelo deliberado à
+  carteira funcional de Marcelo em L2 e ao caderno/crachá de Noah/Diana
+  em L1 — os três símbolos de sobrevivência reunidos fisicamente no
+  epílogo, cap. Epílogo Parte 2).
+- **Desfecho do casal (caps. 54-55)**: mudança para apartamento
+  compartilhado em Brasília (decisão simples, sem pedido formal de
+  casamento nem salto temporal — mesma lógica de fechamento "presente,
+  sem prazo processual" usada em L1 e L2). Cap. 55 fecha o livro
+  numerado com convite de Diana pra reunião dos três casais em São
+  Paulo, plantando a ponte direta pro epílogo.
+- **Heat — cadência final do Ato III**: 4 cenas novas — cap. 45
+  (reencontro/alívio pós-resgate, imediatamente no gap máximo de 6
+  desde o cap. 39), cap. 48 (conforto pós-trauma de cativeiro, gap 3),
+  cap. 52 (celebração após a captura de Régis, gap 4), cap. 55
+  (consolidação do casal na mudança pro apartamento novo, gap 3, fecha
+  o livro numerado). Total do livro: **9 cenas de 8-10** — bateu a meta
+  mirando o topo, igualando a disciplina do Livro 2. Nenhum gap
+  excedeu o máximo de 6 dentro do Ato III.
+- **Extensão real do Ato III (caps. 41-55)**: 15 capítulos, 15.231
+  palavras (contagem Python), média de ~1015 palavras/capítulo — dentro
+  da faixa 950-1100. Taxa de expansão de emergência:
+  15 de 15 capítulos (100%) exigiram pelo menos uma rodada de Edit de
+  expansão além do rascunho inicial pra bater o piso de extensão —
+  consistente com o histórico do catálogo (89-100%), e mais alto que o
+  Ato I (67%) e igual ao Ato II (100%). Nenhum capítulo ficou abaixo do
+  piso duro no registro final; nenhuma ressalva de extensão precisou
+  ser usada.
+- **Extensão final do livro (capítulos numerados, sem epílogo)**: 55
+  capítulos, 56.261 palavras (contagem Python) — dentro da faixa
+  55.000-58.000 travada, sem necessidade de passe de reforço
+  pós-produção.
+- **Nota de processo — "a gente" (Ato III)**: o dispositivo proibido de
+  autocorreção (personagem quase diz "a gente" e se corrige em cena)
+  voltou a escapar no rascunho inicial em MÚLTIPLAS ocasiões — caps. 47
+  (Caio), 49 (Beatriz, narração), 54 (Caio, fala final do capítulo) e
+  no Epílogo Parte 2 (Marcelo) — e, adicionalmente, o Epílogo Parte 1
+  teve duas ocorrências cruas de "a gente" em fala de Noah/Diana (sem
+  device de autocorreção, só uso direto). TODAS identificadas e
+  reescritas por completo (não só a palavra) antes do registro formal
+  de cada capítulo, nunca deixadas para o gate mecânico sozinho.
+  Confirma, de forma ainda mais forte que nos Atos I e II, que o erro é
+  praticamente certeza estatística em qualquer rascunho de primeira
+  passada desta casa — inclusive em cameo de personagens de outros
+  livros, onde o risco de "importar" fala coloquial solta é maior.
+  Recomendação para qualquer produção futura: tratar a releitura
+  ativa linha por linha (não só o grep automatizado) como etapa
+  obrigatória, não opcional, mesmo quando o gate mecânico já está
+  disponível.
+
+### Epílogo (2 partes, 2.069 palavras) — decisões travadas na escrita
+
+- **Estrutura**: dois capítulos não-numerados (`js3-epilogo01.md`,
+  `js3-epilogo02.md`), ambos com cabeçalho "# Epílogo" / "# Epílogo —
+  Parte 2". POV: Parte 1 Beatriz, Parte 2 Caio — mantém alternância
+  razoável mesmo fora da régua estrita ímpar/par dos capítulos
+  numerados.
+- **Cenário**: reunião física dos três casais (Beatriz/Caio, Diana/
+  Noah, Vera/Marcelo) no sítio de Tio Chico/Noah, interior de São
+  Paulo — mesmo local estabelecido no fechamento de L1, callback
+  geográfico deliberado. Justificativa plantada no cap. 55 (convite de
+  Diana). Tio Chico presente fisicamente, cachorro Bento (nome canônico
+  de L1) também presente — nota de continuidade: existe colisão de
+  nome com o Ministro "Bento Carrara" desta série, mitigada por uso
+  consistente do nome completo pro Ministro em todo o Ato III e uso
+  isolado "Bento" só pro cão; risco de confusão residual baixo, mas
+  fica registrado aqui como observação editorial pra qualquer revisão
+  futura.
+- **Gesto simbólico de fechamento (Parte 2)**: os três objetos-símbolo
+  da trilogia reunidos fisicamente pela primeira e única vez — o
+  abridor de cartas de Beatriz (símbolo de L3), o caderno reconstruído
+  de Noah + crachá antigo de Diana, já guardados juntos desde o final
+  de L1, e a carteira funcional de Marcelo com o carimbo "DEMITIDO A
+  BEM DO SERVIÇO PÚBLICO" (símbolo de L2) — momento deliberado de
+  fechar a trilogia inteira através dos três símbolos, não só da
+  trama.
+- **Tom**: sereno, sem gancho de perigo/tensão em nenhuma das duas
+  partes, conforme exigido — nenhum conflito novo introduzido, papéis
+  dos quatro personagens de cameo tratados como consolidados (Diana
+  coordenando força-tarefa nacional; Noah na oficina com Tio Chico;
+  Vera titular na Vara Federal de Santos; Marcelo consultor técnico
+  permanente), nenhum arco romântico deles reaberto.
