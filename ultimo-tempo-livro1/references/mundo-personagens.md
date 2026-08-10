@@ -56,4 +56,45 @@ esportiva) e litoral paulista (fuga/introspecção do casal).
   seção "Decisões a travar".
 
 ## Log de decisões de escrita (preencher durante a produção)
-- (a preencher conforme os capítulos forem escritos)
+
+### Ato I (capítulos 1-18) — decisões travadas na escrita
+- **Nome do antigo empresário de Thiago**: **Renato Vilaça**. Empresário dele
+  desde os 17 anos (abordou a família em Osasco), 12 anos de parceria.
+  Confirma no cap. 16, sob pressão direta de Thiago, que "enfatizou a
+  urgência" do contrato europeu há 10 anos por causa da própria comissão —
+  sem admitir dolo total, mas o suficiente pra confirmar a suspeita.
+  Thiago encerra a relação profissional com ele no fim do cap. 16.
+  IMPORTANTE pro Ato II: a revelação completa (documentos forjados, não só
+  "urgência exagerada") ainda está reservada — o Ato I só planta a suspeita
+  e a confirmação parcial/verbal, não a prova documental.
+- **Diretor executivo do clube**: **Amaral** — figura de pressão
+  institucional/comercial (cobra cronograma de marketing, gestão de
+  imagem), não vilão; cede aos termos de Júlia no cap. 5 quando ela impõe
+  autonomia clínica total como condição de aceitar o caso.
+- **Recepcionista do departamento médico**: **Renata** — nome fixo, aparece
+  cap. 7, 9 (implícita) e 11 como canal de informação/imprensa.
+- **Cidade natal de Thiago**: Osasco (mencionada cap. 16).
+- **Origem de Thiago/Júlia**: os dois se conheceram e namoraram em São
+  Paulo; Júlia estudava pra residência enquanto Thiago começava carreira;
+  antigo apartamento do casal em Pinheiros, 32m² (cap. 3).
+- **Detalhe do noivado abandonado**: cerimônia marcada pra ~18 dias após a
+  proposta europeia; vestido de renda francesa, cor marfim, guardado até
+  hoje na casa da mãe de Júlia; convite de casamento guardado por Thiago
+  também (revelado cap. 13). Thiago deixou só um bilhete de duas frases
+  com o porteiro do prédio de Júlia antes de embarcar — nunca ligou nas
+  semanas seguintes.
+- **Léo (jovem promessa)**: sofre entorse de tornozelo grau 2 no treino no
+  fim do Ato I (cap. 17-18) — lesão leve, sem risco pra temporada nem pro
+  arco dele no Livro 3; não mostrada de forma gráfica, só diagnóstico e
+  reação dos personagens. Cria vínculo de mentoria orgânica com Thiago ao
+  longo do Ato I (caps. 6, 8, 12).
+- **Padrão de fechamento do Ato I**: gancho duplo — confissão quase
+  completa de Thiago ("nunca parei de te amar") interrompida pela
+  emergência de Léo, seguida por vazamento de foto/manchete no hospital à
+  meia-noite. Júlia pede tempo, não recusa — mantém a porta entreaberta
+  pro Ato II.
+- **Cadência de heat**: zero cenas no Ato I, por design (ver
+  project_dna.md §4) — os avisos automáticos de
+  `loop_state.py check` sobre "gap de heat excedido" e "atraso de
+  cadência" são esperados e devem continuar aparecendo até a cena do cap.
+  ~20; não é falha de produção, é a cadência adaptada documentada.
