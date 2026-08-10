@@ -1,0 +1,81 @@
+TÍTULO: Estrelas do Gramado — Livro 2: Fora de Jogo — Nos Próprios Termos
+
+NOTA DE BRANDING: este é o segundo livro da casa R.B. Guidenelli no
+registro Sports Romance, mesma série do Livro 1 ("Último Tempo —
+Apito Final"). A linha visual "The Old English Gentleman's Club"
+(verde floresta noturno / carvalho / ouro envelhecido / vinho
+borgonha, chiaroscuro de vela) pertence à série de romance de elite
+política e NÃO se aplica aqui, conforme project_dna.md seção 0. Este
+livro herda a linha visual "gramado/estádio" inaugurada no Livro 1,
+mas com um REGISTRO DELIBERADAMENTE DIFERENTE: onde o Livro 1 usava
+luz de jogo noturno (torres de estádio, campo vazio), o Livro 2 usa
+luz de evento de imprensa/patrocínio — o par nasce de um contrato de
+marketing, não de um vestiário compartilhado, e a capa precisa marcar
+essa diferença de mundo à primeira vista, mesmo dentro da mesma
+identidade de série. Elementos estruturais do padrão da casa mantidos
+(sem rostos, proporção 6:9, tipografia serifada de impacto no título).
+
+DESCRIÇÃO VISUAL:
+Cena de tapete/coletiva de imprensa esportiva, fotografada em ângulo
+baixo e ligeiramente lateral, como se a câmera estivesse no meio da
+fileira de fotógrafos. Um estouro de flashes de fotógrafos — múltiplos
+pontos de luz branca fria, congelados em pleno disparo, riscando o
+enquadramento como rajadas — ilumina o primeiro plano contra um fundo
+quase negro de salão de evento fora de foco (silhuetas indistintas de
+público e crachás de imprensa, nunca nítidas). Em destaque, lado a
+lado mas não se tocando, dois uniformes esportivos oficiais pendurados
+em cabides simples, o reflexo do flash cortando o tecido de ambos — o
+masculino do São Paulo Metropolitano (sem escudo real, cores fictícias
+azul-marinho e branco) e o feminino da seleção (cores fictícias verde
+e amarelo-ouro, sem brasão real) — como se estivessem prestes a ser
+vestidos para o próximo flagrante do "casal oficial", objeto que
+carrega o par sem precisar mostrar rosto nenhum dos dois. Em primeiro
+plano nítido, ligeiramente desfocado o bastante pra não competir com
+os uniformes: uma braçadeira de capitão dobrada ao lado de uma caneta
+esferográfica simples pousada sobre um guardanapo de pano dobrado —
+os três símbolos centrais do livro (peso da responsabilidade, recusa
+de deixar outra pessoa escrever a própria história, a mensagem escrita
+à mão que muda tudo) compondo um pequeno bodegão na borda do quadro.
+Paleta: preto/cinza-chumbo de salão de evento como base fria dominante,
+o branco-azulado gelado dos flashes como contraste de luz principal, e
+um único acento quente — o dourado/âmbar residual de uma luz de palco
+ou refletor lateral tocando a borda dos uniformes — ecoando o mesmo
+acento quente do Livro 1, mas aqui como luz de holofote de patrocínio,
+não de gramado. Tipografia do título em serif de alto impacto (peso
+forte, maiúsculas), branco-gelo ou dourado envelhecido, ocupando o
+terço superior da capa; subtítulo "Nos Próprios Termos" menor logo
+abaixo, itálico leve. Nome do autor "R.B. GUIDENELLI" no rodapé,
+discreto.
+
+ELEMENTOS SIMBÓLICOS A USAR (do livro atual — ver mundo-personagens.md,
+"Símbolos fechados"):
+- Braçadeira de capitão dobrada — peso da responsabilidade carregada
+  sozinha, arco de Marcos.
+- Caneta simples pousada sobre guardanapo — recusa de Bia em deixar
+  outra pessoa escrever sua própria narrativa; o guardanapo remete à
+  mensagem manuscrita ("Você não precisa carregar sozinho. Nunca
+  mais.") que vira símbolo de virada no livro.
+- Flash de fotógrafos como "olhar público" constante — o mesmo tema do
+  Livro 1 (pressão de imprensa esportiva), mas aqui deslocado do campo
+  pro evento de patrocínio, marcando a mecânica central do fake dating.
+
+NEGATIVE PROMPT:
+casal abraçado, beijo, rostos em close ou reconhecíveis, uniforme com
+logotipo de time real ou marca esportiva real, texto incorporado na
+imagem além do já especificado, estádio ou gramado em primeiro plano
+(reservar essa composição pro Livro 1), luz quente de vela ou
+chiaroscuro de carvalho/couro/veludo (branding de outra série da
+casa), cores de bandeira ou símbolo de time da vida real, pôr do sol
+laranja genérico de capa de romance clichê, estética de cartaz
+publicitário de perfume, watermark, baixa resolução
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, atmosfera de tapete de evento/coletiva de
+imprensa esportiva, contraste frio dominante (preto de salão +
+branco-azulado de flash) com acento quente pontual (dourado/âmbar de
+holofote lateral), tom mais glamouroso e artificial que o Livro 1 de
+propósito — a estética do "casal oficial" fabricado antes de virar
+real —, elegante mas com tensão de vigilância pública constante;
+câmera baixa, profundidade de campo rasa nos três objetos simbólicos
+(braçadeira, caneta, guardanapo) em primeiro plano.
