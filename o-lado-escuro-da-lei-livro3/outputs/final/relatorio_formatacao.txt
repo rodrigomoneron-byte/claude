@@ -1,0 +1,125 @@
+RELATÓRIO DE FORMATAÇÃO — Justiça Sombria, Livro 3
+====================================================
+
+TÍTULO ESCOLHIDO
+-----------------
+Título:    Correição Extraordinária
+Subtítulo: As Duas Coisas Podem Ser Verdade
+Série:     Justiça Sombria — Livro 3 (fechamento da trilogia)
+Autor:     R.B. Guidenelli
+
+Lógica da escolha (testada por ocorrência textual literal, grep sobre
+o manuscrito completo, seguindo o método pedido — não uma escolha a
+priori da bíblia):
+
+- As sugestões originais da bíblia ("A Rede que Nos Julga",
+  "Corregedoria", "O Sistema Contra Si Mesmo") NÃO aparecem como frase
+  literal em nenhum capítulo do manuscrito final — foram descartadas
+  por não passarem no teste de ocorrência textual.
+- "Correição Extraordinária" é o mecanismo jurídico real que resolve a
+  trama do Ato III (aberta pelo Ministro Bento Carrara no cap. 51,
+  citada 6 vezes ao longo dos capítulos 47, 49, 51, 53 e 55) — sentido
+  duplo literal (o procedimento disciplinar que audita décadas de
+  arquivamentos suspeitos) e metafórico (a "correção extraordinária"
+  que o próprio sistema de Justiça precisa fazer em si mesmo para
+  sobreviver à própria podridão interna — tema central do livro e da
+  trilogia).
+- "As Duas Coisas Podem Ser Verdade" é o refrão mais repetido do livro
+  inteiro (11 ocorrências, caps. 4, 5, 7, 11, 15, 21, 24, 27 [x2], 39,
+  41) — nasce como frase de aliança entre Beatriz e Caio no primeiro
+  encontro (cap. 4) e atravessa o livro com sentido duplo genuíno:
+  literalmente (dois processos podem estar certos ao mesmo tempo, a fé
+  institucional e a desconfiança dela podem coexistir, "estar certo" e
+  "estar errado em insistir sozinho" podem ser verdade simultânea) e
+  emocionalmente (medo e desejo, exaustão e amor). É a frase mais
+  orgânica do próprio texto para servir de subtítulo/fechamento
+  temático da trilogia inteira.
+- Segue o padrão já estabelecido pela casa: título = termo
+  jurídico/institucional com sentido duplo (L1 usou o próprio nome da
+  série; L2 usou "Cadeia de Custódia"), subtítulo = frase temática
+  emocional (L1: "Acima de Qualquer Suspeita"; L2: "Prova de
+  Confiança").
+
+MANUSCRITO
+----------
+- Capítulos numerados incluídos: 55 (Capítulo 1 a Capítulo 55)
+- Epílogo: 2 partes ("Epílogo" e "Epílogo — Parte 2")
+- Total de arquivos no EPUB: 57 (confirmado pelo script de build)
+- Contagem de palavras (Python, len(str.split()), todo o manuscrito
+  organizado em outputs/final/manuscrito/): 58.330 palavras — dentro
+  da faixa-alvo travada (55.000-58.000 para os capítulos numerados;
+  o total inclui também os 2.069 palavras do epílogo, que corre à
+  parte da meta numérica dos capítulos numerados).
+- Régua "a gente" (regua_gate.py + grep manual \ba gente\b e formas
+  oblíquas "pra/da/na/dessa/desta gente" e "com a gente"): LIMPO em
+  TODOS os 57 arquivos organizados — checagem rodada de novo sobre a
+  pasta final de formatação, não só sobre os arquivos originais de
+  outputs/conteudo/.
+
+EPUB
+----
+Arquivo: outputs/final/correicao-extraordinaria.epub
+- Formato: EPUB 3.0, gerado via ebooklib
+- Abriu sem erro (validado com `epub.read_epub()`)
+- Metadados confirmados: título, subtítulo, série (Justiça Sombria,
+  #3), autor (R.B. Guidenelli), idioma (pt-BR), identificador
+  (urn:uuid, ver aviso abaixo)
+- Sumário (TOC): clicável, lista os 55 capítulos + "Epílogo" +
+  "Epílogo — Parte 2"
+
+PDF (paperback KDP 6"x9")
+--------------------------
+Arquivo: outputs/final/correicao-extraordinaria_kdp.pdf
+- Páginas: 220
+- Dimensão confirmada via PdfReader: 432 x 648 pt (6" x 9" exato)
+- Margens conforme references/kdp-specs.md (externa 0.5", lombada
+  0.75", topo/base 0.6")
+- Corpo em serif 11pt justificado com recuo de primeira linha
+- Cada capítulo (e cada parte do epílogo) começa em página nova
+- Numeração de página no rodapé, iniciando no Capítulo 1
+- Conferência visual feita: página de título (centralizada, título +
+  subtítulo + autor + série) e primeira página do Capítulo 1
+  renderizadas em PNG e inspecionadas — layout correto, sem
+  sobreposição de texto, recuo e justificação aplicados corretamente.
+
+CAPA
+----
+Arquivo: outputs/final/prompt_capa_correicao-extraordinaria.txt
+Conceito: "Brasília / tribunal superior noturno" — esplanada de
+tribunal superior modernista à noite, luz fria branco-azulada (nunca
+âmbar/quente do branding genérico da casa), balança da justiça em
+metal escuro parcialmente oxidado e meio-sombreada por um corte de
+sombra diagonal, duas silhuetas distantes atravessando a esplanada
+vazia. Deliberadamente distinto da capa do Livro 1 (giroflex/fachada
+de fórum estadual, luz vermelho-azul de viatura) e do Livro 2
+(porto/contêineres, guindastes, holofote de segurança portuária,
+névoa marítima) — negative prompt lista explicitamente os elementos
+das duas capas anteriores para evitar repetição.
+
+METADADOS
+---------
+Arquivo: outputs/final/metadados_correicao-extraordinaria.json (e
+cópia em outputs/final/metadata.json e
+outputs/final/manuscrito/metadata.json)
+
+AVISO — IDENTIFICADOR/ISBN
+---------------------------
+O campo "identifier" usa um placeholder gerado automaticamente
+(urn:uuid:7f457ffa-f60a-461a-b6f7-a39b15d57285). Substituir pelo
+ISBN real antes da publicação definitiva na Amazon KDP.
+
+RESUMO DA TRILOGIA COMPLETA
+-----------------------------
+1. O Lado Escuro da Lei — Acima de Qualquer Suspeita ........ 57.717 palavras
+2. Cadeia de Custódia — Prova de Confiança ................... 56.364 palavras
+3. Correição Extraordinária — As Duas Coisas Podem Ser Verdade  58.330 palavras
+                                                              -----------------
+TOTAL COMBINADO DA TRILOGIA .................................. 172.411 palavras
+
+A trilogia "Justiça Sombria" está formalmente fechada com este
+terceiro volume: par novo (Beatriz Nogueira x Caio Andrade), caso
+novo, revelação estrutural conectando os antagonistas de L1 (Senador
+Aurélio Bastos) e L2 (Secretário Aurélio Tavares) à mesma rede maior
+liderada por Régis Anchieta Bruno, cameo cruzado confirmado de Diana
+Rossi/Noah Martins (L1) e Vera Salles/Marcelo Vieira (L2), e epílogo
+de duas partes reunindo os três casais.

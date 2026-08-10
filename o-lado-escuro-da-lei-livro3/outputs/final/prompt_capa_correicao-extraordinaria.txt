@@ -1,0 +1,63 @@
+TÍTULO: Justiça Sombria — Livro 3: Correição Extraordinária
+
+DESCRIÇÃO VISUAL:
+Vista noturna da esplanada de um tribunal superior em Brasília — arquitetura
+modernista, colunas finas e brancas sustentando um bloco de concreto e
+vidro suspenso, referência clara aos edifícios institucionais do Eixo
+Monumental sem reproduzir marca ou monumento real específico. Câmera em
+plano baixo e distante, levemente contra-plongée, olhando para cima na
+direção da fachada iluminada por dentro, janelas em grade retangular
+regular como uma colmeia de luz artificial contra o céu negro.
+
+Iluminação principal: luz fria, branco-azulada, vazando das janelas do
+prédio e de um poste de segurança institucional fora de quadro — nunca
+âmbar, nunca quente. O piso de granito da esplanada, molhado por chuva
+recente, espelha essas luzes frias em faixas longas e verticais,
+quebradas, como se o próprio chão refletisse rachaduras.
+
+Elemento simbólico central: em primeiro plano, parcialmente fora de
+foco, a silhueta de uma balança da justiça — não o ícone clássico
+dourado e polido, mas uma escultura institucional de metal escuro,
+oxidado em alguns pontos, com um dos prato ligeiramente mais baixo que
+o outro (desequilíbrio sutil, não caricato), meio-sombreada por uma
+sombra projetada que a atravessa na diagonal, como se um corte de luz
+a dividisse ao meio — sugestão visual de sistema que julga a si mesmo.
+Atrás da balança, ao fundo, MUITO pequenas e distantes, duas silhuetas
+humanas indistintas atravessando a esplanada vazia lado a lado, mesmo
+ritmo de passo, sem se tocar, sem rosto identificável — aliança sob
+vigilância institucional, não romance explícito.
+
+Céu quase preto, sem estrelas, com a claridade artificial baixa e fria
+típica do planalto central à noite — nunca a poluição luminosa
+alaranjada de metrópole litorânea. Textura fosca de fotografia noturna
+de longa exposição, grão sutil, nunca render digital limpo. Sensação
+geral: vigilância institucional, escala monumental, um único indivíduo
+(ou par) pequeno diante de uma estrutura imensa — o oposto do close
+íntimo.
+
+NEGATIVE PROMPT:
+giroflex, luz de viatura policial, sirene vermelho-e-azul, fachada de
+fórum estadual com colunas clássicas neoclássicas, contêineres,
+guindaste portuário, névoa marítima, holofote de segurança portuária,
+água, mar, praia, casal abraçado, quase-beijo, rostos em close, rostos
+identificáveis, cristal de whiskey, madeira de carvalho polida, veludo,
+couro capitonê, biblioteca de clube inglês, luz de velas ou luz âmbar
+quente dominante, brasão heráldico, monograma dourado, símbolos de
+partido político, bandeiras, urna eleitoral, martelo de juiz batendo,
+algema em destaque, arma em close, sangue visível, balança dourada
+brilhante e polida (deve ser metal escuro, parcialmente oxidado, não
+ícone genérico de escritório de advocacia), fundo branco genérico,
+estética de cartaz de filme de ação, texto incorporado na imagem além
+do título indicado
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, fotografia noturna institucional, suspense
+jurídico-político de escala nacional, editorial e sóbrio — frio
+dominante (concreto, vidro, granito molhado) cortado por luz
+branco-azulada de prédio público iluminado à noite, sem o chiaroscuro
+quente do branding "Old English Gentleman's Club" e sem repetir nenhum
+elemento visual do Livro 1 (giroflex, viatura, fachada de fórum
+estadual) ou do Livro 2 (porto, contêineres, guindastes, névoa
+marítima) desta série, nem de qualquer outra capa da casa R.B.
+Guidenelli.
