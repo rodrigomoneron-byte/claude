@@ -1,0 +1,64 @@
+TÍTULO: Estrelas do Gramado — Livro 1: Último Tempo — Apito Final
+
+NOTA DE BRANDING: este é o primeiro livro da casa R.B. Guidenelli no
+registro Sports Romance. A linha visual "The Old English Gentleman's
+Club" (verde floresta noturno / carvalho / ouro envelhecido / vinho
+borgonha, chiaroscuro de vela) pertence à série de romance de elite
+política e NÃO se aplica aqui — conforme project_dna.md seção 0, esta
+capa estreia uma linha visual nova para a casa: "gramado / estádio
+noturno". Os elementos estruturais do padrão da casa são mantidos
+(sem rostos, proporção 6:9, tipografia serifada de impacto no título),
+mas a paleta e a textura são inteiramente novas, específicas deste
+livro e desta série.
+
+DESCRIÇÃO VISUAL:
+Vista baixa e cinematográfica de um campo de futebol vazio à noite,
+fotografado quase ao nível da grama, como se a câmera estivesse
+plantada na linha de meio-campo. As torres de iluminação do estádio
+ao fundo, desfocadas, lançam feixes de luz branco-azulada que cortam
+a névoa noturna e iluminam a grama recém-cortada em contraste com o
+céu quase negro. Uma silhueta atlética solitária — um jogador visto
+de costas ou em perfil distante, nunca o rosto em close — parado ou
+em movimento contido no centro do gramado, mais forma e postura do
+que retrato; a pose sugere pausa, decisão, o instante antes ou depois
+do apito, não ação de jogo. Linhas brancas de marcação do campo
+atravessam o primeiro plano como estrutura geométrica. Um apito
+apoiado sobre a grama em primeiro plano nítido (leve profundidade de
+campo), a corda gasta, o metal captando o reflexo frio dos refletores
+— o único objeto simbólico do livro em destaque. Paleta: verde-escuro
+de gramado noturno como base, luz branco-azulada de refletor de
+estádio como contraste frio dominante, e um único acento quente —
+dourado/âmbar, como o brilho residual de um placar eletrônico ou uma
+faixa de luz baixa no horizonte — sugerindo esperança/segunda chance
+sem virar pôr do sol clichê. Tipografia do título em serif de alto
+impacto (peso forte, maiúsculas), na paleta branco-gelo ou dourado
+envelhecido, ocupando o terço superior da capa; subtítulo menor
+logo abaixo. Nome do autor "R.B. GUIDENELLI" no rodapé, discreto.
+
+ELEMENTOS SIMBÓLICOS A USAR (do livro atual — ver project_dna.md
+seção 7):
+- O apito (literal, em primeiro plano) — símbolo central do clímax
+  do livro ("o jogo recomeça, nos nossos termos").
+- Silhueta solitária em campo vazio — o joelho/vulnerabilidade
+  escondida atrás da fama, sem mostrar lesão nem dor de forma
+  gráfica.
+- Luzes de estádio como "olhar público" constante sobre o casal —
+  pressão de imprensa esportiva, tema do livro.
+
+NEGATIVE PROMPT:
+casal abraçado, beijo, rostos em close ou reconhecíveis, uniforme
+com logotipo de time real ou marca esportiva real, texto incorporado
+na imagem além do já especificado, estádio lotado de torcida em
+primeiro plano, cores de bandeira ou símbolo de time da vida real,
+pôr do sol laranja genérico de capa de romance clichê, textura de
+carvalho/couro/veludo (branding de outra série da casa), estética
+de cartaz esportivo publicitário, watermark, baixa resolução
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, atmosfera de estádio noturno, contraste
+frio dominante (verde-noturno + branco-azulado de refletor) com
+acento quente pontual (dourado/âmbar), tom emocionante e dinâmico,
+elegante mas visceral — mais editorial de esporte de elite do que
+cartaz publicitário; câmera baixa, profundidade de campo rasa no
+objeto simbólico (apito) em primeiro plano.

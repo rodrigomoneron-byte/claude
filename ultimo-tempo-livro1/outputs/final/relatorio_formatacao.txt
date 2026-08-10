@@ -1,0 +1,137 @@
+RELATÓRIO DE FORMATAÇÃO — Último Tempo (Apito Final)
+Estrelas do Gramado — Livro 1
+Autor: R.B. Guidenelli
+Gerado em: 2026-08-10
+
+============================================================
+1. MANUSCRITO
+============================================================
+Capítulos incluídos: 57 de 57 (ut1-capitulo01.md a ut1-capitulo57.md)
+POV dual alternado confirmado: Júlia (ímpar) / Thiago (par), 1 POV
+por capítulo, sem mistura — checado nos 57 cabeçalhos.
+Contagem de palavras (Python, len(open(f).read().split())): 58.067
+— dentro do topo da faixa-alvo (55.000-58.000).
+Nenhum capítulo rotulado "Epílogo" (confirmado por grep) — o livro
+fecha nos capítulos 56-57 com salto temporal de ~1 ano, sem uso do
+recurso de epílogo formal, conforme travado no onboarding (Livro 1
+de trilogia em andamento).
+
+============================================================
+2. RÉGUA "A GENTE" — CHECAGEM FINAL SOBRE O MANUSCRITO ORGANIZADO
+============================================================
+scripts/regua_gate.py rodado sobre os 57 arquivos já copiados pra
+pasta de build: RESULTADO LIMPO — pode avançar.
+grep manual complementar (\ba gente\b + formas oblíquas pra/da/na/
+dessa/desta gente), case-insensitive, sobre os mesmos 57 arquivos:
+0 ocorrências.
+(Nota: 1 ocorrência real de forma oblíqua foi encontrada e corrigida
+durante a revisão editorial global, ANTES desta etapa de formatação
+— ver seção 4 abaixo. O manuscrito que entrou no formatter já estava
+limpo.)
+
+============================================================
+3. EPUB
+============================================================
+Arquivo: ultimo-tempo-livro1.epub
+Formato: EPUB 3.0 (ebooklib), sumário NCX + nav clicável
+Metadados: título "Último Tempo", subtítulo "Apito Final", autor
+"R.B. Guidenelli", idioma pt-BR, série "Estrelas do Gramado" #1,
+identifier urn:uuid (placeholder — SUBSTITUIR por ISBN real antes
+da publicação em KDP).
+Validação: aberto com sucesso via
+`ebooklib.epub.read_epub()` — sem erro. Título, autor e idioma
+confirmados nos metadados DC do arquivo gerado.
+57 capítulos presentes no spine, na ordem correta.
+
+============================================================
+4. PDF (KDP paperback 6"x9")
+============================================================
+Arquivo: ultimo-tempo-livro1-kdp.pdf
+Dimensão: 432 x 648 pt (6" x 9")
+Páginas: 203 (numeração árabe no rodapé, começando no Capítulo 1;
+página de título não numerada)
+Margens: externa 0.5" / lombada 0.75" / topo 0.6" / base 0.6"
+(conforme kdp-specs.md; 203 páginas não exige o ajuste de lombada
+0.875" reservado para 300+ páginas)
+Corpo: Times-Roman 11pt, justificado, recuo de primeira linha,
+cada capítulo inicia em página nova.
+Validação visual: primeira página (título) e primeira página do
+Capítulo 1 renderizadas via pdftoppm e inspecionadas — layout,
+fonte, título/subtítulo/autor/série na capa interna, e numeração
+de página confirmados corretos.
+
+============================================================
+5. CAPA — PROMPT GERADO
+============================================================
+Arquivo: prompt_capa_ultimo-tempo-livro1.txt
+Linha visual NOVA para a casa: "gramado / estádio noturno" —
+explicitamente distinta do branding "The Old English Gentleman's
+Club" (verde-floresta/carvalho/ouro/vinho, chiaroscuro de vela),
+que pertence à série de romance de elite política e não se aplica
+a este livro (project_dna.md seção 0: primeira incursão da casa em
+Sports Romance, capa deve ser diferente de tudo já produzido).
+Paleta nova: verde-gramado noturno + branco-azulado de refletor de
+estádio (frio dominante) com acento quente pontual dourado/âmbar.
+Elemento simbólico central: o apito (objeto literal do clímax do
+livro, cap. 50), em primeiro plano sobre a grama, sem rostos em
+cena — mantendo o padrão estrutural da casa (capas sem rosto),
+adaptado ao novo registro.
+Prompt entregue como texto para geração em ferramenta externa
+(Midjourney/DALL-E/Firefly) — esta skill não gera a imagem.
+
+============================================================
+6. TÍTULO E SUBTÍTULO — DECISÃO E LÓGICA
+============================================================
+Título "Último Tempo": travado no briefing original, mantido —
+pun futebolístico intencional (tempo de jogo + segunda chance na
+vida), não ocorre literalmente no corpo do texto (título conceitual,
+não citação).
+Subtítulo testado via grep literal no manuscrito:
+  - "O Preço da Vitória" (sugestão do briefing): 0 ocorrências.
+  - "Prorrogação do Coração" (sugestão do briefing): 0 ocorrências.
+  - "Apito Final": 2 ocorrências literais (cap. 19 — "acompanhamento
+    direto até o apito final" — e cap. 57, ÚLTIMA LINHA do livro —
+    "talvez esse seja o verdadeiro apito final que qualquer um de
+    nós dois precisava ouvir").
+DECISÃO: subtítulo "Apito Final" — mais forte que as duas sugestões
+do briefing porque (a) ocorre literalmente no texto, (b) é o símbolo
+central do livro (o apito físico que Júlia entrega a Thiago no
+clímax do cap. 50, "o jogo recomeça, nos nossos termos"), e (c) tem
+sentido duplo real: apito de fim de jogo (literal, esportivo) e o
+fim do silêncio de dez anos entre o casal (metafórico) — encerrando
+o livro na própria última frase do cap. 57.
+
+============================================================
+7. SÉRIE E GANCHOS — ESTRELAS DO GRAMADO
+============================================================
+Este é o LIVRO 1 da trilogia "Estrelas do Gramado" (série em
+andamento, sem fechamento nesta obra).
+
+Gancho Livro 2 — Marcos "Marcão" Silveira x Beatriz "Bia" Lima
+(trope Grumpy x Sunshine / Fake Dating, conforme bíblia): plantado
+organicamente, nunca verbalizado pelos dois personagens dentro deste
+livro — cap. 33 (Marcão assiste ao treino dela "de passagem"), cap.
+53 (Bia aceita proposta de outro clube; reação de Marcão "soou como
+mais que amizade"), cap. 55-57 (jantares recorrentes, Léo pergunta
+por ela "como se fosse irmã mais velha", Thiago e Júlia apostando
+quando os dois vão admitir o óbvio). Gancho aberto, não resolvido —
+correto para a função de Livro 1.
+
+Gancho Livro 3 — Léo x irmã de um rival (trope Forbidden Romance /
+Age Gap leve, conforme bíblia): arco de mentoria de Thiago com Léo
+construído ao longo do livro inteiro (caps. 2, 6, 8, 12, 18, 30, 44,
+46, 54, 56) — da entorse do Ato I à estreia confirmada no time
+principal no salto temporal final (cap. 56). Nenhum par romântico
+resolvido pra Léo neste livro, conforme a bíblia reserva esse arco
+pra idade adulta dele no Livro 3.
+
+============================================================
+8. CHECKLIST FINAL
+============================================================
+[x] ultimo-tempo-livro1.epub — abre sem erro, sumário funcional, 57/57 capítulos
+[x] ultimo-tempo-livro1-kdp.pdf — 6x9", margens corretas, 203 págs, numeração ok
+[x] prompt_capa_ultimo-tempo-livro1.txt — prompt completo, linha visual nova
+[x] metadados_ultimo-tempo-livro1.json — todos os campos preenchidos
+[x] relatorio_formatacao.txt — este arquivo
+[!] identifier/ISBN: placeholder urn:uuid — SUBSTITUIR por ISBN real
+    (ou deixar em branco pra KDP gerar ASIN) antes da publicação.

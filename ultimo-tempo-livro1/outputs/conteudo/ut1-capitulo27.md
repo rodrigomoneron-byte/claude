@@ -10,7 +10,7 @@ Um dos conselheiros franze a testa. — E se essa relação comprometer o julgam
 
 Otero assente ao meu lado, um gesto pequeno de apoio que pesa mais do que qualquer palavra dele poderia pesar nesse momento, e sinto um alívio inesperado por ter, pelo menos nessa sala, alguém que conhece meu trabalho o bastante pra confiar nele sem precisar de garantia extra.
 
-— Se me permitem. — Otero pigarreia, chamando atenção da mesa inteira. — Acompanho o trabalho da doutora Moraes há sete anos. Nunca vi decisão clínica dela comprometida por absolutamente nada, nem quando a pressão veio de mim mesmo, tentando empurrar retorno mais rápido de atleta em situação delicada. Se a diretoria quer segurança de que o departamento médico continua íntegro, tem em Júlia Moraes a garantia mais sólida que esse clube já teve.
+— Se me permitem. — Otero pigarreia, chamando atenção da mesa inteira. — Acompanho o trabalho da doutora Moraes há oito anos. Nunca vi decisão clínica dela comprometida por absolutamente nada, nem quando a pressão veio de mim mesmo, tentando empurrar retorno mais rápido de atleta em situação delicada. Se a diretoria quer segurança de que o departamento médico continua íntegro, tem em Júlia Moraes a garantia mais sólida que esse clube já teve.
 
 Amaral troca um olhar com os conselheiros, e depois de um silêncio que dura segundos demais pra ser confortável, finalmente fala.
 
@@ -22,7 +22,7 @@ No estacionamento, já longe de qualquer olhar institucional, ele finalmente rel
 
 — Eu também fiquei. — Confesso, ainda sentindo o coração acelerado da reunião. — Otero surpreendeu até a mim. Não sabia que ele confiava tanto assim no meu trabalho a ponto de arriscar a própria posição defendendo.
 
-— Ele te conhece há sete anos, Júlia. Só reconheceu em voz alta o que qualquer pessoa que trabalha perto de você já sabe. — Ele abre a porta do carro pra mim, o gesto pequeno carregando o peso de um cavalheirismo que nunca perdeu, mesmo em dez anos de ausência. — Vamos pra minha casa organizar o resto dos documentos? Prefiro terminar isso com você do que sozinho essa noite.
+— Ele te conhece há oito anos, Júlia. Só reconheceu em voz alta o que qualquer pessoa que trabalha perto de você já sabe. — Ele abre a porta do carro pra mim, o gesto pequeno carregando o peso de um cavalheirismo que nunca perdeu, mesmo em dez anos de ausência. — Vamos pra minha casa organizar o resto dos documentos? Prefiro terminar isso com você do que sozinho essa noite.
 
 À noite, no apartamento dele, terminamos de organizar cronologicamente cada documento que Cláudia entregou, datas alinhadas numa mesa inteira como se os dois montássemos, juntos, o mapa completo de uma guerra que travamos sozinhos por uma década sem sequer saber que existia.
 

@@ -12,7 +12,7 @@ Ela finalmente vira o rosto pra mim, e o que vejo ali não é arrependimento —
 
 — Fica — ela diz, simples assim, e a palavra pesa mais do que qualquer gol que já marquei.
 
-— Não vou fingir que sei exatamente o que isso significa pra gente daqui pra frente. — Escolho as palavras com cuidado, sentindo o peso de cada uma. — O contrato, o clube, sua carreira, minha reabilitação. Nada disso ficou mais simples só porque uma noite mudou tudo entre nós dois.
+— Não vou fingir que sei exatamente o que isso significa pra nós daqui pra frente. — Escolho as palavras com cuidado, sentindo o peso de cada uma. — O contrato, o clube, sua carreira, minha reabilitação. Nada disso ficou mais simples só porque uma noite mudou tudo entre nós dois.
 
 — Não. — Ela concorda, um meio sorriso cansado no rosto. — Mas também não ficou pior, Thiago. Só ficou... verdadeiro. Isso conta pra alguma coisa.
 

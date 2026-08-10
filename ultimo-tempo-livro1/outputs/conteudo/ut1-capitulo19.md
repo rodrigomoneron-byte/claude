@@ -24,7 +24,7 @@ Otero me chama pra sala dele assim que chego, o rosto sério de um jeito que já
 
 — Eu consigo — respondo, e quase acredito na própria voz.
 
-— Mais uma coisa. — Ele hesita, o tipo de hesitação que em vinte anos de convivência aprendi a temer mais do que qualquer bronca direta. — O hotel oficial da delegação está com overbooking. Congresso Brasileiro de Medicina do Esporte na mesma semana, mesma cidade, mesma rede de hotéis. A logística já está resolvendo, mas avisei porque prefiro que você saiba antes de chegar lá e descobrir sozinha.
+— Mais uma coisa. — Ele hesita, o tipo de hesitação que em oito anos de convivência aprendi a temer mais do que qualquer bronca direta. — O hotel oficial da delegação está com overbooking. Congresso Brasileiro de Medicina do Esporte na mesma semana, mesma cidade, mesma rede de hotéis. A logística já está resolvendo, mas avisei porque prefiro que você saiba antes de chegar lá e descobrir sozinha.
 
 — Resolvendo como? — A pergunta sai automática, profissional, sem nenhuma pista de que meu estômago já começou a se apertar antes mesmo de ele detalhar.
 
