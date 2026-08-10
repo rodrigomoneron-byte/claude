@@ -130,3 +130,82 @@ patrocínio/imprensa) + uma viagem de campanha publicitária conjunta
   explicitamente proibido de personagem dizendo/quase dizendo "a gente" e
   sendo corrigida(o) — e todos foram pegos e reescritos antes do registro
   final. Ver relatório de produção para a lista completa.
+
+### Ato 2 (caps. 19-40) — decisões travadas nesta produção
+- **Cidade da viagem de campanha (Only One Bed)**: Florianópolis — gravação
+  de campanha de fim de temporada da linha de material esportivo dos dois
+  clubes, 3 dias (cap. 19-22). Overbooking do hotel gerando suíte única
+  com cama de casal.
+- **Primeira cena de heat**: cap. 21 (Bia), na noite do hotel em
+  Florianópolis, consentimento explícito verbalizado dos dois lados antes
+  de qualquer contato. Demais cenas de heat do ato: cap. 26 (Marcos, no
+  apartamento dele, depois da confissão de Bia sobre Rogério), cap. 31
+  (Bia, domingo de folga, beat simbólico da braçadeira + "te amo" trocado
+  pela primeira vez), cap. 32 (Marcos, manhã seguinte, última cena de
+  conexão antes da virada). Total: 4 cenas no Ato 2 (gaps: 5, 5, 1 —
+  todos dentro do máximo de 6). Nenhuma cena de heat nos caps. 33-40
+  (ponto de virada + ruptura) — decisão editorial consciente, mantendo
+  coerência com o limite de conteúdo (nenhuma intimidade encenada durante
+  processamento de traição/mágoa real); o `loop_state.py check` acusa gap
+  excedido nesse trecho final, o que é esperado e não é erro de execução.
+- **Revelação de Rogério Nunes**: ele tenta reaparecer via mensagem direta
+  (cap. 23) e depois formalmente através da própria Prisma Sports, que
+  representa parte do portfólio dele (cap. 29) — Otávio recusa
+  formalmente a pedido de Bia, mas o episódio já revela a frieza
+  comercial de Otávio em relação aos limites dela. Marcos a defende
+  publicamente numa coletiva (cap. 27), sem nenhuma ameaça ou confronto
+  físico com Rogério (que nunca aparece em cena presencial, conforme a
+  bíblia).
+- **Escalada de Duca**: juros extras de R$ 10 mil além do valor principal
+  já quitado (cap. 24), ameaça renovada de "visita pública" vinculada a
+  evento do casal — sempre psicológica/social, nunca física. Valor final
+  quitado com bônus + empréstimo pessoal de Thiago (revelado no cap. 24,
+  pago até cap. 40). Duca não reaparece depois do cap. 24 — dívida
+  financeiramente encerrada antes do fim do ato.
+- **Decisão do Al-Zafra FC**: Marcos RECUSA formalmente a proposta no cap.
+  30, decisão sua, reafirmada no cap. 40 quando o empresário tenta
+  reabrir o assunto aproveitando a crise pública com Bia. Diferente do
+  esboço original do Ato 3 na bíblia (que previa a recusa como beat de
+  Ato 3), a decisão de recusar coube ao Ato 2 por instrução explícita
+  ("decidir em algum momento deste ato, pode adiar a decisão FINAL pro
+  Ato 3 se fizer sentido") — a decisão em si não fazia mais sentido
+  adiar depois que o valor da dívida já estava sendo resolvido por outra
+  via. IMPORTANTE PRO ATO 3: a dívida está financeiramente quitada, mas
+  Marcos NUNCA assumiu a história publicamente — a família toda sabe, Bia
+  sabe, Thiago e Duda sabem, mas a imprensa e o público em geral não
+  sabem de nada sobre a dívida do pai. O beat de "assumir a dívida do pai
+  publicamente, nos próprios termos" (arco-trama.md, Ato III) continua
+  inteiramente disponível e recomendado como parte do arco de
+  reconquista de Bia no Ato 3 — só o valor financeiro já não é mais
+  problema, o problema que resta é reputacional/de verdade pública e,
+  principalmente, a confiança de Bia.
+- **Ponto de virada (clímax do Ato 2)**: Bia descobre na Prisma Sports
+  (cap. 33) uma pasta física de cronograma de "deliverables" do
+  relacionamento — incluindo o hotel superlotado de Florianópolis listado
+  como manobra orquestrada pela agência (Otávio confirma no cap. 36 que
+  soube por acaso e nunca contou a nenhum dos dois) — e uma anotação
+  recente confirmando que Marcos continuava, mesmo depois do
+  "te amo" do cap. 31, em conversa estratégica com Otávio sobre "manter a
+  narrativa ativa" por causa da decisão do Al-Zafra, sem nunca contar
+  isso a ela. Marcos não sabia do hotel, mas sabia da conversa contínua
+  com Otávio e escolheu não contar — a mesma falha central dele
+  (carregar/decidir sozinho) se repetindo com Bia, não malícia. Confronto
+  direto e privado no cap. 37 (sala de reunião do CT); ruptura pública
+  real no cap. 39, numa transmissão ao vivo de encerramento de campanha,
+  quando Bia responde com honestidade em vez de encenação a uma pergunta
+  do público sobre "morar juntos" — a "live" é cortada por problema
+  técnico forjado, a imprensa noticia "crise" no dia seguinte (cap. 40),
+  Weverson volta a pressionar sobre a lista da Copa América por causa da
+  instabilidade.
+- **Estado dos dois ao fim do Ato 2**: separados emocionalmente, sem
+  reconciliação — Marcos decide, sozinho, provar com ação (não palavra)
+  que aprendeu a diferença entre proteger e decidir pelos outros; Bia
+  decide continuar a temporada só pela própria competência, "com ou sem
+  ele". Nenhum dos dois fecha a porta de vez — gancho aberto pro Ato 3.
+- **Weverson/Copa América**: lista provisória favorável a Bia no cap. 23,
+  ameaçada de novo pela instabilidade pública no cap. 39 — conflito segue
+  aberto pro Ato 3.
+- **Duda**: aprofundada como confidente ativa dos dois lados (Bia e
+  Marcos), inclusive dando conselho direto sobre o próprio padrão do
+  irmão (cap. 38). Gancho de Léo NÃO foi plantado neste ato (não era
+  obrigatório) — recomendo introduzir organicamente no Ato 3.

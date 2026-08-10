@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Bia)
-- Última atualização: 2026-08-10 11:29
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Bia)
+- Última atualização: 2026-08-10 12:00
 
 ## Placar
-- Palavras: 17525
-- Páginas KDP (~palavras/300): 58
-- Score médio: 7.0
-- Meta de palavras: 56500 (31%)
-- Cenas de heat: 0 / meta 9 (nenhuma ainda)
+- Palavras: 39339
+- Páginas KDP (~palavras/300): 131
+- Score médio: 6.72
+- Meta de palavras: 56500 (70%)
+- Cenas de heat: 4 / meta 9 (última no cap. 32)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

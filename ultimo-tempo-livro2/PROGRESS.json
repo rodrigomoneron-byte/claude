@@ -10,9 +10,9 @@
     "Marcos"
   ],
   "status": "Em andamento",
-  "next_chapter": 19,
+  "next_chapter": 41,
   "next_pov": "Bia",
-  "updated": "2026-08-10 11:29",
+  "updated": "2026-08-10 12:00",
   "chapters": [
     {
       "n": 1,
@@ -157,16 +157,192 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 19,
+      "pov": "bia",
+      "words": 1023,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 20,
+      "pov": "marcos",
+      "words": 1098,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 21,
+      "pov": "bia",
+      "words": 1053,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 22,
+      "pov": "marcos",
+      "words": 1001,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 23,
+      "pov": "bia",
+      "words": 953,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 24,
+      "pov": "marcos",
+      "words": 988,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 25,
+      "pov": "bia",
+      "words": 993,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 26,
+      "pov": "marcos",
+      "words": 985,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 27,
+      "pov": "bia",
+      "words": 962,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 28,
+      "pov": "marcos",
+      "words": 983,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 29,
+      "pov": "bia",
+      "words": 960,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 30,
+      "pov": "marcos",
+      "words": 966,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 31,
+      "pov": "bia",
+      "words": 955,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 32,
+      "pov": "marcos",
+      "words": 955,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 33,
+      "pov": "bia",
+      "words": 994,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 34,
+      "pov": "marcos",
+      "words": 1016,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 35,
+      "pov": "bia",
+      "words": 962,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 36,
+      "pov": "marcos",
+      "words": 989,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 37,
+      "pov": "bia",
+      "words": 965,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 38,
+      "pov": "marcos",
+      "words": 964,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 39,
+      "pov": "bia",
+      "words": 969,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 40,
+      "pov": "marcos",
+      "words": 1080,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 18,
-    "total_words": 17525,
-    "pages_kdp": 58,
-    "avg_score": 7.0,
-    "pct_to_target": 31,
-    "heat_scenes_done": 0,
-    "last_heat_chapter": null
+    "chapters_done": 40,
+    "total_words": 39339,
+    "pages_kdp": 131,
+    "avg_score": 6.72,
+    "pct_to_target": 70,
+    "heat_scenes_done": 4,
+    "last_heat_chapter": 32
   }
 }
