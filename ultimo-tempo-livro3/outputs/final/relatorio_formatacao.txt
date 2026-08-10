@@ -1,0 +1,122 @@
+RELATÓRIO DE FORMATAÇÃO — Pênalti de Ouro (Estrelas do Gramado, Livro 3)
+Autor: R.B. Guidenelli | Idioma: pt-BR | Data: 2026-08-10
+==============================================================================
+
+1. TÍTULO E SUBTÍTULO
+----------------------
+Título: Pênalti de Ouro (mantido do briefing original)
+Subtítulo: Do Lado Errado da Rivalidade
+
+Lógica de escolha: testado por ocorrência textual literal (grep) no
+manuscrito completo antes de decidir. "Do lado errado da rivalidade"
+aparece 3 vezes, exatamente nesse formato, em pontos estruturalmente
+relevantes:
+  - Cap. 1 (abertura): a frase que Léo e Renata dizem juntos, quase
+    rindo, na festa de encerramento do Livro 2 — a semente do "proibido".
+  - Cap. 44: Léo a usa publicamente, na coletiva, defendendo Renata.
+  - Cap. 47: Marisa a repete ao confirmar que a integridade profissional
+    de Renata nunca foi comprometida.
+A frase carrega sentido duplo genuíno — literal (lado da cidade/clube na
+rivalidade esportiva) e metafórico (o lado "errado" do amor proibido) —
+e o epílogo (Parte 2) fecha o arco temático respondendo com "lado
+certo" ("os três casais escolheram atravessar pro lado certo, custasse
+o que custasse" / "O lado certo sempre foi só ficar junto da pessoa
+certa"), sem repetir a frase-subtítulo literalmente, preservando o eco
+sem redundância.
+Não colide com os subtítulos anteriores da trilogia: L1 "Último Tempo"
+(sem subtítulo) e L2 "Fora de Jogo — Nos Próprios Termos". Candidatos
+alternativos descartados: "Nos Próprios Termos" (já usado no L2,
+descartado por colisão direta) e "Mapa de Calor" (aparece 7x no
+manuscrito, mas como objeto simbólico secundário, menos forte como
+subtítulo de capa que a frase de abertura/fechamento do arco central).
+
+2. MANUSCRITO INCLUÍDO
+------------------------
+58 arquivos .md organizados em build/manuscrito/, na ordem:
+  01_capitulo.md a 56_capitulo.md  (Capítulo 1 a Capítulo 56)
+  97_epilogo1.md                   (Epílogo)
+  98_epilogo2.md                   (Epílogo — Parte 2)
+Nenhum capítulo ficou de fora. Nenhuma marcação de POV crua (### POV:)
+foi encontrada nos arquivos-fonte — não houve necessidade de remoção.
+
+Contagem de palavras (recontada nesta etapa, via Python, igual ao
+padrão usado durante toda a produção):
+  Capítulos 1-56: 55.026 palavras
+  Epílogo (2 partes): 2.039 palavras
+  TOTAL do Livro 3: 57.065 palavras
+  (dentro da faixa-alvo de 55.000-58.000 palavras)
+
+3. EPUB
+--------
+Arquivo: outputs/final/penalti-de-ouro.epub (175 KB)
+- EPUB 3.0, gerado via ebooklib
+- 58 capítulos incluídos (conferido: contagem bate com os .md de entrada)
+- Sumário (TOC/NCX/nav) clicável, com todos os capítulos + Epílogo +
+  Epílogo — Parte 2 listados
+- Metadados: título, subtítulo (via description), autor "R.B.
+  Guidenelli", idioma pt-BR, série "Estrelas do Gramado" #3
+- Validado: `epub.read_epub()` abriu o arquivo sem erro; título, autor
+  e idioma conferidos programaticamente após a leitura
+
+4. PDF (paperback KDP 6"x9")
+------------------------------
+Arquivo: outputs/final/penalti-de-ouro-kdp.pdf (406 KB)
+- Dimensão confirmada: 432 x 648 pt = exatamente 6" x 9"
+- 218 páginas
+- Margens: externa 0.5", lombada/gutter 0.75", topo 0.6", base 0.6"
+- Corpo em Times-Roman 11pt, justificado, recuo de primeira linha,
+  leading ~15.5pt (~1.4 de espaçamento)
+- Cada capítulo (e o Epílogo em suas 2 partes) começa em página nova
+- Numeração de página em rodapé centralizado, iniciando em "1" no
+  Capítulo 1 (página de título não numerada)
+- Conferência visual feita: renderizadas e inspecionadas a página de
+  título, a primeira página do Capítulo 1 e a última página (217) do
+  Epílogo — Parte 2. Layout correto nas três: título/subtítulo/autor/
+  série centralizados na capa interna, corpo de texto e numeração
+  corretos no miolo, fechamento limpo na última página sem corte de
+  texto.
+
+5. CAPA
+--------
+Arquivo: outputs/final/prompt_capa_penalti-de-ouro.txt
+Conceito: "clássico decisivo / dados de desempenho" — dois uniformes de
+cores rivais suspensos lado a lado (sem jogadores, sem rostos), linha
+de meio-campo como fio de ouro partido, gráfico/heatmap de dados
+sobreposto em tom Ouro Envelhecido, luz de clássico decisivo (chiaroscuro
+quente da paleta oficial da casa + contraste eletrônico frio pontual).
+Deliberadamente diferente das capas anteriores: L1 = gramado/estádio
+noturno; L2 = evento de imprensa com dois uniformes lado a lado (sem
+dados sobrepostos). Segue a paleta oficial "The Old English Gentleman's
+Club" (Verde Floresta Noturno, Carvalho Envelhecido, Ouro Envelhecido,
+Vinho Borgonha).
+
+6. RÉGUA "A GENTE" — CONFIRMAÇÃO FINAL
+-----------------------------------------
+Rodada uma última vez sobre os arquivos organizados para publicação
+(build/manuscrito/*.md), além da checagem já feita na revisão editorial
+global sobre outputs/conteudo/*.md:
+  - scripts/regua_gate.py: RESULTADO: LIMPO — pode avançar
+  - grep -ilE '\ba gente\b' build/manuscrito/*.md: nenhuma ocorrência
+100% limpo, confirmado duas vezes com métodos independentes, em dois
+conjuntos de arquivos (fonte e organizado para publicação).
+
+7. IDENTIFICADOR / ISBN — AVISO
+-----------------------------------
+O campo "identifier" em metadata.json usa um placeholder
+(urn:uuid:8f3c2e1a-6b4d-4a2f-9c1e-7d5b3a2f0e6c) gerado para esta etapa.
+Antes da publicação real na Amazon KDP, este identificador PRECISA ser
+substituído pelo ISBN real do livro (ou mantido como ASIN gerado pela
+própria KDP, se o autor optar por não usar ISBN próprio).
+
+8. RESUMO DA TRILOGIA COMPLETA — ESTRELAS DO GRAMADO
+========================================================
+  Livro 1 — Último Tempo:                          58.067 palavras
+  Livro 2 — Fora de Jogo — Nos Próprios Termos:     56.727 palavras
+  Livro 3 — Pênalti de Ouro:                        57.065 palavras
+  ------------------------------------------------------------
+  TOTAL COMBINADO DA TRILOGIA:                     171.859 palavras
+
+A trilogia "Estrelas do Gramado" está fechada com os 3 livros
+formatados e prontos para KDP, cameo cruzado autorizado de Thiago/Júlia
+(L1) e Marcos/Bia (L2) confirmado no Livro 3, e epílogo final reunindo
+os três casais.

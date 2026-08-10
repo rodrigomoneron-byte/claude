@@ -1,0 +1,57 @@
+TÍTULO: Estrelas do Gramado — Livro 3: Pênalti de Ouro (Do Lado Errado da Rivalidade)
+
+DESCRIÇÃO VISUAL:
+Composição vertical de capa de paperback, iluminação de chiaroscuro quente
+(nunca fria) mesclada com um contraste eletrônico frio pontual — a paleta
+oficial da casa aplicada a um universo de futebol e clássico decisivo.
+Fundo dominante em Verde Floresta Noturno (#1A2421), sugerindo o campo à
+noite sob refletores distantes e desfocados, como se fosse madeira/couro
+escurecido de um camarote de clube antigo em vez de um estádio genérico.
+
+Ao centro, dois uniformes de futebol vistos de perfil ou em ângulo baixo,
+pendurados ou suspensos como peças de museu/vitrine — nunca vestidos por
+pessoas, sem rostos, sem números legíveis grandes — um deles em tom mais
+quente (aceso por luz âmbar/dourada, Ouro Envelhecido #C5A059, como se
+fosse o uniforme "de casa") e o outro em tom mais frio/escuro (Carvalho
+Envelhecido #3D2B1F ou um verde-azulado profundo, como se fosse o
+uniforme "visitante"), os dois separados por uma linha vertical fina de
+luz — a linha de meio-campo do clássico decisivo, mas desenhada como se
+fosse o fio de ouro de um lacre de cera partido ao meio.
+
+Sobreposto aos dois uniformes, uma tela/gráfico translúcido de dados de
+desempenho esportivo — linhas finas de mapa de calor, pontos conectados,
+como um heatmap de scouting projetado em vidro ou holograma discreto,
+na cor Ouro Envelhecido, criando a sensação de que os dados são o que
+realmente conecta os dois lados, não a rivalidade. O gráfico deve
+parecer desenhado à mão fina, quase caligráfico, não um dashboard
+genérico de software.
+
+Textura geral: couro capitonê e madeira polida nas bordas do enquadramento
+(como se a cena fosse vista de dentro de um camarote/escritório de
+clube), grão de papel de alta gramatura por trás da luz, nada de plástico
+ou vidro genérico de estádio moderno. Toque de Vinho Borgonha (#4A0E2E)
+como acento emocional pontual, talvez na luz refletida na base da
+composição.
+
+Título em tipografia serif display de alto contraste (estilo Cinzel
+Decorative ou Playfair Display Black) em Ouro Envelhecido, autor em
+serif clássica (EB Garamond) abaixo, monograma discreto R·B·G estilo
+lacre de cera no canto inferior.
+
+NEGATIVE PROMPT:
+rostos de jogadores, jogadores em ação/correndo, gramado genérico
+iluminado de estádio moderno, luz branca ou fria de holofote de TV,
+casal em pose romântica, abraço, quase-beijo, bandeira ou escudo de
+clube real, logotipo de marca esportiva real, texto incorporado
+ilegível, estética de pôster de campeonato de TV, cores neon, plástico,
+vidro genérico de arena moderna, fonte sem serifa gritante
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, clássico decisivo, chiaroscuro quente com
+contraste eletrônico frio pontual, dados de desempenho como elemento
+visual central, elegância de "clube inglês" aplicada a futebol,
+DIFERENTE das capas anteriores da série (Livro 1: gramado/estádio
+noturno; Livro 2: evento de imprensa com dois uniformes lado a lado) —
+aqui o elemento novo é a sobreposição de dados/heatmap sobre os
+uniformes suspensos, sem nenhuma figura humana em cena.

@@ -226,9 +226,15 @@ Vitória Atlético.
   (sem gancho de perigo, por decisão editorial explícita — o conflito
   externo já estava resolvido nos caps. 53-55), com transição temporal pro
   evento de encerramento de temporada que ancora o epílogo.
-- **Cadência de heat do Ato 3 + fechamento**: 2 cenas (caps. 54 e 56), gap de
-  2 capítulos entre elas, dentro do máximo de 6. Total do livro: 9/9 cenas-
-  meta (topo da meta), primeira no cap. 20, última no cap. 56 — nenhum gap
+- **Cadência de heat do Ato 3 + fechamento**: 4 cenas (caps. 45, 50, 54 e 56)
+  — nota de correção feita na revisão editorial global: o registro original
+  desta produção citava só 2 cenas (caps. 54 e 56), esquecendo os caps. 45 e
+  50; conferido diretamente no manuscrito (padrão "Posso?"/"Pode" +
+  "Tem/Você tem certeza?"/"Absoluta"/"Tenho certeza" presente nos quatro
+  capítulos). Gaps entre as cenas do Ato 3: 6 (39→45), 5 (45→50), 4 (50→54),
+  2 (54→56) — todos dentro do máximo de 6. Total do livro: 9/9 cenas-meta
+  (topo da meta: 5 no Ato 2 + 4 no Ato 3), primeira no cap. 20, última no
+  cap. 56 — nenhum gap
   jamais excedeu 6 capítulos ao longo do livro inteiro.
 - **"A gente" — vigilância no processo de escrita (cap. 56 e epílogo)**:
   ocorreu em RASCUNHO no cap. 56 (duas vezes, incluindo uma reincidência do
