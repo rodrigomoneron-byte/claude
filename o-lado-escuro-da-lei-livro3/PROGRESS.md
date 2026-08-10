@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Beatriz)
-- Última atualização: 2026-08-10 00:00
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Beatriz)
+- Última atualização: 2026-08-10 00:32
 
 ## Placar
-- Palavras: 17724
-- Páginas KDP (~palavras/300): 59
-- Score médio: 7.0
-- Meta de palavras: 56500 (31%)
-- Cenas de heat: 1 / meta 9 (última no cap. 11)
+- Palavras: 41026
+- Páginas KDP (~palavras/300): 137
+- Score médio: 6.72
+- Meta de palavras: 56500 (73%)
+- Cenas de heat: 5 / meta 9 (última no cap. 39)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.

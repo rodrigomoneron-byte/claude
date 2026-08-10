@@ -135,3 +135,136 @@ casais dos Livros 1-2.
   `regua_gate.py`. Vigilância redobrada recomendada para os próximos
   atos: o padrão de erro tende a aparecer especificamente em momentos de
   tensão alta ou intimidade, quando a prosa busca naturalismo coloquial.
+
+### Ato II (caps. 19-40) — decisões travadas na escrita
+
+- **Resgate de Marta (caps. 19-22)**: mobilização via Fontoura e um
+  contato de Délcio Farias na Polícia Federal — o MESMO Délcio Farias
+  aliado de Marcelo Vieira em L2 (Santos), reaproveitado deliberadamente
+  como ponte de continuidade entre os livros da série (decisão
+  editorial, não vazamento: mesma série, não outra). Localizada por
+  triangulação de câmera térmica num galpão do Setor de Indústria e
+  Abastecimento (SIA), Brasília; resgate sem violência mostrada, dois
+  capturados de baixo escalão (terceirizados, não confirmam nome de
+  quem contratou). Marta revela, ainda sedada, ter ouvido os captores
+  chamarem o superior deles de **"o professor"** — primeira pista do
+  nome no topo da rede, sem identidade ainda.
+- **Mecanismo concreto da acusação forjada contra Caio (revelado caps.
+  23-24 e confirmado cap. 28)**: **Vertex Soluções em Gestão
+  Documental**, consultoria de **Wander Coutinho**, tinha contrato
+  legítimo de "migração emergencial de sistema de armazenamento de
+  correspondência eletrônica" com o tribunal de Caio, dezoito dias
+  antes do afastamento dele. Usando o acesso privilegiado e temporário
+  da migração, Wander inseriu um e-mail forjado (remetente falso, data
+  retroativa) no histórico de Caio, sabendo que cabeçalho de
+  autenticação incompleto seria lido como falha técnica rotineira da
+  migração, não como fraude — a "cobertura perfeita". O MESMO padrão
+  contratual (Vertex + Fundação Cátedra Íntegra pagando via associação
+  intermediária) se repete um mês antes do arquivamento do processo
+  precursor da Cassandra (São Paulo) e seis semanas antes do
+  arquivamento do processo precursor da Zona Cega (Santos) — confirmado
+  por Fontoura e Beatriz cruzando contrato público com data processual
+  (cap. 24-25). Wander confessa o mecanismo em áudio (cap. 28), revela
+  que a instrução sempre chegava por intermediário/envelope, nunca
+  nome direto, e foge em pânico antes de dar mais detalhes — destino
+  dele deixado em aberto no fim do Ato II (visto pela última vez
+  imóvel no próprio apartamento, presumidamente teria contatado Caio
+  de madrugada no cap. 40, mas isso NÃO foi confirmado — pista aberta
+  pro Ato III).
+- **Ataque mais grave do Ato II (cap. 31)**: tentativa de tirar o carro
+  de Beatriz da pista numa via elevada de Brasília à noite, dois
+  impactos na traseira, corte editorial antes de qualquer detalhe
+  gráfico — ela sai só com hematoma no ombro pelo cinto de segurança.
+  Rastreada depois (cap. 33) via tinta de verniz automotivo até a
+  **Escudo Vantage Segurança Corporativa**, contratada por entidades
+  ligadas à Fundação Cátedra Íntegra.
+- **Figura do topo da rede identificada**: **Régis Anchieta Bruno**,
+  ex-Ministro do Superior Tribunal de Justiça, aposentado há seis anos
+  "por escolha pessoal". Foi professor de "prudência decisória" de
+  Caio num curso de formação continuada dezesseis anos atrás — origem
+  do apelido **"o professor"** usado por operadores da rede. Mentor
+  formal registrado de Hélio Marconde no início da carreira dele
+  (relator do processo de habilitação de Marconde como juiz
+  substituto, décadas atrás). Controla, através da holding **Anchieta
+  Participações Patrimoniais** (administrada formalmente por um
+  sobrinho, com procuração ampla nunca revogada em nome do próprio
+  Régis), 13% da Escudo Vantage Segurança Corporativa. Uma segunda
+  holding menor, de oito anos atrás, registra como sócios cotistas
+  tanto o **Senador Aurélio Bastos** (antagonista de L1, "O Chefe" da
+  Operação Cassandra) quanto o então **Secretário Aurélio Tavares**
+  (antagonista de L2, patrono da Operação Zona Cega) — ANTES de
+  qualquer um dos dois escândalos que os derrubou. Decisão de
+  continuidade: isso NÃO contradiz L1 (Bastos como "O Chefe" da própria
+  rede local) nem L2 (Tavares como "patrono político" da APBS/Ruy
+  Antunes) — Régis é revelado como financiador/mentor de ambos, uma
+  camada acima, nunca mencionado nos livros anteriores porque nenhum
+  dos dois protagonistas anteriores chegou a essa camada. Contatou
+  Beatriz pessoalmente por telefone (cap. 35), tom calmo e educado,
+  ameaça velada sem nunca se comprometer verbalmente. Confrontado
+  indiretamente via Marconde (cap. 37), que confirma informalmente o
+  nome "dele" sem gravação utilizável, com medo genuíno por segurança
+  da própria família — Marconde protocola aposentadoria compulsória
+  antecipada (mesma fórmula textual usada por Régis seis anos atrás)
+  pra escapar do processo disciplinar contra Beatriz antes que ele
+  perca efeito.
+- **Ponte de continuidade com Vera Salles/Marcelo Vieira (L2)**:
+  contato telefônico formal estabelecido no cap. 34-35 — Beatriz e
+  Caio avisam Vera sobre a ligação entre os três casos; ela confirma
+  colaboração futura quando o confronto público for necessário. Diana
+  Rossi (L1) contatada apenas indiretamente até o fim do Ato II (via
+  Fontoura, resposta ainda pendente) — cameo físico de ambos os casais
+  reservado para o Ato III, conforme arco-trama.
+  Katia Prado (jornalista de L1) mencionada como possível canal
+  alternativo de exposição pública, ainda não acionada.
+  IMPORTANTE: nenhum dos dois casais aparece fisicamente no Ato II — só
+  contato remoto/telefônico, respeitando o arco-trama (cameo físico é
+  "segunda metade do livro", planejado para o Ato III).
+- **Clímax do Ato II (cap. 39-40)**: Caio recebe mensagem de madrugada
+  (suposto contato de Wander, urgência forçada, exigindo que ele vá
+  "sozinho, antes do amanhecer") e quebra, unilateralmente, o acordo de
+  nunca tomar decisão de risco sem negociar com Beatriz primeiro —
+  recaída deliberada no próprio padrão de isolamento (arco dele, não
+  aprovado narrativamente como certo; ele mesmo reconhece o erro em
+  tempo real, cap. 40). Vai sozinho a um galpão industrial abandonado;
+  é uma armadilha. Régis Anchieta Bruno aparece pessoalmente, confirma
+  ter orquestrado a isca sabendo do "maior talento e maior fraqueza"
+  de Caio (agir sozinho), e Caio é dominado por três homens e sedado
+  (pano sobre a boca, corte editorial total antes de qualquer detalhe
+  além disso — nenhuma violência gráfica mostrada, respeitando seção
+  2b). Capítulo fecha com o celular de Caio caindo no chão do galpão,
+  mensagem não lida de Beatriz na tela — gancho de risco extremo para
+  abrir o Ato III (paradeiro de Caio desconhecido, Beatriz percebendo
+  a ausência e a quebra do acordo).
+- **Heat — cadência real do Ato II**: 4 cenas (caps. 21, 27, 33, 39),
+  total acumulado do livro: 5 de 9 (meta). Gap 11→21 = 10 capítulos,
+  ACIMA do máximo de 6 — overshoot herdado do fechamento do Ato I (gap
+  já em 7 ao fechar o Ato I) somado à impossibilidade tonal de inserir
+  heat nos caps. 19-20 (busca ativa por Marta sequestrada); decisão
+  consciente de reabrir a cadência assim que narrativamente plausível
+  (primeira noite segura depois do resgate, cap. 21), não antes. Gaps
+  seguintes dentro do máximo: 21→27 = 6, 27→33 = 6, 33→39 = 6 — cadência
+  disciplinada mantida pelo resto do ato, incluindo declaração mútua de
+  "eu te amo" no cap. 33. Cap. 33 também é onde Beatriz declara "eu te
+  amo" pela primeira vez, correspondido por Caio na mesma cena.
+- **Extensão real do Ato II**: 22 capítulos, 23.302 palavras (contagem
+  Python), média de ~1059 palavras/capítulo — acima do topo informal
+  buscado (1050-1100) na maioria dos capítulos, puxando a média
+  acumulada do livro (caps. 1-40) para ~1026 palavras/capítulo. Taxa de
+  expansão de emergência: 22 dos 22 capítulos do ato (100%) exigiram
+  pelo menos uma rodada de Edit de expansão além do rascunho inicial
+  pra bater o piso de 85% da média-alvo — mais alta que o Ato I (67%),
+  consistente com o histórico do catálogo citado no project_dna.md
+  (89-100% na maioria dos livros anteriores). Nenhum capítulo ficou
+  abaixo do piso duro no registro final; nenhuma ressalva de extensão
+  precisou ser usada.
+- **Nota de processo — "a gente"**: passou a ocorrer com frequência
+  ainda maior que no Ato I nos rascunhos iniciais — identificado e
+  corrigido, sempre antes do registro, nos caps. 19 (duas ocorrências
+  no mesmo rascunho, incluindo uma tentativa do device proibido de
+  autocorreção que foi reescrita por completo, não só a palavra), 20
+  (device proibido completo, reescrito), 28, 36 e 37 (incluindo, no
+  cap. 37, um erro de POV simultâneo — Beatriz narrada em terceira
+  pessoa dentro do próprio capítulo dela — também corrigido). Padrão
+  confirmado: risco maior em diálogo de tensão alta/negociação entre os
+  protagonistas. Vigilância redobrada recomendada para o Ato III,
+  especialmente nas cenas de resgate e confronto final.
