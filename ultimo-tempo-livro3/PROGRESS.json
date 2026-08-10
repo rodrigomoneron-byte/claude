@@ -10,9 +10,9 @@
     "Leo"
   ],
   "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Renata",
-  "updated": "2026-08-10 13:49",
+  "next_chapter": 56,
+  "next_pov": "Leo",
+  "updated": "2026-08-10 16:37",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,136 @@
       "score": 6.5,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Renata",
+      "words": 1168,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Leo",
+      "words": 1112,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Renata",
+      "words": 1038,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Leo",
+      "words": 1049,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Renata",
+      "words": 1025,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 46,
+      "pov": "Leo",
+      "words": 1113,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Renata",
+      "words": 1063,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Leo",
+      "words": 975,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Renata",
+      "words": 1002,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Leo",
+      "words": 959,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 51,
+      "pov": "Renata",
+      "words": 964,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Leo",
+      "words": 970,
+      "score": 6.7,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Renata",
+      "words": 983,
+      "score": 6.9,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Leo",
+      "words": 990,
+      "score": 6.8,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 55,
+      "pov": "Renata",
+      "words": 911,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 38571,
-    "pages_kdp": 129,
-    "avg_score": 6.5,
-    "pct_to_target": 68,
-    "heat_scenes_done": 5,
-    "last_heat_chapter": 39
+    "chapters_done": 55,
+    "total_words": 53893,
+    "pages_kdp": 180,
+    "avg_score": 6.58,
+    "pct_to_target": 95,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 54
   }
 }
