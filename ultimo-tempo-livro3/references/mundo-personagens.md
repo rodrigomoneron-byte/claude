@@ -164,3 +164,107 @@ Vitória Atlético.
   como recomendação para quem continuar o Ato 2: mirar rascunhos
   iniciais mais longos para reduzir o número de rodadas de expansão e
   aproximar a média real da faixa-alvo.
+
+### Ato 2 (caps. 19-40) — decisões travadas nesta produção
+- **Consequência imediata do flagrante (cap. 19)**: abre com o
+  suspense deixado no fechamento do Ato 1 — Breno some sem confirmar
+  reação, deixa só "vou pensar no que fazer com isso" pendurado no ar.
+  Renata e Léo voltam à festa separados, mantendo fachada pública;
+  tensão suspensa, sem resolução, exatamente como pedido no escopo.
+- **Primeira cena de heat (cap. 20, Léo)**: dentro da janela pedida
+  (19-22). Cenário: apartamento de Léo, três dias depois do jantar.
+  Consentimento verbalizado explicitamente por ambos ("Posso?"/"Pode",
+  "Tenho certeza"/"E você?") antes e durante a cena, sem controle
+  coercitivo de nenhum dos dois. Fecha em gancho: mensagem de Diego
+  pedindo conversa "séria" no dia seguinte.
+- **Diego confronta Renata (cap. 23)**: primeira cena de confronto
+  fraterno real do livro (diferente da farpa involuntária do Ato 1,
+  cap. 9) — ele já desconfiava desde o cap. 21 (comentário sobre
+  "boato de vestiário" + observação de que ela anda "diferente"),
+  confirma vendo os dois no treino conjunto das comissões técnicas, e
+  confronta ela em casa à noite. Tratado como protetor, não vilão:
+  magoado, não furioso; oferece ajuda em vez de ultimato; puxa Marcos
+  e o próprio histórico de rivalidade esportiva pra contextualizar o
+  próprio medo. Vira aliado ativo a partir daqui (liga pros dois no
+  cap. 33 oferecendo ajudar a controlar a narrativa do lado do
+  Vitória).
+- **Breno decide agir (cap. 28)**: primeiro ultimato explícito —
+  pede que Léo finja lesão pra ceder a titularidade antes da reunião
+  técnica pré-clássico, em troca de silêncio; Léo recusa. Tratado
+  estritamente como oportunismo midiático de vestiário (jornalista já
+  contatada, nunca ameaça física) — ele nega, de forma plausível, ter
+  vazado a foto do estacionamento que circula no cap. 33 (mantendo a
+  ambiguidade sobre a fonte real do vazamento até o fim do ato, sem
+  resolver isso explicitamente — pode ser retomado no Ato 3 se
+  necessário).
+- **Marisa Aquino escalada (caps. 27, 31, 37)**: aviso semi-formal no
+  cap. 27 (pergunta direta, Renata evita confirmar), ultimato formal
+  no cap. 31 (prazo até o fim do clássico, escolher entre o
+  relacionamento e o protocolo), e no cap. 37, após a coletiva viral,
+  Renata confirma a verdade diretamente — Marisa a afasta de qualquer
+  análise do Metropolitano mas mantém o cargo. Tratada do início ao
+  fim como profissional justa cumprindo protocolo, nunca hostilidade
+  pessoal — inclusive oferece apoio pessoal genuíno no cap. 27 e 37.
+- **Cameo de Marcos e Bia (caps. 22, 24, 26, 29, 32, 38)**: Marcos
+  como mentor presencial ativo desde o cap. 22 (corredor do CT),
+  aprofunda no cap. 24 (conversa sentados no banco, compartilha a
+  própria experiência de escândalo com Bia) e cap. 32 (aconselha
+  formalmente, oferece ajuda concreta com imprensa). Bia aparece
+  fisicamente pela primeira vez no cap. 29 (café a sós com Renata,
+  aconselha sobre expor a verdade nos próprios termos, caracterizada
+  com intensidade direta e honestidade crua, sem ironia — diferente
+  do registro de Júlia) e retorna no cap. 38 oferecendo apoio direto.
+  Thiago aparece fisicamente pela primeira vez no cap. 26 (breve,
+  cumprimenta Léo no CT) e mais desenvolvido no cap. 38 (compartilha a
+  própria experiência de ficar no banco após escândalo). Nenhum arco
+  romântico próprio reaberto — todos em papel de apoio ativo,
+  consistente com quem já são nos livros 1 e 2.
+- **Ponto de virada / clímax do ato (caps. 36-40)**: coletiva de
+  imprensa pré-clássico (cap. 36) — jornalista pergunta diretamente
+  sobre a foto que já circulava em grupo de torcida (não citada como
+  vinda de Breno; ele nega ter vazado a foto especificamente, mantendo
+  o oportunismo dele focado no ultimato de titularidade, não nesse
+  vazamento pontual); Léo não nega nem confirma, mas a reação no rosto
+  basta pra viralizar. Cap. 37: Marisa confirma com Renata e a afasta
+  formalmente da análise do Metropolitano. Cap. 38: diretoria do
+  Metropolitano tira Léo da titularidade do clássico "por proteção",
+  Breno assume a vaga. Cap. 39: última noite antes da decisão final,
+  quinta cena de heat do livro, gancho de fechamento explícito
+  ("E se... a única saída for nós dois nos afastarmos?"). Cap. 40:
+  afastamento forçado real — os dois clubes exigem, separadamente,
+  posicionamento público de "distância" antes do clássico; Léo e
+  Renata decidem juntos (nenhum impõe a decisão ao outro) fazer o
+  anúncio de afastamento temporário, doloroso mas não definitivo na
+  intenção ("não é o fim, a menos que nós dois deixemos ser") — fecha
+  o Ato 2 nesse ponto, reservando a reconciliação pro Ato 3.
+- **Cadência de heat**: 5 cenas no Ato 2 (caps. 20, 25, 30, 35, 39),
+  todas com consentimento explícito verbalizado por ambos antes e
+  durante, nenhum controle coercitivo. Gaps entre cenas: 5, 5, 5, 4 —
+  todos dentro do máximo de 6. Primeira cena no cap. 20, dentro da
+  janela pedida (19-22). Total acumulado do livro: 5/9 cenas-meta,
+  restando 4 pro Ato 3 + epílogo.
+- **"A gente" — vigilância no processo de escrita**: ocorreu em
+  RASCUNHO em pelo menos 8 dos 22 capítulos (19, 21, 26, 28, 29, 30
+  ocorreu duas vezes em rodadas de expansão diferentes, 34, 39) —
+  identificado e corrigido pelo processo de checagem (regua_gate.py +
+  grep manual) ANTES do registro final em todos os casos. Reincidência
+  notável do device explicitamente proibido (personagem "quase" usa
+  "a gente" e a narração comenta ou "corrige" o deslize em cena):
+  ocorreu por engano no processo de rascunho três vezes distintas
+  (caps. 19, 30 e 34) e foi removido por completo (não só substituído
+  por "nós" — a auto-referência ao erro também foi cortada da cena)
+  antes do registro. Nenhuma ocorrência passou pelo gate consolidado
+  nem pelo grep manual final no lote completo — confirmado limpo em
+  `outputs/conteudo/*.md` (capítulos 1-40) ao final do Ato 2.
+- **Taxa de expansão de emergência**: TODOS os 22 capítulos do Ato 2
+  precisaram de pelo menos uma rodada de expansão via Edit após o
+  rascunho inicial (rascunhos iniciais entre ~50% e ~75% do alvo); a
+  maioria precisou de 2-3 rodadas de Edit incrementais pra cruzar não
+  só o piso duro (857) mas o alvo mínimo de 1000 palavras pedido nesta
+  produção (diferente do Ato 1, que parava no primeiro número acima do
+  piso). Resultado: média final do Ato 2 = 1.014,0 palavras/capítulo
+  (total 22.308 palavras em 22 capítulos), dentro da faixa-alvo
+  950-1100 e acima da meta mínima de 1000-1050 pedida — melhora real
+  sobre a média de 903,5 do Ato 1. Recomendação para o Ato 3: manter o
+  mesmo padrão de rodadas incrementais de Edit em vez de parar no
+  primeiro número acima do piso.

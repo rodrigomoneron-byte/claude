@@ -2,16 +2,16 @@
 
 ## Estado atual
 - Status: Em andamento
-- Capítulos concluídos: 18 / 56
-- Próximo: Capítulo 19 (POV Renata)
-- Última atualização: 2026-08-10 13:15
+- Capítulos concluídos: 40 / 56
+- Próximo: Capítulo 41 (POV Renata)
+- Última atualização: 2026-08-10 13:49
 
 ## Placar
-- Palavras: 16263
-- Páginas KDP (~palavras/300): 54
+- Palavras: 38571
+- Páginas KDP (~palavras/300): 129
 - Score médio: 6.5
-- Meta de palavras: 56500 (29%)
-- Cenas de heat: 0 / meta 9 (nenhuma ainda)
+- Meta de palavras: 56500 (68%)
+- Cenas de heat: 5 / meta 9 (última no cap. 39)
 
 ## Capítulos com ressalva (refinar no final)
 - Nenhum.
