@@ -9,10 +9,10 @@
     "Julia",
     "Thiago"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Julia",
-  "updated": "2026-08-10 03:16",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
+  "next_pov": "Thiago",
+  "updated": "2026-08-10 03:46",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 6.8,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Julia",
+      "words": 1126,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 42,
+      "pov": "Thiago",
+      "words": 1119,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 43,
+      "pov": "Julia",
+      "words": 1085,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Thiago",
+      "words": 1131,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Julia",
+      "words": 1124,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Thiago",
+      "words": 1101,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Julia",
+      "words": 1091,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 48,
+      "pov": "Thiago",
+      "words": 1059,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Julia",
+      "words": 1051,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Thiago",
+      "words": 1021,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Julia",
+      "words": 1104,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 52,
+      "pov": "Thiago",
+      "words": 1036,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 53,
+      "pov": "Julia",
+      "words": 1026,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Thiago",
+      "words": 1090,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 55,
+      "pov": "Julia",
+      "words": 1033,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Thiago",
+      "words": 1018,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 57,
+      "pov": "Julia",
+      "words": 883,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": true
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 39969,
-    "pages_kdp": 133,
-    "avg_score": 6.77,
-    "pct_to_target": 71,
-    "heat_scenes_done": 4,
-    "last_heat_chapter": 35
+    "chapters_done": 57,
+    "total_words": 58067,
+    "pages_kdp": 194,
+    "avg_score": 6.65,
+    "pct_to_target": 103,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 57
   }
 }

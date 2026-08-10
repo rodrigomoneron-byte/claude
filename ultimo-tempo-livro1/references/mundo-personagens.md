@@ -190,3 +190,96 @@ esportiva) e litoral paulista (fuga/introspecção do casal).
   (cap. 25/26) começou como o device explicitamente proibido pelo script
   (personagem "corrigido" em voz alta por dizer "a gente") — removida
   por completo, não só o pronome. Continuar vigilância máxima no Ato III.
+
+### Ato III (capítulos 41-57) — decisões travadas na escrita — LIVRO COMPLETO
+- **Reunião da diretoria (cap. 42)**: Amaral dá prazo de uma semana pra
+  Thiago decidir sobre a própria aposentadoria, sem impor decisão
+  unilateral — Júlia intervém apresentando o laudo clínico completo,
+  mantendo o limite de "nenhuma decisão médica/de carreira imposta sem
+  negociação". Otero atua como voz de equilíbrio institucional.
+- **Decisão de aposentadoria (cap. 44)**: Thiago decide se aposentar por
+  escolha própria — não por pressão da diretoria nem da imprensa — num
+  momento sozinho no CT ao amanhecer, depois confirmado a Marcão. Decide
+  também, no mesmo capítulo, fazer uma declaração pública completa (não
+  só nota de aposentadoria), incluindo o abandono de dez anos atrás.
+- **Fechamento de Vilaça**: decisão do casal (reafirmada cap. 44-45,
+  cumprida cap. 48 e ecoada cap. 51) de NÃO processá-lo nem transformar
+  a declaração pública em "caça às bruxas" — Thiago menciona o
+  necessário pra explicar a própria história, sem detalhar mais que
+  isso. Vilaça manda uma única mensagem de texto depois da entrevista
+  (cap. 51) reconhecendo o próprio erro, sem resposta dos dois além de
+  "seguir em frente" — conflito relacional encerrado definitivamente,
+  nunca reaberto como ameaça física, consistente com o limite de
+  conteúdo do projeto do início ao fim.
+- **Declaração pública (cap. 48)**: entrevista ao vivo em rede nacional,
+  Thiago assume aposentadoria, o abandono de dez anos atrás, o bilhete
+  deixado com o porteiro, e pede publicamente uma segunda chance a
+  Júlia — sem "pedido de casamento" formal nesse momento (isso vem
+  guardado pro fechamento, cap. 56). Menciona o novo cargo de técnico
+  das categorias de base já em conversa com Otero.
+- **Clímax — "o apito" (cap. 50)**: reencontro na clínica de fisioterapia
+  vazia do CT. Júlia entrega a Thiago o apito antigo/desgastado que
+  usava nas primeiras sessões de reabilitação, dizendo que "o jogo
+  recomeça, nos nossos termos" — cena a partir do POV de Thiago
+  (recebendo o gesto), por decisão editorial de impacto emocional.
+  Vestido de noiva mencionado nesse capítulo pela primeira vez desde o
+  Ato I: Júlia sinaliza que "não descarta a possibilidade" um dia, sem
+  compromisso formal ainda.
+- **Transição de carreira (cap. 54)**: Thiago assina oficialmente como
+  técnico assistente das categorias de base (sub-20) do São Paulo
+  Metropolitano, recomendado por Otero, aprovado por unanimidade pela
+  diretoria. Pede despedida discreta como jogador (sem espetáculo),
+  cerimônia simples reservada pra pré-temporada, fora de cena.
+- **Ganchos Livro 2 (Marcos/Bia) fechados de forma aberta, não
+  resolvida**: Bia aceita proposta de outro clube (cap. 53) por
+  autonomia de imagem; tensão romântica com Marcão sinalizada mas nunca
+  verbalizada por nenhum dos dois (cap. 53, reforçada cap. 56-57) — os
+  dois seguem "no próprio tempo", intencionalmente deixado pro Livro 2.
+- **Gancho Livro 3 (Léo) fechado de forma aberta**: Léo se torna
+  primeiro "aluno" formal de Thiago como técnico (cap. 46, 54), estreia
+  no time principal confirmada no salto temporal final (cap. 56) — arco
+  dele continua em aberto pro Livro 3, sem resolução de par romântico
+  nesse livro (conforme bíblia, reservado pra idade adulta dele).
+- **Fechamento do vestido/convite de casamento**: pagamento do símbolo
+  plantado no Ato I — Júlia decide, no cap. 53, parar de esconder o
+  vestido "com vergonha", sem decidir usá-lo de novo ainda; descobre que
+  Thiago também guardou o próprio convite de casamento (fato já revelado
+  cap. 13 do Ato I, ecoado aqui). Thiago revela um anel guardado no
+  bolso no cap. 56 ("não é pedido formal ainda"), sem cena de pedido
+  formal — decisão editorial de manter o tom "sem pressa, nos nossos
+  termos" coerente com o resto do livro, sem fechar prematuramente um
+  gancho de casamento que pode render no Livro 2/3.
+- **Fechamento SEM epílogo formal**: cap. 56 (Thiago) faz o salto
+  temporal de ~1 ano — Thiago como técnico assistente de base, Léo
+  prestes a estrear no time principal, Otero, Amaral e o clube em nova
+  relação profissional com ele. Cap. 57 (Júlia, capítulo curto
+  adicional, ~880 palavras — deliberadamente mais breve, não rotulado
+  "Epílogo") fecha o livro com uma cena de intimidade final e a última
+  linha do livro. Nenhum dos dois capítulos usa o rótulo "Epílogo",
+  conforme decisão travada no onboarding.
+- **Cadência de heat do Ato III**: cap. 41 (heat #5, gap 6 do cap. 35 —
+  no limite máximo, forçado pela virada de ato), cap. 47 (heat #6, gap 6
+  do cap. 41), cap. 52 (heat #7, gap 5 do cap. 47, celebração do
+  reencontro pós-clímax), cap. 57 (heat #8, gap 5 do cap. 52, capítulo
+  curto final). Total do livro: 8 cenas de heat (4 Ato II + 4 Ato III) —
+  dentro da faixa aceitável "8-9" travada no projeto; a 9ª cena não foi
+  forçada por não haver beat estrutural que a sustentasse sem prejudicar
+  o tom sereno do fechamento.
+- **Vigilância "a gente" — Ato III**: revisão ativa flagrou e corrigiu
+  DUAS ocorrências durante o rascunho, ANTES do gate mecânico formal:
+  (1) cap. 41, um deslize de Júlia em diálogo que usou o dispositivo de
+  autocorreção EXPLICITAMENTE PROIBIDO pelo script (personagem seria
+  "corrigida" em voz alta) — reescrito sem o dispositivo, a frase
+  simplesmente trocada por "nós" sem chamar atenção pro erro; (2) cap.
+  42, uma fala de Marcão ("chama a gente pra qualquer coisa") corrigida
+  pra "conta comigo" antes do gate. Nenhuma das duas chegou a aparecer
+  nos registros oficiais de HIT do `regua_gate.py`/grep — todos os 17
+  capítulos do Ato III (41-57) passaram limpos na checagem mecânica
+  final. Confirma, mais uma vez, a necessidade de vigilância ativa
+  durante a redação, não só no gate final.
+- **Contagem final do livro**: 57 capítulos, 58.067 palavras reais
+  (contagem via Python, não `wc -w`), dentro/no teto da meta de
+  55.000-58.000. Nenhum passe de reforço de emergência foi necessário no
+  Ato III — todos os capítulos atingiram o piso de extensão do
+  `loop_state.py record` (85% da média-alvo) no próprio turno de
+  escrita, via expansão imediata de beats reais (não padding).
