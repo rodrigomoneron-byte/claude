@@ -51,4 +51,91 @@ beira-mar.
     explorado pra choque — recuperação da fala é processo gradual.
 
 ## Log de decisões de escrita (preencher durante a produção)
-- (a preencher conforme os capítulos forem escritos)
+
+### Ato I (caps. 1-18) — decisões travadas na escrita, não 100% explícitas na bíblia
+
+**Casa e rotina**
+- A casa de vidro tem 3 andares, portão com reconhecimento facial (sem
+  campainha), câmeras em todos os corredores/ângulos (Bernardo instalou
+  depois do desaparecimento — nenhuma delas fica no quarto de Mel por
+  escolha consciente dele, decisão explicitada no cap. 4).
+  Nenhuma parede tem cortina em lugar nenhum, só persianas elétricas —
+  reforça o símbolo central (transparência vs. verdade).
+- Trilha própria da casa desce até uma praia particular (rotina diária
+  de Clara e Mel à tarde); no ponto onde a trilha se bifurca há um
+  desvio pro penhasco/mirante que Mel sistematicamente evita — plantado
+  no cap. 5 como pista física do trauma, ainda não resolvido no Ato I.
+- Cofre no escritório de Bernardo, atrás de um quadro que era escolha
+  de Vitória — guarda o relatório do investigador particular (Osório) e,
+  a partir do cap. 10, o desenho do vestido vermelho.
+- Xícara de café com desenho de baleia desbotado — presente antigo de
+  Mel pro pai, símbolo recorrente de vínculo (cap. 7).
+
+**Elenco**
+- Investigador particular contratado por Bernardo: **Osório**, ex-federal,
+  nome criado nesta produção (não estava na bíblia) — introduzido no
+  cap. 8, autor do relatório de 183 páginas "sem indícios de foul play".
+  Reaparece caps. 10, 12, 16, 18, conduzindo a investigação doméstica.
+- Babá anterior (a 4ª antes de Clara) que estava de plantão na noite do
+  desaparecimento: nunca nomeada, sumiu de circulação, telefone
+  desligado, endereço antigo vazio — pista aberta pro Ato II (cap. 16).
+- O relógio dourado de pulseira de couro marrom com vidro rachado
+  (quebrado num jantar, dois anos antes do desaparecimento) é
+  identificado como pertencente ao Dr. Vicente — desenhado por Mel no
+  cap. 13, confirmado por Bernardo no cap. 14. Decisão editorial: essa
+  identificação acontece DENTRO do Ato I (mais cedo que o "não suspeito
+  ainda" sugerido no briefing original), porque o incidente incitante
+  (cap. 9) e a investigação subsequente naturalmente aceleram a suspeita
+  — mas SEM confirmação de culpa. O gancho de fechamento do Ato I
+  (cap. 18) documenta acesso de código de portão do Dr. Vicente e da
+  babá desaparecida, mas não resolve nada — a "confissão parcial de Mel"
+  plena continua reservada pro Ato II, conforme a bíblia.
+- Vitória usava um vestido vermelho na noite do desaparecimento — detalhe
+  nunca divulgado à imprensa/laudo policial, conhecido só por Bernardo;
+  usado no cap. 10 como prova de que o desenho de Mel não é fantasia.
+- Helena revela no cap. 12 que viu, uma vez, um carro preto saindo do
+  portão de serviço à tarde, placa começando com "HXR" — pista aberta,
+  não resolvida no Ato I, guardada por catorze meses por medo/culpa
+  (consistente com o papel dela de cúmplice por coação/confusão, não
+  malícia).
+- Discrepância de horário no depoimento original da babá desaparecida
+  (declarou 23h, sistema registra 22h47) — descoberta por Osório no
+  cap. 16, prepara terreno pra localizá-la no Ato II.
+
+**Mutismo/recuperação de Mel — marcos graduais**
+- Cap. 1: silêncio total, mede quem chega.
+- Cap. 3: primeiro desenho mostrado voluntariamente a Clara.
+- Cap. 5: primeiro riso sem som.
+- Cap. 9: primeira frase inteira sussurrada ("O homem levou a mamãe"),
+  só pra Clara — incidente incitante.
+- Cap. 13: fragmento de palavra cortado ("Ele...") sobre o desenho do
+  relógio — não nomeia ninguém, decisão consciente pra não antecipar a
+  suspeita sobre o Dr. Vicente além do que o Ato I comporta.
+- Cap. 16: primeira palavra dita diretamente ao pai ("Papai") — marco
+  emocional, tratado como momento pontual, não cura definitiva (ela
+  volta ao silêncio normal na cena seguinte, reforçando processo
+  gradual, não virada mágica).
+- Cap. 18: Mel reage com medo silencioso ao ouvir mencionar a próxima
+  consulta do Dr. Vicente — sem verbalizar, olhar basta.
+
+**Barreira profissional (Clara/Bernardo)**
+- Nomeada explicitamente pela primeira vez no cap. 8 (Clara se
+  corrigindo de "nós" pra não presumir intimidade) e no cap. 11 (toque
+  de mãos, ele recua citando a posição dela na casa).
+- Quase-beijo no cap. 14 (tempestade), interrompido por ELE — Bernardo
+  nomeia em voz alta que não vai tocá-la de novo enquanto ela for
+  funcionária seguindo à risca o limite reforçado do project_dna.md.
+  Essa promessa deve ser lembrada/paga no Ato II (reformulação explícita
+  da relação antes de qualquer avanço físico).
+- Confissão do passado de Clara com Mateus acontece no cap. 17 (não no
+  18, como poderia ser esperado) — decisão editorial pra fechar o Ato I
+  com o gancho de mistério/perigo doméstico (cap. 18), não com o
+  romance, mantendo o suspense como nota de saída do ato.
+
+**Mateus (ainda não presente fisicamente, conforme escopo)**
+- Padrão de controle estabelecido via flashback nos caps. 1, 5 e 17:
+  vigilância disfarçada de cuidado, controle de roupas/horários/amizades,
+  nunca violência física, terminou com ele esperando do lado de fora do
+  prédio dela numa noite de chuva. Ela foi embora com duas malas, três
+  dias depois do episódio mais assustador. Reservado pra reaparecer
+  fisicamente no Ato II, conforme o escopo deste Ato I.
