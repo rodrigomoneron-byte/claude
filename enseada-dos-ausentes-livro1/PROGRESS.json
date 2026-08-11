@@ -10,17 +10,162 @@
     "Theo"
   ],
   "status": "Em andamento",
-  "next_chapter": 1,
+  "next_chapter": 19,
   "next_pov": "Marina",
-  "updated": "2026-08-11 09:20",
-  "chapters": [],
+  "updated": "2026-08-11 09:53",
+  "chapters": [
+    {
+      "n": 1,
+      "pov": "Marina",
+      "words": 1153,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 2,
+      "pov": "Theo",
+      "words": 997,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 3,
+      "pov": "Marina",
+      "words": 1003,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 4,
+      "pov": "Theo",
+      "words": 965,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 5,
+      "pov": "Marina",
+      "words": 986,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 6,
+      "pov": "Theo",
+      "words": 974,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 7,
+      "pov": "Marina",
+      "words": 967,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 8,
+      "pov": "Theo",
+      "words": 1013,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 9,
+      "pov": "Marina",
+      "words": 959,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 10,
+      "pov": "Theo",
+      "words": 964,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 11,
+      "pov": "Marina",
+      "words": 1121,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 12,
+      "pov": "Theo",
+      "words": 1030,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 13,
+      "pov": "Marina",
+      "words": 996,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 14,
+      "pov": "Theo",
+      "words": 1023,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 15,
+      "pov": "Marina",
+      "words": 952,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 16,
+      "pov": "Theo",
+      "words": 1005,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 17,
+      "pov": "Marina",
+      "words": 1005,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 18,
+      "pov": "Theo",
+      "words": 994,
+      "score": 7.0,
+      "status": "aprovado",
+      "heat": false
+    }
+  ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 0,
-    "total_words": 0,
-    "pages_kdp": 0,
-    "avg_score": 0,
-    "pct_to_target": 0,
+    "chapters_done": 18,
+    "total_words": 18107,
+    "pages_kdp": 60,
+    "avg_score": 6.83,
+    "pct_to_target": 32,
     "heat_scenes_done": 0,
     "last_heat_chapter": null
   }
