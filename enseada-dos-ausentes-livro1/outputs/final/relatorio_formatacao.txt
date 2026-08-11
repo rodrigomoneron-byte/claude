@@ -1,0 +1,80 @@
+RELATÓRIO DE FORMATAÇÃO — Enseada dos Ausentes (Segredos à Beira-Mar, Livro 2)
+Autor: R.B. Guidenelli
+Data: 2026-08-11
+
+1. CAPÍTULOS INCLUÍDOS
+56 de 56 capítulos (Capítulo 1 a Capítulo 56), POV dual Marina
+(ímpar) / Theo (par) alternado sem falha, sem epílogo (conforme
+travado no onboarding — livro standalone). Marcação de POV convertida
+de cabeçalho cru ("# Capítulo N — Nome") para subtítulo discreto em
+itálico sob o título do capítulo, não aparecendo mais como marcação
+crua no produto final.
+
+2. CONTAGEM DE PALAVRAS
+56.143 palavras no manuscrito de origem (outputs/conteudo/), dentro
+da meta de 55.000-58.000 palavras. (Pequena variação de contagem
+observada nos arquivos reorganizados — 56.087 — é resultado só da
+troca do sufixo "— Nome" por linha de POV em itálico separada, sem
+perda de conteúdo de prosa.)
+
+3. PDF (paperback KDP 6"x9")
+Arquivo: enseada-dos-ausentes-livro2_kdp.pdf
+Dimensão confirmada: 432 x 648 pt (6" x 9")
+Páginas: 193
+Margens conforme kdp-specs.md (externa 0.5", lombada/gutter 0.75",
+topo/base 0.6"). Fonte de corpo Times-Roman 11pt justificado com
+recuo de primeira linha. Cada capítulo inicia em página nova.
+Numeração de página no rodapé, começando no Capítulo 1 (página de
+título não numerada). Conferido visualmente via captura de página
+(página de título + Capítulo 1): layout, tipografia e numeração OK.
+
+4. EPUB (EPUB 3.0)
+Arquivo: enseada-dos-ausentes-livro2.epub
+Validado com `ebooklib.epub.read_epub()` — abre sem erro.
+Título: Enseada dos Ausentes | Idioma: pt-BR
+Sumário (TOC/NCX + nav) com os 56 capítulos, clicável.
+Metadados de série embutidos (calibre:series = "Segredos à Beira-Mar",
+calibre:series_index = 2).
+
+5. RÉGUA "A GENTE" — CHECAGEM FINAL
+Rodada uma última vez sobre os 56 arquivos já reorganizados em
+build/manuscrito/ (pós-conversão de cabeçalho de POV):
+  - scripts/regua_gate.py: LIMPO em todos os 56 arquivos.
+  - grep manual `-ilE '\ba gente\b'`: zero ocorrências (exit code 1).
+Confirma que a reorganização estrutural não introduziu nenhuma
+regressão na régua absoluta de voz.
+
+6. TÍTULO E SUBTÍTULO
+Título: Enseada dos Ausentes (travado desde o onboarding).
+Subtítulo: "Quem Lucra com o Silêncio" — testado por ocorrência
+textual literal no manuscrito (cap. 3, fala de Theo: "comece
+perguntando quem lucra com o silêncio"). Escolhido por: (a) ocorrência
+literal única e marcante, funcionando como a pergunta fundadora que
+desencadeia toda a investigação; (b) sentido duplo real — "lucra" tanto
+no sentido financeiro do esquema imobiliário (Nogueira/Costa Azul)
+quanto no sentido de quem se beneficia socialmente do silêncio
+coletivo da vila; (c) ecoa diretamente a marca de voz nº 6 do projeto
+("silêncio como cumplicidade, fala como coragem").
+
+7. CAPA
+Prompt gerado em prompt_capa_enseada-dos-ausentes.txt, seguindo a
+imagem-conceito travada em project_dna.md/arco-trama.md: farol
+desativado contra céu de tempestade, pousada de madeira envelhecida em
+segundo plano, luz âmbar de uma única janela contrastando com o azul
+frio do mar. Sem rostos. Tipografia serif display em ouro envelhecido
+para o título, mantendo o padrão tipográfico da casa adaptado à
+imagem-conceito específica deste livro (que diverge deliberadamente da
+paleta "clube de carvalho" usada em outras séries da casa, por se
+tratar de selo de suspense costeiro diferente).
+
+8. IDENTIFICADOR / ISBN
+metadados_enseada-dos-ausentes.json usa um identificador placeholder
+(urn:uuid gerado automaticamente) — PRECISA SER SUBSTITUÍDO pelo ISBN
+real antes de qualquer publicação efetiva na Amazon KDP.
+
+CHECKLIST FINAL
+[x] enseada-dos-ausentes-livro2.epub
+[x] enseada-dos-ausentes-livro2_kdp.pdf
+[x] prompt_capa_enseada-dos-ausentes.txt
+[x] metadados_enseada-dos-ausentes.json
+[x] relatorio_formatacao.txt

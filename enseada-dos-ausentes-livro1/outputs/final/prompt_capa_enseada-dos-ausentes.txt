@@ -1,0 +1,48 @@
+TÍTULO: Segredos à Beira-Mar — Livro 2: Enseada dos Ausentes
+SUBTÍTULO: Quem Lucra com o Silêncio
+
+DESCRIÇÃO VISUAL:
+Um farol desativado, branco descascado, ligeiramente torto na base,
+recorta o primeiro plano contra um céu de tempestade em tons de
+ferrugem e chumbo — nuvens pesadas, quase roxas, comprimidas sobre o
+horizonte. A luz do farol está apagada (elemento narrativo central: um
+farol que devia guiar e foi deixado escuro), mas uma única janela na
+base de pedra emite um facho quente, âmbar, cor de latão antigo —
+o único calor humano na composição. Em segundo plano, desfocada pela
+distância e pela neblina salgada, a silhueta de uma pousada de dois
+andares em madeira envelhecida (antes azul, hoje desbotada), varanda
+comprida de frente pro mar. Entre o farol e a pousada, o mar abre-se
+frio, quase metálico, azul-acinzentado, com ondulação de tempestade
+prestes a estourar — nenhuma figura humana visível na água. A
+composição usa o contraste de duas luzes: o âmbar quente da janela
+única (esperança, cumplicidade que decide falar) contra o azul frio do
+mar e do céu de tempestade (silêncio antigo, perigo, décadas de
+segredo). Sem rostos — a projeção da leitora sobre Marina e Theo fica
+livre. Título em serif display de alto contraste (Cinzel Decorative ou
+Playfair Display Black) em ouro envelhecido (#C5A059), possivelmente
+gravado como se estivesse esculpido na pedra da base do farol;
+subtítulo em corpo menor, papel pergaminho (#E5D3B3), abaixo do
+título. Nome do autor "R.B. Guidenelli" na base da capa, discreto,
+mesmo tratamento tipográfico do selo da casa. Textura geral: papel de
+alta gramatura, leve grão de tempestade/spray salino, iluminação
+chiaroscuro (nunca luz branca/clínica) mesmo na paleta fria do mar —
+o frio da tempestade e o quente da janela do farol coexistindo na
+mesma cena.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, pessoas visíveis na
+praia ou na água, símbolos de partido, bandeiras, texto incorporado
+além do título/subtítulo pedidos, fonte sans-serif genérica, fundo
+branco ou clichê de stock photo, luz branca/fria uniforme sem
+contraste quente, farol aceso com luz girando (o farol está
+desativado), clip-art, ilustração fofa/cartoon, estética de cartaz de
+filme de terror
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, suspense doméstico atmosférico, litoral
+catarinense, chiaroscuro quente pontual sobre paleta fria dominante,
+tipografia serif display em ouro envelhecido, sem rostos — tom "farol
+desativado contra céu de tempestade, pousada de madeira envelhecida em
+segundo plano, luz âmbar contrastando com o azul frio do mar" (imagem-
+-conceito travada em references/project_dna.md deste projeto)
