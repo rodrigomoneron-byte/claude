@@ -241,3 +241,115 @@ beira-mar.
   custódia formalmente com advogados, ameaça expor Bernardo
   publicamente. Fecha o Ato II nesse pico de tensão/ameaça FUTURA
   (ainda não executada fisicamente), conforme escopo travado.
+
+### Ato III (caps. 41-57) — decisões travadas na escrita, fechamento do livro
+
+**Cadência de heat (4 cenas no Ato III, total geral 8/9 — meta batida)**
+- Cap. 42 (Bernardo) — gap 4 desde o cap. 38, logo no início do Ato III
+  conforme escopo, antes da escalada de perigo físico.
+- Cap. 51 (Clara) — gap 9 desde o cap. 42 (excede o máximo de 6),
+  decisão editorial CONSCIENTE e documentada: os caps. 43-50 cobrem a
+  confissão de Vicente, a noite de temporal, a reaparição física de
+  Vitória, o esconderijo de Mel na sala segura e o clímax nos
+  penhascos — nenhum desses beats sustenta uma cena de heat sem violar
+  o tom ou forçar a cena contra o próprio ritmo da crise, exatamente
+  como o briefing orienta ("nunca force cena onde o beat não
+  sustenta"). A cena do cap. 51 acontece na noite seguinte à prisão de
+  Vitória, como alívio emocional pós-crise.
+- Cap. 54 (Bernardo) — gap 3. Depois da reformulação final e definitiva
+  da relação (rescisão formal do contrato de trabalho de Clara,
+  fundo em nome de Mel independente do estado civil dos dois).
+- Cap. 56 (Bernardo) — gap 2. Noite do pedido de casamento na praia.
+- Total geral do livro: 8 cenas de heat (caps. 21, 26, 32, 38, 42, 51,
+  54, 56) — dentro da meta de 8-9, não forçada uma 9ª cena artificial
+  no capítulo final (57), que fecha o livro em tom emocional/simbólico
+  sem heat, conforme orientação de "aceitável fechar em 8-9".
+
+**Reaparição física de Vitória (queda do Ato III, caps. 45-46)**
+- Usa a trilha de acesso à praia particular / desvio pro mirante —
+  resolvendo o gancho aberto desde o Ato I (cap. 5: Mel sempre evitava
+  esse trecho da trilha sem explicação) como o mesmo caminho que
+  Vitória usa pra entrar na propriedade despercebida durante a
+  tempestade, alegando conhecer "os pontos cegos" da casa que ela
+  mesma ajudou a projetar.
+  vestido encharcado, um motorista/comparsa não nomeado esperando na
+  trilha (detido separadamente pela equipe de Torres, sem confronto).
+  Menciona ter um objeto metálico escondido no casaco (nunca
+  explicitamente nomeado como arma na narração, nunca sacado, nunca
+  apontado pra ninguém, muito menos pra Mel) — usado só como
+  ferramenta de intimidação psicológica implícita contra Bernardo.
+- Mel nunca está na mesma cena que Vitória em nenhum momento do Ato
+  III — Clara a leva pra sala segura (construída no Ato II, cap. 34)
+  ANTES da confrontação começar, usando o "jogo da porta forte"
+  ensaiado no cap. 41. Nenhum contato físico, visual ou auditivo direto
+  entre Vitória e Mel acontece em nenhum ponto do livro.
+
+**Clímax — confronto nos penhascos (caps. 48-50)**
+- Bernardo bloqueia fisicamente a passagem de Vitória até a escada
+  (proteção passiva, não ataque), mas NUNCA a agride; quando ela foge
+  pra trilha do mirante, ele é explicitamente mandado recuar por Torres
+  ("Deixa que nós resolvemos isso") e obedece, cumprindo a promessa
+  feita a Clara no Ato II de nunca resolver nada sozinho por raiva.
+- Prisão de Vitória: pacífica, conduzida inteiramente pela equipe
+  federal de Torres, sem violência, ela se rende por vontade própria
+  depois de um apelo verbal de Bernardo sobre a filha. Ferraz e o
+  motorista/comparsa presos separadamente, sem confronto físico
+  descrito.
+- Dr. Vicente confessa integralmente no cap. 44 (antes do clímax):
+  Ferraz ameaçou os dois filhos adolescentes dele pra forçar assinatura
+  de laudos falsos; coopera formalmente com Torres, colaboração
+  premiada, pena reduzida/possivelmente suspensa. Fecha o arco dele
+  como cúmplice coagido, não vilão, conforme travado na bíblia.
+
+**Resolução legal (cap. 52)**
+- Vitória e Ferraz indiciados por fraude, extorsão, falsidade
+  ideológica e conspiração (Ferraz também por coação); guarda
+  unilateral de Mel confirmada pra Bernardo sem previsão de revisão;
+  dois novos operadores financeiros da rede identificados e indiciados
+  a partir da perícia federal.
+
+**Recuperação da fala de Mel — marcos finais (consistente com os
+marcos graduais do Ato I/II, cap. 16 "Papai", cap. 29 "O tio Vicente
+estava lá")**
+- Cap. 47: sob medo real (Vitória na casa), Mel se comunica só por
+  desenho e gesto, não por fala — mantém a coerência de que picos de
+  fala anteriores aconteceram sob estresse ou vínculo forte, não
+  garantidos em toda situação de medo.
+- Cap. 53: marco central do Ato III — em sessão com a psicóloga (Dra.
+  Fernanda, nome criado nesta produção), Mel produz frases completas e
+  conectadas pela primeira vez no livro, nomeando a própria experiência
+  emocional da noite da invasão de Vitória. A psicóloga explicita, em
+  cena, que ainda existirão recuos e dias de silêncio — decisão
+  editorial pra manter a recuperação como processo gradual, não cura
+  mágica, mesmo no capítulo de maior avanço.
+- Cap. 55 em diante: fala mais frequente e confiante em contexto
+  doméstico cotidiano, caderno de desenho vira companhia por escolha,
+  não mais única linguagem de sobrevivência emocional.
+
+**Elenco e fatos novos travados no Ato III**
+- Dra. Fernanda: psicóloga de Mel, nome criado nesta produção
+  (cap. 53), conduz o processo terapêutico com sensibilidade clínica
+  explícita sobre recaídas normais.
+- Helena: fecha o próprio arco de culpa no cap. 51, com Clara
+  reafirmando que medo não é traição — consistente com o papel dela de
+  cúmplice por coação/confusão, nunca malícia.
+- Bernardo rescinde formalmente o contrato de trabalho de Clara no
+  cap. 54, cria fundo em nome de Mel independente do estado civil dos
+  dois, e só depois disso qualquer avanço físico acontece — reforço
+  redundante e deliberado da regra de que status profissional nunca
+  pode ficar ambíguo antes de heat.
+- Pedido de casamento no cap. 56, na praia particular, no fim do verão
+  seguinte (salto de tempo implícito); Mel ajudou a escolher o anel.
+- Casamento e adoção formal de Mel por Clara no cap. 57 (capítulo
+  final) — fecham o livro com "futuro seguro e definitivo" explícito:
+  Vitória condenada sem contato futuro com Mel, Ferraz preso, rede
+  de sócios totalmente indiciada, Vicente em serviço comunitário
+  reconstruindo a vida com os filhos, casa de vidro fisicamente
+  transformada (cortinas, cor, plantas — decisão narrativa que resolve
+  a regra do Ato I "nenhuma parede tem cortina", agora invertida como
+  símbolo consciente de escolha por aconchego depois que o perigo real
+  passou), monitor de bebê desligado como símbolo final de segurança
+  interiorizada, não mais vigiada.
+- SEM epílogo formal — o cap. 57 funciona como fechamento natural do
+  arco, não capítulo rotulado "Epílogo", conforme decisão travada desde
+  o onboarding (livro standalone).

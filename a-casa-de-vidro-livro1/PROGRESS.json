@@ -9,10 +9,10 @@
     "Clara",
     "Bernardo"
   ],
-  "status": "Em andamento",
-  "next_chapter": 41,
-  "next_pov": "Clara",
-  "updated": "2026-08-11 01:25",
+  "status": "Manuscrito completo — revisão/formatação pendentes",
+  "next_chapter": 58,
+  "next_pov": "Bernardo",
+  "updated": "2026-08-11 01:51",
   "chapters": [
     {
       "n": 1,
@@ -333,16 +333,152 @@
       "score": 7.0,
       "status": "aprovado",
       "heat": false
+    },
+    {
+      "n": 41,
+      "pov": "Clara",
+      "words": 1018,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 42,
+      "pov": "Bernardo",
+      "words": 1018,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 43,
+      "pov": "Clara",
+      "words": 1081,
+      "score": 6.0,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 44,
+      "pov": "Bernardo",
+      "words": 992,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 45,
+      "pov": "Clara",
+      "words": 975,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 46,
+      "pov": "Bernardo",
+      "words": 1106,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 47,
+      "pov": "Clara",
+      "words": 952,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 48,
+      "pov": "Bernardo",
+      "words": 952,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 49,
+      "pov": "Clara",
+      "words": 1035,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 50,
+      "pov": "Bernardo",
+      "words": 973,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 51,
+      "pov": "Clara",
+      "words": 983,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 52,
+      "pov": "Bernardo",
+      "words": 1005,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 53,
+      "pov": "Clara",
+      "words": 956,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 54,
+      "pov": "Bernardo",
+      "words": 952,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 55,
+      "pov": "Clara",
+      "words": 959,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
+    },
+    {
+      "n": 56,
+      "pov": "Bernardo",
+      "words": 966,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": true
+    },
+    {
+      "n": 57,
+      "pov": "Clara",
+      "words": 1020,
+      "score": 6.5,
+      "status": "aprovado",
+      "heat": false
     }
   ],
   "blocks": [],
   "scoreboard": {
-    "chapters_done": 40,
-    "total_words": 40492,
-    "pages_kdp": 135,
-    "avg_score": 6.66,
-    "pct_to_target": 72,
-    "heat_scenes_done": 4,
-    "last_heat_chapter": 38
+    "chapters_done": 57,
+    "total_words": 57435,
+    "pages_kdp": 191,
+    "avg_score": 6.59,
+    "pct_to_target": 102,
+    "heat_scenes_done": 8,
+    "last_heat_chapter": 56
   }
 }
