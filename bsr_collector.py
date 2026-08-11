@@ -3,13 +3,20 @@ KindleRanker BR — Coletor de BSR
 Coleta BSR atual de todos os ASINs via Rainforest API e salva no banco.
 
 Uso:
-    python bsr_collector.py                    # coleta todos os ASINs
-    python bsr_collector.py --asin B08MV39BSH  # coleta um ASIN específico
-    python bsr_collector.py --dry-run          # simula sem salvar
+    python bsr_collector.py                       # coleta todos os ASINs
+    python bsr_collector.py --asin B08MV39BSH      # coleta um ASIN específico
+    python bsr_collector.py --dry-run              # simula sem salvar
+    python bsr_collector.py --concurrency 10       # mais ASINs em paralelo
+
+Coleta cada ASIN como um nó independente (fan-out em threads), respeitando o
+rate limit da Rainforest API via token-bucket compartilhado — não mais uma
+fila sequencial. O salvamento no banco é o fan-in: espera todos os nós
+terminarem e sinaliza se algum ASIN falhou silenciosamente.
 
 Env:
     DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASS
     RAINFOREST_API_KEY
+    BSR_CONCURRENCY (opcional, padrão 5)
 
 Cron (2x/dia — 8h e 20h):
     0 8,20 * * * cd /home/user/kindleranker && python bsr_collector.py >> logs/bsr.log 2>&1
@@ -19,8 +26,10 @@ import os
 import time
 import argparse
 import logging
+import threading
 import requests
 import psycopg2
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from psycopg2.extras import execute_values
 from datetime import datetime, timezone
 
@@ -38,9 +47,33 @@ log = logging.getLogger(__name__)
 RAINFOREST_KEY  = os.getenv("RAINFOREST_API_KEY", "")
 RAINFOREST_URL  = "https://api.rainforestapi.com/request"
 AMAZON_DOMAIN   = "amazon.com.br"
-DELAY_ENTRE_REQ = 1.2   # segundos entre requests (evita rate limit)
+DELAY_ENTRE_REQ = 1.2   # intervalo mínimo entre requests (evita rate limit)
 MAX_RETRIES     = 3
 TIMEOUT         = 15
+CONCURRENCIA    = int(os.getenv("BSR_CONCURRENCY", "5"))  # nós de coleta em paralelo
+
+# ── Rate limiter ──────────────────────────────────────────────────────────────
+#
+# Os ASINs não têm nenhuma dependência de dados entre si — cada coleta é um nó
+# independente. A única aresta real é o rate limit da Rainforest API, um
+# recurso compartilhado por todas as threads. Por isso o limite vira um
+# semáforo/token-bucket, não uma fila sequencial: threads concorrentes,
+# throughput da API respeitado.
+
+class RateLimiter:
+    def __init__(self, min_interval: float):
+        self.min_interval = min_interval
+        self._lock = threading.Lock()
+        self._next_slot = 0.0
+
+    def wait(self):
+        with self._lock:
+            now = time.monotonic()
+            start = max(now, self._next_slot)
+            self._next_slot = start + self.min_interval
+            delay = start - now
+        if delay > 0:
+            time.sleep(delay)
 
 # ── Banco ─────────────────────────────────────────────────────────────────────
 
@@ -67,7 +100,7 @@ def get_store_id(cur, codigo="Amazon.com.br"):
 
 # ── Rainforest API ────────────────────────────────────────────────────────────
 
-def fetch_bsr(asin: str) -> dict | None:
+def fetch_bsr(asin: str, rate_limiter: "RateLimiter") -> dict | None:
     """
     Busca dados do produto via Rainforest API.
     Retorna dict com bsr_geral, bsr_categoria, categoria_nome, browse_node_id.
@@ -83,6 +116,7 @@ def fetch_bsr(asin: str) -> dict | None:
     }
 
     for tentativa in range(1, MAX_RETRIES + 1):
+        rate_limiter.wait()
         try:
             resp = requests.get(RAINFOREST_URL, params=params, timeout=TIMEOUT)
 
@@ -187,36 +221,51 @@ def atualizar_calibracao(cur, asin: str, bsr_geral: int, store_id: int):
 
 # ── Core ──────────────────────────────────────────────────────────────────────
 
-def coletar(asins: list, store_id: int, cur, dry_run: bool = False):
+def coletar(asins: list, store_id: int, cur, dry_run: bool = False, concorrencia: int = CONCURRENCIA):
     coletados  = 0
     sem_bsr    = 0
     erros      = 0
     inicio     = datetime.now()
 
-    log.info(f"Iniciando coleta de {len(asins)} ASINs em {AMAZON_DOMAIN}")
+    log.info(f"Iniciando coleta de {len(asins)} ASINs em {AMAZON_DOMAIN} (concorrência={concorrencia})")
+
+    rate_limiter = RateLimiter(DELAY_ENTRE_REQ)
+    resultados   = {}  # asin -> resultado (dict) ou None
+
+    # ── Fan-out: um nó de busca por ASIN, sem aresta entre eles ────────────────
+    with ThreadPoolExecutor(max_workers=concorrencia) as pool:
+        futuros = {pool.submit(fetch_bsr, asin, rate_limiter): (asin, titulo) for asin, titulo in asins}
+
+        for i, futuro in enumerate(as_completed(futuros), 1):
+            asin, titulo = futuros[futuro]
+            resultado = futuro.result()
+            resultados[asin] = resultado
+
+            log.info(f"[{i}/{len(asins)}] {asin} — {titulo[:50]}")
+            if resultado is None:
+                log.warning("  → Falhou")
+            elif not resultado.get("bsr_geral"):
+                log.info("  → Sem BSR disponível")
+            else:
+                log.info(f"  → BSR geral: {resultado['bsr_geral']:,} | Categoria: {resultado.get('categoria_nome','?')} #{resultado.get('bsr_categoria','?')}")
+
+    # ── Fan-in: a aresta real. Só roda depois que todo nó acima terminou ───────
+    faltando = len(asins) - len(resultados)
+    if faltando:
+        log.warning(f"AVISO: {faltando} ASIN(s) não retornaram resultado algum — coleta parcial.")
 
     registros = []
-
-    for i, (asin, titulo) in enumerate(asins, 1):
-        log.info(f"[{i}/{len(asins)}] {asin} — {titulo[:50]}")
-
-        resultado = fetch_bsr(asin)
+    for asin, titulo in asins:
+        resultado = resultados.get(asin)
 
         if resultado is None:
             erros += 1
-            log.warning(f"  → Falhou")
-            time.sleep(DELAY_ENTRE_REQ)
             continue
 
         bsr_geral = resultado.get("bsr_geral")
-
         if not bsr_geral:
             sem_bsr += 1
-            log.info(f"  → Sem BSR disponível")
-            time.sleep(DELAY_ENTRE_REQ)
             continue
-
-        log.info(f"  → BSR geral: {bsr_geral:,} | Categoria: {resultado.get('categoria_nome','?')} #{resultado.get('bsr_categoria','?')}")
 
         registros.append((
             asin,
@@ -232,7 +281,6 @@ def coletar(asins: list, store_id: int, cur, dry_run: bool = False):
             atualizar_calibracao(cur, asin, bsr_geral, store_id)
 
         coletados += 1
-        time.sleep(DELAY_ENTRE_REQ)
 
     if registros and not dry_run:
         execute_values(cur, """
@@ -262,6 +310,7 @@ def main():
     parser = argparse.ArgumentParser(description="Coleta BSR via Rainforest API")
     parser.add_argument("--asin",    help="Coletar apenas este ASIN")
     parser.add_argument("--dry-run", action="store_true", help="Simula sem salvar")
+    parser.add_argument("--concurrency", type=int, default=CONCURRENCIA, help="ASINs coletados em paralelo (padrão: 5)")
     args = parser.parse_args()
 
     if not RAINFOREST_KEY and not args.dry_run:
@@ -284,7 +333,7 @@ def main():
             log.warning("Nenhum ASIN encontrado.")
             return
 
-        coletar(asins, store_id, cur, dry_run=args.dry_run)
+        coletar(asins, store_id, cur, dry_run=args.dry_run, concorrencia=args.concurrency)
 
         if not args.dry_run:
             conn.commit()
