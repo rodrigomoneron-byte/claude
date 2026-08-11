@@ -139,3 +139,105 @@ beira-mar.
   prédio dela numa noite de chuva. Ela foi embora com duas malas, três
   dias depois do episódio mais assustador. Reservado pra reaparecer
   fisicamente no Ato II, conforme o escopo deste Ato I.
+
+### Ato II (caps. 19-40) — decisões travadas na escrita
+
+**Reformulação explícita da relação (obrigatória antes de heat)**
+- Acontece INTEIRA no cap. 20 (Bernardo), pagando a promessa do cap. 14.
+  Bernardo: (a) redige um aditivo de contrato com o próprio advogado
+  SEM consultar Clara antes, blindando o emprego/salário/moradia dela de
+  qualquer desdobramento romântico ("se um dia isso não der certo entre
+  nós, você continua empregada aqui, nas mesmas condições"); (b) nomeia
+  em voz alta "não sou o Mateus... isso precisa acontecer limpo"; (c)
+  pede pra Clara escolher livremente, ela responde "escolho você". Beijo
+  fecha o capítulo — SEM heat ainda. Decisão editorial: separar
+  fisicamente a cena de reformulação (cap. 20) da primeira cena de heat
+  (cap. 21) pra deixar a régua de conteúdo inequívoca sobre a ordem.
+
+**Cadência de heat real (4 cenas no Ato II, dentro da meta 8-9 total)**
+- Cap. 21 (Clara) — primeira cena do livro, depois da reformulação do
+  cap. 20. Consentimento verbalizado em cada etapa por ambos; Mel
+  mencionada explicitamente como segura/dormindo, com monitor e sensor
+  de corredor descritos na cena.
+- Cap. 26 (Bernardo) — gap de 5 caps. Depois da primeira aparição física
+  de Mateus (cap. 25) e da decisão consciente de Bernardo de NÃO agir
+  por conta própria contra ele.
+- Cap. 32 (Bernardo) — gap de 6 caps. Cena de respiro/vínculo em meio à
+  vigilância elevada pós-alarme de perímetro (cap. 31).
+- Cap. 38 (Bernardo) — gap de 6 caps. Na noite antes do telefonema de
+  Vitória (cap. 40), depois da notícia de que Osório localizou uma
+  propriedade ligada a Ricardo Ferraz.
+- Todas com Mel dormindo, porta entreaberta, monitor ligado, corredor
+  monitorado — repetido como padrão de linguagem de segurança da casa,
+  não só do cap. 21.
+
+**Mateus — resolução via via legal (cap. 25, 27, 37)**
+- Reaparece fisicamente no cap. 25 (mercado da vila), abordagem calma e
+  "gentil" característica dele, sem contato físico. Clara recua sozinha,
+  sem intervenção física de Bernardo.
+- Cap. 26: Bernardo nomeia explicitamente que quer ir atrás dele mas
+  escolhe NÃO agir, cede a decisão a Clara — trava dura documentada em
+  diálogo direto ("não é meu direito").
+- Cap. 27: boletim de ocorrência + pedido de medida protetiva na
+  delegacia de Bombinhas.
+- Cap. 37: medida protetiva concedida, Mateus preso em flagrante por
+  violação (< 24h depois de notificado), reforçado por histórico de
+  outra vítima anterior descoberto na checagem de antecedentes. Resolvido
+  inteiramente pelo sistema — Bernardo nunca toca nele.
+
+**Investigação — novos nomes e fatos travados no Ato II**
+- **Ricardo Ferraz**: ex-sócio de Vitória antes do casamento com
+  Bernardo, dono da empresa de fachada (registrada em Florianópolis)
+  que possui o carro preto placa "HXR" (resolvendo a pista aberta do
+  Ato I). Financiou a invasão da casa (cap. 34) através de contratados
+  com antecedentes por invasão/coação. Ligado a uma conta de Vitória
+  rastreada por perícia federal (cap. 36).
+- Ex-babá desaparecida (ainda não nomeada por escolha editorial):
+  localizada e entrevistada no cap. 23 — testemunha ocular de Vitória
+  viva, com mala, se encontrando com um homem de terno e óculos escuros
+  (Ferraz) na noite do "desaparecimento"; foi paga por Vitória pra
+  mentir sobre o horário da porta da garagem. Aceita depor formalmente.
+- Dr. Vicente: confirma no cap. 30, sob pressão mas SEM prova ainda,
+  que estava lá "na noite escura" (confirmando a fala de Mel do cap.
+  29) e que está sendo chantageado por ameaça à própria família (dois
+  filhos adolescentes) — não nomeia o chantagista. Confissão completa
+  continua reservada pro Ato III, conforme a bíblia.
+- Advogado pessoal de Bernardo: **Amaral**, nome criado nesta produção
+  (cap. 20, 24, 36) — renomeado de um rascunho inicial "Ricardo" pra
+  evitar colisão com o antagonista Ricardo Ferraz.
+- Agente federal **Torres**: nome criado nesta produção, assume o caso
+  formalmente a partir do cap. 36, depois da invasão. Revela que
+  Vitória está viva (conta bancária pessoal rastreada financiando os
+  invasores) e alerta sobre risco de disputa de custódia/patrimônio
+  legal, não só física.
+- Sala segura da casa: revelada no cap. 34 — construída por Bernardo
+  há 8 meses (antes do escopo do livro), atrás do closet do quarto
+  dele, paredes reforçadas, nunca antes mencionada a Clara em detalhe.
+  Usada pela primeira vez na invasão; nenhum contato físico dos
+  invasores com ninguém da casa, dois detidos na hora, terceiro
+  localizado e detido no dia seguinte (cap. 35).
+
+**Confissão parcial de Mel (ponto de virada, cap. 29)**
+- Gatilho: tempestade + pesadelo/pânico noturno (ecoando a marca
+  "tempestade como relógio emocional"). Mel diz frase inteira e clara,
+  "O tio Vicente estava lá. Na noite escura", no meio do choro, depois
+  volta ao silêncio de sempre — pico de clareza sob estresse, não cura,
+  consistente com os marcos graduais já estabelecidos no Ato I (cap. 16
+  "Papai"). Bernardo e Clara decidem conscientemente NÃO confrontar
+  Vicente na hora, tratando a fala como indício emocional, não prova
+  formal.
+
+**Clímax do Ato II (cap. 39-40)**
+- Cap. 39: operação federal encontra propriedade rural (Florianópolis)
+  ligada a uma prima de Ferraz, vazia mas com documentos deixados pra
+  trás: minuta de ação judicial (revogação de presunção de morte +
+  pedido de guarda compartilhada alegando abandono por medo) e rascunho
+  de acordo extrajudicial (fortuna + custódia parcial + imunidade
+  criminal em troca de silêncio sobre o próprio desaparecimento
+  simulado). Confirma Mel como alavanca legal/financeira do plano,
+  NUNCA como alvo físico.
+- Cap. 40: Vitória liga diretamente pra Bernardo pela primeira vez no
+  livro — confirma estar viva, nomeia a intenção de reivindicar
+  custódia formalmente com advogados, ameaça expor Bernardo
+  publicamente. Fecha o Ato II nesse pico de tensão/ameaça FUTURA
+  (ainda não executada fisicamente), conforme escopo travado.
