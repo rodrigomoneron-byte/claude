@@ -1,0 +1,79 @@
+RELATÓRIO DE FORMATAÇÃO — A Casa de Vidro (O Preço do Silêncio)
+Autor: R.B. Guidenelli | Standalone (Suspense Doméstico / Single Dad / Nanny Romance)
+Data: 2026-08-11
+
+1. CAPÍTULOS INCLUÍDOS
+57 de 57 capítulos (acv1-capitulo01.md a acv1-capitulo57.md), sem
+epílogo formal (decisão travada: livro standalone). POV dual alternado
+— Clara (capítulos ímpares) / Bernardo (capítulos pares) — confirmado
+em todos os 57 títulos gerados no EPUB (lista completa conferida na
+saída do build_epub.py, contagem bate 1:1 com os arquivos-fonte).
+
+2. CONTAGEM DE PALAVRAS
+57.432 palavras (recontado sobre os arquivos organizados na pasta de
+build, mesmo valor da contagem original em outputs/conteudo/) — dentro
+da meta de 55.000-58.000 palavras.
+
+3. PDF (KDP paperback)
+Arquivo: a-casa-de-vidro-o-preco-do-silencio-kdp.pdf
+- 200 páginas
+- Dimensão de página: 432 x 648 pt = exatamente 6" x 9"
+- Página de título não numerada; numeração árabe começa em "1" na
+  primeira página do Capítulo 1 (confirmado visualmente via preview
+  PNG renderizado a 100dpi)
+- Corpo justificado, recuo de primeira linha, títulos de capítulo
+  centralizados, cada capítulo inicia em página nova (confirmado
+  visualmente)
+
+4. EPUB (EPUB 3.0)
+Arquivo: a-casa-de-vidro-o-preco-do-silencio.epub
+- Abriu sem erro via `ebooklib.epub.read_epub()`
+- Título: "A Casa de Vidro" | Autor: "R.B. Guidenelli" confirmados nos
+  metadados DC
+- Sumário (TOC) com os 57 capítulos, sem marcação de POV crua exposta
+  ao leitor (o cabeçalho "Capítulo N — Nome" é convenção de gênero em
+  romances de POV dual, não uma marcação técnica de produção)
+
+5. RÉGUA "A GENTE"
+Rodada uma última vez sobre os 57 arquivos já organizados na pasta de
+build (script `regua_gate.py` + grep manual direto `\ba gente\b`,
+cobrindo o bug de whitelist conhecido "gente da/gente daqui"):
+resultado LIMPO em ambas as checagens. Nenhuma correção necessária.
+
+6. TÍTULO E SUBTÍTULO — TESTE DE OCORRÊNCIA LITERAL
+- "O Preço do Silêncio" (subtítulo travado na bíblia): 0 ocorrências
+  literais da frase completa, MAS forte lastro temático — "silêncio"
+  é a palavra mais repetida do livro com carga simbólica real (92
+  ocorrências, ligada tanto ao mutismo seletivo de Mel quanto ao
+  silêncio cúmplice de Helena e Vicente), e o motivo "preço" recorre
+  organicamente 6 vezes ao longo do texto, sempre ligado a custo de
+  controle, silêncio ou proteção (caps. 2, 7, 17, 21, 26, 30) — sentido
+  duplo real: o preço que Mel paga calada, e o preço que os adultos ao
+  redor dela pagaram por ficarem calados também.
+- "Segredos à Beira-Mar" (sugestão alternativa do briefing): 0
+  ocorrências literais no manuscrito — mantido como nome de possível
+  selo/antologia futura, não como subtítulo deste livro, conforme já
+  ponderado na bíblia.
+- Candidato adicional testado por sugestão do símbolo do vidro: "atrás
+  do vidro" aparece 2 vezes de forma literal e idêntica, funcionando
+  como eco proposital entre o cap. 5 (ameaça: "tudo que essa casa
+  carrega escondido atrás do vidro") e o cap. 57, final do livro
+  ("esperando pra ser vivido, sem nenhuma sombra escondida atrás do
+  vidro") — um bookend real. Não foi escolhido como subtítulo final
+  por redundância com a palavra "vidro" já presente no título.
+DECISÃO: mantido "O Preço do Silêncio" como subtítulo final — validado
+pela recorrência temática das duas palavras-chave que o compõem, não
+apenas por decisão herdada da bíblia.
+
+7. IDENTIFICADOR / ISBN
+`identifier` em metadata.json usa um placeholder
+`urn:uuid:8abbea62-2545-4f6e-b022-d2ce25d2fbe2` gerado automaticamente
+— PRECISA ser substituído pelo ISBN real antes da publicação na Amazon
+KDP.
+
+8. ARQUIVOS ENTREGUES (outputs/final/)
+- a-casa-de-vidro-o-preco-do-silencio.epub
+- a-casa-de-vidro-o-preco-do-silencio-kdp.pdf
+- prompt_capa_a_casa_de_vidro.txt
+- metadados_a_casa_de_vidro.json
+- relatorio_formatacao.txt (este arquivo)

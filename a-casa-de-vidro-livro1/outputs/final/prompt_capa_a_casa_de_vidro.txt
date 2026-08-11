@@ -1,0 +1,15 @@
+TÍTULO: A Casa de Vidro — O Preço do Silêncio (R.B. Guidenelli)
+
+DESCRIÇÃO VISUAL:
+Uma mansão contemporânea de vidro, cravada num penhasco à beira-mar, fotografada à noite a partir de um ângulo baixo/externo, como se o espectador estivesse na trilha escura olhando para dentro. A casa é toda paredes de vidro do chão ao teto — estrutura geométrica, retilínea, moderna — iluminada por dentro com uma luz âmbar quente que vaza para o breu ao redor, criando um contraste dramático entre o interior aquecido e a escuridão fria da noite e do mar. Lá fora: penhasco escarpado, vegetação nativa de Mata Atlântica em silhueta, o mar revolto batendo nas pedras lá embaixo, um céu de tempestade se formando ao longe (nuvens carregadas, talvez um relâmpago distante). Uma única janela do andar de cima permanece com a luz acesa e uma cortina fina entreaberta — o único ponto da casa que sugere um segredo guardado, em contraste com a transparência do resto da estrutura. Paleta dominante fria: azul-noturno profundo, cinza-ardósia, prata do reflexo da água — pontuada pelo âmbar quente das janelas iluminadas, ecoando a ideia central do livro (transparência que promete segurança mas esconde verdade). Sem rostos, sem casal em pose — a tensão vem da arquitetura e do clima, não de personagens. Atmosfera de suspense doméstico elegante, não de terror gráfico.
+
+ELEMENTO SIMBÓLICO CENTRAL: o vidro como ameaça, não conforto — uma casa que deveria deixar tudo visível, mas cujas sombras internas (uma silhueta desfocada e distante atrás de uma das paredes de vidro, irreconhecível, quase um reflexo) sugerem que nem tudo o que é transparente é verdadeiro.
+
+NEGATIVE PROMPT:
+casal abraçado, quase-beijo, rostos em close, rostos reconhecíveis, crianças visíveis, sangue, arma em destaque, violência explícita, símbolos de partido, bandeiras, fonte serifada dourada estilo romance histórico, fundo branco genérico, texto incorporado na imagem, estética de terror slasher, iluminação diurna, cores tropicais vibrantes tipo cartão-postal
+
+ASPECT RATIO: 6:9 (proporção de capa de paperback KDP)
+
+STYLE: cinematic, editorial, suspense doméstico contemporâneo, elegante, atmosférico, fotografia arquitetônica noturna, contraste frio/quente dramático, tom Colleen Hoover / A Garota no Trem — mistério e desejo contido, nunca pastelão nem gore
+
+NOTA DE BRANDING: esta capa é uma linha visual NOVA para a casa R.B. Guidenelli, deliberadamente distinta da estética "The Old English Gentleman's Club" (paleta de carvalho/ouro/veludo usada nas demais séries) — decisão travada no onboarding deste projeto por se tratar da primeira incursão da casa em Suspense Doméstico / Nanny Romance, com estratégia de mercado própria (mansão de vidro noturna / costa catarinense).
