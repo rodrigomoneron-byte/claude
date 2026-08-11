@@ -239,3 +239,96 @@ Pousada Farol Velho, farol desativado.
   palavra, conforme regra da skill. Confirma o padrão histórico: risco
   de "a gente" é constante em qualquer volume de produção, exige
   releitura literal linha a linha, não só o gate automatizado.
+
+### Ato 3 (capítulos 41-56) — decisões tomadas durante a escrita — LIVRO COMPLETO
+
+- **Fechamento do livro**: 56 capítulos, sem epílogo formal (conforme
+  travado no onboarding), encerrando exatamente na extremidade inferior
+  da meta de "~55-58 capítulos". Total do livro: 56.143 palavras.
+- **Dalva Prudêncio**: ex-escrevente do 3º Ofício de cartório de
+  Florianópolis (1998-2004), colega de Ivo Salgado na época, afastada
+  por "invalidez precoce" nunca explicada em detalhe médico depois de
+  recusar assinar a "correção" de titulação de terrenos pedida
+  pessoalmente por Nogueira em 2003 — guardou o nome dele numa agenda
+  pessoal por 23 anos. Localizada via advogada do inventário (cap. 41),
+  depõe formalmente (caps. 43, 46, 52).
+- **Nome de Nogueira ligado pessoalmente ao esquema desde 2003**:
+  decisão editorial de reforçar, via testemunho independente de Dalva
+  (cap. 43), que a ligação pessoal dele ao esquema não depende só da
+  fita cassete roubada no cap. 35 — corrobora a fita com prova nova,
+  sem contradizer a cronologia já estabelecida no Ato 2.
+- **Ivo Salgado**: reaparece vivo (cap. 44/45), decide testemunhar
+  formalmente depois de saber que Dalva também decidiu falar. Sequestrado
+  brevemente por Marcos Ferrão como isca pra atrair Marina e Theo até o
+  farol (cap. 48) — mantido amarrado mas sem nenhum ferimento físico,
+  libertado ileso na resolução do cap. 51.
+- **GAECO / força-tarefa estadual**: Vasconcelos escala o caso pra nível
+  estadual depois da ameaça direta contra Theo (cap. 42), trazendo a
+  analista Fernanda Reis como ponto de contato institucional (cap. 46).
+  Reforço policial estadual real (viaturas, mandado de urgência por
+  risco de fuga) é o mecanismo que resolve o confronto final — nunca
+  vingança unilateral de Theo, conforme limite de conteúdo travado.
+- **Clímax do Ato 3 — confronto no farol desativado, durante tempestade**
+  (caps. 50-51): Nogueira e Marcos Ferrão armam cilada usando o
+  celular de Ivo pra atrair Marina e Theo até o farol. Ferrão aponta
+  revólver, mas NUNCA dispara — Theo resiste ativamente ao impulso de
+  vingança pessoal (catorze anos de raiva contida), escolhendo negociar
+  e ganhar tempo até a chegada da polícia estadual, posicionada
+  previamente com apoio de Fernanda. Nenhuma violência física
+  consumada contra Marina, Theo ou Ivo em nenhum momento — confirmado
+  e revisado linha a linha contra o limite de conteúdo. Prisão em
+  flagrante de Ferrão (por sequestro/porte de arma) e Nogueira.
+- **Resolução legal pós-clímax** (cap. 52-53): Ferrão começa a negociar
+  redução de pena, confirma ordens diretas de Nogueira para os atos de
+  intimidação (incêndio do barco, invasão da pousada). Renata Nogueira
+  Weiss formalmente investigada por associação/movimentação financeira
+  (cap. 53). Dr. Aurélio Sanches, perito que assinou os dois laudos,
+  confrontado e confessa fraude nos laudos por pressão inicial seguida
+  de conivência continuada (cap. 53) — decisão editorial: confissão
+  espontânea, não processo arrastado, pra manter o ritmo de resolução
+  do ato final.
+- **Reabertura formal do caso de Vera Aguiar**: Vasconcelos reconhece
+  publicamente, em reunião da associação de moradores, o próprio erro
+  de arquivamento repetido (cap. 54) — mesmo salão onde Nogueira fez o
+  discurso de abertura do livro (cap. 6), agora usado pra reconhecimento
+  coletivo da vila.
+- **Memorial no farol**: a associação de moradores (sob nova liderança,
+  Denise, presidente interina) vota restaurar o farol desativado como
+  memorial permanente com os nomes de Vera Aguiar e Corina Castelo
+  gravados na base (cap. 54) — símbolo do livro (farol) resolvido como
+  monumento público, não mais só cenário de perigo.
+- **Desfecho de Marina**: decide ficar definitivamente em Angra do
+  Marulho, abrir estúdio de restauro histórico na região, transforma o
+  quarto de Corina num pequeno arquivo público com o diário, a agenda
+  da Dalva e os documentos do Ivo (cap. 55). Reaproximação inicial com
+  a própria mãe, à distância mas com abertura nova (cap. 55).
+- **Desfecho de Theo**: encerra catorze anos de investigação solitária,
+  processa o luto pela mãe separando-o da obsessão (cap. 54, 56),
+  declara compromisso de vida real com Marina no capítulo final (cap.
+  56) — sem pedido de casamento formal, decisão editorial de manter o
+  tom "compromisso construído, não evento performático", coerente com
+  o restante do livro.
+- **Cadência de heat final do livro**: 9 cenas nos caps. 19, 24, 29, 34,
+  39, 43, 47, 53, 56 — meta de 9 batida exatamente. Gaps entre cenas do
+  Ato 3: 39→43 (4), 43→47 (4), 47→53 (6, no limite máximo), 53→56 (3) —
+  todos dentro do limite de 6. Consentimento explícito verbalizado em
+  todas as cenas do Ato 3 (variações de "posso te beijar"/"tem
+  certeza"/confirmação verbal direta).
+- **Taxa de expansão de emergência do Ato 3**: 14 de 16 capítulos
+  (87,5%) exigiram rodada extra de expansão além do fluxo padrão de 2
+  edições (abertura+desenvolvimento sistematicamente abaixo do piso de
+  50-55% do alvo na primeira escrita) — consistente com o padrão
+  histórico de 89-100% documentado em livros anteriores da casa
+  (project_dna.md, seção 3).
+- **Incidências de "a gente" no Ato 3**: 3 ocorrências pegas e
+  corrigidas durante o rascunho (caps. 51, 53, 54) — todas formas
+  plenas do pronome proibido ("pra gente se posicionar", "mais do que
+  a gente imagina", "pra alguém que a gente ama"), nenhuma delas o
+  device de autocorreção de personagem. Corrigidas removendo a frase
+  inteira e reescrevendo sem o pronome, nunca só trocando a palavra
+  isolada. Confirma, mais uma vez, que a vigilância manual linha a
+  linha continua indispensável mesmo com o gate automatizado.
+- **Checagem final do livro completo**: `regua_gate.py` rodado nos 56
+  capítulos simultaneamente ao final do Ato 3 — LIMPO em todos. Grep
+  manual (`\ba gente\b` e formas oblíquas) direto em todo o diretório
+  `outputs/conteudo/` — zero ocorrências residuais confirmadas.
