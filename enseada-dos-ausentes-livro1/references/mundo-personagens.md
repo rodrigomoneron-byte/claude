@@ -131,3 +131,111 @@ Pousada Farol Velho, farol desativado.
   presente desde o cap. 3 (atrito), com marcos claros em cap. 8 (farol),
   13 (cartório, quase toque) e 17 (quase-beijo interrompido por
   emergência) — nenhuma consumação ainda.
+
+### Ato 2 (capítulos 19-40) — decisões tomadas durante a escrita
+
+- **Primeira cena de heat**: cap. 19 (Marina), na noite seguinte ao
+  incêndio do barco de Osvaldo/avistamento do capanga no cais (fecho do
+  Ato 1). Consentimento verbalizado explicitamente dos dois lados
+  ("Posso te beijar agora?" / "Quero que você me beije"). Cadência de
+  heat final do Ato 2: 5 cenas nos caps. 19, 24, 29, 34, 39 — gap
+  máximo de 5 capítulos entre cada uma, dentro do limite de 6.
+- **Marcos Ferrão**: nome completo do capanga de Nogueira, confirmado
+  no cap. 20/22. 41 anos, ex-policial militar dispensado em 2019 por
+  "conduta incompatível com o cargo", dois processos por uso excessivo
+  de força na corregedoria, um deles por intimidação de testemunha em
+  disputa de terra no interior do estado (arquivado por falta de
+  provas). Contratado por empresa de segurança privada sediada em
+  Florianópolis, prestadora de serviço pra Costa Azul Empreendimentos
+  desde contrato de licitação simplificada — assinado dois meses antes
+  de qualquer denúncia pública contra a Costa Azul existir (indício de
+  premeditação, não reação).
+- **Ivo Salgado**: identidade do homem não identificado na fotografia
+  da cômoda de Corina (gancho do Ato 1), resolvida no cap. 21/23-24.
+  Ex-funcionário do 3º Ofício de cartório de Florianópolis, ajudou
+  Corina a documentar titulação irregular de terrenos costeiros já em
+  2003 — a mesma faixa da orla que a Costa Azul comprou décadas depois.
+  Recebeu visita de intimidação branda ("cidade pequena não perdoa
+  quem mexe onde não devia"), perdeu o emprego semanas depois, mudou
+  pro interior catarinense. Guardou por vinte anos escritura forjada,
+  ata de reunião manuscrita e carta nunca enviada a um promotor já
+  aposentado — entregues a Marina e Theo no cap. 24. Após a invasão da
+  Farol Velho (cap. 35), desaparece de novo, "viagem por tempo
+  indeterminado", sem atender telefone — disponível pra retomada no
+  Ato 3.
+- **Recorte de jornal sem data** (achado junto à fotografia, cap. 21):
+  "DESAPARECIMENTOS NA ORLA VOLTAM A PREOCUPAR MORADORES", com frase
+  sublinhada a lápis por Corina mencionando padrão já nos anos 2000 —
+  confirma que o esquema de titulação/intimidação é mais velho que
+  Vera Aguiar, não coincidência recente.
+- **Estrutura reciclada da Costa Azul**: empresa de segurança que
+  emprega Ferrão hoje compartilha o mesmo endereço fiscal, em
+  Florianópolis, de uma empresa de nome diferente que Ivo Salgado
+  registrou décadas atrás como usada pra intimidá-lo em 2003 — mesmo
+  capital, fachada trocada a cada geração (cap. 24).
+- **Fita cassete de Osvaldo**: gravação de época (pouco depois da morte
+  de Corina) com recado de voz do próprio Nogueira ameaçando Osvaldo
+  diretamente, citando o nome de Corina — primeira prova que liga
+  Nogueira pessoalmente, não só a esposa/empresa de fachada, às mortes
+  (revelada cap. 28-30). Guardada por Osvaldo catorze anos, escondida
+  em vários locais ao longo do tempo. Roubada na invasão da pousada
+  (cap. 35), cópia de áudio feita informalmente por Marina no celular
+  durante a primeira audição (cap. 30) — mencionada mas não
+  redescoberta ainda dentro do Ato 2; gancho disponível pro Ato 3.
+- **Denúncia anônima forjada contra Theo**: abuso de autoridade,
+  protocolada via ouvidoria estadual no mesmo período em que Theo e
+  Marina localizam Ivo Salgado — abre sindicância de 30 dias (cap. 25).
+  Vasconcelos avalia como suspeita de má-fé por timing, mas obrigada a
+  processar formalmente.
+- **Renata Nogueira Weiss**: primeiro contato direto com Marina
+  (cap. 27, mercado da vila) — ameaça velada embrulhada em gentileza
+  social, sugerindo "vender o imóvel"; ela também confirma
+  indiretamente ter conhecido Corina ("sempre com pergunta demais").
+  Decisão editorial: ela se expõe pessoalmente pela primeira vez,
+  sinal de escalada/confiança excessiva do esquema, não de
+  desespero.
+- **Segundo incidente de dano a propriedade**: depósito de ferramentas
+  da Farol Velho invadido à noite (cap. 26) — telha de reaproveitamento
+  destruída, verniz derramado, serra danificada; dano seletivo,
+  nenhuma prova física útil. Osvaldo confirma ter visto carro parado
+  de longe, mas só depois do fato.
+- **Vasconcelos, pressão institucional**: ligação do gabinete de
+  deputado estadual questionando o uso de recurso da delegacia
+  (cap. 22); leva o dossiê completo pessoalmente até a capital
+  (cap. 32); promotor estadual recusa abrir inquérito formal por falta
+  de prova física após o roubo (cap. 37) — caso arquivado pela terceira
+  vez, agora incluindo Corina. Vasconcelos assume, em voz alta pela
+  primeira vez, remorso por ter arquivado o caso de Vera Aguiar duas
+  vezes (cap. 32) e se oferece como apoio informal, mesmo sem poder
+  agir formalmente (cap. 37).
+- **Clímax do Ato 2 — invasão da Farol Velho** (cap. 35): cofre com
+  toda a prova reunida (fita, documentos de Ivo, diário de Corina
+  fisicamente presente na pousada, dispositivos digitais) arrombado e
+  esvaziado durante uma tempestade; laptop de Marina destruído; conta
+  de backup na nuvem suspensa por "atividade irregular". Decisão
+  editorial: origem do vazamento é vigilância prolongada (Ferrão
+  mapeando rotina da casa havia semanas — carro na estrada, pegada na
+  praia), não traição de aliado próximo — mantém o elenco de vilões
+  restrito a Nogueira e Ferrão, conforme project_dna.md 2b.
+- **Osvaldo coagido a retratar** (cap. 36): retaliação econômica, não
+  ameaça a terceiro vulnerável — associação de pescadores (controlada
+  por aliados de Nogueira) nega financiamento de barco novo citando
+  "histórico de instabilidade". Osvaldo retira o depoimento formal por
+  necessidade de sobrevivência financeira, não por mudança de
+  consciência; Theo registra a retratação como sob coação documentada,
+  protegendo Osvaldo de acusação futura de falso testemunho.
+- **Fechamento do Ato 2** (cap. 40): mensagem de texto anônima e
+  intransferível pra Theo, mencionando Vera Aguiar diretamente pela
+  primeira vez ("Sabia demais, Theo. Igual sua mãe sabia demais") —
+  maior ameaça pessoal recebida em catorze anos, mas sem elemento
+  suficiente pra virar prova rastreável. Marina e Theo decidem, sem
+  prova, sem testemunha, sem apoio institucional formal, continuar a
+  investigação por conta própria — gancho de abertura do Ato 3
+  ("existe sempre mais de um caminho até a mesma verdade").
+- **Vigilância redobrada de "a gente"**: 6 ocorrências pegas e
+  corrigidas durante o rascunho do Ato 2 (caps. 21, 29, 35, 39×2, 40),
+  incluindo duas tentativas do device proibido de personagem se
+  autocorrigindo — sempre removido o trecho inteiro, nunca só a
+  palavra, conforme regra da skill. Confirma o padrão histórico: risco
+  de "a gente" é constante em qualquer volume de produção, exige
+  releitura literal linha a linha, não só o gate automatizado.
