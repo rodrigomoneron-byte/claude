@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: #0a0a12;
+  overscroll-behavior-y: none;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 300;
+}
+
+/* Lenis smooth-scroll requires the document to actually own scroll */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+::selection {
+  background: #00f0ff;
+  color: #0a0a12;
+}
+
+@layer components {
+  .font-display {
+    font-family: 'Oswald', 'Arial Narrow', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.01em;
+  }
+
+  .font-mono-label {
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+  }
+}
+
+/* Keyboard focus visibility on an otherwise chrome-free UI */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #00f0ff;
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+@keyframes nexusPulse {
+  0% {
+    transform: translateY(-50%) scale(0.6);
+    opacity: 0.9;
+    box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.6);
+  }
+  70% {
+    transform: translateY(-50%) scale(2.4);
+    opacity: 0;
+    box-shadow: 0 0 0 12px rgba(139, 92, 246, 0);
+  }
+  100% {
+    transform: translateY(-50%) scale(2.4);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
