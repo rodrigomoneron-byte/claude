@@ -44,39 +44,34 @@ capítulo vira uma seção estática empilhada com a mesma hierarquia de texto.
 
 ## Mídia
 
-Este ambiente não tinha acesso aos arquivos de mídia gerados citados no
-briefing (`hero-base.jpeg`, `hero_transform.mp4` etc.). Para o site ficar
-completo e demonstrável, `public/media/` contém:
-
-- **7 imagens placeholder** (gradientes escuros ciano/violeta gerados
-  proceduralmente, sem texto embutido) nos **caminhos exatos** que o
-  código espera.
-- **4 vídeos NÃO estão presentes** (`hero_transform.mp4`,
-  `arma_explodida.mp4`, `sistemas.mp4`, `final-protocol.mp4|arma_explodida.mp4`).
-  `ScrubVideo` tenta carregá-los e, no erro 404, recua automaticamente para
-  a imagem estática (`poster`) — o mesmo caminho de código usado para
-  `prefers-reduced-motion: reduce`. Nada quebra; o capítulo só fica sem a
-  camada de vídeo até o arquivo real ser adicionado.
-
-Para publicar com os ativos reais, basta sobrescrever os arquivos nestes
-caminhos (mesmo nome, mesma pasta) — nenhuma mudança de código é
-necessária:
+`public/media/` já contém os ativos reais nos **caminhos exatos** que o
+código espera — nenhuma mudança de código é necessária para trocar por
+versões mais novas, basta sobrescrever o arquivo no mesmo caminho.
 
 | Capítulo    | Caminho                                                                 | Papel |
 |-------------|--------------------------------------------------------------------------|-------|
-| Herói       | `public/media/hero/hero-base.jpeg`                                       | estado inicial |
-| Herói       | `public/media/hero/hero-suit.jpeg`                                       | traje revelado (wipe) |
-| Herói       | `public/media/hero/hero_transform.mp4`                                   | transformação final (scrub) |
-| Equipamento | `public/media/loadout/loadout-exploded.jpeg`                             | vista explodida completa |
-| Equipamento | `public/media/loadout/Futuristic_rifle_exploded_techni.jpeg`             | rifle explodido, revisão 1 |
-| Equipamento | `public/media/loadout/Futuristic_rifle_exploded_techni_2K_202608142226.jpeg` | rifle explodido, 2K |
+| Herói       | `public/media/hero/hero-base.jpeg`                                       | estado inicial (agente tático, sem brilho) |
+| Herói       | `public/media/hero/hero-suit.jpeg`                                       | traje ativado (wipe, brilho vermelho + HUD) |
+| Herói       | `public/media/hero/hero_transform.mp4`                                   | transformação completa (scrub) |
+| Equipamento | `public/media/loadout/loadout-exploded.jpeg`                             | vista explodida do rifle |
+| Equipamento | `public/media/loadout/Futuristic_rifle_exploded_techni.jpeg`             | vista explodida do rifle (mesma arte — só há 1 still de rifle real; ver nota) |
+| Equipamento | `public/media/loadout/Futuristic_rifle_exploded_techni_2K_202608142226.jpeg` | vista explodida do rifle (idem) |
 | Equipamento | `public/media/loadout/arma_explodida.mp4`                                | intacto → explodido (scrub) |
-| Sistemas    | `public/media/sistemas/Armored_gauntlet_and_recon_device_202608141841.jpeg` | manopla + recon, inativo |
+| Sistemas    | `public/media/sistemas/Armored_gauntlet_and_recon_device_202608141841.jpeg` | manopla + drone de recon, inativo |
 | Sistemas    | `public/media/sistemas/sistemas.mp4`                                     | inativo → ativado (scrub) |
-| Protocolo   | `public/media/final/Armed_character_standing_in_combat_202608141841.jpeg` | operador armado |
-| Protocolo   | `public/media/final/final-protocol.mp4`                                  | estado final de prontidão (scrub) |
+| Protocolo   | `public/media/final/Armed_character_standing_in_combat_202608141841.jpeg` | operador armado (mesma arte do hero-suit — ver nota) |
+| Protocolo   | `public/media/final/final-protocol.mp4`                                  | operador levantando o rifle até o estado de pronto (scrub) |
 
-Requisitos para os vídeos reais: mudos, H.264/mp4, sem áudio necessário
-(o player nunca expõe controles de áudio), qualquer resolução — o layout
-usa `object-fit: contain` sobre fundo sólido `#0A0A12`, então proporções
-diferentes de 16:9 não cortam nada, apenas alteram a faixa de letterbox.
+**Notas sobre os stills reutilizados:** o briefing original pedia 3 stills
+distintos de rifle explodido e uma foto dedicada para o protocolo final;
+só chegou 1 still de rifle e nenhuma foto exclusiva do "operador pronto"
+(a que existe é a mesma do traje ativado do herói, o que também funciona
+como fechamento narrativo — o mesmo operador reaparece no protocolo
+final). Substitua os arquivos correspondentes assim que houver stills
+dedicados, sem tocar no código.
+
+Todos os 4 vídeos são reais (H.264/AAC, 1280×720, 8s, mudos no player).
+`ScrubVideo` ainda mantém o fallback automático para a imagem estática
+(`poster`) em caso de erro de carregamento — o mesmo caminho de código
+usado para `prefers-reduced-motion: reduce` — então trocar um vídeo por
+um arquivo ausente ou corrompido nunca quebra a página.
